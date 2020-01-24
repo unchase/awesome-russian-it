@@ -113,6 +113,14 @@
 
 #### Разработка игр
 
+|Название         |[Как делают игры](https://kdicast.com/)|
+|:----------------|:--------------------------------------|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/podkast-galyonkin-com/id560881209) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/kak-delajut-igry/) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/kdicast) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCEkOWo6CbP_Dbwoym-E3Drw) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/kak-delayut-igry) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/series-19282) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/id25342?country=ru)|
+|**Описание**     |Подкаст Как Делают Игры — это то, что раньше называли «научно-популярная радиопередача». Мы стараемся человеческим языком рассказать о создании игр людям, которые либо уже делают игры, либо только собираются этим заняться.|
+|**Ведущие**      |[Сергей Галёнкин](http://galyonkin.com/) [![Twitter](img/favicons/twitter.com.png)](http://twitter.com/galyonkin) [![Facebook](img/favicons/facebook.com.png)](http://www.facebook.com/galyonkin) [![Medium](img/favicons/medium.com.png)](http://medium.com/@galyonkin) [![Instagram](img/favicons/instagram.com.png)](http://instagram.com/galyonkin) [![LinkedIn](img/favicons/linkedin.cn.png)](https://www.linkedin.com/in/galyonkin/) [![Telegram](img/favicons/t.me.png)](http://telegram.me/galyonkin)<br>[Михаил Кузьмин](http://kuzmitch.ru/) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/kuzmitch_ru) [![Facebook](img/favicons/facebook.com.png)](http://www.facebook.com/kuzmitch.ru) [![Twitch](img/favicons/twitch.tv.png)](https://www.twitch.tv/kuzmitch_ru) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UChwapc7GYZZ3k4zTxp6B66Q)|
+|**Регулярность** |Несколько выпусков в месяц|
+|**Длительность** |80-120 минут|
+
 #### Тестирование
 
 #### QA
