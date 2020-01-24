@@ -55,7 +55,29 @@
 
 ##### .NET
 
+|Название         |[DOTNET & MORE](https://dotnetmore.ru/)|
+|:----------------|:--------------------------------------|
+|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/dotnetmore) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/dotnet-more/id1448111173) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/dotnet-more/) • [![VK](img/favicons/vk.com.png)](https://vk.com/dotnetmore) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/dotnetmore) • [![Telegram](img/favicons/t.me.png)](https://t.me/dotnetmore)|
+|**Описание**     |Подкаст о DotNet разработке и не только.|
+|**Ведущие**      |Стас, Саша, Наташа|
+|**Регулярность** |1-4 раза в месяц|
+|**Длительность** |40-120 минут|
 
+|Название         |[RadioDotNet](radio.dotnet.ru)|
+|:----------------|:-----------------------------|
+|**Ссылки**       |[![Anchor](img/favicons/anchor.fm.png)](https://anchor.fm/radiodotnet) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/podcast/id1484348948) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy9mMGMwZWY0L3BvZGNhc3QvcnNz) • [![Breaker](img/favicons/breaker.audio.png)](https://www.breaker.audio/radiodotnet) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/RadioDotNet-id2403086?country=ru) • [![Overcast](img/favicons/overcast.fm.png)](https://overcast.fm/itunes1484348948/radiodotnet)|
+|**Описание**     |Разговоры на тему .NET во всех его проявлениях, новости, статьи, библиотеки, конференции, личности и прочее интересное из мира IT.|
+|**Ведущие**      |[Анатолий Кулаков](https://github.com/AnatolyKulakov/SpbDotNet/wiki/Anatoly-Kulakov) [![VK](img/favicons/vk.com.png)](https://vk.com/id2815601) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/kulakovt) [![GitHub](img/favicons/github.com.png)](https://github.com/AnatolyKulakov) [![DotNet.ru](img/favicons/dotnet.ru.png)](https://dotnet.ru)<br>[Игорь Лабутин](https://github.com/AnatolyKulakov/SpbDotNet/wiki/Igor-Labutin) [![VK](img/favicons/vk.com.png)](https://vk.com/id38534) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/ilabutin) [![GitHub](img/favicons/github.com.png)](https://github.com/ilabutin)|
+|**Регулярность** |Время от времени|
+|**Длительность** |50-80 минут|
+
+|Название         |Solo on .NET|
+|:----------------|:-----------|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/solo-on-net/id730081104) • [![Podfm](img/favicons/podfm.ru.png)](https://spbaltnet.podfm.ru/solo) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/playlist?list=PLAFX7TSEV7SOqEQKnrrFiV7bUY8kN5Qof)|
+|**Описание**     |Подкаст про разработку программного обеспечения (программирование). Обсуждаемые темы - C#, F#, C++, .NET, Visual Studio, Java, CUDA, Xeon Phi, FPGA и многое другое.|
+|**Ведущие**      |[Дмитрий Нестерук](https://nesteruk.wordpress.com/) [![GitHub](img/favicons/github.com.png)](https://github.com/nesteruk) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCJIlkaXVl-6vU3ghQkr51nQ/feed) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/dnesteruk) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/mezastel/) [![Udemy](img/favicons/udemy.com.png)](https://www.udemy.com/user/dmitrinesteruk/) [![StackOverflow](img/favicons/stackoverflow.com.png)](https://stackoverflow.com/users/9476/dmitri-nesteruk)|
+|**Регулярность** |Несколько раз в месяц|
+|**Длительность** |30-70 минут|
 
 ##### PHP
 
