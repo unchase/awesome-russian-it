@@ -21,6 +21,7 @@
       * [.NET](#net)
       * [PHP](#php)
       * [Python](#python)
+      * [Ruby](#ruby)
     * [Веб-разработка](#веб-разработка)
     * [Мобильная разработка](#мобильная-разработка)
       * [Android](#android)
@@ -90,6 +91,16 @@
 |**Длительность** |5-70 минут|
 
 ##### Python
+
+##### Ruby
+
+|Название         |[Rwpod](https://www.rwpod.com/)|
+|:----------------|:------------------------------|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/rwpod-podkast-pro-mir-ruby/id597248066) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/rwpod) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/rwpod) • [![RSS](img/favicons/rss.png)](https://www.rwpod.com/rss.xml) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/user/rwpod/featured) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/rwpod-ruby-web)|
+|**Описание**     |RWpod - подкаст про мир Ruby и Web технологии (для тех, кому нравится мыслить в Ruby стиле).|
+|**Ведущие**      |Алексей Васильев [![GitHub](img/favicons/github.com.png)](https://github.com/le0pard) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/leopard_me) [![Facebook](img/favicons/facebook.com.png)](http://www.facebook.com/leopard.not.a) [![LinkedIn](img/favicons/linkedin.cn.png)](http://www.linkedin.com/in/le0pard)|
+|**Регулярность** |Еженедельно|
+|**Длительность** |20-60 минут|
 
 #### Веб-разработка
 
