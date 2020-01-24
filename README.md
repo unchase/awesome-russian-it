@@ -85,6 +85,14 @@
 
 #### Веб-разработка
 
+|Название         |[Пятиминутка React](https://5minreact.ru/)|
+|:----------------|:--------------------------------------|
+|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/5minreact) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/%D0%BF%D1%8F%D1%82%D0%B8%D0%BC%D0%B8%D0%BD%D1%83%D1%82%D0%BA%D0%B0-react/id1178897992) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/pyatiminutka-react/) • [![VK](img/favicons/vk.com.png)](https://vk.com/5minreact) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/5minreact) • [![Telegram](img/favicons/t.me.png)](https://t.me/ru_5minreact) • [![Podster](img/favicons/podster.fm.png)](https://5minreact.podster.fm/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/react-1443330) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/pyatiminutka-react) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/id529096?country=ru) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCtcMCp5GwNdQuloP4v5slfw) • [![RSS](img/favicons/rss.png)](http://feeds.soundcloud.com/users/soundcloud:users:301264956/sounds.rss) • [![Telegram](img/favicons/t.me.png)](https://t.me/ru_5minreact) • [![Email](img/favicons/email.png)](mailto:podcast@5minreact.ru)|
+|**Описание**     |Подкаст о React и смежных технологиях в мире JavaScript и фронтенда: Vue, Elm, BEM, TypeScript. В подкасте разбираемся с инструментами webpack и Prettier, сравниваем пакетные менеджеры npm vs. yarn vs. pnpm, обсуждаем конференции и Яндекс Субботники. Также делаем обзоры на статьи Дэна Абрамова и Джейка Арчибальда, даём полезные рекомендации по архитектуре современных фронтенд приложений.|
+|**Ведущие**      |[Дмитрий Болдырев](https://zerobias.net/) [![GitHub](img/favicons/github.com.png)](https://github.com/zerobias) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/zero__bias)|
+|**Регулярность** |Время от времени|
+|**Длительность** |5-40 минут|
+
 #### Мобильная разработка
 
 ##### Android
