@@ -160,6 +160,14 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |40-70 минут|
 
+|Название         |[SPB Frontend Drinkcast](https://spb-frontend.ru/podcast/)|
+|:----------------|:---------------------------------------------------------|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ne/podcast/spb-frontend-drinkcast/id1269128794) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/spb-frontend-drinkcast-1519092) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/id1081644?country=ru) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCWjDubFXv8I1vWEb47s9_IA) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcasts-76088560) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/spb_frontend) • [![Telegram](img/favicons/t.me.png)](https://t.me/spb_frontend) • [![GitHub](img/favicons/github.com.png)](https://github.com/spb-frontend) • [![Slack](img/favicons/slack.png)](https://spb-frontend.slack.com/)|
+|**Описание**     |Подкаст Питерского сообщества SPB Frontend о фронтенде в целом, с регулярной ротацией ведущих.|
+|**Ведущие**      ||
+|**Регулярность** |Время от времени|
+|**Длительность** |50-80 минут|
+
 #### **Мобильная разработка**
 
 ##### **Android**
