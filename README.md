@@ -132,7 +132,7 @@
 |:----------------|:------------------------------------------|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/begebot) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/%D1%81%D0%B4%D0%B5%D0%BB%D0%B0%D0%B9%D1%82%D0%B5-%D0%BC%D0%BD%D0%B5-%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%D0%BE/id1447645563) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/sdielaitie-mnie-krasivo) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCYKah0AIoNsC9AZpdPb_teg) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/frontsexy) • [![Telegram](img/favicons/t.me.png)](https://t.me/frontsexy) • [![RSS](img/favicons/rss.png)](http://feeds.feedburner.com/beegebot/smk)|
 |**Описание**     |Весело и познавательно о всём многообразии мира фронтенд разработки: JS, CSS, React и т.д. и т.п.|
-|**Ведущие**      |[Денис Бугарчев](https://begebot.livejournal.com/) [![VK](img/favicons/vk.com.png)](https://vk.com/begebot) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/begebot)<br>Михаил [![GitHub](img/favicons/github.com.png)](https://github.com/maxvektor) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/maxvektor)<br>[Пётр Ермишкин](https://quasiyoke.me) [![Telegram](img/favicons/t.me.png)](https://t.me/quasiyoke) [![GitHub](img/favicons/github.com.png)](https://github.com/quasiyoke) [![Email](img/favicons/email.png)](mailto:petr@quasiyoke.me)|
+|**Ведущие**      |[Денис Бугарчев](https://begebot.livejournal.com/) [![VK](img/favicons/vk.com.png)](https://vk.com/begebot) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/begebot)<br>Михаил Коцийевский [![GitHub](img/favicons/github.com.png)](https://github.com/maxvektor) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/maxvektor)<br>[Пётр Ермишкин](https://quasiyoke.me) [![Telegram](img/favicons/t.me.png)](https://t.me/quasiyoke) [![GitHub](img/favicons/github.com.png)](https://github.com/quasiyoke) [![Email](img/favicons/email.png)](mailto:petr@quasiyoke.me)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |45-80 минут|
 
@@ -143,6 +143,14 @@
 |**Ведущие**      |[Александр Гончаров](https://websanya.ru/) [![VK](img/favicons/vk.com.png)](https://vk.com/websanya) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/websanya) [![GitHub](img/favicons/github.com.png)](https://github.com/websanya) [![Email](img/favicons/email.png)](mailto:me@websanya.ru) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/websanya) [![StackOverflow](img/favicons/stackoverflow.com.png)](https://stackoverflow.com/users/1758291/websanya) [![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/websanya) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/websanya/)|
 |**Регулярность** |Несколько выпусков в месяц|
 |**Длительность** |80-150 минут|
+
+|Название         |[Фронтенд Юность](http://youknow.st/)|
+|:----------------|:------------------------------------|
+|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/frontend_u) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/%D1%84%D1%80%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D0%B4-%D1%8E%D0%BD%D0%BE%D1%81%D1%82%D1%8C-18/id1247192730) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/frontend-junost-18/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/1458392) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/frontend-yunost-18) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCqq1LRv6KKh0bh4JrG_5vDA) • [![VK](img/favicons/vk.com.png)](https://vk.com/frontend_u) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/frontend_u) • [![Telegram](img/favicons/t.me.png)](https://t.me/frontend_u) • [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/frontend_u) • [![GitHub](img/favicons/github.com.png)](https://github.com/frontendu) • [![Email](img/favicons/email.png)](mailto:frontendu@gmail.com) • [![RSS](img/favicons/rss.png)](http://feeds.soundcloud.com/users/soundcloud:users:306631331/sounds.rss)|
+|**Описание**     |Лучший подкаст о фронт-енде. Самый честный подкаст о фронтенде. Вся правда о фронтенд-разработке. Всё, о чём боятся говорить — вы услышите здесь! Смузи, вейп, ES6, REACT — вас накроет волной хайпа.|
+|**Ведущие**      ||
+|**Регулярность** |Еженедельно|
+|**Длительность** |60-120 минут|
 
 |Название         |[Frontend Weekend](https://frontendweekend.ml/ru/)|
 |:----------------|:-------------------------------------------------|
