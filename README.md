@@ -128,6 +128,14 @@
 |**Регулярность** |Время от времени|
 |**Длительность** |5-40 минут|
 
+|Название         |[Сделайте мне красиво](https://front.sexy/)|
+|:----------------|:------------------------------------------|
+|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/begebot) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/%D1%81%D0%B4%D0%B5%D0%BB%D0%B0%D0%B9%D1%82%D0%B5-%D0%BC%D0%BD%D0%B5-%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%D0%BE/id1447645563) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/sdielaitie-mnie-krasivo) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCYKah0AIoNsC9AZpdPb_teg) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/frontsexy) • [![Telegram](img/favicons/t.me.png)](https://t.me/frontsexy) • [![RSS](img/favicons/rss.png)](http://feeds.feedburner.com/beegebot/smk)|
+|**Описание**     |Весело и познавательно о всём многообразии мира фронтенд разработки: JS, CSS, React и т.д. и т.п.|
+|**Ведущие**      |[Денис Бугарчев](https://begebot.livejournal.com/) [![VK](img/favicons/vk.com.png)](https://vk.com/begebot) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/begebot)<br>Михаил [![GitHub](img/favicons/github.com.png)](https://github.com/maxvektor) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/maxvektor)<br>[Пётр Ермишкин](https://quasiyoke.me) [![Telegram](img/favicons/t.me.png)](https://t.me/quasiyoke) [![GitHub](img/favicons/github.com.png)](https://github.com/quasiyoke) [![Email](img/favicons/email.png)](mailto:petr@quasiyoke.me)|
+|**Регулярность** |Еженедельно|
+|**Длительность** |45-80 минут|
+
 |Название         |[Суровый веб](https://uwebdesign.ru/video-type/podcasts/)|
 |:----------------|:--------------------------------------------------------|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/%D1%81%D1%83%D1%80%D0%BE%D0%B2%D1%8B%D0%B9-%D0%B2%D0%B5%D0%B1-%D1%82%D0%BE%D1%82-%D1%81%D0%B0%D0%BC%D1%8B%D0%B9-%D0%BF%D0%BE%D0%B4%D0%BA%D0%B0%D1%81%D1%82-%D0%BE%D1%82-uwebdesign/id923355344) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/surovyj-veb/) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/%C2%AB%D0%A1%D1%83%D1%80%D0%BE%D0%B2%D1%8B%D0%B9-%D0%B2%D0%B5%D0%B1%C2%BB-%E2%80%94-%D1%82%D0%BE%D1%82-%D1%81%D0%B0%D0%BC%D1%8B%D0%B9-%D0%BF%D0%BE%D0%B4%D0%BA%D0%B0%D1%81%D1%82-%D0%BE%D1%82-uWebDesign-id25627?country=ru) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/uwebdesign-115642) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/surovyy-veb) • [![VK](img/favicons/vk.com.png)](https://vk.com/uwebdesign) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/uwebdesgn) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/uwebdesgn) • [![Telegram](img/favicons/t.me.png)](https://t.me/websanya_echo) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/watch?v=bFTQkV-_zwE&list=PLZfRjCZl2NuS1suF-Vo0t5_WhjozMoPMU) • [![RSS](img/favicons/rss.png)](https://uwebdesign.ru/feed/podcast/)|
@@ -135,7 +143,6 @@
 |**Ведущие**      |[Александр Гончаров](https://websanya.ru/) [![VK](img/favicons/vk.com.png)](https://vk.com/websanya) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/websanya) [![GitHub](img/favicons/github.com.png)](https://github.com/websanya) [![Email](img/favicons/email.png)](mailto:me@websanya.ru) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/websanya) [![StackOverflow](img/favicons/stackoverflow.com.png)](https://stackoverflow.com/users/1758291/websanya) [![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/websanya) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/websanya/)|
 |**Регулярность** |Несколько выпусков в месяц|
 |**Длительность** |80-150 минут|
-
 
 |Название         |[Frontend Weekend](https://frontendweekend.ml/ru/)|
 |:----------------|:-------------------------------------------------|
