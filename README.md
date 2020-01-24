@@ -62,6 +62,16 @@
 
 ---
 
+|Название         |[Радиома](http://radioma.org/)|
+|:----------------|:-----------------------------|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/us/podcast/развлекательный-it-подкаст-радиома/id526797445) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/radioma/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/it-34281) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/id45262?country=ru) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/radioma) • [![Podster](img/favicons/podster.fm.png)](https://radioma.podster.fm/) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/playlist?list=PLzbMmO3E6j8C0-mL9cYK9XnIqACwMnnz6) • [![VK](img/favicons/vk.com.png)](https://vk.com/radiomaorg) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/radioma_org) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/radioma.org) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.com/album/6880183) • [![Yandex Zen](img/favicons/zen.yandex.ru.png)](https://zen.yandex.ru/radioma) • [![RSS](img/favicons/rss.png)](http://feeds.feedburner.com/It-Radioma)|
+|**Описание**     |Еженедельный развлекательный IT-подкаст, посвященный теме компьютеров и около компьютерной тематике.|
+|**Ведущие**      |Андрей Зарубин [![VK](img/favicons/vk.com.png)](https://vk.com/andrew_zarubin) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/andrewzarubin/) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/ZarubinAndrew) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCee46i97QF7hcmuuM-XFwkg)<br>Сергей Карташов [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/sergo_ws)<br>Роман Мылицын [![VK](img/favicons/vk.com.png)](https://vk.com/mylitsyn) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/mylitsyn)<br>Екатерина Николаева [![VK](img/favicons/vk.com.png)](https://vk.com/nikolaevaekaterinav)|
+|**Регулярность** |Еженедельно|
+|**Длительность** |40-60 минут|
+
+---
+
 |Название         |[Разбор Полетов](https://razborpoletov.com)|
 |:----------------|:------------------------------------------|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/%D1%80%D0%B0%D0%B7%D0%B1%D0%BE%D1%80-%D0%BF%D0%BE%D0%BB%D0%B5%D1%82%D0%BE%D0%B2/id594292319) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/razbor-poljotov/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/11439) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/%D0%A0%D0%B0%D0%B7%D0%B1%D0%BE%D1%80-%D0%9F%D0%BE%D0%BB%D0%B5%D1%82%D0%BE%D0%B2-id1515396?country=ru) • [![GitHub](img/favicons/github.com.png)](https://github.com/razbor-poletov) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/razbor_poletov) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/razborPoletovPodcast/)|
