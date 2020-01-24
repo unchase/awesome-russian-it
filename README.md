@@ -86,6 +86,16 @@
 
 ---
 
+|Название         |Цинковый прод (18+)|
+|:----------------|:------------------|
+|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/znprod) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ua/podcast/%D1%86%D0%B8%D0%BD%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9-%D0%BF%D1%80%D0%BE%D0%B4/id1458311254?l=ru) • [![Google Podcasts](img/favicons/podcasts.google.com.png)]() • [![Podfm](img/favicons/podfm.ru.png)]() • [![Player](img/favicons/player.fm.png)](https://player.fm/series/tsinkovyi-prod-18) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/%D0%A6%D0%B8%D0%BD%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9-%D0%BF%D1%80%D0%BE%D0%B4-id2063457?country=ru) • [![SoundStream](img/favicons/soundstream.media.png)]() • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UC6cTShKx3lJWw-EzSr_ZAfw) • [![VK](img/favicons/vk.com.png)]() • [![Twitter](img/favicons/twitter.com.png)]() • [![Facebook](img/favicons/facebook.com.png)]() • [![Telegram](img/favicons/t.me.png)](http://t.me/ZnProd) • [![Instagram](img/favicons/instagram.com.png)]() • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/9649473) • [![RSS](img/favicons/rss.png)](http://feeds.soundcloud.com/users/soundcloud:users:610582557/sounds.rss)|
+|**Описание**     |Всё о разработке и IT.|
+|**Ведущие**      |Антон Околелов [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/AntonOkolelov) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/anton.okolelov) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/varanio/) <br>Никита Васильченко [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/xenmayer) [![GitHub](img/favicons/github.com.png)](https://github.com/xenmayer) [![Medium](img/favicons/medium.com.png)](https://medium.com/@xenmayer) [![Email](img/favicons/email.png)](mailto:xenmayer@gmail.com)<br>Олег Грицак [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/hack3p) [![GitHub](img/favicons/github.com.png)](https://github.com/hack3p) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/hack3p/) [![Email](img/favicons/email.png)](mailto:hack3p@gmail.com)|
+|**Регулярность** |Еженедельно|
+|**Длительность** |60-110 минут|
+
+---
+
 |Название         |IT-Trend|
 |:----------------|:-------|
 |**Ссылки**       |[![Podster](img/favicons/podster.fm.png)](https://it-trend.podster.fm/) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/it-trend/id567224504) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/it-trend/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/series-1296990) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/it-trend) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcasts-171656757) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/it__trend) • [![Telegram](img/favicons/t.me.png)](https://t.me/it_trend_bot)|
