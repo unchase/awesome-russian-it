@@ -19,9 +19,12 @@
   * [Общее](#общее)
   * [Разработка](#разработка)
       * [.NET](#net)
+      * [C/C++](#cc)
+      * [Go](#go)
       * [PHP](#php)
       * [Python](#python)
       * [Ruby](#ruby)
+      * [Rust](#rust)
     * [Веб-разработка](#веб-разработка)
     * [Мобильная разработка](#мобильная-разработка)
       * [Android](#android)
@@ -30,6 +33,7 @@
       * [Xamarin](#xamarin)
     * [Разработка игр](#разработка-игр)
     * [Тестирование](#тестирование)
+    * [DevOps](#devops)
     * [QA](#qa)
   
 * **[Мероприятия](#мероприятия)**
@@ -132,6 +136,10 @@
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |30-70 минут|
 
+##### **C/C++**
+
+##### **Go**
+
 ##### **PHP**
 
 |Название         |[Пятиминутка PHP](https://5minphp.ru/)|
@@ -153,6 +161,8 @@
 |**Ведущие**      |Алексей Васильев [![GitHub](img/favicons/github.com.png)](https://github.com/le0pard) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/leopard_me) [![Facebook](img/favicons/facebook.com.png)](http://www.facebook.com/leopard.not.a) [![LinkedIn](img/favicons/linkedin.cn.png)](http://www.linkedin.com/in/le0pard)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |20-60 минут|
+
+##### **Rust**
 
 #### **Веб-разработка**
 
@@ -257,6 +267,10 @@
 #### **Тестирование**
 
 #### **QA**
+
+#### **DevOps**
+
+---
 
 ## **Мероприятия**
 
