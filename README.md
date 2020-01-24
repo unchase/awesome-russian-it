@@ -136,6 +136,15 @@
 |**Регулярность** |Несколько выпусков в месяц|
 |**Длительность** |80-150 минут|
 
+
+|Название         |[Frontend Weekend](https://frontendweekend.ml/ru/)|
+|:----------------|:-------------------------------------------------|
+|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/frontend-weekend) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/frontend-weekend/id1233996390) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/frontend-weekend/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/frontend-weekend) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/id983120?country=ru) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/frontend-weekend) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCCcdxAkVpk8WnyRIknFbe4A) • [![VK](img/favicons/vk.com.png)](https://vk.com/frontendweekend) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/frontendweekend) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/frontendweekend) • [![Telegram](img/favicons/t.me.png)](https://t.me/frontendweekend) • [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/frontendweekend/) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/6842995?from=serp) • [![RSS](img/favicons/rss.png)](http://feeds.soundcloud.com/users/soundcloud:users:306455261/sounds.rss)|
+|**Описание**     |Еженедельный подкаст о новостях мира frontend-разработки и индустрии web-технологий изнутри. Обсуждаем всё: от JavaScript и CSS до митапов, конференций и работы в IT-сфере.<br><br>Самые честные интервью с известными людьми из мира web-разработки. Впечатляющие истории успеха, забавные моменты из жизни и полезные советы – мы показываем человеческое лицо frontend’а и не только.|
+|**Ведущие**      |Андрей Смирнов [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/andrew.smirnov.9634) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/sandark7/)|
+|**Регулярность** |Еженедельно|
+|**Длительность** |40-70 минут|
+
 #### **Мобильная разработка**
 
 ##### **Android**
