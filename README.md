@@ -53,12 +53,20 @@
 ### **Общее**
 
 |Название         |[Радио-Т](https://radio-t.com)|
-|:----------------|:-------------------------------------------------|
+|:----------------|:-----------------------------|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/podcast/%D1%80%D0%B0%D0%B4%D0%B8%D0%BE-%D1%82/id256504435) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/11441) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/id1572?country=ru) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCBl1ML1jnlhRxHlCjSKTyeA) • [![VK](img/favicons/vk.com.png)](https://vk.com/radio_t) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/radio_t) • [![Telegram](img/favicons/t.me.png)](https://t.me/radio_t_podcast) • [![Email](img/favicons/email.png)](mailto:podcast@radio-t.com) • [![RSS](img/favicons/rss.png)](http://feeds.rucast.net/radio-t)|
 |**Описание**     |Радио-Т — это еженедельный HiTech подкаст на русском языке. Авторы и приглашенные гости импровизируют на околокомпьютерные темы. Как правило, не залезая в глубокие дебри, однако иногда нас заносит ;)|
 |**Ведущие**      |ksenks [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/ksenks) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/ksenks/) [![VK](img/favicons/vk.com.png)](https://vk.com/id1413031)<br>Григорий Бакунов (bobuk) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/bobuk) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/bobuk/) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/thebobuk) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/bobuk/posts/) [![GitHub](img/favicons/github.com.png)](https://github.com/bobuk) [![VK](img/favicons/vk.com.png)](https://vk.com/thebobuk)<br>[umputun](http://www.umputun.com/) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/umputun) [![Email](img/favicons/email.png)](mailto:umputun@gmail.com) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/umputun) [![GitHub](img/favicons/github.com.png)](https://github.com/umputun) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/user/umputun)<br>[Сергей Петренко](https://blognot.co/) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/gray_ru) [![Telegram](img/favicons/t.me.png)](https://t.me/blognot) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/gray_ru/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/c/grayru) [![RSS](img/favicons/rss.png)](https://blognot.co/feed) [![VK](img/favicons/vk.com.png)](https://vk.com/gray_ru)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |120-180 минут|
+
+|Название         |[Разбор Полетов](https://razborpoletov.com)|
+|:----------------|:------------------------------------------|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/%D1%80%D0%B0%D0%B7%D0%B1%D0%BE%D1%80-%D0%BF%D0%BE%D0%BB%D0%B5%D1%82%D0%BE%D0%B2/id594292319) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/razbor-poljotov/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/11439) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/%D0%A0%D0%B0%D0%B7%D0%B1%D0%BE%D1%80-%D0%9F%D0%BE%D0%BB%D0%B5%D1%82%D0%BE%D0%B2-id1515396?country=ru) • [![GitHub](img/favicons/github.com.png)](https://github.com/razbor-poletov) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/razbor_poletov) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/razborPoletovPodcast/)|
+|**Описание**     |Болтологический подкаст о технологиях и разработке программного обеспечения.|
+|**Ведущие**      |Алексей Абашев [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/a_abashev) [![GitHub](img/favicons/github.com.png)](https://github.com/abashev)|
+|**Регулярность** |Время от времени|
+|**Длительность** |40-120 минут|
 
 |Название         |[Podlodka Podcast](http://podlodka.io/)|
 |:----------------|:--------------------------------------|
