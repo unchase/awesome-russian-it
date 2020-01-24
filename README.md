@@ -63,7 +63,7 @@
 |**Регулярность** |1-4 раза в месяц|
 |**Длительность** |40-120 минут|
 
-|Название         |[RadioDotNet](radio.dotnet.ru)|
+|Название         |[RadioDotNet](https://radio.dotnet.ru)|
 |:----------------|:-----------------------------|
 |**Ссылки**       |[![Anchor](img/favicons/anchor.fm.png)](https://anchor.fm/radiodotnet) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/podcast/id1484348948) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy9mMGMwZWY0L3BvZGNhc3QvcnNz) • [![Breaker](img/favicons/breaker.audio.png)](https://www.breaker.audio/radiodotnet) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/RadioDotNet-id2403086?country=ru) • [![Overcast](img/favicons/overcast.fm.png)](https://overcast.fm/itunes1484348948/radiodotnet)|
 |**Описание**     |Разговоры на тему .NET во всех его проявлениях, новости, статьи, библиотеки, конференции, личности и прочее интересное из мира IT.|
