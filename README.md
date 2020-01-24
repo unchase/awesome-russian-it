@@ -168,4 +168,4 @@
 
 [![CC0 Logo](img/cc0.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-Насколько это возможно по закону, [Николай Чеботов (**Unchase**)](https://github.com/unchase) отказался от всех авторских и смежных прав на это произведение.
+Насколько это возможно по закону, [Николай Чеботов (**Unchase**)](https://github.com/unchase) [![Medium](img/favicons/medium.com.png)](http://medium.com/@unchase) [![dev.to](img/favicons/dev.to.png)](http://dev.to/unchase) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/unchase/) отказался от всех авторских и смежных прав на это произведение.
