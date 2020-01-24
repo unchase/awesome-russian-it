@@ -60,6 +60,8 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |120-180 минут|
 
+---
+
 |Название         |[Разбор Полетов](https://razborpoletov.com)|
 |:----------------|:------------------------------------------|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/%D1%80%D0%B0%D0%B7%D0%B1%D0%BE%D1%80-%D0%BF%D0%BE%D0%BB%D0%B5%D1%82%D0%BE%D0%B2/id594292319) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/razbor-poljotov/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/11439) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/%D0%A0%D0%B0%D0%B7%D0%B1%D0%BE%D1%80-%D0%9F%D0%BE%D0%BB%D0%B5%D1%82%D0%BE%D0%B2-id1515396?country=ru) • [![GitHub](img/favicons/github.com.png)](https://github.com/razbor-poletov) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/razbor_poletov) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/razborPoletovPodcast/)|
@@ -68,6 +70,8 @@
 |**Регулярность** |Время от времени|
 |**Длительность** |40-120 минут|
 
+---
+
 |Название         |IT-Trend|
 |:----------------|:-------|
 |**Ссылки**       |[![Podster](img/favicons/podster.fm.png)](https://it-trend.podster.fm/) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/it-trend/id567224504) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/it-trend/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/series-1296990) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/it-trend) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcasts-171656757) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/it__trend) • [![Telegram](img/favicons/t.me.png)](https://t.me/it_trend_bot)|
@@ -75,6 +79,8 @@
 |**Ведущие**      ||
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |50-90 минут|
+
+---
 
 |Название         |[Podlodka Podcast](http://podlodka.io/)|
 |:----------------|:--------------------------------------|
@@ -96,6 +102,8 @@
 |**Регулярность** |1-4 раза в месяц|
 |**Длительность** |40-120 минут|
 
+---
+
 |Название         |[RadioDotNet](https://radio.dotnet.ru)|
 |:----------------|:-------------------------------------|
 |**Ссылки**       |[![Anchor](img/favicons/anchor.fm.png)](https://anchor.fm/radiodotnet) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/podcast/id1484348948) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy9mMGMwZWY0L3BvZGNhc3QvcnNz) • [![Breaker](img/favicons/breaker.audio.png)](https://www.breaker.audio/radiodotnet) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/RadioDotNet-id2403086?country=ru) • [![Overcast](img/favicons/overcast.fm.png)](https://overcast.fm/itunes1484348948/radiodotnet)|
@@ -103,6 +111,8 @@
 |**Ведущие**      |[Анатолий Кулаков](https://github.com/AnatolyKulakov/SpbDotNet/wiki/Anatoly-Kulakov) [![VK](img/favicons/vk.com.png)](https://vk.com/id2815601) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/kulakovt) [![GitHub](img/favicons/github.com.png)](https://github.com/AnatolyKulakov) [![DotNet.ru](img/favicons/dotnet.ru.png)](https://dotnet.ru)<br>[Игорь Лабутин](https://github.com/AnatolyKulakov/SpbDotNet/wiki/Igor-Labutin) [![VK](img/favicons/vk.com.png)](https://vk.com/id38534) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/ilabutin) [![GitHub](img/favicons/github.com.png)](https://github.com/ilabutin)|
 |**Регулярность** |Время от времени|
 |**Длительность** |50-80 минут|
+
+---
 
 |Название         |Solo on .NET|
 |:----------------|:-----------|
@@ -144,6 +154,8 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |40-90 минут|
 
+---
+
 |Название         |ДевШахта|
 |:----------------|:-------|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/devschacht) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/%D0%B4%D0%B5%D0%B2%D1%88%D0%B0%D1%85%D1%82%D0%B0/id1226773343) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/devshahta/) • [![VK](img/favicons/vk.com.png)](https://vk.com/devschacht) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/1422838) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/DevSchacht) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/devSchacht) • [![GitHub](img/favicons/github.com.png)](https://github.com/devSchacht) • [![Medium](img/favicons/medium.com.png)](https://medium.com/devschacht) • [![Telegram](img/favicons/t.me.png)](https://t.me/devSchacht) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/c/devschacht) • [![RSS](img/favicons/rss.png)](https://feeds.soundcloud.com/users/soundcloud:users:299701886/sounds.rss)|
@@ -151,6 +163,8 @@
 |**Ведущие**      |Андрей Мелихов [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/amel_true) [![Medium](img/favicons/medium.com.png)](https://medium.com/@amel_true) [![GitHub](img/favicons/github.com.png)](https://github.com/amel-true) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/amel.true) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/amel_true/)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |20-50 минут|
+
+---
 
 |Название         |[Пятиминутка React](https://5minreact.ru/)|
 |:----------------|:-----------------------------------------|
@@ -160,6 +174,8 @@
 |**Регулярность** |Время от времени|
 |**Длительность** |5-40 минут|
 
+---
+
 |Название         |[Сделайте мне красиво](https://front.sexy/)|
 |:----------------|:------------------------------------------|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/begebot) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/%D1%81%D0%B4%D0%B5%D0%BB%D0%B0%D0%B9%D1%82%D0%B5-%D0%BC%D0%BD%D0%B5-%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%D0%BE/id1447645563) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/sdielaitie-mnie-krasivo) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCYKah0AIoNsC9AZpdPb_teg) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/frontsexy) • [![Telegram](img/favicons/t.me.png)](https://t.me/frontsexy) • [![RSS](img/favicons/rss.png)](http://feeds.feedburner.com/beegebot/smk)|
@@ -167,6 +183,8 @@
 |**Ведущие**      |[Денис Бугарчев](https://begebot.livejournal.com/) [![VK](img/favicons/vk.com.png)](https://vk.com/begebot) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/begebot)<br>Михаил Коцийевский [![GitHub](img/favicons/github.com.png)](https://github.com/maxvektor) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/maxvektor)<br>[Пётр Ермишкин](https://quasiyoke.me) [![Telegram](img/favicons/t.me.png)](https://t.me/quasiyoke) [![GitHub](img/favicons/github.com.png)](https://github.com/quasiyoke) [![Email](img/favicons/email.png)](mailto:petr@quasiyoke.me)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |45-80 минут|
+
+---
 
 |Название         |[Суровый веб](https://uwebdesign.ru/video-type/podcasts/)|
 |:----------------|:--------------------------------------------------------|
@@ -176,6 +194,8 @@
 |**Регулярность** |Несколько выпусков в месяц|
 |**Длительность** |80-150 минут|
 
+---
+
 |Название         |[Фронтенд Юность](http://youknow.st/)|
 |:----------------|:------------------------------------|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/frontend_u) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/%D1%84%D1%80%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D0%B4-%D1%8E%D0%BD%D0%BE%D1%81%D1%82%D1%8C-18/id1247192730) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/frontend-junost-18/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/1458392) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/frontend-yunost-18) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCqq1LRv6KKh0bh4JrG_5vDA) • [![VK](img/favicons/vk.com.png)](https://vk.com/frontend_u) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/frontend_u) • [![Telegram](img/favicons/t.me.png)](https://t.me/frontend_u) • [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/frontend_u) • [![GitHub](img/favicons/github.com.png)](https://github.com/frontendu) • [![Email](img/favicons/email.png)](mailto:frontendu@gmail.com) • [![RSS](img/favicons/rss.png)](http://feeds.soundcloud.com/users/soundcloud:users:306631331/sounds.rss)|
@@ -184,6 +204,8 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |60-120 минут|
 
+---
+
 |Название         |[Frontend Weekend](https://frontendweekend.ml/ru/)|
 |:----------------|:-------------------------------------------------|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/frontend-weekend) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/frontend-weekend/id1233996390) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/frontend-weekend/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/frontend-weekend) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/id983120?country=ru) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/frontend-weekend) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCCcdxAkVpk8WnyRIknFbe4A) • [![VK](img/favicons/vk.com.png)](https://vk.com/frontendweekend) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/frontendweekend) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/frontendweekend) • [![Telegram](img/favicons/t.me.png)](https://t.me/frontendweekend) • [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/frontendweekend/) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/6842995?from=serp) • [![RSS](img/favicons/rss.png)](http://feeds.soundcloud.com/users/soundcloud:users:306455261/sounds.rss)|
@@ -191,6 +213,8 @@
 |**Ведущие**      |Андрей Смирнов [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/andrew.smirnov.9634) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/sandark7/)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |40-70 минут|
+
+---
 
 |Название         |[SPB Frontend Drinkcast](https://spb-frontend.ru/podcast/)|
 |:----------------|:---------------------------------------------------------|
