@@ -371,6 +371,16 @@
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |80-120 минут|
 
+---
+
+|Название         |Radio GD|
+|:----------------|:-------|
+|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/radiogd) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/radio-gd/id1400069457) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/radio-gd/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/radio-gd) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/Radio-GD-id1322200?country=ru) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/radio-gd)|
+|**Описание**     |Радио ГД - это подкаст про разработку игр в контексте профессионального гейм-дизайна и всем, что с этим связано. Подкаст создан в рамках просветительского и образовательного проекта Манжеты Гейм-Дизайнера.|
+|**Ведущие**      ||
+|**Регулярность** |Не выпускается|
+|**Длительность** |~60 минут|
+
 #### **Тестирование**
 
 |Название         |[Radio QA](http://radio-qa.com/)|
