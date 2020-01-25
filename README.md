@@ -375,6 +375,16 @@
 
 ---
 
+|Название         |AppsCast|
+|:----------------|:-------|
+|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/appscast) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/appscast/id1454777453) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/appscast) • [![VK](img/favicons/vk.com.png)](https://vk.com/appscast) • [![Telegram](img/favicons/t.me.png)](https://t.me/AppsCastChatter)|
+|**Описание**     |Подкаст о мобильной разработке и обо всём, что с ней связано. Мы любим обсуждать Android, iOS, кроссплатформу и не равнодушны к происходящему в индустрии. Каждые две недели мы приглашаем нового гостя, обсуждаем технологии, лучшие практики, жизнь разработчиков, а так же холиварим и делимся опытом. Это выжимка лучшего контента о мобилках, которая делается специально для тебя. Меньше пустой болтовни, больше технических подробностей!|
+|**Ведущие**      |Даниил Попов [![VK](img/favicons/vk.com.png)](https://vk.com/int02h) [![GitHub](img/favicons/github.com.png)](https://github.com/int02h) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/int02h) [![Telegram](img/favicons/t.me.png)](https://t.me/int02h) [![Email](img/favicons/email.png)](mailto:int02h@gmail.com)<br>Алексей Кудрявцев [![VK](img/favicons/vk.com.png)](https://vk.com/west0r) [![GitHub](img/favicons/github.com.png)](https://github.com/west0r) [![Telegram](img/favicons/t.me.png)](https://t.me/west0r) [![Email](img/favicons/email.png)](mailto:westor@me.com)|
+|**Регулярность** |Несколько раз в месяц|
+|**Длительность** |~60 минут|
+
+---
+
 |Название         |[AppTracktor](https://apptractor.ru/podkastyi-apptractor)|
 |:----------------|:--------------------------------------------------------|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/leonid-bogolubov) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/apptractor/id908041901) • [![Podster](img/favicons/podster.fm.png)](https://apptractor-podcast.podster.fm/) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/apptractor/) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/apptractor-2456535) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/id1095689?country=ru) • [![VK](img/favicons/vk.com.png)](https://vk.com/apptractor) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/AppTractor) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/apptractor.ru/) • [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/apptractor/) • [![Email](img/favicons/email.png)](mailto:info@apptractor.ru) • [![RSS](img/favicons/rss.png)](https://apptractor.ru/Podcast/rss.xml)|
