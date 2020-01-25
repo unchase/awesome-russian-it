@@ -106,6 +106,16 @@
 
 ---
 
+|Название         |[SDCast](https://sdcast.ksdaemon.ru/)|
+|:----------------|:------------------------------------|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/software-development-podcast/id890468606) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/sdcast/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/sdcast) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/373241?country=ru) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/sdcast) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/SDCast_podcast) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/6880277?from=serp) • [![RSS](img/favicons/rss.png)](https://sdcast.ksdaemon.ru/feed/podcast/)|
+|**Описание**     |Подкаст о разработке ПО и его окрестностях.|
+|**Ведущие**      |[Константин Буркалёв](http://blog.ksdaemon.ru/) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/KSDaemon) [![VK](img/favicons/vk.com.png)](https://vk.com/ksdaemon) [![LinkedIn](img/favicons/linkedin.cn.png)](http://ru.linkedin.com/in/ksdaemon) [![GitHub](img/favicons/github.com.png)](https://github.com/KSDaemon) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/ksdaemon/) [![Email](img/favicons/email.png)](mailto:kostik@ksdaemon.ru) [![RSS](img/favicons/rss.png)](https://blog.ksdaemon.ru/feed/)|
+|**Регулярность** |Время от времени.|
+|**Длительность** |60-120 минут|
+
+---
+
 |Название         |[Habr Weekly](https://habr-podcast.com/weekly/)|
 |:----------------|:----------------------------------------------|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/habr-weekly) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/habr-weekly/id1464188474) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/?feed=aHR0cDovL2ZlZWRzLnNvdW5kY2xvdWQuY29tL3VzZXJzL3NvdW5kY2xvdWQ6dXNlcnM6NjM3NjIzMzQyL3NvdW5kcy5yc3M) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/habr-weekly/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/habr-weekly) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/Habr-Weekly-id2132862?country=ru) • [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/search/?q=habr+weekly#h) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/playlist?list=PLiBYz3OQubLpCBwIXnMm-29V3uKcDfU7O) • [![VK](img/favicons/vk.com.png)](https://vk.com/habr?z=podcast-20629724_456239017) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/habr_com) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/habrahabr.ru) • [![Telegram](img/favicons/t.me.png)](https://t-do.ru/habrpodcast) • [![Yandex Zen](img/favicons/zen.yandex.ru.png)](https://zen.yandex.ru/habr) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/7600069) • [Email](img/favicons/email.png)](mailto:hello@habr-podcast.com)|
