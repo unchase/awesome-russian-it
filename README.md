@@ -73,6 +73,16 @@
 |**Регулярность** |Время от времени|
 |**Длительность** |~50 минут|
 
+---
+
+|Название         |Noise Security Bit|
+|:----------------|:-----------------|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/tr/podcast/noise-security-bit/id765425259) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/noise-security-bit-1296906/noise-security-bit-0x19-o-mlai-i-iegho-riealnoi-primienimosti-v-zadachakh-ib) • [![Podster](img/favicons/podster.fm.png)](https://noisebit.podster.fm/) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/N0iSeBit) • [![Telegram](img/favicons/t.me.png)](https://telegram.me/NoiSeBit_News) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/8967636?from=serp) • [![GitHub](img/favicons/github.com.png)](https://github.com/NoiSeBit) • [![Email](img/favicons/email.png)](mailto:info@noisebit.ru) • [![RSS](img/favicons/rss.png)](https://podster.fm/rss.xml?pid=845)|
+|**Описание**     |Нерегулярный подкаст о жизни ресечеров по обе стороны океана.|
+|**Ведущие**      |Алекс Матросов [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/matrosov) [![Medium](img/favicons/medium.com.png)](https://medium.com/@matrosov) [![GitHub](img/favicons/github.com.png)](https://github.com/matrosov) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/matrosov/) [![Email](img/favicons/email.png)](mailto:am@rehints.com)|
+|**Регулярность** |Время от времени|
+|**Длительность** |30-120 минут|
+
 ### **Общее**
 
 |Название         |АйТиБорода|
