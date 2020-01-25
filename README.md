@@ -77,6 +77,16 @@
 
 ---
 
+|Название         |[Две столицы](http://www.2capitals.space)|
+|:----------------|:----------------------------------------|
+|**Ссылки**       |[![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCVyA6ONMsbIB-TSLZO8HNmQ) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcast2capitals) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/2capitals/)|
+|**Описание**     |Домашний,кухонный и уютный подкаст последних событий, "горячих" вопросов GameDev, WEB индустрии, социальных сетей, IT разработки, менеджмента и около того.|
+|**Ведущие**      |Дмитрий Борисов [![VK](img/favicons/vk.com.png)](https://vk.com/id4747293) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/DimaKulinar)<br>[Дмитрий Филатов](http://dimafilatov.ru/) [![VK](img/favicons/vk.com.png)](https://vk.com/dimaeatworld) [![Telegram](img/favicons/t.me.png)](https://t.me/filatov_d) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/dimaeatworld) [![Medium](img/favicons/medium.com.png)](https://medium.com/@dimaeatworld) [![LinkedIn](img/favicons/linkedin.cn.png)](https://linkedin.com/in/dmitriy-filatov/) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/idoziru) [![GitHub](img/favicons/github.com.png)]https://github.com/idoziru) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/dimaeatworld/) [![Email](img/favicons/email.png)](mailto:info@dimafilatov.ru) [![Email](img/favicons/email.png)](mailto:idoziru@gmail.com)|
+|**Регулярность** |Время от времени|
+|**Длительность** |30-50 минут|
+
+---
+
 |Название         |[Радио-Т](https://radio-t.com)|
 |:----------------|:-----------------------------|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/podcast/%D1%80%D0%B0%D0%B4%D0%B8%D0%BE-%D1%82/id256504435) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/11441) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/id1572?country=ru) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCBl1ML1jnlhRxHlCjSKTyeA) • [![VK](img/favicons/vk.com.png)](https://vk.com/radio_t) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/radio_t) • [![Telegram](img/favicons/t.me.png)](https://t.me/radio_t_podcast) • [![Email](img/favicons/email.png)](mailto:podcast@radio-t.com) • [![RSS](img/favicons/rss.png)](http://feeds.rucast.net/radio-t)|
