@@ -96,16 +96,6 @@
 
 ---
 
-|Название         |[DevZen Podcast](https://devzen.ru/)|
-|:----------------|:--------------------------------------|
-|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)]() • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/devzen-podcast/id903660317) • [![Google Podcasts](img/favicons/podcasts.google.com.png)]() • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/devzen-podcast/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/2105533) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/DevZen-Podcast-id1196008?country=ru) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/devzen-podcast) • [![YouTube](img/favicons/youtube.com.png)]() • [![VK](img/favicons/vk.com.png)]() • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/devzen_ru) • [![Facebook](img/favicons/facebook.com.png)]() • [![Telegram](img/favicons/t.me.png)]() • [![Instagram](img/favicons/instagram.com.png)]() • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)]() • [![Email](img/favicons/email.png)](mailto:podcast@devzen.ru) • [![RSS](img/favicons/rss.png)](https://devzen.ru/feed/)|
-|**Описание**     |Подкаст о программировании, IT и смежных темах (16+).|
-|**Ведущие**      |[Светлана Божко](http://sbozhko.github.io/) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/SBozhko) [![LinkedIn](img/favicons/linkedin.cn.png)](https://linkedin.com/in/svbozhko/) [![GitHub](img/favicons/github.com.png)](https://github.com/sbozhko) [![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/sbozhko) [![Medium](img/favicons/medium.com.png)](https://medium.com/@sbozhko) [![Email](img/favicons/email.png)](mailto:svt.bozhko@gmail.com)<br>[Иван Глушков](https://gliush.github.io/) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/gliush) [![GitHub](img/favicons/github.com.png)](https://github.com/gliush) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/gliush) [![Email](img/favicons/email.png)](mailto:ivan.glushkov@gmail.com)<br>[Александр Алексеев](https://eax.me/) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/afiskon) [![VK](img/favicons/vk.com.png)](https://vk.com/afiskon) [![Telegram](img/favicons/t.me.png)](https://t.me/eaxme) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/afiskon/) [![Email](img/favicons/email.png)](mailto:mail@eax.me) [![RSS](img/favicons/rss.png)](https://eax.me/feed/)|
-|**Регулярность** |Несколько выпусков в месяц|
-|**Длительность** |120-180 минут|
-
----
-
 |Название         |Цинковый прод (18+)|
 |:----------------|:------------------|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/znprod) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ua/podcast/%D1%86%D0%B8%D0%BD%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9-%D0%BF%D1%80%D0%BE%D0%B4/id1458311254?l=ru) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/tsinkovyi-prod-18) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/%D0%A6%D0%B8%D0%BD%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9-%D0%BF%D1%80%D0%BE%D0%B4-id2063457?country=ru) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UC6cTShKx3lJWw-EzSr_ZAfw) • [![Telegram](img/favicons/t.me.png)](http://t.me/ZnProd) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/9649473) • [![RSS](img/favicons/rss.png)](http://feeds.soundcloud.com/users/soundcloud:users:610582557/sounds.rss)|
@@ -113,6 +103,16 @@
 |**Ведущие**      |Антон Околелов [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/AntonOkolelov) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/anton.okolelov) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/varanio/) <br>Никита Васильченко [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/xenmayer) [![GitHub](img/favicons/github.com.png)](https://github.com/xenmayer) [![Medium](img/favicons/medium.com.png)](https://medium.com/@xenmayer) [![Email](img/favicons/email.png)](mailto:xenmayer@gmail.com)<br>Олег Грицак [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/hack3p) [![GitHub](img/favicons/github.com.png)](https://github.com/hack3p) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/hack3p/) [![Email](img/favicons/email.png)](mailto:hack3p@gmail.com)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |60-110 минут|
+
+---
+
+|Название         |[DevZen Podcast](https://devzen.ru/)|
+|:----------------|:--------------------------------------|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/devzen-podcast/id903660317) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/devzen-podcast/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/2105533) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/DevZen-Podcast-id1196008?country=ru) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/devzen-podcast) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/devzen_ru) • [![Email](img/favicons/email.png)](mailto:podcast@devzen.ru) • [![RSS](img/favicons/rss.png)](https://devzen.ru/feed/)|
+|**Описание**     |Подкаст о программировании, IT и смежных темах (16+).|
+|**Ведущие**      |[Светлана Божко](http://sbozhko.github.io/) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/SBozhko) [![LinkedIn](img/favicons/linkedin.cn.png)](https://linkedin.com/in/svbozhko/) [![GitHub](img/favicons/github.com.png)](https://github.com/sbozhko) [![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/sbozhko) [![Medium](img/favicons/medium.com.png)](https://medium.com/@sbozhko) [![Email](img/favicons/email.png)](mailto:svt.bozhko@gmail.com)<br>[Иван Глушков](https://gliush.github.io/) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/gliush) [![GitHub](img/favicons/github.com.png)](https://github.com/gliush) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/gliush) [![Email](img/favicons/email.png)](mailto:ivan.glushkov@gmail.com)<br>[Александр Алексеев](https://eax.me/) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/afiskon) [![VK](img/favicons/vk.com.png)](https://vk.com/afiskon) [![Telegram](img/favicons/t.me.png)](https://t.me/eaxme) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/afiskon/) [![Email](img/favicons/email.png)](mailto:mail@eax.me) [![RSS](img/favicons/rss.png)](https://eax.me/feed/)|
+|**Регулярность** |Несколько выпусков в месяц|
+|**Длительность** |120-180 минут|
 
 ---
 
@@ -153,6 +153,16 @@
 |**Ведущие**      |[Константин Буркалёв](http://blog.ksdaemon.ru/) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/KSDaemon) [![VK](img/favicons/vk.com.png)](https://vk.com/ksdaemon) [![LinkedIn](img/favicons/linkedin.cn.png)](http://ru.linkedin.com/in/ksdaemon) [![GitHub](img/favicons/github.com.png)](https://github.com/KSDaemon) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/ksdaemon/) [![Email](img/favicons/email.png)](mailto:kostik@ksdaemon.ru) [![RSS](img/favicons/rss.png)](https://blog.ksdaemon.ru/feed/)|
 |**Регулярность** |Время от времени.|
 |**Длительность** |60-120 минут|
+
+---
+
+|Название         |[The Art Of Programming](https://theartofprogramming.podbean.com/)|
+|:----------------|:--------------------------------------|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/the-art-of-programming/id1046278525) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/the-art-of-programming/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/the-art-of-programming-2361435) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/The-Art-Of-Programming-id1336593?country=ru) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/the-art-of-programming) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/taoppodcast) • [![Telegram](img/favicons/t.me.png)](https://t.me/taoplive) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/6883832?from=serp) • [![RSS](img/favicons/rss.png)](https://feed.podbean.com/theartofprogramming/feed.xml)|
+|**Описание**     |Подкаст о разработке программного обеспечения, о разработке в самом широком смысле.|
+|**Ведущие**      |[Антон Черноусов (golodnyj)](https://blog.golodnyj.ru/) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/golodnyj) [![VK](img/favicons/vk.com.png)](https://vk.com/golodnyj) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/golodnyj/) [![GitHub](img/favicons/github.com.png)](https://github.com/golodnyj) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/golodnyj/) [![Email](img/favicons/email.png)](mailto:golodnyj@gmail.com)|
+|**Регулярность** |Несколько выпусков в месяц|
+|**Длительность** |40-120 минут|
 
 ### **Разработка**
 
