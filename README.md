@@ -34,7 +34,6 @@
     * [Разработка игр](#разработка-игр)
     * [Тестирование](#тестирование)
     * [DevOps](#devops)
-    * [QA](#qa)
   
 * **[Мероприятия](#мероприятия)**
 
@@ -346,7 +345,13 @@
 
 #### **Тестирование**
 
-#### **QA**
+|Название         |[Radio QA](http://radio-qa.com/)|
+|:----------------|:-------------------------------|
+|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/radio-qa) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/radio-qa/id1021236121) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/c/RadioQA) • [![VK](img/favicons/vk.com.png)](https://vk.com/radioqa) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/radio_qa) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/radioqa) • [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/radioqa/) • [![RSS](img/favicons/rss.png)](http://feeds.soundcloud.com/users/soundcloud:users:151862660/sounds.rss) • [![RSS](img/favicons/rss.png)](http://radio-qa.com/feed/)|
+|**Описание**     |Русскоязычный подкаст тестировщиков об IT.|
+|**Ведущие**      |[Алексей Виноградов](http://qa-blog.alexei-vinogradov.de/) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/vinogradoff) [![GitHub](img/favicons/github.com.png)](https://github.com/vinogradoff) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/i_vino) [![VK](img/favicons/vk.com.png)](https://vk.com/id2914588) [![LinkedIn](img/favicons/linkedin.cn.png)](https://www.linkedin.com/in/vinogradov) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/alexei.vinogradov)<br>[Андрей Мясников](http://lazy-tester.blogspot.com/)<br>[Сергей Атрощенков](http://barbaricqa.com/blog/) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/BarbaricQA) [![Email](img/favicons/email.png)](mailto:info@barbaricqa.com) [![RSS](img/favicons/rss.png)](http://feeds.feedburner.com/Barbaricqacom)<br>Алексей Федоров [![Facebook](img/favicons/facebook.com.png)](https://ru-ru.facebook.com/exsel9)|
+|**Регулярность** |Время от времени|
+|**Длительность** |50-120 минут|
 
 #### **DevOps**
 
