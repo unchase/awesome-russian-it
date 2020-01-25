@@ -593,16 +593,6 @@
 
 #### **Мобильная разработка**
 
-|Название         |[Android Dev](http://androiddev.apptractor.ru/)|
-|:----------------|:----------------------------------------------|
-|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/leonid-bogolubov) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/android-dev-podkast/id1076856310) • [![Podster](img/favicons/podster.fm.png)](https://apptractor-podcast.podster.fm/) • [![Telegram](img/favicons/t.me.png)](https://telegram.me/androiddevpodcast) • [![RSS](img/favicons/rss.png)](http://androiddev.apptractor.ru/feed/)|
-|**Описание**     |Android Dev — подкаст о разработке под Android и всем, что с этим связано. Гости программы — разработчики с большим опытом и стажем, которые помнят Android, когда он еще был версии 1.5, и за годы написали приложения для миллионов пользователей по всему миру.|
-|**Ведущие**      |Денис Неклюдов [![GitHub](img/favicons/github.com.png)](https://github.com/nekdenis) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/nekdenis) [![LinkedIn](img/favicons/linkedin.cn.png)](https://www.linkedin.com/in/nekdenis) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/nekdenis/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCj_j_lkgl-d2AMIMJiTZxzg) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/nekdenis) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/nekdenis/)<br>Александр Ефременков [![GitHub](img/favicons/github.com.png)](https://github.com/iamironz) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/iamironz) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/iamironz) [![Email](img/favicons/email.png)](mailto:implimentz@gmail.com)<br>Дмитрий Полищук [![GitHub](img/favicons/github.com.png)](https://github.com/dpolishuk) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/dpolishuk)<br>Даниил Сердюков [![GitHub](img/favicons/github.com.png)](https://github.com/DanielSerdyukov/) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/danielserdyukov) [![Email](img/favicons/email.png)](mailto:daniel.serdyukov@gmail.com)<br>и др.|
-|**Регулярность** |Время от времени|
-|**Длительность** |50-140 минут|
-
----
-
 |Название         |[Appbooster](https://appbooster.com/)|
 |:----------------|:------------------------------------|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/appbooster) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/appbooster/id1481440666) • [![VK](img/favicons/vk.com.png)](https://vk.com/appbooster) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/appbooster_ru) • [![Telegram](img/favicons/t.me.png)](https://t.me/love_mobile) • [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/appbooster/)|
@@ -670,6 +660,26 @@
 |**Ведущие**      |Кирилл Розов [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/kirill_rozov) [![Medium](img/favicons/medium.com.png)](https://medium.com/@kirillr) [![GitHub](img/favicons/github.com.png)](https://github.com/kirich1409) [![Email](img/favicons/email.png)](mailto:krl.rozov@gmail.com)|
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |50-80 минут|
+
+---
+
+|Название         |[Android Dev](http://androiddev.apptractor.ru/)|
+|:----------------|:----------------------------------------------|
+|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/leonid-bogolubov) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/android-dev-podkast/id1076856310) • [![Podster](img/favicons/podster.fm.png)](https://apptractor-podcast.podster.fm/) • [![Telegram](img/favicons/t.me.png)](https://telegram.me/androiddevpodcast) • [![RSS](img/favicons/rss.png)](http://androiddev.apptractor.ru/feed/)|
+|**Описание**     |Android Dev — подкаст о разработке под Android и всем, что с этим связано. Гости программы — разработчики с большим опытом и стажем, которые помнят Android, когда он еще был версии 1.5, и за годы написали приложения для миллионов пользователей по всему миру.|
+|**Ведущие**      |Денис Неклюдов [![GitHub](img/favicons/github.com.png)](https://github.com/nekdenis) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/nekdenis) [![LinkedIn](img/favicons/linkedin.cn.png)](https://www.linkedin.com/in/nekdenis) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/nekdenis/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCj_j_lkgl-d2AMIMJiTZxzg) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/nekdenis) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/nekdenis/)<br>Александр Ефременков [![GitHub](img/favicons/github.com.png)](https://github.com/iamironz) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/iamironz) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/iamironz) [![Email](img/favicons/email.png)](mailto:implimentz@gmail.com)<br>Дмитрий Полищук [![GitHub](img/favicons/github.com.png)](https://github.com/dpolishuk) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/dpolishuk)<br>Даниил Сердюков [![GitHub](img/favicons/github.com.png)](https://github.com/DanielSerdyukov/) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/danielserdyukov) [![Email](img/favicons/email.png)](mailto:daniel.serdyukov@gmail.com)<br>и др.|
+|**Регулярность** |Время от времени|
+|**Длительность** |50-140 минут|
+
+---
+
+|Название         |[Droider Cast](http://droider.ru/tag/5294-8024/)|
+|:----------------|:-----------------------------------------------|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/droider-cast/id1057019371) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/96588) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/Droider-Cast-id472035?country=ru) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/droider-cast) • [![Podster](img/favicons/podster.fm.png)](https://droidercast.podster.fm/) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcasts-17733403) • [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/droiderband/) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/9048349?from=serp) • [![RSS](img/favicons/rss.png)](https://podster.fm/rss.xml?pid=41971)|
+|**Описание**     |Droider Cast — нескучный подкаст сайта Droider.ru.<br>Раз в неделю Борис Веденский, Валерий Истишев и Митя Иванов собираются, чтобы сжечь несколько ведьм, разоблачить пару заговоров, обсудить последние новости интернета, технологий, кино и видеоигр в неформальной обстановке.|
+|**Ведущие**      |Борис Веденский (cwe) [![VK](img/favicons/vk.com.png)](https://vk.com/borisvedensky) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/vedensky/) [![Medium](img/favicons/medium.com.png)](https://medium.com/@vedensky) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/vedensky/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UC1a2rnuwCw6rEbAxclIHkng) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/vedensky)<br>Валерий Истишев [![VK](img/favicons/vk.com.png)](https://vk.com/istishev) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/vedensky) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/istishev/) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/istishev) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/istishev/)<br>Митя Иванов|
+|**Регулярность** |Еженедельно|
+|**Длительность** |~20 минут|
 
 ##### **Kotlin**
 
