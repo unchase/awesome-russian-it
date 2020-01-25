@@ -724,6 +724,6 @@
 
 ----------
 
-> [Николай Чеботов (**Unchase**)](https://github.com/unchase) [![Medium](img/favicons/medium.com.png)](http://medium.com/@unchase) [![dev.to](img/favicons/dev.to.png)](http://dev.to/unchase) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/unchase/)
+> Автор: [Николай Чеботов (**Unchase**)](https://github.com/unchase) [![Medium](img/favicons/medium.com.png)](http://medium.com/@unchase) [![dev.to](img/favicons/dev.to.png)](http://dev.to/unchase) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/unchase/)
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Лицензия Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Это произведение доступно по <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">лицензии Creative Commons «Attribution» («Атрибуция») 4.0 Всемирная</a>.
