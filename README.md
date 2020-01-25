@@ -95,6 +95,16 @@
 
 ---
 
+|Название         |Сделано с нуля|
+|:----------------|:-------------|
+|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/chernobaev) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/сделано-с-нуля/id1448936184) • [![VK](img/favicons/vk.com.png)](https://vk.com/madefromzero) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/nickolay.chernobaev) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/8770470?from=serp)|
+|**Описание**     |Подкаст о том, как начать делать то, что раньше никогда не делал и создать что-то значимое с нуля. О стремлении и пути к лучшей жизни маленькими шагами, не смотря на трудности.|
+|**Ведущие**      |[Чернобаев Николай](http://nickchernobaev.com/) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/nickymeloman) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UC3Xbp3NcAtiq0XHOcU3QdOA) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/nick_chernobaev/) [![Telegram](img/favicons/t.me.png)](https://t.me/chernobaev_nick) [![VK](img/favicons/vk.com.png)](https://vk.com/chernobaev.nick)|
+|**Регулярность** |Еженедельно|
+|**Длительность** |60-90 минут|
+
+---
+
 |Название         |Цинковый прод (18+)|
 |:----------------|:------------------|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/znprod) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ua/podcast/%D1%86%D0%B8%D0%BD%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9-%D0%BF%D1%80%D0%BE%D0%B4/id1458311254?l=ru) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/tsinkovyi-prod-18) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/%D0%A6%D0%B8%D0%BD%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9-%D0%BF%D1%80%D0%BE%D0%B4-id2063457?country=ru) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UC6cTShKx3lJWw-EzSr_ZAfw) • [![Telegram](img/favicons/t.me.png)](http://t.me/ZnProd) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/9649473) • [![RSS](img/favicons/rss.png)](http://feeds.soundcloud.com/users/soundcloud:users:610582557/sounds.rss)|
