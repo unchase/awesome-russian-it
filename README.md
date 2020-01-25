@@ -105,6 +105,16 @@
 
 ---
 
+|Название         |Сушите вёсла|
+|:----------------|:-----------|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/%D1%81%D1%83%D1%88%D0%B8%D1%82%D0%B5-%D0%B2%D1%91%D1%81%D0%BB%D0%B0/id1466243923)[![Player](img/favicons/player.fm.png)](https://player.fm/series/sushitie-viosla) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/%D0%A1%D1%83%D1%88%D0%B8%D1%82%D0%B5-%D0%B2%D1%91%D1%81%D0%BB%D0%B0-id2151994?country=ru)[![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/9303111?from=serp)|
+|**Описание**     |Подкаст о разработке, аналитике, тестировании и других аспектах создания приложений.|
+|**Ведущие**      ||
+|**Регулярность** |Время от времени|
+|**Длительность** |80-90 минут|
+
+---
+
 |Название         |Цинковый прод (18+)|
 |:----------------|:------------------|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/znprod) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ua/podcast/%D1%86%D0%B8%D0%BD%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9-%D0%BF%D1%80%D0%BE%D0%B4/id1458311254?l=ru) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/tsinkovyi-prod-18) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/%D0%A6%D0%B8%D0%BD%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9-%D0%BF%D1%80%D0%BE%D0%B4-id2063457?country=ru) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UC6cTShKx3lJWw-EzSr_ZAfw) • [![Telegram](img/favicons/t.me.png)](http://t.me/ZnProd) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/9649473) • [![RSS](img/favicons/rss.png)](http://feeds.soundcloud.com/users/soundcloud:users:610582557/sounds.rss)|
