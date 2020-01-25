@@ -177,6 +177,16 @@
 
 ---
 
+|Название         |[SITCast](https://sitc.community/)|
+|:----------------|:---------------------------------|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/us/podcast/sitcast/id1449716272) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/sitcast) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCWwGzRCrnCWRVQ_UlpwZQMA) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcasts-143954349) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/TcommunityI) • [![Telegram](img/favicons/t.me.png)](https://t.me/Samara_IT_Community) • [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/itc_samara/)|
+|**Описание**     |Подкаст паблика Samara IT Community в котором Дима Червяков, Коля Сладкий, Никита Пузанков и Дмитрий Николаев рассказывают о своём пути в IT и спорят на различные темы, близкие тем кто работает в сфере IT или интересуется ей.|
+|**Ведущие**      |Дима Червяков<br>Николай Сладкий [![VK](img/favicons/vk.com.png)](https://vk.com/nikolasmelui) [![Telegram](img/favicons/t.me.png)](https://telegram.me/nikolasmelui) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/NikolasMelui/) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/nikolasmelui/) [![GitHub](img/favicons/github.com.png)](https://github.com/NikolasMelui)<br>[Никита Пузанков](https://humb1t.tumblr.com/) [![VK](img/favicons/vk.com.png)](https://vk.com/humb1t) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/humb1t) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/humb1t/) [![LinkedIn](img/favicons/linkedin.cn.png)](https://www.linkedin.com/in/humb1t/) [![dev.to](img/favicons/dev.to.png)](https://dev.to/humb1t) [![Telegram](img/favicons/t.me.png)](https://telegram.me/humb1t) [![GitHub](img/favicons/github.com.png)](https://github.com/humb1t) [![Email](img/favicons/email.png)](mailto:humb1t@yandex.ru)<br>Дмитрий Николаев [![VK](img/favicons/vk.com.png)](https://vk.com/nikolaev_dd) [![GitHub](img/favicons/github.com.png)](https://github.com/BooSt163) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/nikolaev_dd)|
+|**Регулярность** |Несколько раз в месяц|
+|**Длительность** |30-90 минут|
+
+---
+
 |Название         |[DevZen Podcast](https://devzen.ru/)|
 |:----------------|:-----------------------------------|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/devzen-podcast/id903660317) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/devzen-podcast/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/2105533) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/DevZen-Podcast-id1196008?country=ru) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/devzen-podcast) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/devzen_ru) • [![Email](img/favicons/email.png)](mailto:podcast@devzen.ru) • [![RSS](img/favicons/rss.png)](https://devzen.ru/feed/)|
