@@ -335,6 +335,14 @@
 
 #### **Мобильная разработка**
 
+|Название         |[AppTracktor](https://apptractor.ru/podkastyi-apptractor)|
+|:----------------|:--------------------------------------------------------|
+|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/leonid-bogolubov) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/apptractor/id908041901) • [![Podster](img/favicons/podster.fm.png)](https://apptractor-podcast.podster.fm/) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/apptractor/) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/apptractor-2456535) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/id1095689?country=ru) • [![VK](img/favicons/vk.com.png)](https://vk.com/apptractor) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/AppTractor) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/apptractor.ru/) • [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/apptractor/) • [![Email](img/favicons/email.png)](mailto:info@apptractor.ru) • [![RSS](img/favicons/rss.png)](https://apptractor.ru/Podcast/rss.xml)|
+|**Описание**     |Каждую неделю в подкасте мы обсуждаем самые значительные события мобильного рынка, самые интересные новости о разработке и маркетинге, лучшие мобильные приложения и бизнес-практики.|
+|**Ведущие**      |Леонид Боголюбов|
+|**Регулярность** |Время от времени|
+|**Длительность** |40-50 минут|
+
 ##### **Android**
 
 ##### **Kotlin**
