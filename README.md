@@ -315,6 +315,16 @@
 
 ---
 
+|Название         |[RootCast](https://root-nation.com/tag/rootcast/)|
+|:----------------|:------------------------------------------------|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/us/podcast/rootcast/id626208574) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/rootcast-1402624) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/id492387?country=ru) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/rootcast) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/6914323?from=serp))|
+|**Описание**     |Свежая порция диванной аналитики.|
+|**Ведущие**      ||
+|**Регулярность** |Несколько раз в месяц|
+|**Длительность** |50-100 минут|
+
+---
+
 |Название         |[SDCast](https://sdcast.ksdaemon.ru/)|
 |:----------------|:------------------------------------|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/software-development-podcast/id890468606) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/sdcast/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/sdcast) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/373241?country=ru) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/sdcast) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/SDCast_podcast) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/6880277?from=serp) • [![RSS](img/favicons/rss.png)](https://sdcast.ksdaemon.ru/feed/podcast/)|
