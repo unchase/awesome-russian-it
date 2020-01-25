@@ -315,6 +315,16 @@
 
 ---
 
+|Название         |proConf|
+|:----------------|:------|
+|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/proconf) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/podcast-proconf/id1455023466)) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/podcast-proconf) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/Podcast-proConf-id2038811?country=ru) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCvasfOIImo7D9lQkb1Wc1tw)|
+|**Описание**     |Подкаст proConf - мы обозреваем технические конференции со всего мира. Каждую неделю огромное количество людей на различных митапах и конференциях делятся своим опытом и знаниями, а мы делаем так чтобы вы не пропустили самые интересные моменты.|
+|**Ведущие**      ||
+|**Регулярность** |Еженедельно|
+|**Длительность** |60-100 минут|
+
+---
+
 |Название         |Remote Talk|
 |:----------------|:----------|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/csssr/sets/remote-talk) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/remote-talk/id1414821759) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/remote-talk/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/remote-talk) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/Remote-Talk-id1382046?country=ru) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/remote-talk) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/9050141?from=serp)|
