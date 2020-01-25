@@ -375,6 +375,16 @@
 
 ---
 
+|Название         |SHIFU|
+|:----------------|:----|
+|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/shifuio) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/shifu/id1299464952) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/shifu) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/SHIFU-id1077710?country=ru) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCKvwrpqUvFNRinpTFouLLiQ) • [![VK](img/favicons/vk.com.png)](https://vk.com/shifuio) • [![Telegram](img/favicons/t.me.png)](https://t.me/shifuio) • [![Email](img/favicons/email.png)](mailto:talk@shfu.ru)|
+|**Описание**     |Про найм, карьеру и бизнес в IT, программировании и всем что с этим связано.|
+|**Ведущие**      |[Николай Ясинский](https://www.nickyasinskiy.com/) [![VK](img/favicons/vk.com.png)](https://vk.com/nydevel) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/nydevel) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/nydevel) [![Medium](img/favicons/medium.com.png)](https://medium.com/@nydevel) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/nick.yask/)|
+|**Регулярность** |Время от времени|
+|**Длительность** |3-30 минут|
+
+---
+
 |Название         |[The Art Of Programming](https://theartofprogramming.podbean.com/)|
 |:----------------|:-----------------------------------------------------------------|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/the-art-of-programming/id1046278525) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/the-art-of-programming/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/the-art-of-programming-2361435) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/The-Art-Of-Programming-id1336593?country=ru) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/the-art-of-programming) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/taoppodcast) • [![Telegram](img/favicons/t.me.png)](https://t.me/taoplive) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/6883832?from=serp) • [![RSS](img/favicons/rss.png)](https://feed.podbean.com/theartofprogramming/feed.xml)|
