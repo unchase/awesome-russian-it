@@ -732,8 +732,7 @@
 |Название         |QA Guild Podcast|
 |:----------------|:---------------|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/qaguild) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ua/podcast/qaguild/id1350668092) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/qa-guild-podcast/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/qa-guild-podcast) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/QA-Guild-Podcast-id1181112?country=ru) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/QAGuild) • [![Telegram](img/favicons/t.me.png)](https://t.me/automation_remarks) • [![RSS](img/favicons/rss.png)](http://feeds.soundcloud.com/users/soundcloud:users:371334098/sounds.rss)|
-|**Описание**     |QAGuild — первый подкаст про тестирование, автоматизацию в тестировании и просто за жизнь. Мы стремимся делать выпуски с качественным контентом и хорошими гостями, поэтому выходим в эфир раз в месяц.
-Присоединяйтесь, пишите свои идеи для новых выпусков, приходите в прямые эфиры или рекомендуйте интересных собеседников.|
+|**Описание**     |QAGuild — первый подкаст про тестирование, автоматизацию в тестировании и просто за жизнь. Мы стремимся делать выпуски с качественным контентом и хорошими гостями, поэтому выходим в эфир раз в месяц. Присоединяйтесь, пишите свои идеи для новых выпусков, приходите в прямые эфиры или рекомендуйте интересных собеседников.|
 |**Ведущие**      |Сергей Пирогов [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/s_pirogov)|
 |**Регулярность** |Время от времени|
 |**Длительность** |80-110 минут|
