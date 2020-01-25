@@ -14,6 +14,7 @@
     * [ОС](#ос)
       * [Linux](#linux)
       * [Windows](#windows)
+  * [Блокчейн](#блокчейн)
   * [Железо](#железо)
   * [ИТ-безопасность](#ит-безопасность)
   * [Общее](#общее)
@@ -49,6 +50,16 @@
 ##### **Linux**
 
 ##### **Windows**
+
+### **Блокчейн**
+
+|Название         |[Базовый блок: блокчейн без буллшита](https://basicblockradio.com/)|
+|:----------------|:------------------------------------------------------------------|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/id1289965366) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/?feed=aHR0cDovL2Jhc2ljYmxvY2tyYWRpby5saWJzeW4uY29tL3Jzcw) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/bazovyj-blok/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/1542756) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/%D0%91%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B9-%D0%B1%D0%BB%D0%BE%D0%BA%3A-%D0%B1%D0%BB%D0%BE%D0%BA%D1%87%D0%B5%D0%B9%D0%BD-%D0%B1%D0%B5%D0%B7-%D0%B1%D1%83%D0%BB%D0%BB%D1%88%D0%B8%D1%82%D0%B0-id1059789?country=ru) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/bazovyy-blok) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UC95bSmaFa7R33GOyi6VfyGQ) • [![VK](img/favicons/vk.com.png)](https://vk.com/basicblockradio) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/basicblockradio) • [![Telegram](img/favicons/t.me.png)](https://t.me/basicblockradio) • [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/basicblockradio/) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/7638583?from=serp) • [![RSS](img/favicons/rss.png)](http://basicblockradio.libsyn.com/rss)|
+|**Описание**     |«Базовый блок» — русскоязычный технический подкаст о блокчейн-технологиях.<br>Интересуетесь блокчейном, но устали от буллшита? Вам сюда. В «Базовом блоке» говорят о блокчейне по существу. Как поменялся курс за неделю? Сколько миллионов собрало последнее ICO? Пофиг! В «Базовом блоке» — только технологии. Обсудим последние усовершенствования в Биткойне и Эфириуме, свежие академические статьи и индустриальные конференции. Криптографические алгоритмы, механизмы консенсуса, языки смарт-контрактов.<br>Давайте вместе разбираться, как устроен блокчейн!.|
+|**Ведущие**      |[Сергей Тихомиров](https://sergei.substack.com) [![VK](img/favicons/vk.com.png)](https://vk.com/serj_nickel) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/serg_tikhomirov) [![RSS](img/favicons/rss.png)](https://sergei.substack.com/feed)<br>Иван Иваницкий [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/IvanitskiyIvan) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/ivan.ivanitsky) [![Medium](img/favicons/medium.com.png)](https://medium.com/@ivanitskiy.ivan) [![VK](img/favicons/vk.com.png)](https://vk.com/discovan) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/ivanitskiy_ivan/) [![GitHub](img/favicons/github.com.png)](https://github.com/Ivan-Ivanitskiy) [![Email](img/favicons/email.png)](mailto:ivanitskiy.ivan@gmail.com)<br>Сергей Павлин [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/srg_pavlin)<br>Александр Селезнев [![Telegram](img/favicons/t.me.png)](https://t.me/msbenighted) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/msbenighted/)|
+|**Регулярность** |Еженедельно|
+|**Длительность** |50-110 минут|
 
 ### **Железо**
 
