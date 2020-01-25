@@ -135,6 +135,16 @@
 
 ---
 
+|Название         |[LinkMeUp](https://linkmeup.ru/podcasts/)|
+|:----------------|:----------------------------------------|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/linkmeup-pervyj-podkast-dla/id1065445951) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/linkmeup/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/linkmeup-podkast-pro-it-i-pro-liudiei-133493) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/linkmeup.-%D0%9F%D0%BE%D0%B4%D0%BA%D0%B0%D1%81%D1%82-%D0%BF%D1%80%D0%BE-IT-%D0%B8-%D0%BF%D1%80%D0%BE-%D0%BB%D1%8E%D0%B4%D0%B5%D0%B9-id1173801?country=ru) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/linkmeup) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/linkmeupru) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/linkmeup.sdsm) • [![Telegram](img/favicons/t.me.png)](https://telegram.me/linkmeup_podcast) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/7060168?from=serp) • [![Email](img/favicons/email.png)](mailto:info@linkmeup.ru) • [![RSS](img/favicons/rss.png)](https://linkmeup.ru/rss)|
+|**Описание**     |Это проект про сети, системное администрирование, инженерию и немного разработку, которым занимается группа энтузиастов, не нашедших лучшего применения своему свободному времени.|
+|**Ведущие**      ||
+|**Регулярность** |Еженедельно|
+|**Длительность** |30-130 минут|
+
+---
+
 |Название         |[Podlodka Podcast](http://podlodka.io/)|
 |:----------------|:--------------------------------------|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/podlodka) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/podlodka-podcast/id1209828744) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjI5MTMzNzEwNi9zb3VuZHMucnNz) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/podlodka-podcast/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/podlodka-podcast) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/id483085?country=ru) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/channel/podlodka-podcast) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCOei1E1Vqq10S913OEqTWGw) • [![VK](img/favicons/vk.com.png)](https://vk.com/podlodkapodcast) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/PodlodkaPodcast) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/podlodkacast/) • [![Telegram](img/favicons/t.me.png)](https://t.me/podlodka) • [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/podlodkacast/) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/7570122?from=serp) • [![RSS](img/favicons/rss.png)](http://feeds.soundcloud.com/users/soundcloud:users:291337106/sounds.rss)|
