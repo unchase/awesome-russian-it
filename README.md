@@ -215,6 +215,16 @@
 
 ---
 
+|Название         |Подкасты Mobile-review.com|
+|:----------------|:-------------------------|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/hr/podcast/%D0%BF%D0%BE%D0%B4%D0%BA%D0%B0%D1%81%D1%82%D1%8B-mobile-review-com/id271623368) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/mobile-review/) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/podkasty-mobile-reviewcom) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/id1051204?country=ru) • [![VK](img/favicons/vk.com.png)](https://vk.com/mobilereviewcom) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/mobilreview) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/mobilereviewcom/) • [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/mobilereview/) • [![RSS](img/favicons/rss.png)](https://mobile-review.com/podcasts/rss.xml)|
+|**Описание**     |Гаджеты и аналитика.|
+|**Ведущие**      ||
+|**Регулярность** |Время от времени|
+|**Длительность** |20-40 минут|
+
+---
+
 |Название         |Сушите вёсла|
 |:----------------|:-----------|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/%D1%81%D1%83%D1%88%D0%B8%D1%82%D0%B5-%D0%B2%D1%91%D1%81%D0%BB%D0%B0/id1466243923)[![Player](img/favicons/player.fm.png)](https://player.fm/series/sushitie-viosla) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/%D0%A1%D1%83%D1%88%D0%B8%D1%82%D0%B5-%D0%B2%D1%91%D1%81%D0%BB%D0%B0-id2151994?country=ru)[![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/9303111?from=serp)|
@@ -277,7 +287,7 @@
 
 |Название         |IT-Trend|
 |:----------------|:-------|
-|**Ссылки**       |[![Podster](img/favicons/podster.fm.png)](https://it-trend.podster.fm/) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/it-trend/id567224504) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/it-trend/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/series-1296990) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/it-trend) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcasts-171656757) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/it__trend) • [![Telegram](img/favicons/t.me.png)](https://t.me/it_trend_bot)|
+|**Ссылки**       |[![Podster](img/favicons/podster.fm.png)](https://it-trend.podster.fm/) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/it-trend/id567224504) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/it-trend/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/series-1296990) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/it-trend) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcasts-171656757) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/it__trend) • [![Telegram](img/favicons/t.me.png)](https://t.me/it_trend_bot) • [![RSS](img/favicons/rss.png)](https://podster.fm/rss.xml?pid=142)|
 |**Описание**     |О новых устройствах, it-новостях и трендах.|
 |**Ведущие**      ||
 |**Регулярность** |Несколько раз в месяц|
