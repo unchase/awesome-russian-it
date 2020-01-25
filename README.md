@@ -83,6 +83,16 @@
 |**Регулярность** |Время от времени|
 |**Длительность** |30-120 минут|
 
+---
+
+|Название         |[Securit13 Podcast](http://securit13.libsyn.com/)|
+|:----------------|:------------------------------------------------|
+|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/securit13-podcast) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/securit13-podcast/id448433787) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/securit13-podcast) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/id93242?country=ru) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCGYHYOm_J3zpyE5jCNzAHJg) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/securit13) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/Securit13Podcast/))|
+|**Описание**     |Первый украинский подкаст об информационной безопасности.|
+|**Ведущие**      ||
+|**Регулярность** |Не выпускается|
+|**Длительность** |30-70 минут|
+
 ### **Общее**
 
 |Название         |АйТиБорода|
