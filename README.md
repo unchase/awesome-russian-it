@@ -25,6 +25,7 @@
       * [Python](#python)
       * [Ruby](#ruby)
       * [Rust](#rust)
+      * [Scala](#scala)
     * [Веб-разработка](#веб-разработка)
     * [Мобильная разработка](#мобильная-разработка)
       * [Android](#android)
@@ -282,6 +283,16 @@
 |**Длительность** |20-60 минут|
 
 ##### **Rust**
+
+##### **Scala**
+
+|Название         |[Scalalaz](https://scalalaz.ru/)|
+|:----------------|:-------------------------------|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/scalalaz-podcast/id1156356598) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/ScalalazPodcast) • [![Telegram](img/favicons/t.me.png)](https://telegram.me/scala_ru) • [![GitHub](img/favicons/github.com.png)](https://github.com/scalalaz-podcast/) • [![Discord](img/favicons/discordapp.com.png)](https://discordapp.com/invite/RnugmrU) • [![RSS](img/favicons/rss.png)](https://scalalaz.ru/rss/feed.xml)|
+|**Описание**     |Подкаст о программировании на языке Scala (16+).|
+|**Ведущие**      |Вадим Челышов [![GitHub](img/favicons/github.com.png)](https://github.com/dos65) [![Email](img/favicons/email.png)](mailto:qtankle@gmail.com)<br>[Григорий Помадчин](http://pomadchin.com/) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/daunnc) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/gr.pomadchin) [![LinkedIn](img/favicons/linkedin.cn.png)](https://linkedin.com/in/grpomadchin) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/daunnc/) [![GitHub](img/favicons/github.com.png)](https://github.com/pomadchin) [![Email](img/favicons/email.png)](mailto:daunnc@gmail.com)<br>Евгений Токарев [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/strobegen) [![GitHub](img/favicons/github.com.png)](https://github.com/strobe)<br>[Алексей Фомкин](https://fomkin.org/) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/yelbota) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/aleksey.fomkin) [![GitHub](img/favicons/github.com.png)](https://github.com/fomkin) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/yelbota/) [![Email](img/favicons/email.png)](mailto:aleksey.fomkin@gmail.com)<br>Алексей Романчук [![GitHub](img/favicons/github.com.png)](https://github.com/13h3r)|
+|**Регулярность** |Несколько раз в месяц|
+|**Длительность** ||
 
 #### **Веб-разработка**
 
