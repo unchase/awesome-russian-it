@@ -343,6 +343,16 @@
 |**Регулярность** |Время от времени|
 |**Длительность** |40-50 минут|
 
+---
+
+|Название         |Mobile People Talks|
+|:----------------|:------------------|
+|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/mobilepeopletalks) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/mobile-people-talks/id1457942497) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/mobile-people-talks) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/Mobile-People-Talks-id2088690?country=ru) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/TalksMobile)|
+|**Описание**     |Mobile People Talks — подкаст про мобильную разработку. И все остальное.|
+|**Ведущие**      ||
+|**Регулярность** |Несколько раз в месяц|
+|**Длительность** |40-60 минут|
+
 ##### **Android**
 
 ##### **Kotlin**
