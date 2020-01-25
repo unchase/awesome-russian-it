@@ -87,7 +87,7 @@
 
 |Название         |[Securit13 Podcast](http://securit13.libsyn.com/)|
 |:----------------|:------------------------------------------------|
-|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/securit13-podcast) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/securit13-podcast/id448433787) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/securit13-podcast) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/id93242?country=ru) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCGYHYOm_J3zpyE5jCNzAHJg) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/securit13) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/Securit13Podcast/))|
+|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/securit13-podcast) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/securit13-podcast/id448433787) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/securit13-podcast) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/id93242?country=ru) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCGYHYOm_J3zpyE5jCNzAHJg) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/securit13) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/Securit13Podcast/)|
 |**Описание**     |Первый украинский подкаст об информационной безопасности.|
 |**Ведущие**      ||
 |**Регулярность** |Не выпускается|
@@ -217,7 +217,7 @@
 
 |Название         |[CSSSR (Новости 512)](https://csssr.com/ru)|
 |:----------------|:------------------------------------------|
-|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/csssr) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/novosti-512/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/novosti-512) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCdkZ6ckHOJ3DjAYxoGeMG0w) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcasts-185290073) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/csssr_dev) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/csssr/) • [![LinkedIn](img/favicons/linkedin.cn.png)](https://www.linkedin.com/company/csssr) • [![GitHub](img/favicons/github.com.png)](https://github.com/CSSSR))|
+|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/csssr) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/novosti-512/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/novosti-512) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCdkZ6ckHOJ3DjAYxoGeMG0w) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcasts-185290073) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/csssr_dev) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/csssr/) • [![LinkedIn](img/favicons/linkedin.cn.png)](https://www.linkedin.com/company/csssr) • [![GitHub](img/favicons/github.com.png)](https://github.com/CSSSR)|
 |**Описание**     |CSSSR — островок здравого смысла в корпоративном океане зла. Мы занимаемся фронтенд-разработкой сложных интерфейсов для банков, страховых компаний, сотовых операторов и других передовых IT-компании. У нас узкая специализация, и, видит бог, мы в ней хороши.|
 |**Ведущие**      ||
 |**Регулярность** |Еженедельно|
@@ -317,7 +317,7 @@
 
 |Название         |[RootCast](https://root-nation.com/tag/rootcast/)|
 |:----------------|:------------------------------------------------|
-|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/us/podcast/rootcast/id626208574) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/rootcast-1402624) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/id492387?country=ru) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/rootcast) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/6914323?from=serp))|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/us/podcast/rootcast/id626208574) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/rootcast-1402624) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/id492387?country=ru) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/rootcast) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/6914323?from=serp)|
 |**Описание**     |Свежая порция диванной аналитики.|
 |**Ведущие**      ||
 |**Регулярность** |Несколько раз в месяц|
@@ -724,6 +724,6 @@
 
 ----------
 
-[![CC0 Logo](img/cc0.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+> [Николай Чеботов (**Unchase**)](https://github.com/unchase) [![Medium](img/favicons/medium.com.png)](http://medium.com/@unchase) [![dev.to](img/favicons/dev.to.png)](http://dev.to/unchase) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/unchase/)
 
-Насколько это возможно по закону, [Николай Чеботов (**Unchase**)](https://github.com/unchase) [![Medium](img/favicons/medium.com.png)](http://medium.com/@unchase) [![dev.to](img/favicons/dev.to.png)](http://dev.to/unchase) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/unchase/) отказался от всех авторских и смежных прав на это произведение.
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Лицензия Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Это произведение доступно по <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">лицензии Creative Commons «Attribution» («Атрибуция») 4.0 Всемирная</a>.
