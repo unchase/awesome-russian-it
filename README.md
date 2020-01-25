@@ -137,6 +137,16 @@
 
 ---
 
+|Название         |[Паша + Слава](https://it.asm0dey.ru/)|
+|:----------------|:-------------------------------------|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/it-insights-and-commons-things/id1207585393) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/1389654) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/%D0%9F%D0%B0%D1%88%D0%B0-%2B-%D0%A1%D0%BB%D0%B0%D0%B2%D0%B0-id479047?country=ru) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcasts-111905078) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/pg/slava.pasha/posts/) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/7867956?from=serp) • [![Email](img/favicons/email.png)](mailto:pavel.finkelshtein@gmail.com)|
+|**Описание**     |Подкаст об ИТ и связанных с ним вещах. Спикерами являются опытные айтишники, работающие в разных сферах и компаниях.|
+|**Ведущие**      |Паша Финкельштейн [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/asm0di0) [![GitHub](img/favicons/github.com.png)](https://github.com/asm0dey) [![LinkedIn](img/favicons/linkedin.cn.png)](https://www.linkedin.com/in/asm0dey/) [![VK](img/favicons/vk.com.png)](https://vk.com/asm0dey) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/asm0dey) [![StackOverflow](img/favicons/stackoverflow.com.png)](https://stackoverflow.com/users/1160959/asm0dey) [![Telegram](img/favicons/t.me.png)](https://t.me/asm0dey) [![Email](img/favicons/email.png)](mailto:pavel.finkelshtein@gmail.com)|
+|**Регулярность** |Несколько раз в месяц|
+|**Длительность** |80-100 минут|
+
+---
+
 |Название         |Сушите вёсла|
 |:----------------|:-----------|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/%D1%81%D1%83%D1%88%D0%B8%D1%82%D0%B5-%D0%B2%D1%91%D1%81%D0%BB%D0%B0/id1466243923)[![Player](img/favicons/player.fm.png)](https://player.fm/series/sushitie-viosla) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/%D0%A1%D1%83%D1%88%D0%B8%D1%82%D0%B5-%D0%B2%D1%91%D1%81%D0%BB%D0%B0-id2151994?country=ru)[![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/9303111?from=serp)|
