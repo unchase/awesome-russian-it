@@ -185,26 +185,6 @@
 
 ---
 
-|Название         |Remote Talk|
-|:----------------|:----------|
-|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/csssr/sets/remote-talk) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/remote-talk/id1414821759) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/remote-talk/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/remote-talk) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/Remote-Talk-id1382046?country=ru) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/remote-talk) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/9050141?from=serp)|
-|**Описание**     |Подкаст о разработчиках из регионов и местных IT-сообществах.|
-|**Ведущие**      |Сергей Головин [![Telegram](img/favicons/t.me.png)](https://www.t.me/sgolovin) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/_sgolovin) [![GitHub](img/favicons/github.com.png)](https://github.com/daynin) [![Email](img/favicons/email.png)](mailto:golovim@gmail.com)|
-|**Регулярность** |Раз в месяц|
-|**Длительность** |50-80 минут|
-
----
-
-|Название         |[SITCast](https://sitc.community/)|
-|:----------------|:---------------------------------|
-|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/us/podcast/sitcast/id1449716272) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/sitcast) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCWwGzRCrnCWRVQ_UlpwZQMA) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcasts-143954349) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/TcommunityI) • [![Telegram](img/favicons/t.me.png)](https://t.me/Samara_IT_Community) • [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/itc_samara/)|
-|**Описание**     |Подкаст паблика Samara IT Community в котором Дима Червяков, Коля Сладкий, Никита Пузанков и Дмитрий Николаев рассказывают о своём пути в IT и спорят на различные темы, близкие тем кто работает в сфере IT или интересуется ей.|
-|**Ведущие**      |Дима Червяков<br>Николай Сладкий [![VK](img/favicons/vk.com.png)](https://vk.com/nikolasmelui) [![Telegram](img/favicons/t.me.png)](https://telegram.me/nikolasmelui) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/NikolasMelui/) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/nikolasmelui/) [![GitHub](img/favicons/github.com.png)](https://github.com/NikolasMelui)<br>[Никита Пузанков](https://humb1t.tumblr.com/) [![VK](img/favicons/vk.com.png)](https://vk.com/humb1t) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/humb1t) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/humb1t/) [![LinkedIn](img/favicons/linkedin.cn.png)](https://www.linkedin.com/in/humb1t/) [![dev.to](img/favicons/dev.to.png)](https://dev.to/humb1t) [![Telegram](img/favicons/t.me.png)](https://telegram.me/humb1t) [![GitHub](img/favicons/github.com.png)](https://github.com/humb1t) [![Email](img/favicons/email.png)](mailto:humb1t@yandex.ru)<br>Дмитрий Николаев [![VK](img/favicons/vk.com.png)](https://vk.com/nikolaev_dd) [![GitHub](img/favicons/github.com.png)](https://github.com/BooSt163) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/nikolaev_dd)|
-|**Регулярность** |Несколько раз в месяц|
-|**Длительность** |30-90 минут|
-
----
-
 |Название         |[DevZen Podcast](https://devzen.ru/)|
 |:----------------|:-----------------------------------|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/devzen-podcast/id903660317) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/devzen-podcast/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/2105533) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/DevZen-Podcast-id1196008?country=ru) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/devzen-podcast) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/devzen_ru) • [![Email](img/favicons/email.png)](mailto:podcast@devzen.ru) • [![RSS](img/favicons/rss.png)](https://devzen.ru/feed/)|
@@ -215,9 +195,19 @@
 
 ---
 
+|Название         |[Generic Talks](https://generictalks.com/)|
+|:----------------|:-----------------------------------------|
+|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/generictalks) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/pl/podcast/generic-talks/id1489980299) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/generic-talks) • [![VK](img/favicons/vk.com.png)](https://vk.com/generictalks) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/GenericTalks) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/generictalks/) • [![Telegram](img/favicons/t.me.png)](https://t.me/generictalks) • [![GitHub](img/favicons/github.com.png)](https://github.com/generictalks) • [![Email](img/favicons/email.png)](mailto:podcast@olegk.dev)|
+|**Описание**     |Душевные беседы о программировании и смежных темах. Говорим о коде: высоко- и низкоуровневых вещах, правильном использовании технологий и, конечно, производительности.|
+|**Ведущие**      |[Олег Ковалев](https://olegk.dev/) [![GitHub](img/favicons/github.com.png)](https://github.com/cristaloleg) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/oleg_kovalov) [![Telegram](img/favicons/t.me.png)](https://t.me/olegkovalov) [![VK](img/favicons/vk.com.png)](https://vk.com/oleg.kovalov) [![LinkedIn](img/favicons/linkedin.cn.png)](https://www.linkedin.com/in/olegkovalov) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/iamolegkovalov/) [![Email](img/favicons/email.png)](mailto:iamolegkovalov@gmail.com) [![Email](img/favicons/email.png)](mailto:github@olegk.dev)<br>Богдан Сторожук [![GitHub](img/favicons/github.com.png)](https://github.com/storozhukBM) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/BStorozhuk)<br>[Искандер Шарипов](https://quasilyte.dev/status/) [![GitHub](img/favicons/github.com.png)](https://github.com/quasilyte) [![VK](img/favicons/vk.com.png)](https://vk.com/quasilyte) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/quasilyte) [![LinkedIn](img/favicons/linkedin.cn.png)](https://www.linkedin.com/in/quasilyte) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/quasilyte/) [![Email](img/favicons/email.png)](mailto:quasilyte@gmail.com)|
+|**Регулярность** |Еженедельно|
+|**Длительность** |60-100 минут|
+
+---
+
 |Название         |[Habr Weekly](https://habr-podcast.com/weekly/)|
 |:----------------|:----------------------------------------------|
-|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/habr-weekly) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/habr-weekly/id1464188474) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/?feed=aHR0cDovL2ZlZWRzLnNvdW5kY2xvdWQuY29tL3VzZXJzL3NvdW5kY2xvdWQ6dXNlcnM6NjM3NjIzMzQyL3NvdW5kcy5yc3M) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/habr-weekly/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/habr-weekly) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/Habr-Weekly-id2132862?country=ru) • [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/search/?q=habr+weekly#h) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/playlist?list=PLiBYz3OQubLpCBwIXnMm-29V3uKcDfU7O) • [![VK](img/favicons/vk.com.png)](https://vk.com/habr?z=podcast-20629724_456239017) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/habr_com) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/habrahabr.ru) • [![Telegram](img/favicons/t.me.png)](https://t-do.ru/habrpodcast) • [![Yandex Zen](img/favicons/zen.yandex.ru.png)](https://zen.yandex.ru/habr) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/7600069) • [Email](img/favicons/email.png)](mailto:hello@habr-podcast.com)|
+|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/habr-weekly) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/habr-weekly/id1464188474) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/?feed=aHR0cDovL2ZlZWRzLnNvdW5kY2xvdWQuY29tL3VzZXJzL3NvdW5kY2xvdWQ6dXNlcnM6NjM3NjIzMzQyL3NvdW5kcy5yc3M) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/habr-weekly/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/habr-weekly) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/Habr-Weekly-id2132862?country=ru) • [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/search/?q=habr+weekly#h) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/playlist?list=PLiBYz3OQubLpCBwIXnMm-29V3uKcDfU7O) • [![VK](img/favicons/vk.com.png)](https://vk.com/habr?z=podcast-20629724_456239017) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/habr_com) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/habrahabr.ru) • [![Telegram](img/favicons/t.me.png)](https://t-do.ru/habrpodcast) • [![Yandex Zen](img/favicons/zen.yandex.ru.png)](https://zen.yandex.ru/habr) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/7600069) • [![Email](img/favicons/email.png)](mailto:hello@habr-podcast.com)|
 |**Описание**     |Команда Хабра и их гости собираются раз в неделю, чтобы обсудить лучшие посты сообщества и главные новости IT.|
 |**Ведущие**      |[Далер Алиёров](https://aliyorov.com/) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/daleraliyorov/) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/aliyorov/) [![Telegram](img/favicons/t.me.png)](https://t.me/dalerblog) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/daleraliyorov) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/daler.aliyorov) [![Email](img/favicons/email.png)](mailto:daler@aliyorov.com)<br>Иван Звягин [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/baragol)<br>Адель Мубаракшин [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/ExarGD) [![GitHub](img/favicons/github.com.png)](https://github.com/ExarGD) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/ExarGD)<br>Николай Землянский [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/nick.zemlyanskiy)<br>Анна Линская [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/anna.linskaya) [![Email](img/favicons/email.png)](mailto:anna@tmtm.ru)|
 |**Регулярность** |Еженедельно|
@@ -275,6 +265,16 @@
 
 ---
 
+|Название         |Remote Talk|
+|:----------------|:----------|
+|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/csssr/sets/remote-talk) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/remote-talk/id1414821759) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/remote-talk/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/remote-talk) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/Remote-Talk-id1382046?country=ru) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/remote-talk) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/9050141?from=serp)|
+|**Описание**     |Подкаст о разработчиках из регионов и местных IT-сообществах.|
+|**Ведущие**      |Сергей Головин [![Telegram](img/favicons/t.me.png)](https://www.t.me/sgolovin) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/_sgolovin) [![GitHub](img/favicons/github.com.png)](https://github.com/daynin) [![Email](img/favicons/email.png)](mailto:golovim@gmail.com)|
+|**Регулярность** |Раз в месяц|
+|**Длительность** |50-80 минут|
+
+---
+
 |Название         |[SDCast](https://sdcast.ksdaemon.ru/)|
 |:----------------|:------------------------------------|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/software-development-podcast/id890468606) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/sdcast/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/sdcast) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/373241?country=ru) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/sdcast) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/SDCast_podcast) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/6880277?from=serp) • [![RSS](img/favicons/rss.png)](https://sdcast.ksdaemon.ru/feed/podcast/)|
@@ -282,6 +282,16 @@
 |**Ведущие**      |[Константин Буркалёв](http://blog.ksdaemon.ru/) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/KSDaemon) [![VK](img/favicons/vk.com.png)](https://vk.com/ksdaemon) [![LinkedIn](img/favicons/linkedin.cn.png)](http://ru.linkedin.com/in/ksdaemon) [![GitHub](img/favicons/github.com.png)](https://github.com/KSDaemon) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/ksdaemon/) [![Email](img/favicons/email.png)](mailto:kostik@ksdaemon.ru) [![Email](img/favicons/email.png)](mailto:KSDaemon@ya.ru) [![RSS](img/favicons/rss.png)](https://blog.ksdaemon.ru/feed/)|
 |**Регулярность** |Время от времени.|
 |**Длительность** |60-120 минут|
+
+---
+
+|Название         |[SITCast](https://sitc.community/)|
+|:----------------|:---------------------------------|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/us/podcast/sitcast/id1449716272) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/sitcast) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCWwGzRCrnCWRVQ_UlpwZQMA) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcasts-143954349) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/TcommunityI) • [![Telegram](img/favicons/t.me.png)](https://t.me/Samara_IT_Community) • [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/itc_samara/)|
+|**Описание**     |Подкаст паблика Samara IT Community в котором Дима Червяков, Коля Сладкий, Никита Пузанков и Дмитрий Николаев рассказывают о своём пути в IT и спорят на различные темы, близкие тем кто работает в сфере IT или интересуется ей.|
+|**Ведущие**      |Дима Червяков<br>Николай Сладкий [![VK](img/favicons/vk.com.png)](https://vk.com/nikolasmelui) [![Telegram](img/favicons/t.me.png)](https://telegram.me/nikolasmelui) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/NikolasMelui/) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/nikolasmelui/) [![GitHub](img/favicons/github.com.png)](https://github.com/NikolasMelui)<br>[Никита Пузанков](https://humb1t.tumblr.com/) [![VK](img/favicons/vk.com.png)](https://vk.com/humb1t) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/humb1t) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/humb1t/) [![LinkedIn](img/favicons/linkedin.cn.png)](https://www.linkedin.com/in/humb1t/) [![dev.to](img/favicons/dev.to.png)](https://dev.to/humb1t) [![Telegram](img/favicons/t.me.png)](https://telegram.me/humb1t) [![GitHub](img/favicons/github.com.png)](https://github.com/humb1t) [![Email](img/favicons/email.png)](mailto:humb1t@yandex.ru)<br>Дмитрий Николаев [![VK](img/favicons/vk.com.png)](https://vk.com/nikolaev_dd) [![GitHub](img/favicons/github.com.png)](https://github.com/BooSt163) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/nikolaev_dd)|
+|**Регулярность** |Несколько раз в месяц|
+|**Длительность** |30-90 минут|
 
 ---
 
