@@ -105,6 +105,16 @@
 
 ---
 
+|Название         |Айтикаст|
+|:----------------|:-------|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ua/podcast/%D0%B0%D0%B9%D1%82%D0%B8%D0%BA%D0%B0%D1%81%D1%82/id1291304119) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/ajtikast/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/series-1670847) • [![VK](img/favicons/vk.com.png)](https://vk.com/iteacast) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/IteaCast) • [![Podster](img/favicons/podster.fm.png)](https://iteacast.podster.fm/) • [![RSS](img/favicons/rss.png)](https://podster.fm/rss.xml?pid=47442)|
+|**Описание**     |Подкаст об IT-индустрии и гик-тусовке. Мы обсуждем новости технологий, говорим о мероприятиях, рассказываем о разных профессиях, а также зовём в гости интересных людей из мира технологий!|
+|**Ведущие**      |Алексей Калачёв (XeaL) [![VK](img/favicons/vk.com.png)](https://vk.com/xealstorm) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/xealstorm) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/xealstorm/) [![GitHub](img/favicons/github.com.png)](https://github.com/xealstorm) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCWxGD-wTGRhehRSD2ZvaxSw) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/xealstorm/)|
+|**Регулярность** |Не выходит|
+|**Длительность** |30-100 минут|
+
+---
+
 |Название         |[Витая Пара](https://tpair.org/)|
 |:----------------|:-------------------------------|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/us/podcast/podkast-vitaa-para/id523996227) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/vitaya-para/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/series-59987) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/id407676?country=ru) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/vitaya-para) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCjFDZt5o1PeZRQ8sRgv4Wzg) • [![Podster](img/favicons/podster.fm.png)](https://tpair.podster.fm/) • [![VK](img/favicons/vk.com.png)](https://vk.com/tpair) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/tpair_podcast) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/tpair.org/) • [![Telegram](img/favicons/t.me.png)](https://t.me/joinchat/BlBHnxBKkEPOY4pHEo5byQ) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/6880205?from=serp) • [![RSS](img/favicons/rss.png)](https://tpair.org/feed/podcast)|
