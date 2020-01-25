@@ -77,6 +77,16 @@
 
 ---
 
+|Название         |[Витая Пара](https://tpair.org/)|
+|:----------------|:-------------------------------|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/us/podcast/podkast-vitaa-para/id523996227) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/vitaya-para/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/series-59987) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/id407676?country=ru) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/vitaya-para) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCjFDZt5o1PeZRQ8sRgv4Wzg) • [![Podster](img/favicons/podster.fm.png)](https://tpair.podster.fm/) • [![VK](img/favicons/vk.com.png)](https://vk.com/tpair) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/tpair_podcast) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/tpair.org/) • [![Telegram](img/favicons/t.me.png)](https://t.me/joinchat/BlBHnxBKkEPOY4pHEo5byQ) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/6880205?from=serp) • [![RSS](img/favicons/rss.png)](https://tpair.org/feed/podcast)|
+|**Описание**     |Развлекательный подкаст о новостях в мире IT.|
+|**Ведущие**      |Александр Обливальный [![VK](img/favicons/vk.com.png)](https://vk.com/pingwin87) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/pingwin87) [![GitHub](img/favicons/github.com.png)](https://github.com/PingWIn87) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/dj_radjazz/)|
+|**Регулярность** |Еженедельно|
+|**Длительность** |40-100 минут|
+
+---
+
 |Название         |[Две столицы](http://www.2capitals.space)|
 |:----------------|:----------------------------------------|
 |**Ссылки**       |[![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/dve-stolicy-ujutnyj-podkast-it-pankov/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/series-1297185) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/2491598?country=ru) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/dve-stolitsy-uyutnyy-podkast-it-pankov) • [![Podster](img/favicons/podster.fm.png)](https://2capitals.podster.fm/) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCVyA6ONMsbIB-TSLZO8HNmQ) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcast2capitals) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/2capitals/) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/6880541?from=serp)|
