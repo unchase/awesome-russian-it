@@ -165,6 +165,16 @@
 
 ---
 
+|Название         |[Make sense podcast](https://productsense.io/podcast)|
+|:----------------|:----------------------------------------------------|
+|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/productsense) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/make-sense-podcast/id1417851966) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/make-sense/) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/make-sense-podcast) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/make-sense-podcast-id1381489?country=ru) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/make-sense) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/playlist?list=PLLgDtcIRzw1pjg9owrmHvyHkY0GHCIo2h) • [![VK](img/favicons/vk.com.png)](https://vk.com/mkspodcast) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/makesensecast/?ref=py_c) • [![Telegram](img/favicons/t.me.png)](https://t-do.ru/productsense) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/6842874?from=serp)|
+|**Описание**     |Вместе с гостями подкаста make sense мы говорим о том, что важно при создании продуктов: люди, идеи, деньги, инструменты и практики.|
+|**Ведущие**      |Юрий Агеев [![VK](img/favicons/vk.com.png)](https://vk.com/ageev.yuri) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/ageev.yuri)|
+|**Регулярность** |Еженедельно|
+|**Длительность** |40-60 минут|
+
+---
+
 |Название         |[Podlodka Podcast](http://podlodka.io/)|
 |:----------------|:--------------------------------------|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/podlodka) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/podlodka-podcast/id1209828744) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjI5MTMzNzEwNi9zb3VuZHMucnNz) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/podlodka-podcast/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/podlodka-podcast) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/id483085?country=ru) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/channel/podlodka-podcast) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCOei1E1Vqq10S913OEqTWGw) • [![VK](img/favicons/vk.com.png)](https://vk.com/podlodkapodcast) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/PodlodkaPodcast) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/podlodkacast/) • [![Telegram](img/favicons/t.me.png)](https://t.me/podlodka) • [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/podlodkacast/) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/7570122?from=serp) • [![RSS](img/favicons/rss.png)](http://feeds.soundcloud.com/users/soundcloud:users:291337106/sounds.rss)|
