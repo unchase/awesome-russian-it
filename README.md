@@ -185,6 +185,16 @@
 
 ---
 
+|Название         |Remote Talk|
+|:----------------|:----------|
+|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/csssr/sets/remote-talk) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/remote-talk/id1414821759) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/remote-talk/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/remote-talk) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/Remote-Talk-id1382046?country=ru) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/remote-talk) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/9050141?from=serp)|
+|**Описание**     |Подкаст о разработчиках из регионов и местных IT-сообществах.|
+|**Ведущие**      |Сергей Головин [![Telegram](img/favicons/t.me.png)](https://www.t.me/sgolovin) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/_sgolovin) [![GitHub](img/favicons/github.com.png)](https://github.com/daynin) [![Email](img/favicons/email.png)](mailto:golovim@gmail.com)|
+|**Регулярность** |Раз в месяц|
+|**Длительность** |50-80 минут|
+
+---
+
 |Название         |[SITCast](https://sitc.community/)|
 |:----------------|:---------------------------------|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/us/podcast/sitcast/id1449716272) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/sitcast) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCWwGzRCrnCWRVQ_UlpwZQMA) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcasts-143954349) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/TcommunityI) • [![Telegram](img/favicons/t.me.png)](https://t.me/Samara_IT_Community) • [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/itc_samara/)|
