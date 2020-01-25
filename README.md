@@ -135,6 +135,16 @@
 
 ---
 
+|Название         |Завтра Облачно|
+|:----------------|:-------------|
+|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/mcspodcast) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/%D0%B7%D0%B0%D0%B2%D1%82%D1%80%D0%B0-%D0%BE%D0%B1%D0%BB%D0%B0%D1%87%D0%BD%D0%BE/id1448989483) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/?feed=aHR0cDovL2ZlZWRzLnNvdW5kY2xvdWQuY29tL3VzZXJzL3NvdW5kY2xvdWQ6dXNlcnM6NTYxNDg1NTExL3NvdW5kcy5yc3M&ved=0CAAQ4aUDahcKEwiQs_ym35_nAhUAAAAAHQAAAAAQAQ) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/%D0%97%D0%B0%D0%B2%D1%82%D1%80%D0%B0-%D0%9E%D0%B1%D0%BB%D0%B0%D1%87%D0%BD%D0%BE-id1985573?country=ru) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCnvbzVff0AGuHHzxcDTtj6w) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/Mail.ruCloudSolutions) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/6965462?from=serp)|
+|**Описание**     |Просто об облаках и IT. Что под капотом у новых информационных технологий и как их использует бизнес.|
+|**Ведущие**      ||
+|**Регулярность** |Время от времени|
+|**Длительность** |40-70 минут|
+
+---
+
 |Название         |Мысли и методы (бывш. Хекслет)|
 |:----------------|:-----------------------------|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/mimpod) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/hekslet/id1162673070) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/episodes/24-eksperiment-mysli-i-metody/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/mysli-i-mietody-byvsh-khieksliet) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/id395706?country=ru) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/clip/24-eksperiment-mysli-i-metody) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/watch?v=YG-Qk4teUsM&list=PLJkY8w_wcMfs8B03qRp0tSW4KHcxOetvx) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/ru_freetonik) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/6408500?from=serp) • [![RSS](img/favicons/rss.png)](http://feeds.soundcloud.com/users/soundcloud:users:259154388/sounds.rss)|
