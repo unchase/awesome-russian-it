@@ -425,6 +425,14 @@
 
 ##### **Android**
 
+|Название         |Android Broadcast|
+|:----------------|:----------------|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/by/podcast/android-broadcast/id1492425305) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/andro_broadcast) • [![Telegram](img/favicons/t.me.png)](https://t.me/android_broadcast)|
+|**Описание**     |Подкаст о разработке под Android и все что с этим связано.|
+|**Ведущие**      |Кирилл Розов [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/kirill_rozov) [![Medium](img/favicons/medium.com.png)](https://medium.com/@kirillr) [![GitHub](img/favicons/github.com.png)](https://github.com/kirich1409) [![Email](img/favicons/email.png)](mailto:krl.rozov@gmail.com)|
+|**Регулярность** |Несколько раз в месяц|
+|**Длительность** |50-80 минут|
+
 ##### **Kotlin**
 
 ##### **Swift**
