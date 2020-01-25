@@ -493,6 +493,14 @@
 
 #### **DevOps**
 
+|Название         |[DevOps Дефлопе](https://devopsdeflope.ru/)|
+|:----------------|:------------------------------------------|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/devops-deflope-podkast/id670175970) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/devops-deflope/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/devops-83142) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/DevOps-%D0%94%D0%B5%D1%84%D0%BB%D0%BE%D0%BF%D0%B5-%D0%BF%D0%BE%D0%B4%D0%BA%D0%B0%D1%81%D1%82-id25614?country=ru) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/devops-deflope) • [![VK](img/favicons/vk.com.png)](https://vk.com/devopsdeflopenews) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/devopsdeflope) • [![Facebook](img/favicons/facebook.com.png)](https://ru-ru.facebook.com/DevOpsDeflopeNews/) • [![Telegram](img/favicons/t.me.png)](https://telegram.me/devops_deflope) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/9256207?from=serp) • [![GitHub](img/favicons/github.com.png)](https://github.com/devopsdeflope-podcast) • [![Email](img/favicons/email.png)](mailto:input@devopsdeflope.ru) • [![RSS](img/favicons/rss.png)](https://feeds.feedburner.com/devopsdeflope)|
+|**Описание**     |Русскоязычных подкаст, в котором мы рассказываем о DevOps движении и идеях, которые возникли и развиваются в рамках DevOps. Также мы рассказываем о инструментах DevOps инженеров: Docker, Kubernetes, Ansible, облаках, мониторинге, логировании, отказоустойчивости, катастрофоустойчивости, высоких нагрузках и много чем еще.|
+|**Ведущие**      |[Андрей Александров](https://aladmit.com/) [![GitHub](img/favicons/github.com.png)](https://github.com/aladmit) [![Telegram](img/favicons/t.me.png)](https://t.me/aladmit_world) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/aladmit_twit) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/aladmit) [![LinkedIn](img/favicons/linkedin.cn.png)](https://www.linkedin.com/in/aladmit/) [![Email](img/favicons/email.png)](mailto:aladmitservices@fastmail.com) [![RSS](img/favicons/rss.png)](https://aladmit.com/feed.xml)<br>Виталий Хабаров [![GitHub](img/favicons/github.com.png)](https://github.com/vitkhab) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/vitkhab)|
+|**Регулярность** |Время от времени|
+|**Длительность** |50-90 минут|
+
 ---
 
 ## **Мероприятия**
