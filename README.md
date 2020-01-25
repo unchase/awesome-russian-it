@@ -397,6 +397,16 @@
 
 #### **Мобильная разработка**
 
+|Название         |[Android Dev](http://androiddev.apptractor.ru/)|
+|:----------------|:----------------------------------------------|
+|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/leonid-bogolubov) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/android-dev-podkast/id1076856310) • [![Podster](img/favicons/podster.fm.png)](https://apptractor-podcast.podster.fm/) • [![Telegram](img/favicons/t.me.png)](https://telegram.me/androiddevpodcast) • [![RSS](img/favicons/rss.png)](http://androiddev.apptractor.ru/feed/)|
+|**Описание**     |Android Dev — подкаст о разработке под Android и всем, что с этим связано. Гости программы — разработчики с большим опытом и стажем, которые помнят Android, когда он еще был версии 1.5, и за годы написали приложения для миллионов пользователей по всему миру.|
+|**Ведущие**      |Денис Неклюдов [![GitHub](img/favicons/github.com.png)](https://github.com/nekdenis) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/nekdenis) [![LinkedIn](img/favicons/linkedin.cn.png)](https://www.linkedin.com/in/nekdenis) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/nekdenis/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCj_j_lkgl-d2AMIMJiTZxzg) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/nekdenis) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/nekdenis/)<br>Александр Ефременков [![GitHub](img/favicons/github.com.png)](https://github.com/iamironz) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/iamironz) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/iamironz) [![Email](img/favicons/email.png)](mailto:implimentz@gmail.com)<br>Дмитрий Полищук [![GitHub](img/favicons/github.com.png)](https://github.com/dpolishuk) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/dpolishuk)<br>Даниил Сердюков [![GitHub](img/favicons/github.com.png)](https://github.com/DanielSerdyukov/) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/danielserdyukov) [![Email](img/favicons/email.png)](mailto:daniel.serdyukov@gmail.com)<br>и др.|
+|**Регулярность** |Время от времени|
+|**Длительность** |50-140 минут|
+
+---
+
 |Название         |[Appbooster](https://appbooster.com/)|
 |:----------------|:------------------------------------|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/appbooster) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/appbooster/id1481440666) • [![VK](img/favicons/vk.com.png)](https://vk.com/appbooster) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/appbooster_ru) • [![Telegram](img/favicons/t.me.png)](https://t.me/love_mobile) • [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/appbooster/)|
