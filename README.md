@@ -437,6 +437,16 @@
 
 ---
 
+|Название         |[AppleInsider.ru](https://appleinsider.ru/ipodcast)|
+|:----------------|:--------------------------------------------------|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/id427483050) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/appleinsiderru-1296998/wwdc2017-appleinsiderru) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/clip/298-yezhenedel-nyy-podkast-appleinsider-ru) • [![VK](img/favicons/vk.com.png)](https://vk.com/appleinsider) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/appleinsider_ru) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/AppleInsider.ru) • [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/appleinsider_ru/) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/6408365?from=serp)|
+|**Описание**     |Подкаст AppleInsider.ru знают не только посетители нашего сайта и других технологических блогов. Миша, Ренат и Ксюша давно уже успели стать звездами рунета, главными персонажами слезливых снов поклонниц и поклонников, а также предводителями целой армии фолловеров. И если вы до сих пор не знакомы с этими персоналиями, то немедленно настраивайтесь на наш подкаст и наслаждайтесь этим наиприятнейшим действом.|
+|**Ведущие**      |Миша Королев<br>[Ренат Гришин](https://about.me/iprizrak) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/iprizrak) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/iprizrak/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/user/renatgrishin) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/renat.grisin)<br>Константин Ёлшин|
+|**Регулярность** |Не выпускается|
+|**Длительность** |40-120 минут|
+
+---
+
 |Название         |AppsCast|
 |:----------------|:-------|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/appscast) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/appscast/id1454777453) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/appscast) • [![VK](img/favicons/vk.com.png)](https://vk.com/appscast) • [![Telegram](img/favicons/t.me.png)](https://t.me/AppsCastChatter)|
