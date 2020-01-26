@@ -232,6 +232,16 @@
 
 ---
 
+|Название         |МакЛикбез .подкаст|
+|:----------------|:-----------------|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/макликбез-подкаст/id1395500354) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/maklikbiez-podkast) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/%D0%9C%D0%B0%D0%BA%D0%9B%D0%B8%D0%BA%D0%B1%D0%B5%D0%B7-.%D0%BF%D0%BE%D0%B4%D0%BA%D0%B0%D1%81%D1%82-id1365942?country=ru) • [![Podster](img/favicons/podster.fm.png)](https://maklikbez-podkast.podster.fm/) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCkTNOXHzfyx7C-cIhCHmpCw) • [![VK](img/favicons/vk.com.png)](https://vk.com/maclikbez) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/9638339?from=serp)|
+|**Описание**     |Подкаст сообщества МакЛикбез про современные технологии, гаджеты, мир устройств Apple и всё связанное с этим. |
+|**Ведущие**      |[Алексей Бухаров](http://www.alexeybuharov.ru/) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/AlexeyBuharov) [![VK](img/favicons/vk.com.png)](https://vk.com/buharov_alexey) [![Telegram](img/favicons/t.me.png)](https://t.me/alexeybukharov) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/alexey.buharov) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/alexeybuharov/) [![Email](img/favicons/email.png)](mailto:me@alexeybuharov.ru)<br>[Иван Тиуков](https://www.tiukov.com/) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/itiukov) [![Telegram](img/favicons/t.me.png)](https://t.me/tiukov) [![Email](img/favicons/email.png)](mailto:ivan@tiukov.com)<br>Михаил Штейнбок|
+|**Регулярность** |Ежемесячно|
+|**Длительность** |~80 минут|
+
+---
+
 |Название         |[Мамкин Айтишник](https://mamkinboycast.ru/)|
 |:----------------|:-------------------------------------------|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/%D0%BC%D0%B0%D0%BC%D0%BA%D0%B8%D0%BD-%D0%B0%D0%B9%D1%82%D0%B8%D1%88%D0%BD%D0%B8%D0%BA/id1489218647) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/?feed=aHR0cHM6Ly9jZG4ubWFta2luYm95Y2FzdC5ydS9mZWVkL3BvZGNhc3Q) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/2588356) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/%D0%9C%D0%B0%D0%BC%D0%BA%D0%B8%D0%BD-%D0%90%D0%B9%D1%82%D0%B8%D1%88%D0%BD%D0%B8%D0%BA-id2493671?country=ru)) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCmaFUB_MRxKbpU1yZiDfpgg) • [![VK](img/favicons/vk.com.png)](https://vk.com/mamkinboycast) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/9340501?from=serp) • [![RSS](img/favicons/rss.png)](https://cdn.mamkinboycast.ru/feed/podcast)|
@@ -504,7 +514,7 @@
 
 |Название         |[Futureinapps](https://futureinapps.com/podcast)|
 |:----------------|:-----------------------------------------------|
-|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/futureinapps) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/futureinapps/id1492129452) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/futureinapps/) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCgjqcItv1ICwNxAUc5-UzqA) • [![VK](img/favicons/vk.com.png)](https://vk.com/futureinapps) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/futureinapps) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/futureinapps) • [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/futureinapps/) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/9535377?from=serp) • [![Email](img/favicons/email.png)](mailto:INFO@FUTUREINAPPS.COM)|
+|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/futureinapps) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/futureinapps/id1492129452) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/futureinapps/) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/Futureinapps-id2522030?country=ru) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCgjqcItv1ICwNxAUc5-UzqA) • [![VK](img/favicons/vk.com.png)](https://vk.com/futureinapps) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/futureinapps) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/futureinapps) • [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/futureinapps/) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/9535377?from=serp) • [![Email](img/favicons/email.png)](mailto:INFO@FUTUREINAPPS.COM)|
 |**Описание**     |Подкаст от Futureinapps.com.|
 |**Ведущие**      ||
 |**Регулярность** |Еженедельно|
