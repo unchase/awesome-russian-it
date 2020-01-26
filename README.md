@@ -9,6 +9,12 @@
 
 ---
 
+## Контрибьюторы
+
+Этот проект существует благодаря всем людям, которые вносят свой вклад.
+
+<a href="https://github.com/unchase/awesome-russian-it/graphs/contributors"><img src=""></a>
+
 ## Содержание
 
 * **[Блоги](#блоги)**
@@ -36,7 +42,7 @@
   
 * **[Мероприятия](#мероприятия)**
 
-## **Блоги**
+## :page_with_curl: **Блоги**
 
 > Здесь представлены блоги различных людей, связанных с разработкой и со сферой ИТ в целом.
 
@@ -56,7 +62,7 @@
 |**[Andrey on .NET](https://andrey.moveax.ru/)**<br>[![RSS](img/favicons/rss.png)](http://feeds.moveax.ru/devdotnet)|Про C#, .NET, ASP.NET, Core, MVC, Azure, EF, IoC и другие умные слова.|Андрей Веселов [![MVP](img/favicons/mvp.microsoft.com.png)](https://mvp.microsoft.com/ru-ru/PublicProfile/4039965?fullName=Andrey%20Veselov) [![GitHub](img/favicons/github.com.png)](https://github.com/VeselovAndrey) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/AndreyVeselov) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/veselov.andrey) [![LinkedIn](img/favicons/linkedin.cn.png)](https://linkedin.com/in/veselovandrey)|
 |**[Code Instinct](https://www.codeinstinct.pro/)**<br>[![RSS](img/favicons/rss.png)](https://www.codeinstinct.pro/feeds/posts/default?alt=rss)|Блог Дмитрия Петухова, консультанта по технологиям машинного обучения, Cloud-архитектора, спикера, неутомимого исследователя и кофемана.|Дмитрий Петухов [![MVP](img/favicons/mvp.microsoft.com.png)](https://mvp.microsoft.com/ru-ru/PublicProfile/5001834?fullName=Dmitry%20Petukhov) [![GitHub](img/favicons/github.com.png)](https://github.com/codez0mb1e) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/codez0mb1e) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/codez0mb1e) [![Telegram](img/favicons/t.me.png)](https://t.me/codez0mb1e) [![LinkedIn](img/favicons/linkedin.cn.png)](https://www.linkedin.com/in/dpetukhov/) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/codezombie/)|
 
-## **Подкасты**
+## :microphone: **Подкасты**
 
 > Список русскоязычных подкастов для инженеров и разработчиков сферы ИТ. Здесь собрана информация обо всех как наиболее популярных, так и почти неизвестных ИТ-подкастах, а также указаны ссылки для связи с их авторами.
 
@@ -1124,7 +1130,7 @@
 
 ---
 
-## **Мероприятия**
+## :date: **Мероприятия**
 
 > Здесь собраны агрегаторы всевозможных мероприятий (конференций, митапов, хакатонов и встреч) по ИТ тематике.
 
