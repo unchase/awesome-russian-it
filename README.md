@@ -502,6 +502,16 @@
 
 ---
 
+|Название         |[Futureinapps](https://futureinapps.com/podcast)|
+|:----------------|:-----------------------------------------------|
+|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/futureinapps) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/futureinapps/id1492129452) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/futureinapps/) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCgjqcItv1ICwNxAUc5-UzqA) • [![VK](img/favicons/vk.com.png)](https://vk.com/futureinapps) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/futureinapps) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/futureinapps) • [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/futureinapps/) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/9535377?from=serp) • [![Email](img/favicons/email.png)](mailto:INFO@FUTUREINAPPS.COM)|
+|**Описание**     |Подкаст от Futureinapps.com.|
+|**Ведущие**      ||
+|**Регулярность** |Еженедельно|
+|**Длительность** |10-50 минут|
+
+---
+
 |Название         |[Generic Talks](https://generictalks.com/)|
 |:----------------|:-----------------------------------------|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/generictalks) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/pl/podcast/generic-talks/id1489980299) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/generic-talks) • [![VK](img/favicons/vk.com.png)](https://vk.com/generictalks) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/GenericTalks) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/generictalks/) • [![Telegram](img/favicons/t.me.png)](https://t.me/generictalks) • [![GitHub](img/favicons/github.com.png)](https://github.com/generictalks) • [![Email](img/favicons/email.png)](mailto:podcast@olegk.dev)|
