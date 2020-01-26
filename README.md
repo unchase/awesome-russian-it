@@ -11,21 +11,14 @@
 
 * **[Подкасты](#подкасты)**
   * [Администрирование](#администрирование)
-    * [ОС](#ос)
-      * [Linux](#linux)
-      * [Windows](#windows)
   * [Блокчейн](#блокчейн)
-  * [Железо](#железо)
   * [ИТ-безопасность](#ит-безопасность)
   * [Общее](#общее)
   * [Разработка](#разработка)
       * [.NET](#net)
-      * [C/C++](#cc)
-      * [Go](#go)
       * [PHP](#php)
       * [Python](#python)
       * [Ruby](#ruby)
-      * [Rust](#rust)
       * [Scala](#scala)
     * [Веб-разработка](#веб-разработка)
     * [Мобильная разработка](#мобильная-разработка)
@@ -52,12 +45,6 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |30-130 минут|
 
-#### **ОС**
-
-##### **Linux**
-
-##### **Windows**
-
 ### **Блокчейн**
 
 |Название         |[Базовый блок: блокчейн без буллшита](https://basicblockradio.com/)|
@@ -67,8 +54,6 @@
 |**Ведущие**      |[Сергей Тихомиров](https://sergei.substack.com) [![VK](img/favicons/vk.com.png)](https://vk.com/serj_nickel) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/serg_tikhomirov) [![RSS](img/favicons/rss.png)](https://sergei.substack.com/feed)<br>Иван Иваницкий [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/IvanitskiyIvan) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/ivan.ivanitsky) [![Medium](img/favicons/medium.com.png)](https://medium.com/@ivanitskiy.ivan) [![VK](img/favicons/vk.com.png)](https://vk.com/discovan) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/ivanitskiy_ivan/) [![GitHub](img/favicons/github.com.png)](https://github.com/Ivan-Ivanitskiy) [![Email](img/favicons/email.png)](mailto:ivanitskiy.ivan@gmail.com)<br>Сергей Павлин [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/srg_pavlin)<br>Александр Селезнев [![Telegram](img/favicons/t.me.png)](https://t.me/msbenighted) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/msbenighted/)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |50-110 минут|
-
-### **Железо**
 
 ### **ИТ-безопасность**
 
@@ -582,10 +567,6 @@
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |30-70 минут|
 
-##### **C/C++**
-
-##### **Go**
-
 ##### **PHP**
 
 |Название         |[Пятиминутка PHP](https://5minphp.ru/)|
@@ -615,8 +596,6 @@
 |**Ведущие**      |[Алексей Васильев](https://leopard.in.ua/) [![GitHub](img/favicons/github.com.png)](https://github.com/le0pard) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/leopard_me) [![Facebook](img/favicons/facebook.com.png)](http://www.facebook.com/leopard.not.a) [![LinkedIn](img/favicons/linkedin.cn.png)](http://www.linkedin.com/in/le0pard) [![RSS](img/favicons/rss.png)](https://leopard.in.ua/rss.xml)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |20-60 минут|
-
-##### **Rust**
 
 ##### **Scala**
 
