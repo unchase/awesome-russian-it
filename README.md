@@ -175,6 +175,16 @@
 
 ---
 
+|Название         |Откровенно про IT-карьеризм|
+|:----------------|:--------------------------|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/us/podcast/%D0%BE%D1%82%D0%BA%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE-%D0%BF%D1%80%D0%BE-it-%D0%BA%D0%B0%D1%80%D1%8C%D0%B5%D1%80%D0%B8%D0%B7%D0%BC/id472631602) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/it-19398) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/otkrovenno-pro-it-kar-yerizm) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/it.career.ua/)|
+|**Описание**     |"Откровенно про IT-карьеризм" — программа, посвященная резюме, собеседованиям, построению карьеры и просто беседах о разных IT-сферах. Программу ведут Михаил Марченко — программист, начинающий Scrum master и просто веселый человек, и его соведущая — HR-manager, бизнес-тренер, специалист по оценке и мотивации персонала Ольга Давыдова.|
+|**Ведущие**      |Михаил Марченко<br>Ольга Давыдова|
+|**Регулярность** |Время от времени|
+|**Длительность** |30-50 минут|
+
+---
+
 |Название         |[Радио-Т](https://radio-t.com)|
 |:----------------|:-----------------------------|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/podcast/%D1%80%D0%B0%D0%B4%D0%B8%D0%BE-%D1%82/id256504435) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/11441) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/id1572?country=ru) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCBl1ML1jnlhRxHlCjSKTyeA) • [![VK](img/favicons/vk.com.png)](https://vk.com/radio_t) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/radio_t) • [![Telegram](img/favicons/t.me.png)](https://t.me/radio_t_podcast) • [![Email](img/favicons/email.png)](mailto:podcast@radio-t.com) • [![RSS](img/favicons/rss.png)](http://feeds.rucast.net/radio-t)|
