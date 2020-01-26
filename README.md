@@ -5,7 +5,7 @@
 
 Здесь собран список полезных русскоязычных ресурсов, связанных с информационными технологиями (разработка, администрирование, митапы и конференции, интервью, новости ИТ и пр.).
 
-Если у вас есть желание помочь с наполнением или актуализацией этого списка, ознакомьтесь с информацией в [CONTRIBUTING.md](CONTRIBUTING.md).
+Если у вас есть желание помочь с наполнением или актуализацией этого списка, ознакомьтесь с информацией в файле [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ---
 
@@ -50,15 +50,15 @@
 
 |Название|Описание|Автор|
 |:-------|:-------|:----|
-|**[Блог Андрея Амельченя](http://flash2048.com/)**<br>[![RSS](img/favicons/rss.png)](http://flash2048.com/syndication.axd/)|Мысли и статьи о программировании и не только.|Андрей Амельченя [![MVP](img/favicons/mvp.microsoft.com.png)](https://mvp.microsoft.com/en-us/PublicProfile/5003272) [![GitHub](img/favicons/github.com.png)](https://github.com/flash2048) [![VK](img/favicons/vk.com.png)](https://vk.com/flash2048) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/flash2048) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/flash2048) [![LinkedIn](img/favicons/linkedin.cn.png)](https://www.linkedin.com/in/flash2048/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCLT9skyV6t0bqsJ5Xzknh9w) [![Email](img/favicons/email.png)](mailto:andrei.amialchenia@gmail.com)|
 |**[Блог Андрея Акиньшина](https://aakinshin.net/ru/posts/)**<br>[![RSS](img/favicons/rss.png)](https://aakinshin.net/ru/rss.xml)|Блог Андрея Акиньшина — разработчика и учёного, частого спикера на конференциях, автора постов и статей. Он мейнтейнер BenchmarkDotNet (самая популярная библиотека для написания .NET-бенчмарков) и автор Pro .NET Benchmarking (книга о практиках замеров производительности).|Андрей Акиньшин [![MVP](img/favicons/mvp.microsoft.com.png)](https://mvp.microsoft.com/en-us/PublicProfile/5001348) [![GitHub](img/favicons/github.com.png)](https://github.com/AndreyAkinshin) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/andrey_akinshin) [![LinkedIn](img/favicons/linkedin.cn.png)](http://www.linkedin.com/in/AndreyAkinshin) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/dreamwalker/) [![Medium](img/favicons/medium.com.png)](https://medium.com/@andrey.akinshin) [![StackOverflow](img/favicons/stackoverflow.com.png)](https://stackoverflow.com/users/184842/AndreyAkinshin) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCk25QhN-9_wwkqyeapuCh9w) [![Email](img/favicons/email.png)](mailto:andrey.akinshin@gmail.com)|
+|**[Блог Андрея Амельченя](http://flash2048.com/)**<br>[![RSS](img/favicons/rss.png)](http://flash2048.com/syndication.axd/)|Мысли и статьи о программировании и не только.|Андрей Амельченя [![MVP](img/favicons/mvp.microsoft.com.png)](https://mvp.microsoft.com/en-us/PublicProfile/5003272) [![GitHub](img/favicons/github.com.png)](https://github.com/flash2048) [![VK](img/favicons/vk.com.png)](https://vk.com/flash2048) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/flash2048) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/flash2048) [![LinkedIn](img/favicons/linkedin.cn.png)](https://www.linkedin.com/in/flash2048/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCLT9skyV6t0bqsJ5Xzknh9w) [![Email](img/favicons/email.png)](mailto:andrei.amialchenia@gmail.com)|
 |**[Блог Дмитрия Нестерука](https://nesteruk.wordpress.com/)**|Блог о программировании — C#, F#, C++, архитектура, и многое другое.|Дмитрий Нестерук [![GitHub](img/favicons/github.com.png)](https://github.com/nesteruk) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCJIlkaXVl-6vU3ghQkr51nQ/feed) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/dnesteruk) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/mezastel/) [![Udemy](img/favicons/udemy.com.png)](https://www.udemy.com/user/dmitrinesteruk/) [![StackOverflow](img/favicons/stackoverflow.com.png)](https://stackoverflow.com/users/9476/dmitri-nesteruk)|
 |**[Andrey on .NET](https://andrey.moveax.ru/)**<br>[![RSS](img/favicons/rss.png)](http://feeds.moveax.ru/devdotnet)|Про C#, .NET, ASP.NET, Core, MVC, Azure, EF, IoC и другие умные слова.|Андрей Веселов [![MVP](img/favicons/mvp.microsoft.com.png)](https://mvp.microsoft.com/ru-ru/PublicProfile/4039965?fullName=Andrey%20Veselov) [![GitHub](img/favicons/github.com.png)](https://github.com/VeselovAndrey) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/AndreyVeselov) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/veselov.andrey) [![LinkedIn](img/favicons/linkedin.cn.png)](https://linkedin.com/in/veselovandrey)|
 |**[Code Instinct](https://www.codeinstinct.pro/)**<br>[![RSS](img/favicons/rss.png)](https://www.codeinstinct.pro/feeds/posts/default?alt=rss)|Блог Дмитрия Петухова, консультанта по технологиям машинного обучения, Cloud-архитектора, спикера, неутомимого исследователя и кофемана.|Дмитрий Петухов [![MVP](img/favicons/mvp.microsoft.com.png)](https://mvp.microsoft.com/ru-ru/PublicProfile/5001834?fullName=Dmitry%20Petukhov) [![GitHub](img/favicons/github.com.png)](https://github.com/codez0mb1e) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/codez0mb1e) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/codez0mb1e) [![Telegram](img/favicons/t.me.png)](https://t.me/codez0mb1e) [![LinkedIn](img/favicons/linkedin.cn.png)](https://www.linkedin.com/in/dpetukhov/) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/codezombie/)|
 
 ## **Подкасты**
 
-> Список русскоязычных подкастов для инженеров и разработчиков сферы ИТ. Здесь собрана информация обо всех наиболее популярных ресурсах, где размещены подкасты, а также указаны ссылки для связи с их авторами.
+> Список русскоязычных подкастов для инженеров и разработчиков сферы ИТ. Здесь собрана информация обо всех как наиболее популярных, так и почти неизвестных ИТ-подкастах, а также указаны ссылки для связи с их авторами.
 
 ### **Администрирование**
 
@@ -214,7 +214,7 @@
 
 |Название         |[Клуб анонимных продакт-менеджеров](https://www.kapm.show/)|
 |:----------------|:----------------------------------------------------------|
-|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ua/podcast/%D0%BA%D0%BB%D1%83%D0%B1-%D0%B0%D0%BD%D0%BE%D0%BD%D0%B8%D0%BC%D0%BD%D1%8B%D1%85-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%BA%D1%82-%D0%BC%D0%B5%D0%BD%D0%B5%D0%B4%D0%B6%D0%B5%D1%80%D0%BE%D0%B2/id1272548806)[![RSS](img/favicons/rss.png)](https://www.kapm.show/feed/podcast/)|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ua/podcast/%D0%BA%D0%BB%D1%83%D0%B1-%D0%B0%D0%BD%D0%BE%D0%BD%D0%B8%D0%BC%D0%BD%D1%8B%D1%85-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%BA%D1%82-%D0%BC%D0%B5%D0%BD%D0%B5%D0%B4%D0%B6%D0%B5%D1%80%D0%BE%D0%B2/id1272548806) • [![RSS](img/favicons/rss.png)](https://www.kapm.show/feed/podcast/)|
 |**Описание**     |Клуб анонимных продакт-менеджеров - это место, где профессионалы из сферы управления продуктом и смежных дисциплин делятся опытом, лайфкахами и историями успеха.|
 |**Ведущие**      |Владимир Мирненко|
 |**Регулярность** |Время от времени|
@@ -374,7 +374,7 @@
 
 |Название         |Сушите вёсла|
 |:----------------|:-----------|
-|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/%D1%81%D1%83%D1%88%D0%B8%D1%82%D0%B5-%D0%B2%D1%91%D1%81%D0%BB%D0%B0/id1466243923)[![Player](img/favicons/player.fm.png)](https://player.fm/series/sushitie-viosla) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/%D0%A1%D1%83%D1%88%D0%B8%D1%82%D0%B5-%D0%B2%D1%91%D1%81%D0%BB%D0%B0-id2151994?country=ru)[![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/9303111?from=serp)|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/%D1%81%D1%83%D1%88%D0%B8%D1%82%D0%B5-%D0%B2%D1%91%D1%81%D0%BB%D0%B0/id1466243923) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/sushitie-viosla) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/%D0%A1%D1%83%D1%88%D0%B8%D1%82%D0%B5-%D0%B2%D1%91%D1%81%D0%BB%D0%B0-id2151994?country=ru) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/9303111?from=serp)|
 |**Описание**     |Подкаст о разработке, аналитике, тестировании и других аспектах создания приложений.|
 |**Ведущие**      ||
 |**Регулярность** |Время от времени|
@@ -392,8 +392,8 @@
 
 ---
 
-|Название         |[Точка (звук) | Эхо Москвы](https://echo.msk.ru/programs/tochka/)|
-|:----------------|:----------------------------------------------------------------|
+|Название         |[Точка](https://echo.msk.ru/programs/tochka/)|
+|:----------------|:--------------------------------------------|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/podcast/точка-звук-эхо-москвы/id378499320) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCBbtn1eyyPyUjqJqhR-nNlw) • [![RSS](img/favicons/rss.png)](https://echo.msk.ru/programs/tochka/rss-audio.xml)|
 |**Описание**     |Обо всём полезном, что встречается в интернете. Задача — поделиться друг с другом информацией о сайтах, сервисах и приложениях.|
 |**Ведущие**      |[Александр Плющев](https://plushev.com/) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/plushev) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/plushev) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/plushev/)<br>Григорий Бакунов (Bobuk) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/bobuk) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/bobuk/) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/thebobuk) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/bobuk/) [![GitHub](img/favicons/github.com.png)](https://github.com/bobuk) [![VK](img/favicons/vk.com.png)](https://vk.com/thebobuk)|
@@ -404,7 +404,7 @@
 
 |Название         |Три с половиной|
 |:----------------|:--------------|
-|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/%D1%82%D1%80%D0%B8-%D1%81-%D0%BF%D0%BE%D0%BB%D0%BE%D0%B2%D0%B8%D0%BD%D0%BE%D0%B9/id1491231589)) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/%D0%A2%D1%80%D0%B8-%D1%81-%D0%BF%D0%BE%D0%BB%D0%BE%D0%B2%D0%B8%D0%BD%D0%BE%D0%B9-id2512301?country=ru)|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/%D1%82%D1%80%D0%B8-%D1%81-%D0%BF%D0%BE%D0%BB%D0%BE%D0%B2%D0%B8%D0%BD%D0%BE%D0%B9/id1491231589) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/%D0%A2%D1%80%D0%B8-%D1%81-%D0%BF%D0%BE%D0%BB%D0%BE%D0%B2%D0%B8%D0%BD%D0%BE%D0%B9-id2512301?country=ru)|
 |**Описание**     |Подкаст «Три с половиной», в котором редакторы N+1 говорят о технологиях, перебивают друг друга и делятся прохладными историями.|
 |**Ведущие**      ||
 |**Регулярность** |Нескоько раз в месяц|
