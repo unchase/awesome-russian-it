@@ -612,6 +612,16 @@
 
 ---
 
+|Название         |[KeddroCast](https://keddrocast.fireside.fm/)|
+|:----------------|:--------------------------------------------|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ua/podcast/keddrocast/id454929808) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/2577962?country=ru) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/keddr) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/keddr) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/Keddr/) • [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/keddrofficial/)|
+|**Описание**     |Подкаст про технологии, велосипеды, автомобили, путешествия и про все, что тебе интересно!|
+|**Ведущие**      ||
+|**Регулярность** |Еженедельно|
+|**Длительность** |50-100 минут|
+
+---
+
 |Название         |[LoftBlog Podcasts](https://loftblog.ru/tag/podkast/)|
 |:----------------|:----------------------------------------------------|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/loftblog) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/us/podcast/loftblog/id1313900856) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/loftblog) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/id1093027?country=ru) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCIIt69f5D44s2cdb9vXQNzA) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcasts-37413577) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/loftblog)|
