@@ -312,6 +312,16 @@
 
 ---
 
+|Название         |AxDigital. Маркетинг. Трафик. Usability. Performance.|
+|:----------------|:----------------------------------------------------|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82%D0%B8%D0%BD%D0%B3-%D1%82%D1%80%D0%B0%D1%84%D0%B8%D0%BA-usability-performance-consulting/id1435783387) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/?feed=aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvMjg2NDQ2NC9lcGlzb2Rlcy9mZWVk) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/6880188?from=serp)|
+|**Описание**     |АксДиджитал и Алексей Махметхажиев — маркетолог в ax.digital и loading.express. Перформанс консалтинг, оптимизация конверсий и качественное управление процессами.|
+|**Ведущие**      |[Алексей Махметхажиев](https://ax.digital/) [![VK](img/favicons/vk.com.png)](https://vk.com/id258302882) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/vigodnee) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/aleksei.digital/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/user/alekseyleonidovich/) [![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/nruo5cvenjee) [![Email](img/favicons/email.png)](mailto:info@ax.digital)|
+|**Регулярность** |Еженедельно|
+|**Длительность** |5-30 минут|
+
+---
+
 |Название         |[CSSSR (Новости 512)](https://csssr.com/ru)|
 |:----------------|:------------------------------------------|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/csssr) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/novosti-512/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/novosti-512) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCdkZ6ckHOJ3DjAYxoGeMG0w) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcasts-185290073) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/csssr_dev) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/csssr/) • [![LinkedIn](img/favicons/linkedin.cn.png)](https://www.linkedin.com/company/csssr) • [![GitHub](img/favicons/github.com.png)](https://github.com/CSSSR)|
