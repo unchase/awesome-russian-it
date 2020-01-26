@@ -1044,6 +1044,16 @@
 
 ---
 
+|Название         |[Подпольный геймдизайн](https://torick.ru/podkast/)|
+|:----------------|:--------------------------------------------------|
+|**Ссылки**       |[![Podster](img/favicons/podster.fm.png)](https://ugd.podster.fm/) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/podpolnyj-gejmdizajn/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/series-1296923) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/podpol-nyy-geymdizayn)|
+|**Описание**     |Подкаст о дизайне игр (game design) - устами тех, кто им занимается.|
+|**Ведущие**      |[Святослав (Торик)](https://torick.ru/) [![VK](img/favicons/vk.com.png)](https://vk.com/toricks) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/retropcan) [![Facebook](img/favicons/facebook.com.png)](http://www.facebook.com/takkaunt) [![LinkedIn](img/favicons/linkedin.cn.png)](https://www.linkedin.com/in/svyatoslav-torick-4bb20a1b)|
+|**Регулярность** |Не выпускается|
+|**Длительность** |80-100 минут|
+
+---
+
 |Название         |[ХОЧУ В ГЕЙМДЕВ](https://hsbi.hse.ru/programs/vocational_retraining/menedzhment-igrovykh-internet-proektov/skpodkast/)|
 |:----------------|:---------------|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/hvgamedev) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/%D1%85%D0%BE%D1%87%D1%83-%D0%B2-%D0%B3%D0%B5%D0%B9%D0%BC%D0%B4%D0%B5%D0%B2/id1490959979) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/%D0%A5%D0%BE%D1%87%D1%83-%D0%B2-%D0%93%D0%B5%D0%B9%D0%BC%D0%B4%D0%B5%D0%B2-id2495011?country=ru) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/watch?v=MKI5cEIfrDg&list=PLYEH4GKbMx6tYzVY76hf4C9xrD420VWLe) • [![VK](img/favicons/vk.com.png)](https://vk.com/hsbi_games) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/9495544)|
