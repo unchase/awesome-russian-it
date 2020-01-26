@@ -1,19 +1,13 @@
 #
-[![Awesome Russian IT Logo](img/arit-logo.png)](https://github.com/unchase/awesome-russian-it)
+<p align="center">
+  <a href="https://github.com/unchase/awesome-russian-it">
+    <img src="img/arit-logo.png" alt="Awesome Russian IT Logo">
+  </a>
+</p>
 
 ---
 
-Здесь собран список полезных русскоязычных ресурсов, связанных с информационными технологиями (разработка, администрирование, митапы и конференции, интервью, новости ИТ и пр.).
-
-Если у вас есть желание помочь с наполнением или актуализацией этого списка, ознакомьтесь с информацией в файле [CONTRIBUTING.md](CONTRIBUTING.md).
-
----
-
-## Контрибьюторы
-
-Этот проект существует благодаря всем людям, которые вносят свой вклад.
-
-<a href="https://github.com/unchase/awesome-russian-it/graphs/contributors"><img width="30" src="img/contributors/unchase.jpg"></a>
+<h5 align="center">Здесь собран список полезных русскоязычных ресурсов, связанных с информационными технологиями (разработка, администрирование, митапы и конференции, интервью, новости ИТ и пр.).</h5>
 
 ---
 
@@ -1164,7 +1158,19 @@
 |[![Альфа-банк](img/favicons/hr.alfabank.ru.png)](https://hr.alfabank.ru/events)<br>[Альфа-банк](https://hr.alfabank.ru/events)|IT-события, проводимые Альфа-банком.|Москва, Санкт-Петербург, Екатеринбург|[Twitter](https://twitter.com/alfabank) [VK](https://vk.com/alfabank) [Facebook](https://facebook.com/alfabank)|
 |[![Райффайзен DGTL](img/favicons/dgtl.raiffeisen.ru.png)](https://dgtl.raiffeisen.ru/event)<br>[Райффайзен DGTL](https://dgtl.raiffeisen.ru/event)|Райффайзен DGTL — это сообщество экспертов, работающих над цифровыми решениями банка. На этом портале мы рассказываем все о наших командах и технологиях, анонсируем мероприятия и делимся актуальными вакансиями. Нас уже выбрали лучшие профессионалы индустрии, и мы ждем, когда присоединишься ты!|Москва|[Facebook](https://www.facebook.com/raiffeisenbankrus) [VK](https://vk.com/raiffeisencareer)|
 
-----------
+---
+
+## Контрибьюторы
+
+Этот проект существует благодаря всем людям, которые вносят свой вклад.
+
+<p align="center">
+  <a href="https://github.com/unchase/awesome-russian-it/graphs/contributors"><img width="30" src="img/contributors/unchase.jpg"></a>
+</p>
+
+Если у вас есть желание помочь с наполнением или актуализацией этого списка, ознакомьтесь с информацией в файле [CONTRIBUTING.md](CONTRIBUTING.md).
+
+---
 
 > Автор: [Николай Чеботов (**Unchase**)](https://github.com/unchase) [![Medium](img/favicons/medium.com.png)](http://medium.com/@unchase) [![dev.to](img/favicons/dev.to.png)](http://dev.to/unchase) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/unchase/)
 
