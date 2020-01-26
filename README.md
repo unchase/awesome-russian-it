@@ -453,6 +453,16 @@
 
 ---
 
+|Название         |[Sebrant chatting](http://sebrant.chat/)|
+|:----------------|:---------------------------------------|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/sebrant-chatting/id1320623324) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/sebrant-chatting/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/sebrant-chatting) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/id1105361?country=ru) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/sebrant-chatting) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/playlist?list=PLEmAXDBfXwdIdT11LJ5koetixBi_clxJf) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/6407298?from=serp) • [![Email](img/favicons/email.png)](mailto:asebrant@ya.ru) • [![RSS](img/favicons/rss.png)](http://sebrant.chat/rss)|
+|**Описание**     |Нерегулярный подкаст "Трёп Себранта", выходит с конца 2017 года. Иногда это мой трёп с собеседниками, которые мне интересны; иногда -- просто мой сольный рассказ. Чаще всего речь идет о том, как технологии влияют на мир вокруг, а он, в свою очередь, на них. В итоге получается про людей и жизнь не меньше, чем про технологии :)|
+|**Ведущие**      |Андрей Себрант [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/asebrant) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/asebrant/) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/asebrant) [![Yandex Zen](img/favicons/zen.yandex.ru.png)](https://zen.yandex.ru/asebrant)|
+|**Регулярность** |Время от времени|
+|**Длительность** |50-80 минут|
+
+---
+
 |Название         |[SITCast](https://sitc.community/)|
 |:----------------|:---------------------------------|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/us/podcast/sitcast/id1449716272) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/sitcast) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCWwGzRCrnCWRVQ_UlpwZQMA) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcasts-143954349) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/TcommunityI) • [![Telegram](img/favicons/t.me.png)](https://t.me/Samara_IT_Community) • [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/itc_samara/)|
