@@ -472,6 +472,16 @@
 
 ---
 
+|Название         |devleads podcast|
+|:----------------|:---------------|
+|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/devleads) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/devleads-podcast/id1446894920) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/devleads-podcast) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/devleads-podcast-id1728111?country=ru) • [![VK](img/favicons/vk.com.png)](https://vk.com/devleads) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/pg/devleadsmeetup/posts/) • [![Telegram](img/favicons/t.me.png)](https://tele.gg/devleadschat) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/6880176?from=serp)|
+|**Описание**     |.|
+|**Ведущие**      |[Никита Мйданов](http://maidanov.com/) [![VK](img/favicons/vk.com.png)](https://vk.com/nikogenn) [![Telegram](img/favicons/t.me.png)](https://tele.gg/nikogenn) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/iltsarev/) [![Email](img/favicons/email.png)](mailto:info@nmaidanov.ru)<br>Илья Кузнецов [![Telegram](img/favicons/t.me.png)](https://tele.gg/moderator1)<br>Илья Царев [![Telegram](img/favicons/t.me.png)](https://tele.gg/iltsarev)|
+|**Регулярность** |Время от времени|
+|**Длительность** |40-60 минут|
+
+---
+
 |Название         |[DevZen Podcast](https://devzen.ru/)|
 |:----------------|:-----------------------------------|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/devzen-podcast/id903660317) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/devzen-podcast/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/2105533) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/DevZen-Podcast-id1196008?country=ru) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/devzen-podcast) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/devzen_ru) • [![Email](img/favicons/email.png)](mailto:podcast@devzen.ru) • [![RSS](img/favicons/rss.png)](https://devzen.ru/feed/)|
