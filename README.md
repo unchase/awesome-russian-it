@@ -242,6 +242,16 @@
 
 ---
 
+|Название         |«Ну, па-ап!»|
+|:----------------|:-----------|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/%D0%BD%D1%83-%D0%BF%D0%B0-%D0%B0%D0%BF/id1451758558) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/nu-pa-ap/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/nu-pa-ap) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/%C2%AB%D0%9D%D1%83%2C-%D0%BF%D0%B0-%D0%B0%D0%BF!%C2%BB-id2032491?country=ru) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/nu-pa-ap) • [![VK](img/favicons/vk.com.png)](https://vk.com/oh.dad.podcast) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/pages/category/Podcast/%D0%9F%D0%BE%D0%B4%D0%BA%D0%B0%D1%81%D1%82-%D0%9D%D1%83-%D0%BF%D0%B0-%D0%B0%D0%BF-107006390801228/) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/7133170?from=serp) • [![Email](img/favicons/email.png)](mailto:oh.dad.podcast@gmail.com)|
+|**Описание**     |В подкасте «Ну, па-ап!» я пытаюсь объяснить своему папе, чем живу на работе: что происходит в digital, что такое контент-маркетинг, как работает интерактив в медиа, как со всем этим связан маркетинг.|
+|**Ведущие**      |Ира Сергеева [![VK](img/favicons/vk.com.png)](https://vk.com/isergeeva)<br>Леонид Сергеев|
+|**Регулярность** |Время от времени|
+|**Длительность** |30-40 минут|
+
+---
+
 |Название         |Откровенно про IT-карьеризм|
 |:----------------|:--------------------------|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/us/podcast/%D0%BE%D1%82%D0%BA%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE-%D0%BF%D1%80%D0%BE-it-%D0%BA%D0%B0%D1%80%D1%8C%D0%B5%D1%80%D0%B8%D0%B7%D0%BC/id472631602) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/it-19398) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/otkrovenno-pro-it-kar-yerizm) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/it.career.ua/)|
