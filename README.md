@@ -372,6 +372,16 @@
 
 ---
 
+|Название         |[Biweekly](https://sonar.one/podcasts/biweekly)|
+|:----------------|:----------------------------------------------|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/biweekly/id1095164631) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/biweekly-1315049) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/_sonar1) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/1729795662/) • [![Telegram](img/favicons/t.me.png)](https://t.me/biweeklychat) • [![RSS](img/favicons/rss.png)](https://sonar.one/biweekly/?category=Podcast&format=RSS)|
+|**Описание**     |Разговоры о том, как внятно говорить и понятно писать, как развивать себя и повышать продуктивность себе и команде. Каждую неделю Дима Маленко – программирующий менеджер, который все меряет инженерной линейкой, и Вячеслав Рудницкий – главный по обучению, который несет свет soft skills ИТ-компаниям, обсуждают whatever comes their way.|
+|**Ведущие**      |[Дима Маленко](http://www.dmalenko.org/) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/dmalenko) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/dmalenko/) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/_dmalenko/) [![GitHub](img/favicons/github.com.png)](https://github.com/dmalenko)<br>Вячеслав Рудницкий|
+|**Регулярность** |Еженедельно|
+|**Длительность** |30-60 минут|
+
+---
+
 |Название         |[CSSSR (Новости 512)](https://csssr.com/ru)|
 |:----------------|:------------------------------------------|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/csssr) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/novosti-512/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/novosti-512) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCdkZ6ckHOJ3DjAYxoGeMG0w) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcasts-185290073) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/csssr_dev) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/csssr/) • [![LinkedIn](img/favicons/linkedin.cn.png)](https://www.linkedin.com/company/csssr) • [![GitHub](img/favicons/github.com.png)](https://github.com/CSSSR)|
