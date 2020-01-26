@@ -422,6 +422,16 @@
 
 ---
 
+|Название         |Digital Newsroom|
+|:----------------|:---------------|
+|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/zhbanova/tracks) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/podcast/digital-newsroom/id1415692619) • [![Telegram](img/favicons/t.me.png)](https://telega.one/newsroomaz) • [![RSS](img/favicons/rss.png)](http://feeds.soundcloud.com/users/soundcloud:users:480761115/sounds.rss)|
+|**Описание**     |Подкаст про медиа, технологии и ключевых игроков рынка. Обсуждаем с гостями последние новости и говорим о том, как это повлияет на медиа в России, и что можно применить прямо сейчас.|
+|**Ведущие**      |Анастасия Жбанова [![VK](img/favicons/vk.com.png)](https://vk.com/azhbanova) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/zhbanova.anastasia)|
+|**Регулярность** |Время от времени|
+|**Длительность** |40-60 минут|
+
+---
+
 |Название         |[Generic Talks](https://generictalks.com/)|
 |:----------------|:-----------------------------------------|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/generictalks) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/pl/podcast/generic-talks/id1489980299) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/generic-talks) • [![VK](img/favicons/vk.com.png)](https://vk.com/generictalks) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/GenericTalks) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/generictalks/) • [![Telegram](img/favicons/t.me.png)](https://t.me/generictalks) • [![GitHub](img/favicons/github.com.png)](https://github.com/generictalks) • [![Email](img/favicons/email.png)](mailto:podcast@olegk.dev)|
