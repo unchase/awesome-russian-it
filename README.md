@@ -632,6 +632,16 @@
 
 ### **Продуктовый дизайн**
 
+|Название         |Герои Digital|
+|:----------------|:------------|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/%D0%B3%D0%B5%D1%80%D0%BE%D0%B8-digital/id1491971308) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/%D0%93%D0%B5%D1%80%D0%BE%D0%B8-Digital-id2519488?country=ru)|
+|**Описание**     |Герои Digital – серия интервью с выдающимися дизайнерами, созданная для обмена опытом и вдохновения.|
+|**Ведущие**      ||
+|**Регулярность** |Несколько раз в месяц|
+|**Длительность** |80-100 минут|
+
+---
+
 |Название         |Дизайн Такой|
 |:----------------|:-----------|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/design_takoy) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/%D0%B4%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD-%D1%82%D0%B0%D0%BA%D0%BE%D0%B9/id1445736032) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/dizajn-takoj/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/2490832) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD-%D0%A2%D0%B0%D0%BA%D0%BE%D0%B9-id1642994?country=ru) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/dizayn-takoy) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcastdesigntakoy) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/designtakoy/) • [![Telegram](img/favicons/t.me.png)](https://t.me/design_takoy)|
