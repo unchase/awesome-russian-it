@@ -12,6 +12,7 @@
 ## Содержание
 
 * **[Блоги](#блоги)**
+  * [Блоги Общее](#блоги-общее)
   * [Блоги .NET](#блоги-net)
 * **[Подкасты](#подкасты)**
   * [Администрирование](#администрирование)
@@ -36,6 +37,12 @@
 * **[Мероприятия](#мероприятия)**
 
 ## **Блоги**
+
+### **Блоги Общее**
+
+|Название|Описание|Автор|
+|:-------|:-------|:----|
+|**[Блог Александра Бындю](https://blog.byndyu.ru/)**|Личный блог Александра Бындю|[Александр Бындю](https://byndyu.ru/) [![GitHub](img/favicons/github.com.png)](https://github.com/AlexanderByndyu) [![VK](img/favicons/vk.com.png)](https://vk.com/byndyu) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/alexanderbyndyu) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/alexander.byndyu) [![LinkedIn](img/favicons/linkedin.cn.png)](https://www.linkedin.com/in/alexanderbyndyu) [![Medium](img/favicons/medium.com.png)](https://medium.com/@alexander.byndyu) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCuZO9u4O6vIigNmeySWSGCg) [![Email](img/favicons/email.png)](mailto:alexander.byndyu@gmail.com)|
 
 ### **Блоги .NET**
 
