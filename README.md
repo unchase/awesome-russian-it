@@ -235,6 +235,16 @@
 
 ---
 
+|Название         |Хантфлоу Insight|
+|:----------------|:---------------|
+|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/huntflow-insight) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/%D1%85%D0%B0%D0%BD%D1%82%D1%84%D0%BB%D0%BE%D1%83-insight/id1443781654) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/?feed=aHR0cDovL2ZlZWRzLnNvdW5kY2xvdWQuY29tL3VzZXJzL3NvdW5kY2xvdWQ6dXNlcnM6NTQyNzkyMDQzL3NvdW5kcy5yc3M) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/khantflou-insight) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/%D0%A5%D0%B0%D0%BD%D1%82%D1%84%D0%BB%D0%BE%D1%83-Insight-id1501245?country=us) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/khantflou-insight) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/6880174?from=serp)|
+|**Описание**     |Это подкаст Хантфлоу Инсайт. Здесь мы говорим с важными людьми из HR-индустрии об их опыте, проблемах и решениях.|
+|**Ведущие**      |[Лев Пикалёв](http://levpikalev.com/) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/levka_levka) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/levkalevka) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/levpikalev/) [![VK](img/favicons/vk.com.png)](https://vk.com/levkalevka) [![Telegram](img/favicons/t.me.png)](https://t.me/levpikalev) [![Email](img/favicons/email.png)](mailto:hey@levpikalev.com)|
+|**Регулярность** |Раз в две недели|
+|**Длительность** |30-60 минут|
+
+---
+
 |Название         |Цинковый прод (18+)|
 |:----------------|:------------------|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/znprod) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ua/podcast/%D1%86%D0%B8%D0%BD%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9-%D0%BF%D1%80%D0%BE%D0%B4/id1458311254?l=ru) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/tsinkovyi-prod-18) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/%D0%A6%D0%B8%D0%BD%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9-%D0%BF%D1%80%D0%BE%D0%B4-id2063457?country=ru) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UC6cTShKx3lJWw-EzSr_ZAfw) • [![Telegram](img/favicons/t.me.png)](http://t.me/ZnProd) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/9649473) • [![RSS](img/favicons/rss.png)](http://feeds.soundcloud.com/users/soundcloud:users:610582557/sounds.rss)|
