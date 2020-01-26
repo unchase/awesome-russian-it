@@ -475,7 +475,7 @@
 |Название         |devleads podcast|
 |:----------------|:---------------|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/devleads) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/devleads-podcast/id1446894920) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/devleads-podcast) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/devleads-podcast-id1728111?country=ru) • [![VK](img/favicons/vk.com.png)](https://vk.com/devleads) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/pg/devleadsmeetup/posts/) • [![Telegram](img/favicons/t.me.png)](https://tele.gg/devleadschat) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/6880176?from=serp)|
-|**Описание**     |.|
+|**Описание**     |devleads - открытое сообщество тимлидов, руководителей разработки и всех неравнодушных к менеджменту в IT-сфере.<br>Всех нас объединяет одно – технический бэкграунд. Причем не так важно, программировали ли вы микроконтроллеры или занимались тестированием мобильных приложений, важно то, что в какой-то момент своей жизни вы выбрали менеджерскую ветвь развития и теперь руководите подобными себе, либо начинаете об этом задумываться.|
 |**Ведущие**      |[Никита Мйданов](http://maidanov.com/) [![VK](img/favicons/vk.com.png)](https://vk.com/nikogenn) [![Telegram](img/favicons/t.me.png)](https://tele.gg/nikogenn) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/iltsarev/) [![Email](img/favicons/email.png)](mailto:info@nmaidanov.ru)<br>Илья Кузнецов [![Telegram](img/favicons/t.me.png)](https://tele.gg/moderator1)<br>Илья Царев [![Telegram](img/favicons/t.me.png)](https://tele.gg/iltsarev)|
 |**Регулярность** |Время от времени|
 |**Длительность** |40-60 минут|
@@ -539,6 +539,16 @@
 |**Ведущие**      |[Далер Алиёров](https://aliyorov.com/) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/daleraliyorov/) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/aliyorov/) [![Telegram](img/favicons/t.me.png)](https://t.me/dalerblog) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/daleraliyorov) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/daler.aliyorov) [![Email](img/favicons/email.png)](mailto:daler@aliyorov.com)<br>Иван Звягин [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/baragol) [![VK](img/favicons/vk.com.png)](https://vk.com/baragol) [![Telegram](img/favicons/t.me.png)](http://t.me/brokitchen) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/baragol/) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/baragol) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/baragol/)<br>Адель Мубаракшин [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/ExarGD) [![GitHub](img/favicons/github.com.png)](https://github.com/ExarGD) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/ExarGD)<br>Николай Землянский [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/nick.zemlyanskiy)<br>Анна Линская [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/anna.linskaya) [![Email](img/favicons/email.png)](mailto:anna@tmtm.ru)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |30-50 минут|
+
+---
+
+|Название         |Hi-Tech на грани нервного срыва|
+|:----------------|:------------------------------|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/hi-tech-на-грани-нервного-срыва/id1469955287) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/Hi-Tech-%D0%BD%D0%B0-%D0%B3%D1%80%D0%B0%D0%BD%D0%B8-%D0%BD%D0%B5%D1%80%D0%B2%D0%BD%D0%BE%D0%B3%D0%BE-%D1%81%D1%80%D1%8B%D0%B2%D0%B0-id2187285?country=ru) • [![VK](img/favicons/vk.com.png)](https://vk.com/public183798436) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/9472508?from=serp)|
+|**Описание**     |Гаджеты, технологиях, путешествиях и обо всем остальное.|
+|**Ведущие**      ||
+|**Регулярность** |Несколько раз в месяц|
+|**Длительность** |~10-30 минут|
 
 ---
 
