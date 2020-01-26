@@ -202,6 +202,16 @@
 
 ---
 
+|Название         |Ивент Кухня|
+|:----------------|:----------|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/podcast/id1120110650) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/ivent-kuhnya/) • [![Podster](img/favicons/podster.fm.png)](https://eve.podster.fm/) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/%D0%98%D0%B2%D0%B5%D0%BD%D1%82-%D0%9A%D1%83%D1%85%D0%BD%D1%8F-id408013?country=ru) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/ivent-kukhnya) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcasts-131866267) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/pg/ipo.event/posts/) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/7045367) • [![RSS](img/favicons/rss.png)](https://podster.fm/rss.xml?pid=35648)|
+|**Описание**     |Подкаст будет интересен как начинающим, так и опытным организаторам мероприятий, PR и SMM-специалистам, продвигающим события и всем, кто хочет разобраться в особенностях рекламирования и организации ивентов.|
+|**Ведущие**      |Илья Верязов [![VK](img/favicons/vk.com.png)](https://vk.com/smm.chef) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/ilya.pd)|
+|**Регулярность** |Время от времени|
+|**Длительность** |25-45 минут|
+
+---
+
 |Название         |[Мамкин Айтишник](https://mamkinboycast.ru/)|
 |:----------------|:-------------------------------------------|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/%D0%BC%D0%B0%D0%BC%D0%BA%D0%B8%D0%BD-%D0%B0%D0%B9%D1%82%D0%B8%D1%88%D0%BD%D0%B8%D0%BA/id1489218647) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/?feed=aHR0cHM6Ly9jZG4ubWFta2luYm95Y2FzdC5ydS9mZWVkL3BvZGNhc3Q) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/2588356) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/%D0%9C%D0%B0%D0%BC%D0%BA%D0%B8%D0%BD-%D0%90%D0%B9%D1%82%D0%B8%D1%88%D0%BD%D0%B8%D0%BA-id2493671?country=ru)) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCmaFUB_MRxKbpU1yZiDfpgg) • [![VK](img/favicons/vk.com.png)](https://vk.com/mamkinboycast) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/9340501?from=serp) • [![RSS](img/favicons/rss.png)](https://cdn.mamkinboycast.ru/feed/podcast)|
