@@ -562,6 +562,16 @@
 
 ---
 
+|Название         |Trashcast|
+|:----------------|:--------|
+|**Ссылки**       |[![Player](img/favicons/player.fm.png)](https://player.fm/series/trashcast-1735953) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/id474283?country=ru)|
+|**Описание**     |Обсуждение свежайших новостей из мира мобильных технологий, обмен мнениями, масса угара, кутежа, троллинга и травли.|
+|**Ведущие**      ||
+|**Регулярность** |Время от времени|
+|**Длительность** |60-100 минут|
+
+---
+
 |Название         |[Zavractcast](https://zavtracast.ru)|
 |:----------------|:-----------------------------------|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/cy/podcast/zavtracast-завтракаст/id1068329384) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkcy5wb2RjYXN0bWlycm9yLmNvbS96YXZ0cmFjYXN0) • [![Player](img/favicons/player.fm.png)](https://player.fm/podcasts/zavtracast) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/id1403291?country=ru) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/zavtracast) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCWu4IYWg9JpBurse8e-udPA) • [![VK](img/favicons/vk.com.png)](https://vk.com/zavtracast) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/zavtracast) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/zavtracast) • [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/zavtracast/) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/6411314?from=serp) • [![Twitch](img/favicons/twitch.tv.png)](https://www.twitch.tv/zavtracast) • [![Email](img/favicons/email.png)](mailto:zavtracast@gmail.com) • [![RSS](img/favicons/rss.png)](https://feeds.podcastmirror.com/zavtracast)|
