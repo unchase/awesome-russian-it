@@ -295,6 +295,16 @@
 
 ---
 
+|Название         |ITSTARTS|
+|:----------------|:-------|
+|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/itstarts) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/by/podcast/itstarts/id1471420521) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/?feed=aHR0cDovL2ZlZWRzLnNvdW5kY2xvdWQuY29tL3VzZXJzL3NvdW5kY2xvdWQ6dXNlcnM6NjYxOTQwOTQzL3NvdW5kcy5yc3M=&hl=ru-BY) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/itstarts) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/ItStarts!-id2195505?country=ru) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCfVduUM-kNHSp7aKFdEAybw) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/itstartsbelarus) • [![Telegram](img/favicons/t.me.png)](http://t.me/itstartsbelarus) • [![LinkedIn](img/favicons/linkedin.cn.png)](https://www.linkedin.com/company/itstarts/) • [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/itstartsbelarus/) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/8387875?from=serp)|
+|**Описание**     |Еженедельный подкаст про IT и Startup сферу Беларуси от двух стартаперов - Ивана Веденина и Сергея Лавриненко.|
+|**Ведущие**      |Иван Веденин [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/ivan.vedenin) [![VK](img/favicons/vk.com.png)](https://vk.com/ivan.vedenin) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/ivan_vedenin)<br>Сергей Лавриенко [VK](img/favicons/vk.com.png)](https://vk.com/teslavr) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/teslavr) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/teslavr)|
+|**Регулярность** |Еженедельно|
+|**Длительность** |50-100 минут|
+
+---
+
 |Название         |[LinkMeUp](https://linkmeup.ru/podcasts/)|
 |:----------------|:----------------------------------------|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/linkmeup-pervyj-podkast-dla/id1065445951) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/linkmeup/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/linkmeup-podkast-pro-it-i-pro-liudiei-133493) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/linkmeup.-%D0%9F%D0%BE%D0%B4%D0%BA%D0%B0%D1%81%D1%82-%D0%BF%D1%80%D0%BE-IT-%D0%B8-%D0%BF%D1%80%D0%BE-%D0%BB%D1%8E%D0%B4%D0%B5%D0%B9-id1173801?country=ru) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/linkmeup) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/linkmeupru) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/linkmeup.sdsm) • [![Telegram](img/favicons/t.me.png)](https://telegram.me/linkmeup_podcast) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/7060168?from=serp) • [![Email](img/favicons/email.png)](mailto:info@linkmeup.ru) • [![RSS](img/favicons/rss.png)](https://linkmeup.ru/rss)|
