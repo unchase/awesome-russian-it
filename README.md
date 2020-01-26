@@ -222,6 +222,16 @@
 
 ---
 
+|Название         |Лёха & Лёха о новостях VMware и ИТ|
+|:----------------|:---------------------------------|
+|**Ссылки**       |[![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/?feed=aHR0cHM6Ly9hbGV4LWFuZC1hbGV4LXBvZGNhc3QuczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vcG9kY2FzdC54bWw=) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/%D0%9B%D1%91%D1%85%D0%B0-%26-%D0%9B%D1%91%D1%85%D0%B0-%D0%BE-%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D1%8F%D1%85-VMware-%D0%B8-%D0%98%D0%A2-id2164079?country=ru) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/9348886?from=serp)|
+|**Описание**     |Мы работаем в московском офисе VMware и решили рассказать вам про всё новое и интересное, что происходит в компании (естественно, на наш личный взгляд). Хотя не только про это, в своих рассказах мы затронем вниманием разнообразные технологии, начиная с виртуализации и облаков, End-User Computing'а и управления устройствами, Cloud-Native Applications и Kubernetes, Интернета вещей и машинного обучения, блокчейн и больших данных. Интересно же? Тогда скорее подключайтесь к нашим уютным аудиозаметкам, будем доставлять каждую неделю!|
+|**Ведущие**      |Алексей Малашин<br>Алексей Рыбалко|
+|**Регулярность** |Еженедельно|
+|**Длительность** |20-60 минут|
+
+---
+
 |Название         |[Мамкин Айтишник](https://mamkinboycast.ru/)|
 |:----------------|:-------------------------------------------|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/%D0%BC%D0%B0%D0%BC%D0%BA%D0%B8%D0%BD-%D0%B0%D0%B9%D1%82%D0%B8%D1%88%D0%BD%D0%B8%D0%BA/id1489218647) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/?feed=aHR0cHM6Ly9jZG4ubWFta2luYm95Y2FzdC5ydS9mZWVkL3BvZGNhc3Q) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/2588356) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/%D0%9C%D0%B0%D0%BC%D0%BA%D0%B8%D0%BD-%D0%90%D0%B9%D1%82%D0%B8%D1%88%D0%BD%D0%B8%D0%BA-id2493671?country=ru)) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCmaFUB_MRxKbpU1yZiDfpgg) • [![VK](img/favicons/vk.com.png)](https://vk.com/mamkinboycast) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/9340501?from=serp) • [![RSS](img/favicons/rss.png)](https://cdn.mamkinboycast.ru/feed/podcast)|
