@@ -452,6 +452,16 @@
 
 ---
 
+|Название         |[Gurov Digital](https://gurov.digital/)|
+|:----------------|:--------------------------------------|
+|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/gurovdigital) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/gurov-digital/id1456143785) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/?feed=aHR0cDovL2ZlZWRzLnNvdW5kY2xvdWQuY29tL3VzZXJzL3NvdW5kY2xvdWQ6dXNlcnM6MzA4MjU5NTIxL3NvdW5kcy5yc3M) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/episodes/gurov-digital/) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCwdOVy56m5uQ2TyfRz9I45Q) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcasts-37473931) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/gurovdigital/) • [![Telegram](img/favicons/t.me.png)](http://t.me/gurovdigital) • [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/gurovdigital/) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/7115659)|
+|**Описание**     |Что произошло с Instagram, Telegram, YouTube и WhatsApp за последнее время.|
+|**Ведущие**      |[Павел Гуров](https://gurov.github.io) [![GitHub](img/favicons/github.com.png)](https://github.com/gurov) [![VK](img/favicons/vk.com.png)](https://vk.com/gurov.pavel) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/gurovpavel) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/gurovgurov/) [![Medium](img/favicons/medium.com.png)](https://medium.com/@gurovdigital) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/lucius/) [![LinkedIn](img/favicons/linkedin.cn.png)](https://www.linkedin.com/in/pgurov/) [![Email](img/favicons/email.png)](mailto:lucius.gu@ya.ru) [![Email](img/favicons/email.png)](mailto:lucius.gu@gmail.com) [![RSS](img/favicons/rss.png)](https://gurov.github.io/feed.xml)|
+|**Регулярность** |Время от времени|
+|**Длительность** |20-40 минут|
+
+---
+
 |Название         |[Habr Special](https://habr-podcast.com/special/)|
 |:----------------|:------------------------------------------------|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/habr-special) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/habr-special/id1471344454) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/habr-special) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/2416669?country=us) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/playlist?list=PLiBYz3OQubLoQhkYe-IcZiRgK_a4x8mq_) • [![VK](img/favicons/vk.com.png)](https://vk.com/habr?z=podcast-20629724_456239017) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/8063050?from=serp) • [![Email](img/favicons/email.png)](mailto:hello@habr-podcast.com)|
