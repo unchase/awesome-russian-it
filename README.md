@@ -16,6 +16,7 @@
   * [Блокчейн](#блокчейн)
   * [ИТ-безопасность](#ит-безопасность)
   * [Общее](#общее)
+  * [Продуктовый дизайн](#продуктовый-дизайн)
   * [Разработка](#разработка)
       * [.NET](#net)
       * [PHP](#php)
@@ -25,7 +26,6 @@
     * [Веб-разработка](#веб-разработка)
     * [Мобильная разработка](#мобильная-разработка)
       * [Android](#android)
-    * [Продуктовый дизайн](#продуктовый-дизайн)
     * [Разработка игр](#разработка-игр)
   * [Тестирование](#тестирование)
   * [BigData](#bigdata)
@@ -527,6 +527,16 @@
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |120-150 минут|
 
+### **Продуктовый дизайн**
+
+|Название         |Дизайн Такой|
+|:----------------|:-----------|
+|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/design_takoy) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/%D0%B4%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD-%D1%82%D0%B0%D0%BA%D0%BE%D0%B9/id1445736032) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/dizajn-takoj/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/2490832) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD-%D0%A2%D0%B0%D0%BA%D0%BE%D0%B9-id1642994?country=ru) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/dizayn-takoy) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcastdesigntakoy) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/designtakoy/) • [![Telegram](img/favicons/t.me.png)](https://t.me/design_takoy)|
+|**Описание**     |Подкаст о продуктовом дизайне, вебе, интерфейсах и софте. Medium пишет о дизайне, мы о нём говорим.|
+|**Ведущие**      |[Никита Лакеев](https://lakeevnikita.tilda.ws/) [![VK](img/favicons/vk.com.png)](https://vk.com/nikitalakeev) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/lakeevnikita/) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/100000569127345/) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/lakeevdesign) [![Medium](img/favicons/medium.com.png)](https://medium.com/@lakeisheee)<br>Роман Нургалиев [![VK](img/favicons/vk.com.png)](https://vk.com/romannurgaliev) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/romannurgaliev/) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/romannurgaliev/) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/romannurgaliev) [![Medium](img/favicons/medium.com.png)](http://medium.com/@romannurgaliev)|
+|**Регулярность** |Время от времени|
+|**Длительность** |40-60 минут|
+
 ### **Разработка**
 
 ##### **.NET**
@@ -798,16 +808,6 @@
 |**Ведущие**      |Борис Веденский (cwe) [![VK](img/favicons/vk.com.png)](https://vk.com/borisvedensky) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/vedensky/) [![Medium](img/favicons/medium.com.png)](https://medium.com/@vedensky) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/vedensky/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UC1a2rnuwCw6rEbAxclIHkng) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/vedensky)<br>Валерий Истишев [![VK](img/favicons/vk.com.png)](https://vk.com/istishev) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/vedensky) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/istishev/) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/istishev) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/istishev/)<br>Митя Иванов|
 |**Регулярность** |Еженедельно|
 |**Длительность** |~20 минут|
-
-#### **Продуктовый дизайн**
-
-|Название         |Дизайн Такой|
-|:----------------|:-----------|
-|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/design_takoy) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/%D0%B4%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD-%D1%82%D0%B0%D0%BA%D0%BE%D0%B9/id1445736032) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/dizajn-takoj/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/2490832) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD-%D0%A2%D0%B0%D0%BA%D0%BE%D0%B9-id1642994?country=ru) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/dizayn-takoy) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcastdesigntakoy) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/designtakoy/) • [![Telegram](img/favicons/t.me.png)](https://t.me/design_takoy)|
-|**Описание**     |Подкаст о продуктовом дизайне, вебе, интерфейсах и софте. Medium пишет о дизайне, мы о нём говорим.|
-|**Ведущие**      |[Никита Лакеев](https://lakeevnikita.tilda.ws/) [![VK](img/favicons/vk.com.png)](https://vk.com/nikitalakeev) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/lakeevnikita/) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/100000569127345/) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/lakeevdesign) [![Medium](img/favicons/medium.com.png)](https://medium.com/@lakeisheee)<br>Роман Нургалиев [![VK](img/favicons/vk.com.png)](https://vk.com/romannurgaliev) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/romannurgaliev/) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/romannurgaliev/) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/romannurgaliev) [![Medium](img/favicons/medium.com.png)](http://medium.com/@romannurgaliev)|
-|**Регулярность** |Время от времени|
-|**Длительность** |40-60 минут|
 
 #### **Разработка игр**
 
