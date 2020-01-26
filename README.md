@@ -212,6 +212,16 @@
 
 ---
 
+|Название         |[Клуб анонимных продакт-менеджеров](https://www.kapm.show/)|
+|:----------------|:----------------------------------------------------------|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ua/podcast/%D0%BA%D0%BB%D1%83%D0%B1-%D0%B0%D0%BD%D0%BE%D0%BD%D0%B8%D0%BC%D0%BD%D1%8B%D1%85-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%BA%D1%82-%D0%BC%D0%B5%D0%BD%D0%B5%D0%B4%D0%B6%D0%B5%D1%80%D0%BE%D0%B2/id1272548806)[![RSS](img/favicons/rss.png)](https://www.kapm.show/feed/podcast/)|
+|**Описание**     |Клуб анонимных продакт-менеджеров - это место, где профессионалы из сферы управления продуктом и смежных дисциплин делятся опытом, лайфкахами и историями успеха.|
+|**Ведущие**      |Владимир Мирненко|
+|**Регулярность** |Время от времени|
+|**Длительность** |50-100 минут|
+
+---
+
 |Название         |[Мамкин Айтишник](https://mamkinboycast.ru/)|
 |:----------------|:-------------------------------------------|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/%D0%BC%D0%B0%D0%BC%D0%BA%D0%B8%D0%BD-%D0%B0%D0%B9%D1%82%D0%B8%D1%88%D0%BD%D0%B8%D0%BA/id1489218647) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/?feed=aHR0cHM6Ly9jZG4ubWFta2luYm95Y2FzdC5ydS9mZWVkL3BvZGNhc3Q) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/2588356) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/%D0%9C%D0%B0%D0%BC%D0%BA%D0%B8%D0%BD-%D0%90%D0%B9%D1%82%D0%B8%D1%88%D0%BD%D0%B8%D0%BA-id2493671?country=ru)) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCmaFUB_MRxKbpU1yZiDfpgg) • [![VK](img/favicons/vk.com.png)](https://vk.com/mamkinboycast) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/9340501?from=serp) • [![RSS](img/favicons/rss.png)](https://cdn.mamkinboycast.ru/feed/podcast)|
