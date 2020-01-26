@@ -13,7 +13,7 @@
 
 Этот проект существует благодаря всем людям, которые вносят свой вклад.
 
-<a href="https://github.com/unchase/awesome-russian-it/graphs/contributors"><img src=""></a>
+<a href="https://github.com/unchase/awesome-russian-it/graphs/contributors"><img width="30" src="img/contributors/unchase.jpg"></a>
 
 ## Содержание
 
