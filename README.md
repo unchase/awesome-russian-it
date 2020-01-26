@@ -41,7 +41,7 @@
 
 |Название|Описание|Автор|
 |:-------|:-------|:----|
-|**[Блог Андрея Амельченя](http://flash2048.com/)** [![RSS](img/favicons/rss.png)](http://flash2048.com/syndication.axd/)|Мысли и статьи о программировании и не только.|Андрей Амельченя [![MVP](img/favicons/mvp.microsoft.com.png)](https://mvp.microsoft.com/en-us/PublicProfile/5003272) [![GitHub](img/favicons/github.com.png)](https://github.com/flash2048) [![VK](img/favicons/vk.com.png)](https://vk.com/flash2048) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/flash2048) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/flash2048) [![LinkedIn](img/favicons/linkedin.cn.png)](https://www.linkedin.com/in/flash2048/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCLT9skyV6t0bqsJ5Xzknh9w) [![Email](img/favicons/email.png)](mailto:andrei.amialchenia@gmail.com)|
+|**[Блог Андрея Амельченя](http://flash2048.com/)**<br>[![RSS](img/favicons/rss.png)](http://flash2048.com/syndication.axd/)|Мысли и статьи о программировании и не только.|Андрей Амельченя [![MVP](img/favicons/mvp.microsoft.com.png)](https://mvp.microsoft.com/en-us/PublicProfile/5003272) [![GitHub](img/favicons/github.com.png)](https://github.com/flash2048) [![VK](img/favicons/vk.com.png)](https://vk.com/flash2048) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/flash2048) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/flash2048) [![LinkedIn](img/favicons/linkedin.cn.png)](https://www.linkedin.com/in/flash2048/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCLT9skyV6t0bqsJ5Xzknh9w) [![Email](img/favicons/email.png)](mailto:andrei.amialchenia@gmail.com)|
 
 
 ## **Подкасты**
