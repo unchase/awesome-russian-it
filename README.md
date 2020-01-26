@@ -15,6 +15,8 @@
 
 <a href="https://github.com/unchase/awesome-russian-it/graphs/contributors"><img width="30" src="img/contributors/unchase.jpg"></a>
 
+---
+
 ## Содержание
 
 * **[Блоги](#блоги)**
