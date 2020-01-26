@@ -492,6 +492,16 @@
 
 ---
 
+|Название         |Hottcast: актуальные технологии в рекламе|
+|:----------------|:----------------------------------------|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/hottcast/id1484798318) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/hottcast/) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/Hottcast%3A-%D0%B0%D0%BA%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8-%D0%B2-%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D0%B5-id2432548?country=ru) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/9285404?from=serp)|
+|**Описание**     |Мы учимся применять на практике новые технологии в ежедневной работе креативного агентства, следим с их помощью за тем, что волнует и вдохновляет людей в нашем сервисе hott, и пробуем обсуждать это без пафоса и с юмором.|
+|**Ведущие**      ||
+|**Регулярность** |Раз в две недели|
+|**Длительность** |50-80 минут|
+
+---
+
 |Название         |[IT Бизнес Брокер](https://itbb.ru/podcast)|
 |:----------------|:------------------------------------------|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/mn/podcast/it-%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-%D0%B1%D1%80%D0%BE%D0%BA%D0%B5%D1%80-%D0%BA%D0%B0%D0%BA-%D0%BF%D0%BE%D0%BA%D1%83%D0%BF%D0%B0%D1%82%D1%8C-%D1%80%D0%B0%D0%B7%D0%B2%D0%B8%D0%B2%D0%B0%D1%82%D1%8C-%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B2%D0%B0%D1%82%D1%8C/id1202582439) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/1530167) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/IT-%D0%91%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-%D0%91%D1%80%D0%BE%D0%BA%D0%B5%D1%80%3A-%D0%BA%D0%B0%D0%BA-%D0%BF%D0%BE%D0%BA%D1%83%D0%BF%D0%B0%D1%82%D1%8C%2C-%D1%80%D0%B0%D0%B7%D0%B2%D0%B8%D0%B2%D0%B0%D1%82%D1%8C-%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B2%D0%B0%D1%82%D1%8C-IT-%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81%D1%8B-id1015311?country=us) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCHK6xY4AiLDrtODorQVx5GA) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcasts-137953806) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/itbizbroker) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/itbizbroker) • [![Telegram](img/favicons/t.me.png)](https://t.me/itbizbroker) • [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/itbizbroker/) • [![Email](img/favicons/email.png)](mailto:info@Itbizbroker.ru)|
