@@ -275,6 +275,16 @@
 
 ---
 
+|Название         |Agile Reactor Podcast|
+|:----------------|:--------------------|
+|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/agile-reactor) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/fi/podcast/agile-reactor-podcast/id1318291521) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/agile-reactor-podcast) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/agilereactor/) • [![Medium](img/favicons/medium.com.png)](https://medium.com/agile-reactor)|
+|**Описание**     |Подкаст про гибкие методологии разработки и бережливое мышление. Agile-коуч и scrum-мастер Алекс Шевчук берет интервью у коллег. Они делятся опытом, рассказывают, где и как учились, как работают, где сдавали экзамены и получали сертификаты. Многие из гостей подкаста успели поработать в разных странах мира, поэтому сравнивают условия и методы работы.|
+|**Ведущие**      |Алекс Шевчук [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/sashhimi) [![Medium](img/favicons/medium.com.png)](https://medium.com/@sashhimi) [![Email](img/favicons/email.png)](mailto:shevchuk.alexandr@gmail.com)|
+|**Регулярность** |Не выпускается|
+|**Длительность** |40-80 минут|
+
+---
+
 |Название         |[CSSSR (Новости 512)](https://csssr.com/ru)|
 |:----------------|:------------------------------------------|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/csssr) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/novosti-512/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/novosti-512) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCdkZ6ckHOJ3DjAYxoGeMG0w) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcasts-185290073) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/csssr_dev) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/csssr/) • [![LinkedIn](img/favicons/linkedin.cn.png)](https://www.linkedin.com/company/csssr) • [![GitHub](img/favicons/github.com.png)](https://github.com/CSSSR)|
