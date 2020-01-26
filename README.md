@@ -272,6 +272,36 @@
 
 ---
 
+|Название         |[Паша + Слава](https://it.asm0dey.ru/)|
+|:----------------|:-------------------------------------|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/it-insights-and-commons-things/id1207585393) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/1389654) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/%D0%9F%D0%B0%D1%88%D0%B0-%2B-%D0%A1%D0%BB%D0%B0%D0%B2%D0%B0-id479047?country=ru) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcasts-111905078) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/pg/slava.pasha/posts/) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/7867956?from=serp) • [![Email](img/favicons/email.png)](mailto:pavel.finkelshtein@gmail.com)|
+|**Описание**     |Подкаст об ИТ и связанных с ним вещах. Спикерами являются опытные айтишники, работающие в разных сферах и компаниях.|
+|**Ведущие**      |Паша Финкельштейн [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/asm0di0) [![GitHub](img/favicons/github.com.png)](https://github.com/asm0dey) [![LinkedIn](img/favicons/linkedin.cn.png)](https://www.linkedin.com/in/asm0dey/) [![VK](img/favicons/vk.com.png)](https://vk.com/asm0dey) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/asm0dey) [![StackOverflow](img/favicons/stackoverflow.com.png)](https://stackoverflow.com/users/1160959/asm0dey) [![Telegram](img/favicons/t.me.png)](https://t.me/asm0dey) [![Email](img/favicons/email.png)](mailto:pavel.finkelshtein@gmail.com)<br>Слава Семушин [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/php_coder) [![GitHub](img/favicons/github.com.png)](https://github.com/php-coder) [![LinkedIn](img/favicons/linkedin.cn.png)](https://linkedin.com/in/semushin) [![Email](img/favicons/email.png)](mailto:slava.semushin@gmail.com)<br>Слава Артемьев [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/viartemev) [![GitHub](img/favicons/github.com.png)](https://github.com/viartemev)|
+|**Регулярность** |Несколько раз в месяц|
+|**Длительность** |80-100 минут|
+
+---
+
+|Название         |[Пираты Радио-Т](http://pirates.radio-t.com/)|
+|:----------------|:--------------------------------------------|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/podcast/%D0%BF%D0%B8%D1%80%D0%B0%D1%82%D1%8B-%D1%80%D1%82/id288705606) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/series-19392) • [![RSS](img/favicons/rss.png)](http://feeds.feedburner.com/pirate-radio-t)|
+|**Описание**     |После–шоу еженедельного hi-tech подкаста выходного дня «Радио–Т». Тут вы можете услышать то, что происходит после сигнала «запись шоу завершена».|
+|**Ведущие**      |Ксения (ksenks) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/ksenks) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/ksenks/) [![VK](img/favicons/vk.com.png)](https://vk.com/id1413031) [![GitHub](img/favicons/github.com.png)](https://github.com/ksenks)<br>Григорий Бакунов (Bobuk) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/bobuk) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/bobuk/) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/thebobuk) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/bobuk/) [![GitHub](img/favicons/github.com.png)](https://github.com/bobuk) [![VK](img/favicons/vk.com.png)](https://vk.com/thebobuk)<br>[Евгений Борт (umputun)](http://www.umputun.com/) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/umputun) [![Email](img/favicons/email.png)](mailto:umputun@gmail.com) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/umputun/) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/umputun) [![VK](img/favicons/vk.com.png)](https://vk.com/umputun) [![GitHub](img/favicons/github.com.png)](https://github.com/umputun) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/user/umputun) [![Telegram](img/favicons/t.me.png)](https://t.me/umputun)<br>[Сергей Петренко](https://blognot.co/) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/gray_ru) [![GitHub](img/favicons/github.com.png)](https://github.com/grayru) [![Telegram](img/favicons/t.me.png)](https://t.me/blognot) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/gray_ru/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/c/grayru) [![RSS](img/favicons/rss.png)](https://blognot.co/feed) [![VK](img/favicons/vk.com.png)](https://vk.com/gray_ru)|
+|**Регулярность** |Время от времени|
+|**Длительность** |25-40 минут|
+
+---
+
+|Название         |[Подкасты Mobile-review.com](https://mobile-review.com/articles/2006/new-mr-podcasts.shtml)|
+|:----------------|:------------------------------------------------------------------------------------------|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/hr/podcast/%D0%BF%D0%BE%D0%B4%D0%BA%D0%B0%D1%81%D1%82%D1%8B-mobile-review-com/id271623368) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/mobile-review/) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/podkasty-mobile-reviewcom) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/id1051204?country=ru) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/user/MobileReviewcom/videos) • [![VK](img/favicons/vk.com.png)](https://vk.com/mobilereviewcom) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/mobilreview) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/mobilereviewcom/) • [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/mobilereview/) • [![RSS](img/favicons/rss.png)](https://mobile-review.com/podcasts/rss.xml)|
+|**Описание**     |Гаджеты и аналитика.|
+|**Ведущие**      ||
+|**Регулярность** |Время от времени|
+|**Длительность** |20-40 минут|
+
+---
+
 |Название         |[Радио-Т](https://radio-t.com)|
 |:----------------|:-----------------------------|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/podcast/%D1%80%D0%B0%D0%B4%D0%B8%D0%BE-%D1%82/id256504435) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/11441) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/id1572?country=ru) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCBl1ML1jnlhRxHlCjSKTyeA) • [![VK](img/favicons/vk.com.png)](https://vk.com/radio_t) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/radio_t) • [![Telegram](img/favicons/t.me.png)](https://t.me/radio_t_podcast) • [![Email](img/favicons/email.png)](mailto:podcast@radio-t.com) • [![RSS](img/favicons/rss.png)](http://feeds.rucast.net/radio-t)|
@@ -312,33 +342,13 @@
 
 ---
 
-|Название         |[Паша + Слава](https://it.asm0dey.ru/)|
-|:----------------|:-------------------------------------|
-|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/it-insights-and-commons-things/id1207585393) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/1389654) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/%D0%9F%D0%B0%D1%88%D0%B0-%2B-%D0%A1%D0%BB%D0%B0%D0%B2%D0%B0-id479047?country=ru) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcasts-111905078) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/pg/slava.pasha/posts/) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/7867956?from=serp) • [![Email](img/favicons/email.png)](mailto:pavel.finkelshtein@gmail.com)|
-|**Описание**     |Подкаст об ИТ и связанных с ним вещах. Спикерами являются опытные айтишники, работающие в разных сферах и компаниях.|
-|**Ведущие**      |Паша Финкельштейн [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/asm0di0) [![GitHub](img/favicons/github.com.png)](https://github.com/asm0dey) [![LinkedIn](img/favicons/linkedin.cn.png)](https://www.linkedin.com/in/asm0dey/) [![VK](img/favicons/vk.com.png)](https://vk.com/asm0dey) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/asm0dey) [![StackOverflow](img/favicons/stackoverflow.com.png)](https://stackoverflow.com/users/1160959/asm0dey) [![Telegram](img/favicons/t.me.png)](https://t.me/asm0dey) [![Email](img/favicons/email.png)](mailto:pavel.finkelshtein@gmail.com)<br>Слава Семушин [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/php_coder) [![GitHub](img/favicons/github.com.png)](https://github.com/php-coder) [![LinkedIn](img/favicons/linkedin.cn.png)](https://linkedin.com/in/semushin) [![Email](img/favicons/email.png)](mailto:slava.semushin@gmail.com)<br>Слава Артемьев [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/viartemev) [![GitHub](img/favicons/github.com.png)](https://github.com/viartemev)|
-|**Регулярность** |Несколько раз в месяц|
-|**Длительность** |80-100 минут|
-
----
-
-|Название         |[Пираты Радио-Т](http://pirates.radio-t.com/)|
-|:----------------|:--------------------------------------------|
-|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/podcast/%D0%BF%D0%B8%D1%80%D0%B0%D1%82%D1%8B-%D1%80%D1%82/id288705606) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/series-19392) • [![RSS](img/favicons/rss.png)](http://feeds.feedburner.com/pirate-radio-t)|
-|**Описание**     |После–шоу еженедельного hi-tech подкаста выходного дня «Радио–Т». Тут вы можете услышать то, что происходит после сигнала «запись шоу завершена».|
-|**Ведущие**      |Ксения (ksenks) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/ksenks) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/ksenks/) [![VK](img/favicons/vk.com.png)](https://vk.com/id1413031) [![GitHub](img/favicons/github.com.png)](https://github.com/ksenks)<br>Григорий Бакунов (Bobuk) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/bobuk) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/bobuk/) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/thebobuk) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/bobuk/) [![GitHub](img/favicons/github.com.png)](https://github.com/bobuk) [![VK](img/favicons/vk.com.png)](https://vk.com/thebobuk)<br>[Евгений Борт (umputun)](http://www.umputun.com/) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/umputun) [![Email](img/favicons/email.png)](mailto:umputun@gmail.com) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/umputun/) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/umputun) [![VK](img/favicons/vk.com.png)](https://vk.com/umputun) [![GitHub](img/favicons/github.com.png)](https://github.com/umputun) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/user/umputun) [![Telegram](img/favicons/t.me.png)](https://t.me/umputun)<br>[Сергей Петренко](https://blognot.co/) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/gray_ru) [![GitHub](img/favicons/github.com.png)](https://github.com/grayru) [![Telegram](img/favicons/t.me.png)](https://t.me/blognot) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/gray_ru/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/c/grayru) [![RSS](img/favicons/rss.png)](https://blognot.co/feed) [![VK](img/favicons/vk.com.png)](https://vk.com/gray_ru)|
-|**Регулярность** |Время от времени|
-|**Длительность** |25-40 минут|
-
----
-
-|Название         |[Подкасты Mobile-review.com](https://mobile-review.com/articles/2006/new-mr-podcasts.shtml)|
-|:----------------|:------------------------------------------------------------------------------------------|
-|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/hr/podcast/%D0%BF%D0%BE%D0%B4%D0%BA%D0%B0%D1%81%D1%82%D1%8B-mobile-review-com/id271623368) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/mobile-review/) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/podkasty-mobile-reviewcom) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/id1051204?country=ru) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/user/MobileReviewcom/videos) • [![VK](img/favicons/vk.com.png)](https://vk.com/mobilereviewcom) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/mobilreview) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/mobilereviewcom/) • [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/mobilereview/) • [![RSS](img/favicons/rss.png)](https://mobile-review.com/podcasts/rss.xml)|
-|**Описание**     |Гаджеты и аналитика.|
-|**Ведущие**      ||
-|**Регулярность** |Время от времени|
-|**Длительность** |20-40 минут|
+|Название         |Силиконовые дали|
+|:----------------|:---------------|
+|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/silikonovie) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/%D1%81%D0%B8%D0%BB%D0%B8%D0%BA%D0%BE%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5-%D0%B4%D0%B0%D0%BB%D0%B8/id1095124477) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/silikonovye-dali/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/series-1231708) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/%D0%A1%D0%B8%D0%BB%D0%B8%D0%BA%D0%BE%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5-%D0%B4%D0%B0%D0%BB%D0%B8-id242381?country=ru) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/pg/silikonovie/posts/) • [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/silikonovie/)|
+|**Описание**     |Еженедельное радио-шоу про интернет тренды, старт-апы и инвестиции. Еженедельно в гостях у ведущего - Владимира Смеркиса - гости, успешные предприниматели из разных сфер интернет-бизнеса.|
+|**Ведущие**      |Владимир Смеркис [![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/smerkis) [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.com/users/smerkis/playlists) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/smerkis/)|
+|**Регулярность** |Еженедельно|
+|**Длительность** |~30 минут|
 
 ---
 
