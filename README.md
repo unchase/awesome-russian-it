@@ -143,6 +143,16 @@
 
 ---
 
+|Название         |[Войти в IT](https://academy.yandex.ru/)|
+|:----------------|:---------------------------------------|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/%D0%B2%D0%BE%D0%B9%D1%82%D0%B8-%D0%B2-it/id1492086611) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcasts-84793390) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/academy.yandex) • [![Telegram](img/favicons/t.me.png)](https://t.me/YandexAcademy) • [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/yandex.academy/)|
+|**Описание**     |Первый подкаст Академии Яндекса о молодых специалистах в IT, в котором сотрудники Яндекса с необычным бэкграундом рассказывают о том, как стали разработчиками, датасаентистами, менеджерами или дизайнерами.|
+|**Ведущие**      |Стася|
+|**Регулярность** |Раз в две недели|
+|**Длительность** |~40 минут|
+
+---
+
 |Название         |[Две столицы](http://www.2capitals.space)|
 |:----------------|:----------------------------------------|
 |**Ссылки**       |[![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/dve-stolicy-ujutnyj-podkast-it-pankov/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/series-1297185) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/2491598?country=ru) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/dve-stolitsy-uyutnyy-podkast-it-pankov) • [![Podster](img/favicons/podster.fm.png)](https://2capitals.podster.fm/) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCVyA6ONMsbIB-TSLZO8HNmQ) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcast2capitals) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/2capitals/) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/6880541?from=serp)|
