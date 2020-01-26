@@ -332,6 +332,16 @@
 
 ---
 
+|Название         |[Точка (звук) | Эхо Москвы](https://echo.msk.ru/programs/tochka/)|
+|:----------------|:----------------------------------------------------------------|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/podcast/точка-звук-эхо-москвы/id378499320) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCBbtn1eyyPyUjqJqhR-nNlw) • [![RSS](img/favicons/rss.png)](https://echo.msk.ru/programs/tochka/rss-audio.xml)|
+|**Описание**     |Обо всём полезном, что встречается в интернете. Задача — поделиться друг с другом информацией о сайтах, сервисах и приложениях.|
+|**Ведущие**      |[Александр Плющев](https://plushev.com/) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/plushev) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/plushev) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/plushev/)<br>Григорий Бакунов (Bobuk) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/bobuk) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/bobuk/) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/thebobuk) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/bobuk/) [![GitHub](img/favicons/github.com.png)](https://github.com/bobuk) [![VK](img/favicons/vk.com.png)](https://vk.com/thebobuk)|
+|**Регулярность** |Еженедельно|
+|**Длительность** |~50 минут|
+
+---
+
 |Название         |Хантфлоу Insight|
 |:----------------|:---------------|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/huntflow-insight) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/%D1%85%D0%B0%D0%BD%D1%82%D1%84%D0%BB%D0%BE%D1%83-insight/id1443781654) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/?feed=aHR0cDovL2ZlZWRzLnNvdW5kY2xvdWQuY29tL3VzZXJzL3NvdW5kY2xvdWQ6dXNlcnM6NTQyNzkyMDQzL3NvdW5kcy5yc3M) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/khantflou-insight) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/%D0%A5%D0%B0%D0%BD%D1%82%D1%84%D0%BB%D0%BE%D1%83-Insight-id1501245?country=us) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/khantflou-insight) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/6880174?from=serp)|
