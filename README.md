@@ -16,6 +16,7 @@
 * **[Блоги](#page_with_curl-блоги)**
   * [Блоги Общее](#блоги-общее)
   * [Блоги .NET](#блоги-net)
+  * [Блоги Go](#блоги-go)
 * **[Подкасты](#microphone-подкасты)**
   * [Администрирование](#администрирование)
   * [Блокчейн](#блокчейн)
@@ -58,6 +59,12 @@
 |**[Блог Дмитрия Нестерука](https://nesteruk.wordpress.com/)**|Блог о программировании — C#, F#, C++, архитектура, и многое другое.|Дмитрий Нестерук [![GitHub](img/favicons/github.com.png)](https://github.com/nesteruk) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCJIlkaXVl-6vU3ghQkr51nQ/feed) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/dnesteruk) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/mezastel/) [![Udemy](img/favicons/udemy.com.png)](https://www.udemy.com/user/dmitrinesteruk/) [![StackOverflow](img/favicons/stackoverflow.com.png)](https://stackoverflow.com/users/9476/dmitri-nesteruk)|
 |**[Andrey on .NET](https://andrey.moveax.ru/)**<br>[![RSS](img/favicons/rss.png)](http://feeds.moveax.ru/devdotnet)|Про C#, .NET, ASP.NET, Core, MVC, Azure, EF, IoC и другие умные слова.|Андрей Веселов [![MVP](img/favicons/mvp.microsoft.com.png)](https://mvp.microsoft.com/ru-ru/PublicProfile/4039965?fullName=Andrey%20Veselov) [![GitHub](img/favicons/github.com.png)](https://github.com/VeselovAndrey) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/AndreyVeselov) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/veselov.andrey) [![LinkedIn](img/favicons/linkedin.cn.png)](https://linkedin.com/in/veselovandrey)|
 |**[Code Instinct](https://www.codeinstinct.pro/)**<br>[![RSS](img/favicons/rss.png)](https://www.codeinstinct.pro/feeds/posts/default?alt=rss)|Блог Дмитрия Петухова, консультанта по технологиям машинного обучения, Cloud-архитектора, спикера, неутомимого исследователя и кофемана.|Дмитрий Петухов [![MVP](img/favicons/mvp.microsoft.com.png)](https://mvp.microsoft.com/ru-ru/PublicProfile/5001834?fullName=Dmitry%20Petukhov) [![GitHub](img/favicons/github.com.png)](https://github.com/codez0mb1e) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/codez0mb1e) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/codez0mb1e) [![Telegram](img/favicons/t.me.png)](https://t.me/codez0mb1e) [![LinkedIn](img/favicons/linkedin.cn.png)](https://www.linkedin.com/in/dpetukhov/) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/codezombie/)|
+
+### **Блоги Go**
+
+|Название|Описание|Автор|
+|:-------|:-------|:----|
+|**[4gophers](https://4gophers.ru/)**<br> [![VK](img/favicons/vk.com.png)](https://vk.com/golang) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/4gophers) [![Telegram](img/favicons/t.me.png)](https://t.me/gophernews) [![Slack](img/favicons/slack.png)](http://slack.golang-ru.com/) [![RSS](img/favicons/rss.png)](https://4gophers.ru/articles/index.xml)|Блог по языку программирования Go/Golang.||
 
 ## :microphone: **Подкасты**
 
@@ -1169,7 +1176,7 @@
   <a href="https://github.com/unchase/awesome-russian-it/graphs/contributors"><img width="30" src="img/contributors/unchase.jpg"></a>
 </p>
 
-Если у вас есть желание помочь с наполнением или актуализацией этого списка, ознакомьтесь с информацией в файле [CONTRIBUTING.md](CONTRIBUTING.md).
+Если у вас есть желание помочь с наполнением или актуализацией этого репозитория, пожалуйста, ознакомьтесь с информацией в файле [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ---
 
