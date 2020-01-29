@@ -45,15 +45,15 @@
 
 ### **Блоги Общее**
 
-|Название|Описание|Автор|
-|:-------|:-------|:----|
+|Название|Описание|Автор/Создатель|
+|:-------|:-------|:--------------|
 |**[Блог Александра Бындю](https://blog.byndyu.ru/)**|Личный блог Александра Бындю, IT-архитектора и эксперта в Agile и Lean.|[Александр Бындю](https://byndyu.ru/) [![GitHub](img/favicons/github.com.png)](https://github.com/AlexanderByndyu) [![VK](img/favicons/vk.com.png)](https://vk.com/byndyu) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/alexanderbyndyu) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/alexander.byndyu) [![LinkedIn](img/favicons/linkedin.cn.png)](https://www.linkedin.com/in/alexanderbyndyu) [![Medium](img/favicons/medium.com.png)](https://medium.com/@alexander.byndyu) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCuZO9u4O6vIigNmeySWSGCg) [![Email](img/favicons/email.png)](mailto:alexander.byndyu@gmail.com)|
 |**[Хабр](https://habr.com)**<br>[![VK](img/favicons/vk.com.png)](https://vk.com/habr) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/habr_com) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/habrahabr.ru) [![Telegram](img/favicons/t.me.png)](https://t.me/habr_com) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCd_sTwKqVrweTt4oAKY5y4w) [![Email](img/favicons/email.png)](mailto:info@habr.com)|Крупная площадка с многомиллионной аудиторией и необычными сервисами.<br>На Хабре ​ведут ​блоги ​известные ​компании. ​Они делятся ​знаниями, ​опытом ​и узнают ​мнение ​о своих ​продуктах ​из первых ​рук, ​а пользователи ​задают ​им вопросы ​напрямую ​и получают ​ответы.|Денис Крючков [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/deniskin)|
 
 ### **Блоги .NET**
 
-|Название|Описание|Автор|
-|:-------|:-------|:----|
+|Название|Описание|Автор/Создатель|
+|:-------|:-------|:--------------|
 |**[Блог Андрея Акиньшина](https://aakinshin.net/ru/posts/)**<br>[![RSS](img/favicons/rss.png)](https://aakinshin.net/ru/rss.xml)|Блог Андрея Акиньшина — разработчика и учёного, частого спикера на конференциях, автора постов и статей. Он мейнтейнер BenchmarkDotNet (самая популярная библиотека для написания .NET-бенчмарков) и автор Pro .NET Benchmarking (книга о практиках замеров производительности).|Андрей Акиньшин [![MVP](img/favicons/mvp.microsoft.com.png)](https://mvp.microsoft.com/en-us/PublicProfile/5001348) [![GitHub](img/favicons/github.com.png)](https://github.com/AndreyAkinshin) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/andrey_akinshin) [![LinkedIn](img/favicons/linkedin.cn.png)](http://www.linkedin.com/in/AndreyAkinshin) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/dreamwalker/) [![Medium](img/favicons/medium.com.png)](https://medium.com/@andrey.akinshin) [![StackOverflow](img/favicons/stackoverflow.com.png)](https://stackoverflow.com/users/184842/AndreyAkinshin) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCk25QhN-9_wwkqyeapuCh9w) [![Email](img/favicons/email.png)](mailto:andrey.akinshin@gmail.com)|
 |**[Блог Андрея Амельченя](http://flash2048.com/)**<br>[![RSS](img/favicons/rss.png)](http://flash2048.com/syndication.axd/)|Мысли и статьи о программировании и не только.|Андрей Амельченя [![MVP](img/favicons/mvp.microsoft.com.png)](https://mvp.microsoft.com/en-us/PublicProfile/5003272) [![GitHub](img/favicons/github.com.png)](https://github.com/flash2048) [![VK](img/favicons/vk.com.png)](https://vk.com/flash2048) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/flash2048) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/flash2048) [![LinkedIn](img/favicons/linkedin.cn.png)](https://www.linkedin.com/in/flash2048/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCLT9skyV6t0bqsJ5Xzknh9w) [![Email](img/favicons/email.png)](mailto:andrei.amialchenia@gmail.com)|
 |**[Блог Дмитрия Нестерука](https://nesteruk.wordpress.com/)**|Блог о программировании — C#, F#, C++, архитектура, и многое другое.|Дмитрий Нестерук [![GitHub](img/favicons/github.com.png)](https://github.com/nesteruk) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCJIlkaXVl-6vU3ghQkr51nQ/feed) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/dnesteruk) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/mezastel/) [![Udemy](img/favicons/udemy.com.png)](https://www.udemy.com/user/dmitrinesteruk/) [![StackOverflow](img/favicons/stackoverflow.com.png)](https://stackoverflow.com/users/9476/dmitri-nesteruk)|
@@ -63,8 +63,8 @@
 
 ### **Блоги Go**
 
-|Название|Описание|Автор|
-|:-------|:-------|:----|
+|Название|Описание|Автор/Создатель|
+|:-------|:-------|:--------------|
 |**[4gophers](https://4gophers.ru/)**<br> [![VK](img/favicons/vk.com.png)](https://vk.com/golang) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/4gophers) [![Telegram](img/favicons/t.me.png)](https://t.me/gophernews) [![Slack](img/favicons/slack.png)](http://slack.golang-ru.com/) [![RSS](img/favicons/rss.png)](https://4gophers.ru/articles/index.xml)|Блог по языку программирования Go/Golang.||
 
 ## **Подкасты**
