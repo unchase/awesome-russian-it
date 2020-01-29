@@ -13,6 +13,7 @@
 ## Содержание
 
 * **[Блоги](#блоги)**
+  * [Блоги Документация](#блоги-документация)
   * [Блоги Общее](#блоги-общее)
   * [Блоги .NET](#блоги-net)
   * [Блоги Go](#блоги-go)
@@ -42,6 +43,12 @@
 ## **Блоги**
 
 > Здесь представлены блоги различных людей, связанных с разработкой и со сферой ИТ в целом.
+
+### **Блоги Документация**
+
+|Название|Описание|Автор/Создатель|
+|:-------|:-------|:--------------|
+|**[Learnapidoc-ru 2.0](https://starkovden.github.io/)**|Курс по документированию API. Вольный перевод курса Documenting APIs: a guide for technical writers, составленного Томом Джонсоном, техническим писателем Amazon.|Денис Старков [![GitHub](img/favicons/github.com.png)](https://github.com/Starkovden) [![VK](img/favicons/vk.com.png)](https://vk.com/yarilagod) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/starkovden) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/dstarkov/) [![Email](img/favicons/email.png)](mailto:starkovden@gmail.com)|
 
 ### **Блоги Общее**
 
