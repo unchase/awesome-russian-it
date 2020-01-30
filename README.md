@@ -338,6 +338,16 @@
 
 ---
 
+|Название         |[Продуктивный Роман](https://roman.ua/category/podcast/)|
+|:----------------|:-------------------------------------------------------|
+|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/productive_roman) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D1%8B%D0%B9-%D1%80%D0%BE%D0%BC%D0%B0%D0%BD-%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82%D0%B8%D0%BD%D0%B3-%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D1%8C/id1178337792) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/produktivnyj-roman-biznes-marketing-produktivnost/) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/series-1334925) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/%D0%9F%D0%A0%D0%9E%D0%94%D0%A3%D0%9A%D0%A2%D0%98%D0%92%D0%9D%D0%AB%D0%99-%D0%A0%D0%9E%D0%9C%D0%90%D0%9D-%7C-%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-%7C-%D0%BC%D0%B0%D1%80%D0%BA%D0%B5%D1%82%D0%B8%D0%BD%D0%B3-%7C-%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D1%8C-id421984?country=ru) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/produktivnyy-roman-biznes-marketing-produktivnost) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/c/Romanua) • [![VK](img/favicons/vk.com.png)](https://vk.com/romanetua) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/ProductiveRoman/) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/6318898?from=serp)|
+|**Описание**     |ПРОДУКТИВНЫЙ РОМАН — подкаст о компаниях, которые делают IT продукты. О любви к пользователю, безудержном маркетинге и зрелых изменениях, а также о том, как разбираться в интернет-бизнесе.|
+|**Ведущие**      |Роман Рыбальченко|
+|**Регулярность** |Несколько раз в неделю|
+|**Длительность** |20-80 минут|
+
+---
+
 |Название         |[Радио-Т](https://radio-t.com)|
 |:----------------|:-----------------------------|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/podcast/%D1%80%D0%B0%D0%B4%D0%B8%D0%BE-%D1%82/id256504435) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/11441) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/id1572?country=ru) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCBl1ML1jnlhRxHlCjSKTyeA) • [![VK](img/favicons/vk.com.png)](https://vk.com/radio_t) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/radio_t) • [![Telegram](img/favicons/t.me.png)](https://t.me/radio_t_podcast) • [![Email](img/favicons/email.png)](mailto:podcast@radio-t.com) • [![RSS](img/favicons/rss.png)](http://feeds.rucast.net/radio-t)|
