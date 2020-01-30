@@ -50,7 +50,7 @@ http://favicon.yandex.net/favicon/<ссылка_на_ресурс>
 
 |Название|Описание|Автор/Создатель|
 |:-------|:-------|:--------------|
-|**[]()**<br>[![RSS](img/favicons/rss.png)]()||<Имя_Фамилия> [![MVP](img/favicons/mvp.microsoft.com.png)]() [![GitHub](img/favicons/github.com.png)]() [![VK](img/favicons/vk.com.png)]() [![Twitter](img/favicons/twitter.com.png)]() [![Facebook](img/favicons/facebook.com.png)]() [![Telegram](img/favicons/t.me.png)]() [![Instagram](img/favicons/instagram.com.png)]() [![LinkedIn](img/favicons/linkedin.cn.png)]() [![Habr](img/favicons/habr.com.png)]() [![Medium](img/favicons/medium.com.png)]() [![dev.to](img/favicons/dev.to.png)]() [![StackOverflow](img/favicons/stackoverflow.com.png)]() [![YouTube](img/favicons/youtube.com.png)]() [![Email](img/favicons/email.png)](mailto:)|
+|**[]()**<br>[![RSS](img/favicons/rss.png)]()||<Имя_Фамилия_или_никнейм> [![MVP](img/favicons/mvp.microsoft.com.png)]() [![GitHub](img/favicons/github.com.png)]() [![Habr](img/favicons/habr.com.png)]() [![Medium](img/favicons/medium.com.png)]() [![dev.to](img/favicons/dev.to.png)]() [![YouTube](img/favicons/youtube.com.png)]()|
 
 ---
 
