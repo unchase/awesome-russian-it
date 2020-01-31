@@ -1164,8 +1164,8 @@
 
 > Здесь собраны агрегаторы всевозможных мероприятий (конференций, митапов, хакатонов и встреч) по ИТ тематике.
 
-|Название|Описание|Места проведения|Связанные ссылки|
-|:------:|:-------|:--------------:|:--------------:|
+|Название|Описание|Места проведения мероприятий|Связанные ссылки|
+|:------:|:-------|:--------------------------:|:--------------:|
 |[![#tceh](img/favicons/tceh.com.png)](https://tceh.com/events/)<br>[#tceh](https://tceh.com/events/)|Каждый год #tceh проводит экспертные, образовательные и комьюнити-события — от камерных, на несколько человек, до сверхпопулярных, на сотни участников.||[![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/tcehcom/) [![VK](img/favicons/vk.com.png)](https://vk.com/club73842245) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/tceh_inside/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCV4Mv7c4illkfNQCQEhdpjQ) [![Telegram](img/favicons/t.me.png)](https://tg.xenot.ru/tceh_com) [![Email](img/favicons/email.png)](mailto:events@tceh.com)|
 |[![Atlassian](img/favicons/ace.atlassian.com.png)](https://ace.atlassian.com/events/#/list)<br>[Atlassian](https://ace.atlassian.com/events/#/list)|Мероприятия, связанные с продуктами Atlassian.|Весь мир|[![Habr](img/favicons/habr.com.png)](https://habr.com/ru/hub/Atlassian/)|
 |[![Avito Tech](img/favicons/tech.avito.ru.png)](https://tech.avito.ru/events/)<br>[Avito Tech](https://tech.avito.ru/events/)|IT-события, проводимые Авито.|Москва, Казань|[![Twitter](img/favicons/twitter.com.png)](https://twitter.com/AvitoTech) [![VK](img/favicons/vk.com.png)](https://vk.com/avitotech) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/AvitoTech/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/c/AvitoTech) [![Telegram](img/favicons/t.me.png)](https://t.me/avitotech) [![Habr](img/favicons/habr.com.png)](https://habrahabr.ru/company/avito/) [![GitHub](img/favicons/github.com.png)](https://github.com/avito-tech)|
