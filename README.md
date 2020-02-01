@@ -64,6 +64,7 @@
 |:-------|:-------|:--------------|
 |**[Блог Александра Бындю](https://blog.byndyu.ru/)**|Личный блог Александра Бындю, IT-архитектора и эксперта в Agile и Lean.|[Личный сайт](https://byndyu.ru/) [![GitHub](img/favicons/github.com.png)](https://github.com/AlexanderByndyu) [![Medium](img/favicons/medium.com.png)](https://medium.com/@alexander.byndyu) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCuZO9u4O6vIigNmeySWSGCg)|
 |**[Хабр](https://habr.com)**<br>[![VK](img/favicons/vk.com.png)](https://vk.com/habr) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/habr_com) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/habrahabr.ru) [![Telegram](img/favicons/t.me.png)](https://t.me/habr_com) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCd_sTwKqVrweTt4oAKY5y4w)|Крупная площадка с многомиллионной аудиторией и необычными сервисами.<br>На Хабре ​ведут ​блоги ​известные ​компании. ​Они делятся ​знаниями, ​опытом ​и узнают ​мнение ​о своих ​продуктах ​из первых ​рук, ​а пользователи ​задают ​им вопросы ​напрямую ​и получают ​ответы.|[![Twitter](img/favicons/twitter.com.png)](https://twitter.com/deniskin)|
+|**[Metanit.com](https://metanit.com/)**|Курсы по программированию по различным языкам и технологиям программирования от METANIT.COM.|[![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/user/Eugene22584/)|
 
 ### **Блоги .NET**
 
