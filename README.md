@@ -51,6 +51,7 @@
 |Название|Описание|Автор/Создатель|
 |:-------|:-------|:--------------|
 |**[Записки админа](https://sysadmin.pm/)**|Заметки сисадмина — это сборник записей системного администратора, который уже несколько лет работает с Linux на серверах.|[![Twitter](img/favicons/twitter.com.png)](https://twitter.com/sysadmin_pm) [![Telegram](img/favicons/t.me.png)](https://t.me/SysadminNotes) [![LinkedIn](img/favicons/linkedin.cn.png)](https://www.linkedin.com/in/sysadmin-pm)|
+|**[LINUX.ORG.RU](https://www.linux.org.ru/)**<br>[![RSS](img/favicons/rss.png)](https://www.linux.org.ru/section-rss.jsp?section=1)|Проект «LINUX.ORG.RU: Русская информация об ОС Linux» был основан в октябре 1998 года. Нашей целью является создание основного информационного ресурса об операционной системе Linux в России. Мы стараемся обеспечить возможность обмена различной Linux-ориентированной информацией, последними новостями, ссылками, документацией и другими ресурсами.|[Максим Валянский (maxcom)](https://valyanskiy.net/) [![GitHub](img/favicons/github.com.png)](https://github.com/maxcom) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UC02ozRTMDnJtdcVGGy2o87Q)|
 
 ### **Блоги Документация**
 
