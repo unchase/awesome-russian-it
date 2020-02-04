@@ -74,6 +74,7 @@
 
 |Название|Описание|Автор/Создатель|
 |:-------|:-------|:--------------|
+|**[OpenQuality.ru](http://blog.openquality.ru/)**<br>[![RSS](img/favicons/rss.png)](http://feeds2.feedburner.com/OpenQuality)|Цель проекта - способствовать улучшению качества программного обеспечения. Держать руку на пульсе событий, отслеживать тенденции в создании информационных систем и делиться практическим опытом внедрения новых технологий.|Юрий Кунивер|
 |**[Software-Testing.RU blogs](https://software-testing.ru/blogs)**<br>[![RSS](img/favicons/rss.png)](http://feeds.feedburner.com/RussianTestingBlogs50)|Проект Software-Testing.RU посвящён вопросам тестирования и повышения качества программного обеспечения. На нашем портале специалисты по тестированию смогут найти сотни тематических статей, подборку книг по тестированию, обзор новостей отрасли. В разделе Тренинги собрана информация об учебных курсах и тренингах по тестированию, конференциях и других мероприятиях проводимых в России и СНГ разными компаниями.|[![VK](img/favicons/vk.com.png)](http://vk.com/test_it) [![Twitter](img/favicons/twitter.com.png)](http://twitter.com/esteru) [![Facebook](img/favicons/facebook.com.png)](http://www.facebook.com/pages/Test-it/458857490853620)|
 
 ### **Блоги .NET**
