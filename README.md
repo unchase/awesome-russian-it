@@ -19,6 +19,7 @@
   * [Блоги Тестирование](#блоги-тестирование)
   * [Блоги .NET](#блоги-net)
   * [Блоги Go](#блоги-go)
+  * [Блоги Python](#блоги-python)
 * **[Подкасты](#подкасты)**
   * [Администрирование](#администрирование)
   * [Блокчейн](#блокчейн)
@@ -95,6 +96,12 @@
 |Название|Описание|Автор/Создатель|
 |:-------|:-------|:--------------|
 |**[4gophers](https://4gophers.ru/)**<br> [![VK](img/favicons/vk.com.png)](https://vk.com/golang) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/4gophers) [![Telegram](img/favicons/t.me.png)](https://t.me/gophernews) [![Slack](img/favicons/slack.png)](http://slack.golang-ru.com/) [![RSS](img/favicons/rss.png)](https://4gophers.ru/articles/index.xml)|Блог по языку программирования Go/Golang.||
+
+### **Блоги Python**
+
+|Название|Описание|Автор/Создатель|
+|:-------|:-------|:--------------|
+|**[Блог Антона Жиянова](https://antonz.ru/)**<br> [![Telegram](img/favicons/t.me.png)](https://t.me/ohmypy) [![RSS](img/favicons/rss.png)](https://antonz.ru/rss/)|Личный блог Антона Жиянова о Python и разработке продуктов.|Антон Жиянов|
 
 ## **Подкасты**
 
