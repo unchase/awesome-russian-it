@@ -16,6 +16,7 @@
   * [Блоги Администрирование](#блоги-администрирование)
   * [Блоги Документация](#блоги-документация)
   * [Блоги Общее](#блоги-общее)
+  * [Блоги Тестирование](#блоги-тестирование)
   * [Блоги .NET](#блоги-net)
   * [Блоги Go](#блоги-go)
 * **[Подкасты](#подкасты)**
@@ -68,6 +69,12 @@
 |**[Хабр](https://habr.com)**<br>[![VK](img/favicons/vk.com.png)](https://vk.com/habr) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/habr_com) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/habrahabr.ru) [![Telegram](img/favicons/t.me.png)](https://t.me/habr_com) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCd_sTwKqVrweTt4oAKY5y4w)|Крупная площадка с многомиллионной аудиторией и необычными сервисами.<br>На Хабре ​ведут ​блоги ​известные ​компании. ​Они делятся ​знаниями, ​опытом ​и узнают ​мнение ​о своих ​продуктах ​из первых ​рук, ​а пользователи ​задают ​им вопросы ​напрямую ​и получают ​ответы.|[![Twitter](img/favicons/twitter.com.png)](https://twitter.com/deniskin)|
 |**[learnxinyminutes.com](https://learnxinyminutes.com/)**<br>[![GitHub](img/favicons/github.com.png)](https://github.com/adambard/learnxinyminutes-docs)|Документация как код к множеству языков и инструментов, собранная сообществом. Есть статьи на русском языке.|[Adam Bard](https://adambard.com/) [![GitHub](img/favicons/github.com.png)](https://github.com/adambard)|
 |**[Metanit.com](https://metanit.com/)**|Курсы по программированию по различным языкам и технологиям программирования от METANIT.COM.|[![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/user/Eugene22584/)|
+
+### **Блоги Тестирование**
+
+|Название|Описание|Автор/Создатель|
+|:-------|:-------|:--------------|
+|**[Software-Testing.RU blogs](https://software-testing.ru/blogs)**<br>[![RSS](img/favicons/rss.png)](http://feeds.feedburner.com/RussianTestingBlogs50)|Проект Software-Testing.RU посвящён вопросам тестирования и повышения качества программного обеспечения. На нашем портале специалисты по тестированию смогут найти сотни тематических статей, подборку книг по тестированию, обзор новостей отрасли. В разделе Тренинги собрана информация об учебных курсах и тренингах по тестированию, конференциях и других мероприятиях проводимых в России и СНГ разными компаниями.|[![VK](img/favicons/vk.com.png)](http://vk.com/test_it) [![Twitter](img/favicons/twitter.com.png)](http://twitter.com/esteru) [![Facebook](img/favicons/facebook.com.png)](http://www.facebook.com/pages/Test-it/458857490853620)|
 
 ### **Блоги .NET**
 
