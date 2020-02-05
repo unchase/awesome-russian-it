@@ -16,6 +16,7 @@
   * [Блоги Администрирование](#блоги-администрирование)
   * [Блоги Документация](#блоги-документация)
   * [Блоги Общее](#блоги-общее)
+  * [Блоги Паттерны](#блоги-паттерны)
   * [Блоги Тестирование](#блоги-тестирование)
   * [Блоги .NET](#блоги-net)
   * [Блоги Go](#блоги-go)
@@ -70,6 +71,12 @@
 |**[Хабр](https://habr.com)**<br>[![VK](img/favicons/vk.com.png)](https://vk.com/habr) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/habr_com) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/habrahabr.ru) [![Telegram](img/favicons/t.me.png)](https://t.me/habr_com) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCd_sTwKqVrweTt4oAKY5y4w)|Крупная площадка с многомиллионной аудиторией и необычными сервисами.<br>На Хабре ​ведут ​блоги ​известные ​компании. ​Они делятся ​знаниями, ​опытом ​и узнают ​мнение ​о своих ​продуктах ​из первых ​рук, ​а пользователи ​задают ​им вопросы ​напрямую ​и получают ​ответы.|[![Twitter](img/favicons/twitter.com.png)](https://twitter.com/deniskin)|
 |**[learnxinyminutes.com](https://learnxinyminutes.com/)**<br>[![GitHub](img/favicons/github.com.png)](https://github.com/adambard/learnxinyminutes-docs)|Документация как код к множеству языков и инструментов, собранная сообществом. Есть статьи на русском языке.|[Adam Bard](https://adambard.com/) [![GitHub](img/favicons/github.com.png)](https://github.com/adambard)|
 |**[Metanit.com](https://metanit.com/)**|Курсы по программированию по различным языкам и технологиям программирования от METANIT.COM.|[![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/user/Eugene22584/)|
+
+### **Блоги Паттерны**
+
+|Название|Описание|Автор/Создатель|
+|:-------|:-------|:--------------|
+|**[Рефакторинг.Гуру](https://refactoring.guru/ru)**<br>[![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/refactoring.guru/) [![GitHub](img/favicons/github.com.png)](https://github.com/RefactoringGuru)|Рефакторинг.Гуру посвящён тёмным материям программирования: рефакторингу, паттернам проектирования, принципам SOLID и другим важным темам из мира программирования.<br>Главная цель этого сайта — показать общую картину того, как все эти темы пересекаются, как работают вместе и насколько они до сих пор актуальны.|Александр Швец [![GitHub](img/favicons/github.com.png)](https://github.com/neochief) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/neochief/)|
 
 ### **Блоги Тестирование**
 
