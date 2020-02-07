@@ -56,6 +56,10 @@ http://favicon.yandex.net/favicon/<ссылка_на_ресурс>
 
 * При добавлении **Мероприятий** в таблицу придерживайтесь стиля, который уже используется в файле `README.md` (по аналогии).
 
+В качестве шаблона заполняемой таблицы можно взять:
+
+|[![](img/favicons/)]()<br>[]()|||[![Twitter](img/favicons/twitter.com.png)]() [![VK](img/favicons/vk.com.png)]() [![Facebook](img/favicons/facebook.com.png)]() [![YouTube](img/favicons/youtube.com.png)]() [![Telegram](img/favicons/t.me.png)]() [![Instagram](img/favicons/instagram.com.png)]() [![LinkedIn](img/favicons/linkedin.cn.png)]()|
+
 ---
 
 - [ ] Отправьте *Pull-Request*.
