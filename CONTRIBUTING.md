@@ -58,6 +58,8 @@ http://favicon.yandex.net/favicon/<ссылка_на_ресурс>
 
 В качестве шаблона заполняемой таблицы можно взять:
 
+|Название|Описание|Места проведения мероприятий|Связанные ссылки|
+|:------:|:-------|:--------------------------:|:--------------:|
 |[![](img/favicons/)]()<br>[]()|||[![Twitter](img/favicons/twitter.com.png)]() [![VK](img/favicons/vk.com.png)]() [![Facebook](img/favicons/facebook.com.png)]() [![YouTube](img/favicons/youtube.com.png)]() [![Telegram](img/favicons/t.me.png)]() [![Instagram](img/favicons/instagram.com.png)]() [![LinkedIn](img/favicons/linkedin.cn.png)]()|
 
 ---
