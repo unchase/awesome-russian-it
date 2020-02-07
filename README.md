@@ -53,6 +53,8 @@
 
 ### **Блоги Администрирование**
 
+<sup>[Содержание](#содержание)</sup>
+
 |Название|Описание|Автор/Создатель|
 |:-------|:-------|:--------------|
 |**[Записки админа](https://sysadmin.pm/)**|Заметки сисадмина — это сборник записей системного администратора, который уже несколько лет работает с Linux на серверах.|[![Twitter](img/favicons/twitter.com.png)](https://twitter.com/sysadmin_pm) [![Telegram](img/favicons/t.me.png)](https://t.me/SysadminNotes) [![LinkedIn](img/favicons/linkedin.cn.png)](https://www.linkedin.com/in/sysadmin-pm)|
@@ -60,12 +62,16 @@
 
 ### **Блоги Документация**
 
+<sup>[Содержание](#содержание)</sup>
+
 |Название|Описание|Автор/Создатель|
 |:-------|:-------|:--------------|
 |**[Lana Teletype.in](https://teletype.in/@lananovikova)**|Дайджесты чата Docops с полезной информацией по документированию.|[Светлана Новикова](https://lananovikova.tech/) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/nerazzgadannaya/posts/) [![Telegram](img/favicons/t.me.png)](https://t.me/the_know_all)|
 |**[Learnapidoc-ru 2.0](https://starkovden.github.io/)**|Курс по документированию API. Вольный перевод курса [Documenting APIs: a guide for technical writers](https://idratherbewriting.com/learnapidoc/), составленного Томом Джонсоном, техническим писателем Amazon.|Tom Johnson<br>Переводчик: [![GitHub](img/favicons/github.com.png)](https://github.com/Starkovden)|
 
 ### **Блоги Общее**
+
+<sup>[Содержание](#содержание)</sup>
 
 |Название|Описание|Автор/Создатель|
 |:-------|:-------|:--------------|
@@ -76,11 +82,15 @@
 
 ### **Блоги Паттерны**
 
+<sup>[Содержание](#содержание)</sup>
+
 |Название|Описание|Автор/Создатель|
 |:-------|:-------|:--------------|
 |**[Рефакторинг.Гуру](https://refactoring.guru/ru)**<br>[![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/refactoring.guru/) [![GitHub](img/favicons/github.com.png)](https://github.com/RefactoringGuru)|Рефакторинг.Гуру посвящён тёмным материям программирования: рефакторингу, паттернам проектирования, принципам SOLID и другим важным темам из мира программирования.<br>Главная цель этого сайта — показать общую картину того, как все эти темы пересекаются, как работают вместе и насколько они до сих пор актуальны.|Александр Швец [![GitHub](img/favicons/github.com.png)](https://github.com/neochief) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/neochief/)|
 
 ### **Блоги Тестирование**
+
+<sup>[Содержание](#содержание)</sup>
 
 |Название|Описание|Автор/Создатель|
 |:-------|:-------|:--------------|
@@ -90,6 +100,8 @@
 |**[Software-Testing.RU blogs](https://software-testing.ru/blogs)**<br>[![RSS](img/favicons/rss.png)](http://feeds.feedburner.com/RussianTestingBlogs50)|Проект Software-Testing.RU посвящён вопросам тестирования и повышения качества программного обеспечения. На нашем портале специалисты по тестированию смогут найти сотни тематических статей, подборку книг по тестированию, обзор новостей отрасли. В разделе Тренинги собрана информация об учебных курсах и тренингах по тестированию, конференциях и других мероприятиях проводимых в России и СНГ разными компаниями.|[![VK](img/favicons/vk.com.png)](http://vk.com/test_it) [![Twitter](img/favicons/twitter.com.png)](http://twitter.com/esteru) [![Facebook](img/favicons/facebook.com.png)](http://www.facebook.com/pages/Test-it/458857490853620)|
 
 ### **Блоги .NET**
+
+<sup>[Содержание](#содержание)</sup>
 
 |Название|Описание|Автор/Создатель|
 |:-------|:-------|:--------------|
@@ -103,11 +115,15 @@
 
 ### **Блоги Go**
 
+<sup>[Содержание](#содержание)</sup>
+
 |Название|Описание|Автор/Создатель|
 |:-------|:-------|:--------------|
 |**[4gophers](https://4gophers.ru/)**<br> [![VK](img/favicons/vk.com.png)](https://vk.com/golang) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/4gophers) [![Telegram](img/favicons/t.me.png)](https://t.me/gophernews) [![Slack](img/favicons/slack.png)](http://slack.golang-ru.com/) [![RSS](img/favicons/rss.png)](https://4gophers.ru/articles/index.xml)|Блог по языку программирования Go/Golang.||
 
 ### **Блоги Python**
+
+<sup>[Содержание](#содержание)</sup>
 
 |Название|Описание|Автор/Создатель|
 |:-------|:-------|:--------------|
@@ -121,6 +137,8 @@
 
 ### **Администрирование**
 
+<sup>[Содержание](#содержание)</sup>
+
 |Название         |[LinkMeUp](https://linkmeup.ru/podcasts/)|
 |:----------------|:----------------------------------------|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/linkmeup-pervyj-podkast-dla/id1065445951) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/linkmeup/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/linkmeup-podkast-pro-it-i-pro-liudiei-133493) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/linkmeup.-%D0%9F%D0%BE%D0%B4%D0%BA%D0%B0%D1%81%D1%82-%D0%BF%D1%80%D0%BE-IT-%D0%B8-%D0%BF%D1%80%D0%BE-%D0%BB%D1%8E%D0%B4%D0%B5%D0%B9-id1173801?country=ru) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/linkmeup) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/linkmeupru) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/linkmeup.sdsm) • [![Telegram](img/favicons/t.me.png)](https://telegram.me/linkmeup_podcast) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/7060168?from=serp) • [![Email](img/favicons/email.png)](mailto:info@linkmeup.ru) • [![RSS](img/favicons/rss.png)](https://linkmeup.ru/rss)|
@@ -131,6 +149,8 @@
 
 ### **Блокчейн**
 
+<sup>[Содержание](#содержание)</sup>
+
 |Название         |[Базовый блок: блокчейн без буллшита](https://basicblockradio.com/)|
 |:----------------|:------------------------------------------------------------------|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/id1289965366) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/?feed=aHR0cDovL2Jhc2ljYmxvY2tyYWRpby5saWJzeW4uY29tL3Jzcw) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/bazovyj-blok/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/1542756) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/%D0%91%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B9-%D0%B1%D0%BB%D0%BE%D0%BA%3A-%D0%B1%D0%BB%D0%BE%D0%BA%D1%87%D0%B5%D0%B9%D0%BD-%D0%B1%D0%B5%D0%B7-%D0%B1%D1%83%D0%BB%D0%BB%D1%88%D0%B8%D1%82%D0%B0-id1059789?country=ru) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/bazovyy-blok) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UC95bSmaFa7R33GOyi6VfyGQ) • [![VK](img/favicons/vk.com.png)](https://vk.com/basicblockradio) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/basicblockradio) • [![Telegram](img/favicons/t.me.png)](https://t.me/basicblockradio) • [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/basicblockradio/) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/7638583?from=serp) • [![RSS](img/favicons/rss.png)](http://basicblockradio.libsyn.com/rss)|
@@ -140,6 +160,8 @@
 |**Длительность** |50-110 минут|
 
 ### **ИТ-безопасность**
+
+<sup>[Содержание](#содержание)</sup>
 
 |Название         |[Хочу в ИБ](https://hochu-v-ib.ru/)|
 |:----------------|:----------------------------------|
@@ -170,6 +192,8 @@
 |**Длительность** |30-70 минут|
 
 ### **Общее**
+
+<sup>[Содержание](#содержание)</sup>
 
 |Название         |АйТиБорода|
 |:----------------|:---------|
@@ -841,7 +865,11 @@
 
 ### **Разработка**
 
+<sup>[Содержание](#содержание)</sup>
+
 ##### **.NET**
+
+<sup>[Содержание](#содержание)</sup>
 
 |Название         |Визуальная Студия|
 |:----------------|:----------------|
@@ -883,6 +911,8 @@
 
 ##### **PHP**
 
+<sup>[Содержание](#содержание)</sup>
+
 |Название         |[Пятиминутка PHP](https://5minphp.ru/)|
 |:----------------|:-------------------------------------|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/5minphp) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/patiminutka-php/id996423650) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/pyatiminutka-php/) • [![VK](img/favicons/vk.com.png)](https://vk.com/5minphp) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/5minphp) • [![Telegram](img/favicons/t.me.png)](https://t.me/tg_5minphp) • [![Podster](img/favicons/podster.fm.png)](https://podster.fm/user/5minphp) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/php-90501) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/pyatiminutka-php) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/%D0%9F%D1%8F%D1%82%D0%B8%D0%BC%D0%B8%D0%BD%D1%83%D1%82%D0%BA%D0%B0-PHP-id36139?country=ru) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCkqGd3xwk9LqNYXVTjAe3ww) • [![RSS](img/favicons/rss.png)](http://feeds.soundcloud.com/users/soundcloud:users:153519653/sounds.rss) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/7293227)|
@@ -892,6 +922,8 @@
 |**Длительность** |5-70 минут|
 
 ##### **Python**
+
+<sup>[Содержание](#содержание)</sup>
 
 |Название         |[Moscow Python](https://podcast.python.ru/)|
 |:----------------|:------------------------------------------|
@@ -903,6 +935,8 @@
 
 ##### **Ruby**
 
+<sup>[Содержание](#содержание)</sup>
+
 |Название         |[Rwpod](https://www.rwpod.com/)|
 |:----------------|:------------------------------|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/rwpod-podkast-pro-mir-ruby/id597248066) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/rwpod) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/rwpod) • [![RSS](img/favicons/rss.png)](https://www.rwpod.com/rss.xml) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/user/rwpod/featured) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/rwpod-ruby-web)|
@@ -913,6 +947,8 @@
 
 ##### **Scala**
 
+<sup>[Содержание](#содержание)</sup>
+
 |Название         |[Scalalaz](https://scalalaz.ru/)|
 |:----------------|:-------------------------------|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/scalalaz-podcast/id1156356598) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/ScalalazPodcast) • [![Telegram](img/favicons/t.me.png)](https://telegram.me/scala_ru) • [![GitHub](img/favicons/github.com.png)](https://github.com/scalalaz-podcast/) • [![Discord](img/favicons/discordapp.com.png)](https://discordapp.com/invite/RnugmrU) • [![RSS](img/favicons/rss.png)](https://scalalaz.ru/rss/feed.xml)|
@@ -922,6 +958,8 @@
 |**Длительность** ||
 
 #### **Веб-разработка**
+
+<sup>[Содержание](#содержание)</sup>
 
 |Название         |[Веб-стандарты](https://web-standards.ru/)|
 |:----------------|:-----------------------------------------|
@@ -1023,6 +1061,8 @@
 
 #### **Мобильная разработка**
 
+<sup>[Содержание](#содержание)</sup>
+
 |Название         |[Appbooster](https://appbooster.com/)|
 |:----------------|:------------------------------------|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/appbooster) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/appbooster/id1481440666) • [![VK](img/favicons/vk.com.png)](https://vk.com/appbooster) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/appbooster_ru) • [![Telegram](img/favicons/t.me.png)](https://t.me/love_mobile) • [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/appbooster/)|
@@ -1083,6 +1123,8 @@
 
 ##### **Android**
 
+<sup>[Содержание](#содержание)</sup>
+
 |Название         |Android Broadcast|
 |:----------------|:----------------|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/by/podcast/android-broadcast/id1492425305) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/andro_broadcast) • [![Telegram](img/favicons/t.me.png)](https://t.me/android_broadcast)|
@@ -1112,6 +1154,8 @@
 |**Длительность** |~20 минут|
 
 #### **Разработка игр**
+
+<sup>[Содержание](#содержание)</sup>
 
 |Название         |[Как делают игры](https://kdicast.com/)|
 |:----------------|:--------------------------------------|
@@ -1173,6 +1217,8 @@
 
 ### **BigData**
 
+<sup>[Содержание](#содержание)</sup>
+
 |Название         |Большая Дата|
 |:----------------|:-----------|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/us/podcast/%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F-%D0%B4%D0%B0%D1%82%D0%B0/id1492565320) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/9516906)|
@@ -1182,6 +1228,8 @@
 |**Длительность** |~30 минут|
 
 ### **DevOps**
+
+<sup>[Содержание](#содержание)</sup>
 
 |Название         |[DevOps Дефлопе](https://devopsdeflope.ru/)|
 |:----------------|:------------------------------------------|
