@@ -43,6 +43,7 @@
   
 * **[Мероприятия](#мероприятия)**
   * [Мероприятия Агрегаторы и Общие](#мероприятия-агрегаторы-и-общие)
+  * [Мероприятия AI](#мероприятия-ai)
   * [Мероприятия Architecture](#мероприятия-architecture)
   * [Мероприятия BlockChain](#мероприятия-blockchain)
   * [Мероприятия BigData и DataScience](#мероприятия-bigdata-и-datascience)
@@ -1321,6 +1322,14 @@
 |[![Райффайзен DGTL](img/favicons/dgtl.raiffeisen.ru.png)](https://dgtl.raiffeisen.ru/event)<br>[Райффайзен DGTL](https://dgtl.raiffeisen.ru/event)|Райффайзен DGTL — это сообщество экспертов, работающих над цифровыми решениями банка. На этом портале мы рассказываем все о наших командах и технологиях, анонсируем мероприятия и делимся актуальными вакансиями. Нас уже выбрали лучшие профессионалы индустрии, и мы ждем, когда присоединишься ты!|Москва|[![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/raiffeisenbankrus) [![VK](img/favicons/vk.com.png)](https://vk.com/raiffeisencareer)|
 |[![РИТ++](img/favicons/ritfest.ru.png)](https://ritfest.ru/)<br>[РИТ++](https://ritfest.ru/)|Профессиональный фестиваль для тех, кто делает Интернет.<br>Отраслевая выставка и целый ряд профессиональных узкотематических конференций: системное администрирование и эксплуатация, высоконагруженные системы и базы данных, серверное программирование, управление проектами и предпринимательство, а также фронтенд-разработка.|Москва|[![Twitter](img/favicons/twitter.com.png)](https://twitter.com/RITFestRussia) [![VK](img/favicons/vk.com.png)](https://vk.com/ritfest) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/RITFest/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/RITFestChannel) [![Telegram](img/favicons/t.me.png)](https://t.me/RITFestTalks)|
 |[![Технократ](img/favicons/technokrat.moscow.png)](https://technokrat.moscow)<br>[Технократ](https://technokrat.moscow)|Образование в области инновационных цифровых технологий.|Москва|[![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/technokrat.moscow/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCT0jB-Ep6n9BdlzL_AEt_HQ) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/technokrat.moscow/)|
+
+### **Мероприятия AI**
+
+<sup>[Содержание](#содержание)</sup>
+
+|Название|Описание|Места проведения мероприятий|Связанные ссылки|
+|:------:|:-------|:--------------------------:|:--------------:|
+|[![RAIF](img/favicons/raif.jet.su.png)](https://raif.jet.su/)<br>[RAIF](https://raif.jet.su/)|RAIF — это первая масштабная площадка в России и СНГ для обмена ценным опытом, стратегиями и результатами кейсов в области Artificial Intelligence (AI), Machine Learning (ML) и Internet of Things (IoT).|Москва|[![Email](img/favicons/email.png)](mailto:forum-raif@jet.su)|
 
 ### **Мероприятия Architecture**
 
