@@ -56,6 +56,7 @@
       * [Мероприятия IoT](#мероприятия-iot)
       * [Мероприятия Java](#мероприятия-java)
       * [Мероприятия Mobile](#мероприятия-mobile)
+      * [Мероприятия MR VR AR](#мероприятия-mr-vr-ar)
       * [Мероприятия PHP](#мероприятия-php)
       * [Мероприятия Python](#мероприятия-python)
       * [Мероприятия Scala](#мероприятия-scala)
@@ -1402,7 +1403,6 @@
 |:------:|:-------|:--------------------------:|:--------------:|
 |[![GameDev-Calendar](img/favicons/gamedev-calendar.ru.png)](http://gamedev-calendar.ru/)<br>[GameDev-Calendar](http://gamedev-calendar.ru/)|Календарь событий игровой индустрии.<br>Геймдев мероприятия, митапы, конференции, встречи разработчиков, хакатоны, лектории — не пропустите что-то интересное!|Россия, Украина, Белоруссия|[![VK](img/favicons/vk.com.png)](https://vk.com/gamedev_calendar) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/GamedevCalendar/) [![Telegram](img/favicons/t.me.png)](https://t.me/gamedev_calendar) [![Email](img/favicons/email.png)](mailto:calendar@foxsys.pro)|
 |[![GameDev CityFest](img/favicons/)](https://gamedevcityfest.ru/)<br>[GameDev CityFest](https://gamedevcityfest.ru/)|GameDev CityFest – это часть событийной платформы от организаторов GameDev Weekend, собирающая самых ярких представителей игровой индустрии Сибири.|Новосибирск|[![VK](img/favicons/vk.com.png)](https://vk.com/gdeventsnsk)|
-|[![MIXR](img/favicons/mixrconf.ru.png)](https://mixrconf.ru/)<br>[MIXR](https://mixrconf.ru/)|MIXR - это независимая конференция по MR, VR и AR. Технологии смешанной реальности являются продуктом будущего, который может быть конкурентным и продаваемым.<br>Это место для встречи профессионального сообщества, расширения и обновления контакт-листа и популяризации технологии.|Москва|[![VK](img/favicons/vk.com.png)](https://vk.com/mixr_conf) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/mixrconf/) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/mixr_conf/)|
 
 ##### **Мероприятия Go**
 
@@ -1437,6 +1437,14 @@
 |:------:|:-------|:--------------------------:|:--------------:|
 |[![AppsConf](img/favicons/appsconf.ru.png)](https://appsconf.ru/)<br>[AppsConf](https://appsconf.ru/)|Профессиональная конференция разработчиков мобильных приложений.|Москва, Санкт-Петербург|[![Twitter](img/favicons/twitter.com.png)](https://twitter.com/AppsConfRussia/) [![VK](img/favicons/vk.com.png)](https://vk.com/appsconfrussia) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/AppsConfRussia/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/c/MobileChannelRussia) [![Telegram](img/favicons/t.me.png)](http://t.me/AppsConf) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/404fest/)|
 |[![Mobius](img/favicons/mobiusconf.com.png)](https://mobiusconf.com/)<br>[Mobius](https://mobiusconf.com/)|Mobius — это конференция для разработчиков мобильных приложений, которая регулярно проходит в Москве и Петербурге и собирает более 600 участников. Аудитория конференции: Middle и Senior-разработчики, тимлиды, руководители проектов и системные архитекторы.|Москва, Санкт-Петербург|[![Twitter](img/favicons/twitter.com.png)](https://twitter.com/MobiusConf) [![VK](img/favicons/vk.com.png)](https://vk.com/mobiusconf) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/mobiusconf/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCG70q1HRspLdd93HW94WS-A) [![Telegram](img/favicons/t.me.png)](https://t.me/mobiusconf)|
+
+##### **Мероприятия MR VR AR**
+
+<sup>[Содержание](#содержание)</sup>
+
+|Название|Описание|Места проведения мероприятий|Связанные ссылки|
+|:------:|:-------|:--------------------------:|:--------------:|
+|[![MIXR](img/favicons/mixrconf.ru.png)](https://mixrconf.ru/)<br>[MIXR](https://mixrconf.ru/)|MIXR - это независимая конференция по MR, VR и AR. Технологии смешанной реальности являются продуктом будущего, который может быть конкурентным и продаваемым.<br>Это место для встречи профессионального сообщества, расширения и обновления контакт-листа и популяризации технологии.|Москва|[![VK](img/favicons/vk.com.png)](https://vk.com/mixr_conf) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/mixrconf/) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/mixr_conf/)|
 
 ##### **Мероприятия PHP**
 
