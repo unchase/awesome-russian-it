@@ -1444,7 +1444,7 @@
 
 |Название|Описание|Места проведения мероприятий|Связанные ссылки|
 |:------:|:-------|:--------------------------:|:--------------:|
-|[![MIXR](img/favicons/mixrconf.ru.png)](https://mixrconf.ru/)<br>[MIXR](https://mixrconf.ru/)|MIXR - это независимая конференция по MR, VR и AR. Технологии смешанной реальности являются продуктом будущего, который может быть конкурентным и продаваемым.<br>Это место для встречи профессионального сообщества, расширения и обновления контакт-листа и популяризации технологии.|Москва|[![VK](img/favicons/vk.com.png)](https://vk.com/mixr_conf) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/mixrconf/) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/mixr_conf/)|
+|[![MIXR](img/favicons/mixrconf.ru.png)](https://mixrconf.ru/)<br>[MIXR](https://mixrconf.ru/)|MIXR - это независимая конференция по MR, VR и AR. Технологии смешанной реальности являются продуктом будущего, который может быть конкурентным и продаваемым.<br>Это место для встречи профессионального сообщества, расширения и обновления контакт-листа и популяризации технологии.|Москва|[![VK](img/favicons/vk.com.png)](https://vk.com/mixr_conf) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/mixrconf/) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/mixr_conf/) [![Email](img/favicons/email.png)](mailto:about@mixrconf.ru)|
 
 ##### **Мероприятия PHP**
 
