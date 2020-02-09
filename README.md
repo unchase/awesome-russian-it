@@ -1202,6 +1202,16 @@
 
 ---
 
+|Название         |На инди кухне|
+|:----------------|:------------|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/%D0%BD%D0%B0-%D0%B8%D0%BD%D0%B4%D0%B8-%D0%BA%D1%83%D1%85%D0%BD%D0%B5/id1271152416) • [![Podster](img/favicons/podster.fm.png)](https://indiekitchen.podster.fm/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/series-1538721) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/playlist?list=PLLnbgEEdG2HTMZ-T_CSJAJyQVTjVfmIJ2) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcasts-141226253) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/9349008)|
+|**Описание**     |Подкаст про инди-игры и их разработчиков.|
+|**Ведущие**      |[Александр Jusper Николаев](https://devtribe.ru/user/jusper)|
+|**Регулярность** |Время от времени|
+|**Длительность** |40-80 минут|
+
+---
+
 |Название         |[Подпольный геймдизайн](https://torick.ru/podkast/)|
 |:----------------|:--------------------------------------------------|
 |**Ссылки**       |[![Podster](img/favicons/podster.fm.png)](https://ugd.podster.fm/) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/podpolnyj-gejmdizajn/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/series-1296923) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/podpol-nyy-geymdizayn)|
