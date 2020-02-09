@@ -1449,6 +1449,7 @@
 
 |Название|Описание|Места проведения мероприятий|Связанные ссылки|
 |:------:|:-------|:--------------------------:|:--------------:|
+|[![AVRA Days](img/favicons/avradays.com.png)](https://avradays.com/)<br>[AVRA Days](https://avradays.com/)|Главное мероприятие года об AR/VR/AI/5G для бизнеса, созданное профессионалами и вобравшее максимум экспертизы.|Москва|[![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/avraassociation/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCtfKT_4RvLXxuOKGxjvN7xQ) [![Telegram](img/favicons/t.me.png)](https://t.me/avracommunity) |
 |[![MIXR](img/favicons/mixrconf.ru.png)](https://mixrconf.ru/)<br>[MIXR](https://mixrconf.ru/)|MIXR - это независимая конференция по MR, VR и AR. Технологии смешанной реальности являются продуктом будущего, который может быть конкурентным и продаваемым.<br>Это место для встречи профессионального сообщества, расширения и обновления контакт-листа и популяризации технологии.|Москва|[![VK](img/favicons/vk.com.png)](https://vk.com/mixr_conf) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/mixrconf/) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/mixr_conf/) [![Email](img/favicons/email.png)](mailto:about@mixrconf.ru)|
 
 ##### **Мероприятия PHP**
