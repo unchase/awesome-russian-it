@@ -146,6 +146,7 @@
 |Название|Описание|Автор/Создатель|
 |:-------|:-------|:--------------|
 |**[App2Top.ru](https://app2top.ru/)**<br>[![Twitter](img/favicons/twitter.com.png)](https://twitter.com/App2Top) [![VK](img/favicons/vk.com.png)](https://vk.com/app2top) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/App2Top) [![Telegram](img/favicons/t.me.png)](https://t.me/app2top)|App2Top.ru – это информационный ресурс, посвященный всем аспектам индустрии игр.<br>Последние новости разработки и продвижения игр, интервью с лидерами рынка, постмортемы кассовых хитов и советы по игровому дизайну, – все это, а также многое другое можно найти на App2Top.ru.||
+|**[DevTribe](https://devtribe.ru)**<br>[![Twitter](img/favicons/twitter.com.png)](https://twitter.com/DevTribe_ru) [![VK](img/favicons/vk.com.png)](https://vk.com/devtribe) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/c/devtribe) [![Discord](img/favicons/discordapp.com.png)](https://discordapp.com/invite/PKZkUzf)|DevTribe - это сайт об инди-играх, объединяющий людей, которые делают инди-игры, с теми, кто в эти инди-игры играет. Мы собираем в одно пространство все части gamedev'а: новости об инди-играх и разработке игр, поиск работы в игровой индустрии, база знаний по игровым инструментами и движкам, инструментарий для разработки игр, и, конечно же, возможность организовать место для дневника разработчика.|Александр Jusper Николаев|
 
 ### **Блоги Go**
 
