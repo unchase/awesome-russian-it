@@ -1400,6 +1400,7 @@
 
 |Название|Описание|Места проведения мероприятий|Связанные ссылки|
 |:------:|:-------|:--------------------------:|:--------------:|
+|[![GameDev-Calendar](img/favicons/gamedev-calendar.ru.png)](http://gamedev-calendar.ru/)<br>[GameDev-Calendar](http://gamedev-calendar.ru/)|Календарь событий игровой индустрии.<br>Геймдев мероприятия, митапы, конференции, встречи разработчиков, хакатоны, лектории — не пропустите что-то интересное!|Россия|[![VK](img/favicons/vk.com.png)](https://vk.com/gamedev_calendar) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/GamedevCalendar/) [![Telegram](img/favicons/t.me.png)](https://t.me/gamedev_calendar) [![Email](img/favicons/email.png)](mailto:calendar@foxsys.pro)|
 |[![GameDev CityFest](img/favicons/)](https://gamedevcityfest.ru/)<br>[GameDev CityFest](https://gamedevcityfest.ru/)|GameDev CityFest – это часть событийной платформы от организаторов GameDev Weekend, собирающая самых ярких представителей игровой индустрии Сибири.|Новосибирск|[![VK](img/favicons/vk.com.png)](https://vk.com/gdeventsnsk)|
 
 ##### **Мероприятия Go**
