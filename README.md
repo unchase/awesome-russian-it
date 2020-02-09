@@ -19,6 +19,7 @@
   * [Блоги Паттерны](#блоги-паттерны)
   * [Блоги Тестирование](#блоги-тестирование)
   * [Блоги .NET](#блоги-net)
+  * [Блоги GameDev](#блоги-gamedev)
   * [Блоги Go](#блоги-go)
   * [Блоги Python](#блоги-python)
 * **[Подкасты](#подкасты)**
@@ -137,6 +138,14 @@
 |**[Andrey on .NET](https://andrey.moveax.ru/)**<br>[![RSS](img/favicons/rss.png)](http://feeds.moveax.ru/devdotnet)|Про C#, .NET, ASP.NET, Core, MVC, Azure, EF, IoC и другие умные слова.|Андрей Веселов [![MVP](img/favicons/mvp.microsoft.com.png)](https://mvp.microsoft.com/ru-ru/PublicProfile/4039965?fullName=Andrey%20Veselov) [![GitHub](img/favicons/github.com.png)](https://github.com/VeselovAndrey)|
 |**[Code Instinct](https://www.codeinstinct.pro/)**<br>[![RSS](img/favicons/rss.png)](https://www.codeinstinct.pro/feeds/posts/default?alt=rss)|Блог Дмитрия Петухова, консультанта по технологиям машинного обучения, Cloud-архитектора, спикера, неутомимого исследователя и кофемана.|[![MVP](img/favicons/mvp.microsoft.com.png)](https://mvp.microsoft.com/ru-ru/PublicProfile/5001834?fullName=Dmitry%20Petukhov) [![GitHub](img/favicons/github.com.png)](https://github.com/codez0mb1e) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/codezombie/)|
 |**[Wiki .NET сообществ в GitHub](https://github.com/AnatolyKulakov/SpbDotNet/wiki)**|Wiki в GitHub с записями встреч и презентациями русскоязычных .NET сообществ с наиболее полной информацией о них.|[Анатолий Кулаков](https://github.com/AnatolyKulakov/SpbDotNet/wiki/Anatoly-Kulakov) [![GitHub](img/favicons/github.com.png)](https://github.com/AnatolyKulakov) [![DotNet.ru](img/favicons/dotnet.ru.png)](https://dotnet.ru)|
+
+### **Блоги GameDev**
+
+<sup>[Содержание](#содержание)</sup>
+
+|Название|Описание|Автор/Создатель|
+|:-------|:-------|:--------------|
+|**[App2Top.ru](https://app2top.ru/)**<br>[![Twitter](img/favicons/twitter.com.png)](https://twitter.com/App2Top) [![VK](img/favicons/vk.com.png)](https://vk.com/app2top) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/App2Top) [![Telegram](img/favicons/t.me.png)](https://t.me/app2top)|App2Top.ru – это информационный ресурс, посвященный всем аспектам индустрии игр.<br>Последние новости разработки и продвижения игр, интервью с лидерами рынка, постмортемы кассовых хитов и советы по игровому дизайну, – все это, а также многое другое можно найти на App2Top.ru.||
 
 ### **Блоги Go**
 
