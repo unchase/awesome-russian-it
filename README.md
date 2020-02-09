@@ -51,6 +51,7 @@
       * [Мероприятия 1C](#мероприятия-1c)
       * [Мероприятия .NET](#мероприятия-net)
       * [Мероприятия C++](#мероприятия-c)
+      * [Мероприятия GameDev](#мероприятия-gamedev)
       * [Мероприятия Go](#мероприятия-go)
       * [Мероприятия IoT](#мероприятия-iot)
       * [Мероприятия Java](#мероприятия-java)
@@ -1392,6 +1393,14 @@
 |Название|Описание|Места проведения мероприятий|Связанные ссылки|
 |:------:|:-------|:--------------------------:|:--------------:|
 |[![С++ Russia](img/favicons/cppconf.ru.png)](https://cppconf.ru/)<br>[С++ Russia](https://cppconf.ru/)|Конференция С++ Russia — это два дня и несколько треков хардкорных технических докладов, посвященных C++: concurrency, производительность, архитектура и инфраструктурные решения — всё для того, чтобы ваш код выглядел лучше и делал больше. Конференция ориентирована на опытных разработчиков, никаких вводных докладов!|Москва, Санкт-Петербург|[![Twitter](img/favicons/twitter.com.png)](https://twitter.com/cpp_russia) [![VK](img/favicons/vk.com.png)](https://vk.com/cpp_russia) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/cppugrussia/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCJ9v015sPgEi0jJXe_zanjA) [![Telegram](img/favicons/t.me.png)](https://t.me/cpprussia)|
+
+##### **Мероприятия GameDev**
+
+<sup>[Содержание](#содержание)</sup>
+
+|Название|Описание|Места проведения мероприятий|Связанные ссылки|
+|:------:|:-------|:--------------------------:|:--------------:|
+|[![GameDev CityFest](img/favicons/)](https://gamedevcityfest.ru/)<br>[GameDev CityFest](https://gamedevcityfest.ru/)|GameDev CityFest – это часть событийной платформы от организаторов GameDev Weekend, собирающая самых ярких представителей игровой индустрии Сибири.|Новосибирск|[![VK](img/favicons/vk.com.png)](https://vk.com/gdeventsnsk)|
 
 ##### **Мероприятия Go**
 
