@@ -44,6 +44,7 @@
   
 * **[Мероприятия](#мероприятия)**
   * [Мероприятия Агрегаторы и Общие](#мероприятия-агрегаторы-и-общие)
+  * [Мероприятия Аналитика](#мероприятия-аналитика)
   * [Мероприятия БД](#мероприятия-бд)
   * [Мероприятия AI](#мероприятия-ai)
   * [Мероприятия Architecture](#мероприятия-architecture)
@@ -1359,6 +1360,14 @@
 |[![РИТ++](img/favicons/ritfest.ru.png)](https://ritfest.ru/)<br>[РИТ++](https://ritfest.ru/)|Профессиональный фестиваль для тех, кто делает Интернет.<br>Отраслевая выставка и целый ряд профессиональных узкотематических конференций: системное администрирование и эксплуатация, высоконагруженные системы и базы данных, серверное программирование, управление проектами и предпринимательство, а также фронтенд-разработка.|Москва|[![Twitter](img/favicons/twitter.com.png)](https://twitter.com/RITFestRussia) [![VK](img/favicons/vk.com.png)](https://vk.com/ritfest) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/RITFest/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/RITFestChannel) [![Telegram](img/favicons/t.me.png)](https://t.me/RITFestTalks)|
 |[![Стачка](img/favicons/nastachku.ru.png)](https://nastachku.ru/)<br>[Стачка](https://nastachku.ru/)|Крупнейшая региональная IT-конференция «Стачка» — это насыщенная программа из 200 докладов по 5 направлениям: разработка, digital, управление, тренды, карьера и образование.|Ульяновск|[![Twitter](img/favicons/twitter.com.png)](https://twitter.com/nastachku) [![VK](img/favicons/vk.com.png)](https://vk.com/nastachku) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/nastachku) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCMpfLBYXuJ0W4qS3icVijmw) [![Telegram](img/favicons/t.me.png)](https://t.me/nastachku) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/nastachku/)|
 |[![Технократ](img/favicons/technokrat.moscow.png)](https://technokrat.moscow)<br>[Технократ](https://technokrat.moscow)|Образование в области инновационных цифровых технологий.|Москва|[![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/technokrat.moscow/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCT0jB-Ep6n9BdlzL_AEt_HQ) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/technokrat.moscow/)|
+
+### **Мероприятия Аналитика**
+
+<sup>[Содержание](#содержание)</sup>
+
+|Название|Описание|Места проведения мероприятий|Связанные ссылки|
+|:------:|:-------|:--------------------------:|:--------------:|
+|[![Точка сборки](img/favicons/tochkasborki.spbcoa.ru.png)](http://tochkasborki.spbcoa.ru/)<br>[Точка сборки](http://tochkasborki.spbcoa.ru/)|«Точка сборки» — площадка для обмена профессиональным опытом. Мы собираемся в едином пространстве, знакомимся и учимся друг у друга практически применимым вещам в сфере анализа, качества, программных продуктов с возможностью дальнейшего развития и полезных для бизнеса.|Санкт-Петербург|[![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/spbcoatochkasborki/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCKAToRr8AwzqJIlihWPk8RQ) [![Telegram](img/favicons/t.me.png)](https://t.me/t0chkasborki) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/t0chkasborki/)|
 
 ### **Мероприятия БД**
 
