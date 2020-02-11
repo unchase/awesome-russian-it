@@ -1481,6 +1481,7 @@
 
 |Название|Описание|Места проведения мероприятий|Связанные ссылки|
 |:------:|:-------|:--------------------------:|:--------------:|
+|[![Golang Piter](img/favicons/golangpiter.com.png)](https://golangpiter.com/)<br>[Golang Piter](https://golangpiter.com/)|Международная техническая конференция о языке программирования Go.|Санкт-Петербург|[![Twitter](img/favicons/twitter.com.png)](https://twitter.com/GolangPiter) [![VK](img/favicons/vk.com.png)](https://vk.com/golangpiter) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/GolangPiter) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCGq2P6UDaP1cHMxOIkF0jqg/featured) [![Telegram](img/favicons/t.me.png)](https://t.me/GolangPiter)|
 |[![GolangConf](img/favicons/golangconf.ru.png)](https://golangconf.ru/)<br>[GolangConf](https://golangconf.ru/)|Профессиональная конференция для Go-разработчиков.<br>Конференция для тех, кто использует Go в профессиональной разработке, и тех, кто рассматривает этот язык в качестве альтернативы.|Москва|[![Twitter](img/favicons/twitter.com.png)](https://twitter.com/GolangConf) [![VK](img/favicons/vk.com.png)](https://vk.com/golangconf) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/GolangConf) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCykb1JeHJvVHOL6XJCoWMdA) [![Telegram](img/favicons/t.me.png)](https://t.me/GolangConfTalks)|
 
 ##### **Мероприятия IoT**
