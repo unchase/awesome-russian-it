@@ -1369,6 +1369,8 @@
 
 |Название|Описание|Места проведения мероприятий|Связанные ссылки|
 |:------:|:-------|:--------------------------:|:--------------:|
+
+|[![Go Analytics!](img/favicons/goanalytics.ru.png)](https://www.goanalytics.ru/)<br>[Go Analytics!](https://www.goanalytics.ru/)|Расскажем о том, как использовать аналитику для бизнеса. Что делать с данными: как собирать, анализировать, понимать и применять результаты. Только кейсы и никакой воды.|Москва|[![Twitter](img/favicons/twitter.com.png)](https://twitter.com/go_analytics) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/goanalytic)|
 |[![Точка сборки](img/favicons/tochkasborki.spbcoa.ru.png)](http://tochkasborki.spbcoa.ru/)<br>[Точка сборки](http://tochkasborki.spbcoa.ru/)|«Точка сборки» — площадка для обмена профессиональным опытом. Мы собираемся в едином пространстве, знакомимся и учимся друг у друга практически применимым вещам в сфере анализа, качества, программных продуктов с возможностью дальнейшего развития и полезных для бизнеса.|Санкт-Петербург|[![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/spbcoatochkasborki/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCKAToRr8AwzqJIlihWPk8RQ) [![Telegram](img/favicons/t.me.png)](https://t.me/t0chkasborki) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/t0chkasborki/)|
 
 ### **Мероприятия БД**
