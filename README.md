@@ -1632,7 +1632,7 @@
 
 </details>
 
-<details><summary><a name="meetups-devops"></a><b>&nbsp;&nbsp;DevOps</b></summary><br>
+<details><summary><a name="meetups-devops"></a><b>DevOps</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1648,7 +1648,7 @@
 
 </details>
 
-<details><summary><a name="meetups-management"></a><b>&nbsp;&nbsp;Management</b></summary><br>
+<details><summary><a name="meetups-management"></a><b>Management</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
