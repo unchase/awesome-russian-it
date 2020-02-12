@@ -14,7 +14,7 @@
 
 |<p align="center">**[Блоги](#блоги)**</p>|<p align="center">**[Подкасты](#подкасты)**</p>|<p align="center">**[Мероприятия](#мероприятия)**</p>|<p align="center">**Прочее**</p>|
 |:-|:-|:-|:-|
-|&nbsp;•&nbsp;[Блоги Администрирование](#blogs-administrating)<br>&nbsp;•&nbsp;[Блоги Документация](#blogs-documentation)<br>&nbsp;•&nbsp;[Блоги Общее](#blogs-common)<br>&nbsp;•&nbsp;[Блоги Паттерны](#blogs-patterns)<br>&nbsp;•&nbsp;[Блоги Тестирование](#blogs-testing)<br>&nbsp;•&nbsp;[Блоги .NET](#blogs-dotnet)<br>&nbsp;•&nbsp;[Блоги GameDev](#blogs-gamedev)<br>&nbsp;•&nbsp;[Блоги Go](#blogs-go)<br>&nbsp;•&nbsp;[Блоги Python](#blogs-python)|&nbsp;•&nbsp;[Администрирование](#podcasts-administrating)<br>&nbsp;•&nbsp;[Блокчейн](#podcasts-blockchain)<br>&nbsp;•&nbsp;[ИТ-безопасность](#podcasts-security)<br>&nbsp;•&nbsp;[Общее](#podcasts-common)<br>&nbsp;•&nbsp;[Продуктовый дизайн](#podcasts-design)<br>&nbsp;•&nbsp;[Разработка](#podcasts-development)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;[.NET](#user-content-podcasts-development-dotnet)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;[PHP](#podcasts-development-php)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;[Python](#podcasts-development-python)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;[Ruby](#podcasts-development-ruby)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;[Scala](#podcasts-development-scala)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[Веб-разработка](#podcasts-development-web)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[Мобильная разработка](#podcasts-development-mobile)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;[Android](#podcasts-development-mobile-android)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[Разработка игр](#podcasts-development-gamedev)<br>&nbsp;•&nbsp;[Тестирование](#podcasts-testing)<br>&nbsp;•&nbsp;[BigData](#podcasts-bigdata)<br>&nbsp;•&nbsp;[DevOps](#podcasts-devops)<br>|&nbsp;•&nbsp;[Мероприятия Агрегаторы и Общие](#meetups-aggregators)<br>&nbsp;•&nbsp;[Мероприятия Аналитика](#meetups-analytics)<br>&nbsp;•&nbsp;[Мероприятия БД](#meetups-db)<br>&nbsp;•&nbsp;[Мероприятия AI](#meetups-ai)<br>&nbsp;•&nbsp;[Мероприятия Architecture](#meetups-architecture)<br>&nbsp;•&nbsp;[Мероприятия BlockChain](#meetups-blockchain)<br>&nbsp;•&nbsp;[Мероприятия BigData и DataScience](#meetups-bigdata-datascience)<br>&nbsp;•&nbsp;[Мероприятия Development](#meetups-development)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[Мероприятия 1C](#meetups-development-1c)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[Мероприятия .NET](#meetups-development-dotnet)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[Мероприятия C++](#meetups-development-cpp)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[Мероприятия GameDev](#meetups-development-gamedev)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[Мероприятия Go](#meetups-development-go)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[Мероприятия IoT](#meetups-development-iot)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[Мероприятия Java](#meetups-development-java)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[Мероприятия Mobile](#meetups-development-mobile)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[Мероприятия MR VR AR](#meetups-development-mr-vr-ar)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[Мероприятия PHP](#meetups-development-php)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[Мероприятия Python](#meetups-development-python)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[Мероприятия Scala](#meetups-development-scala)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[Мероприятия Web](#meetups-development-web)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[Мероприятия DevOps](#meetups-devops)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[Мероприятия Management](#meetups-management)<br>&nbsp;•&nbsp;[Мероприятия Security](#meetups-security)<br>&nbsp;•&nbsp;[Мероприятия Testing и QA](#meetups-testing-qa)<br>&nbsp;•&nbsp;[Мероприятия UX](#meetups-ux)|&nbsp;•&nbsp;[Информация для авторов ресурсов](#информация-для-авторов-ресурсов)<br>&nbsp;•&nbsp;[Контрибьюторы](#контрибьюторы)|
+|&nbsp;•&nbsp;[Администрирование](#blogs-administrating)<br>&nbsp;•&nbsp;[Документация](#blogs-documentation)<br>&nbsp;•&nbsp;[Общее](#blogs-common)<br>&nbsp;•&nbsp;[Паттерны](#blogs-patterns)<br>&nbsp;•&nbsp;[Тестирование](#blogs-testing)<br>&nbsp;•&nbsp;[.NET](#blogs-dotnet)<br>&nbsp;•&nbsp;[GameDev](#blogs-gamedev)<br>&nbsp;•&nbsp;[Go](#blogs-go)<br>&nbsp;•&nbsp;[Python](#blogs-python)|&nbsp;•&nbsp;[Администрирование](#podcasts-administrating)<br>&nbsp;•&nbsp;[Блокчейн](#podcasts-blockchain)<br>&nbsp;•&nbsp;[ИТ-безопасность](#podcasts-security)<br>&nbsp;•&nbsp;[Общее](#podcasts-common)<br>&nbsp;•&nbsp;[Продуктовый дизайн](#podcasts-design)<br>&nbsp;•&nbsp;[Разработка](#podcasts-development)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;[.NET](#podcasts-development-dotnet)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;[PHP](#podcasts-development-php)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;[Python](#podcasts-development-python)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;[Ruby](#podcasts-development-ruby)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;[Scala](#podcasts-development-scala)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[Веб-разработка](#podcasts-development-web)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[Мобильная разработка](#podcasts-development-mobile)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;[Android](#podcasts-development-mobile-android)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[Разработка игр](#podcasts-development-gamedev)<br>&nbsp;•&nbsp;[Тестирование](#podcasts-testing)<br>&nbsp;•&nbsp;[BigData](#podcasts-bigdata)<br>&nbsp;•&nbsp;[DevOps](#podcasts-devops)<br>|&nbsp;•&nbsp;[Агрегаторы и Общие](#meetups-aggregators)<br>&nbsp;•&nbsp;[Аналитика](#meetups-analytics)<br>&nbsp;•&nbsp;[БД](#meetups-db)<br>&nbsp;•&nbsp;[AI](#meetups-ai)<br>&nbsp;•&nbsp;[Architecture](#meetups-architecture)<br>&nbsp;•&nbsp;[BlockChain](#meetups-blockchain)<br>&nbsp;•&nbsp;[BigData и DataScience](#meetups-bigdata-datascience)<br>&nbsp;•&nbsp;[Development](#meetups-development)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[1C](#meetups-development-1c)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[.NET](#meetups-development-dotnet)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[C++](#meetups-development-cpp)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[GameDev](#meetups-development-gamedev)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[Go](#meetups-development-go)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[IoT](#meetups-development-iot)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[Java](#meetups-development-java)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[Mobile](#meetups-development-mobile)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[MR VR AR](#meetups-development-mr-vr-ar)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[PHP](#meetups-development-php)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[Python](#meetups-development-python)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[Scala](#meetups-development-scala)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[Web](#meetups-development-web)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[DevOps](#meetups-devops)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[Management](#meetups-management)<br>&nbsp;•&nbsp;[Security](#meetups-security)<br>&nbsp;•&nbsp;[Testing и QA](#meetups-testing-qa)<br>&nbsp;•&nbsp;[UX](#meetups-ux)|&nbsp;•&nbsp;[Информация для авторов ресурсов](#информация-для-авторов-ресурсов)<br>&nbsp;•&nbsp;[Контрибьюторы](#контрибьюторы)|
 
 ## **Блоги**
 
@@ -22,7 +22,7 @@
 
 > Здесь представлены различные блоги и новостные агрегаторы, связанные с разработкой и со сферой ИТ в целом.
 
-<details><summary><a name="blogs-administrating"></a><b>Блоги Администрирование</b></summary><br>
+<details><summary><a name="blogs-administrating"></a><b>Администрирование</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -33,7 +33,7 @@
 
 </details>
 
-<details><summary><a name="blogs-documentation"></a><b>Блоги Документация</b></summary><br>
+<details><summary><a name="blogs-documentation"></a><b>Документация</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -44,7 +44,7 @@
 
 </details>
 
-<details><summary><a name="blogs-common"></a><b>Блоги Общее</b></summary><br>
+<details><summary><a name="blogs-common"></a><b>Общее</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -58,7 +58,7 @@
 
 </details>
 
-<details><summary><a name="blogs-patterns"></a><b>Блоги Паттерны</b></summary><br>
+<details><summary><a name="blogs-patterns"></a><b>Паттерны</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -68,7 +68,7 @@
 
 </details>
 
-<details><summary><a name="blogs-testing"></a><b>Блоги Тестирование</b></summary><br>
+<details><summary><a name="blogs-testing"></a><b>Тестирование</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -81,7 +81,7 @@
 
 </details>
 
-<details><summary><a name="blogs-dotnet"></a><b>Блоги .NET</b></summary><br>
+<details><summary><a name="blogs-dotnet"></a><b>.NET</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -97,7 +97,7 @@
 
 </details>
 
-<details><summary><a name="blogs-gamedev"></a><b>Блоги GameDev</b></summary><br>
+<details><summary><a name="blogs-gamedev"></a><b>GameDev</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -108,7 +108,7 @@
 
 </details>
 
-<details><summary><a name="blogs-go"></a><b>Блоги Go</b></summary><br>
+<details><summary><a name="blogs-go"></a><b>Go</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -118,7 +118,7 @@
 
 </details>
 
-<details><summary><a name="blogs-python"></a><b>Блоги Python</b></summary><br>
+<details><summary><a name="blogs-python"></a><b>Python</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1296,7 +1296,7 @@
 
 > Здесь собраны агрегаторы всевозможных мероприятий (конференций, митапов, хакатонов и встреч), сообщества и компании, проводящие их, и связанные с ИТ тематикой.
 
-<details><summary><a name="meetups-aggregators"></a><b>Мероприятия Агрегаторы и Общие</b></summary><br>
+<details><summary><a name="meetups-aggregators"></a><b>Агрегаторы и Общие</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1377,7 +1377,7 @@
 
 </details>
 
-<details><summary><a name="meetups-analytics"></a><b>Мероприятия Аналитика</b></summary><br>
+<details><summary><a name="meetups-analytics"></a><b>Аналитика</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1391,7 +1391,7 @@
 
 </details>
 
-<details><summary><a name="meetups-db"></a><b>Мероприятия БД</b></summary><br>
+<details><summary><a name="meetups-db"></a><b>БД</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1402,7 +1402,7 @@
 
 </details>
 
-<details><summary><a name="meetups-ai"></a><b>Мероприятия AI</b></summary><br>
+<details><summary><a name="meetups-ai"></a><b>AI</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1412,7 +1412,7 @@
 
 </details>
 
-<details><summary><a name="meetups-architecture"></a><b>Мероприятия Architecture</b></summary><br>
+<details><summary><a name="meetups-architecture"></a><b>Architecture</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1422,7 +1422,7 @@
 
 </details>
 
-<details><summary><a name="meetups-blockchain"></a><b>Мероприятия BlockChain</b></summary><br>
+<details><summary><a name="meetups-blockchain"></a><b>BlockChain</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1434,7 +1434,7 @@
 
 </details>
 
-<details><summary><a name="meetups-bigdata-datascience"></a><b>Мероприятия BigData и DataScience</b></summary><br>
+<details><summary><a name="meetups-bigdata-datascience"></a><b>BigData и DataScience</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1446,7 +1446,7 @@
 
 </details>
 
-<details><summary><a name="meetups-development"></a><b>Мероприятия Development</b></summary><br>
+<details><summary><a name="meetups-development"></a><b>Development</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1463,7 +1463,7 @@
 |[![TechTrain](img/favicons/techtrain.ru.png)](https://techtrain.ru/)<br>[TechTrain](https://techtrain.ru/)|TechTrain – большой фестиваль для разработчиков, инженеров и им сочувствующих. Фестиваль, который в одном месте собирает всех, кто любит разработку ПО так же, как мы. Неважно, есть у вас виртуальная машина или нет, топите вы за ООП или за функциональщину, за перформанс или за скорость разработки – на TechTrain вы найдете единомышленников, интересные проекты и технологические новинки (VR и AR, новые архитектуры и гаджеты, да кто знает, что еще).|Санкт-Петербург|[![Twitter](img/favicons/twitter.com.png)](https://twitter.com/techtrainfest) [![VK](img/favicons/vk.com.png)](https://vk.com/techtrain) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/techtrainfest/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCJoerW5eDOz5qu7I2CYi7xg) [![Telegram](img/favicons/t.me.png)](https://t.me/techtrainfest)|
 |[![UIC Dev](img/favicons/uic.dev.png)](https://www.uic.dev)<br>[UIC Dev](https://www.uic.dev)|UIC Dev — технологическая конференция и вечеринка в одном флаконе.<br>UIC Dev объединяет профессионалов в области интернет-технологий. Среди спикеров — ведущие российские дизайнеры, разработчики, тестировщики, креативщики и руководители проектов.<br>В расслабленном лаундж-формате мы говорим о трендах, инструментах и кейсах. Живые доклады, нескучные форматы, виски-брейки и сплочение сообщества через обмен практиками.<br>UIC Dev — отличное место для общения и прокачки. Собираемся там, где IT в фокусе.|Россия|[![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/user/PicomLtd) [![Telegram](img/favicons/t.me.png)](https://t.me/uic_dev) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/uic_dev/)|
 
-<details><summary><a name="meetups-development-1c"></a><b>Мероприятия 1C</b></summary><br>
+<details><summary><a name="meetups-development-1c"></a><b>1C</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1473,7 +1473,7 @@
 
 </details>
 
-<details><summary><a name="meetups-development-dotnet"></a><b>Мероприятия .NET</b></summary><br>
+<details><summary><a name="meetups-development-dotnet"></a><b>.NET</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1490,7 +1490,7 @@
 
 </details>
 
-<details><summary><a name="meetups-development-cpp"></a><b>Мероприятия C++</b></summary><br>
+<details><summary><a name="meetups-development-cpp"></a><b>C++</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1501,7 +1501,7 @@
 
 </details>
 
-<details><summary><a name="meetups-development-gamedev"></a><b>Мероприятия GameDev</b></summary><br>
+<details><summary><a name="meetups-development-gamedev"></a><b>GameDev</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1522,7 +1522,7 @@
 
 </details>
 
-<details><summary><a name="meetups-development-go"></a><b>Мероприятия Go</b></summary><br>
+<details><summary><a name="meetups-development-go"></a><b>Go</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1533,7 +1533,7 @@
 
 </details>
 
-<details><summary><a name="meetups-development-iot"></a><b>Мероприятия IoT</b></summary><br>
+<details><summary><a name="meetups-development-iot"></a><b>IoT</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1543,7 +1543,7 @@
 
 </details>
 
-<details><summary><a name="meetups-development-java"></a><b>Мероприятия Java</b></summary><br>
+<details><summary><a name="meetups-development-java"></a><b>Java</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1555,7 +1555,7 @@
 
 </details>
 
-<details><summary><a name="meetups-development-mobile"></a><b>Мероприятия Mobile</b></summary><br>
+<details><summary><a name="meetups-development-mobile"></a><b>Mobile</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1567,7 +1567,7 @@
 
 </details>
 
-<details><summary><a name="meetups-development-mr-vr-ar"></a><b>Мероприятия MR VR AR</b></summary><br>
+<details><summary><a name="meetups-development-mr-vr-ar"></a><b>MR VR AR</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1579,7 +1579,7 @@
 
 </details>
 
-<details><summary><a name="meetups-development-php"></a><b>Мероприятия PHP</b></summary><br>
+<details><summary><a name="meetups-development-php"></a><b>PHP</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1590,7 +1590,7 @@
 
 </details>
 
-<details><summary><a name="meetups-development-python"></a><b>Мероприятия Python</b></summary><br>
+<details><summary><a name="meetups-development-python"></a><b>Python</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1603,7 +1603,7 @@
 
 </details>
 
-<details><summary><a name="meetups-development-scala"></a><b>Мероприятия Scala</b></summary><br>
+<details><summary><a name="meetups-development-scala"></a><b>Scala</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1613,7 +1613,7 @@
 
 </details>
 
-<details><summary><a name="meetups-development-web"></a><b>Мероприятия Web</b></summary><br>
+<details><summary><a name="meetups-development-web"></a><b>Web</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1632,7 +1632,7 @@
 
 </details>
 
-<details><summary><a name="meetups-devops"></a><b>Мероприятия DevOps</b></summary><br>
+<details><summary><a name="meetups-devops"></a><b>DevOps</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1648,7 +1648,7 @@
 
 </details>
 
-<details><summary><a name="meetups-management"></a><b>Мероприятия Management</b></summary><br>
+<details><summary><a name="meetups-management"></a><b>Management</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1675,7 +1675,7 @@
 
 </details>
 
-<details><summary><a name="meetups-security"></a><b>Мероприятия Security</b></summary><br>
+<details><summary><a name="meetups-security"></a><b>Security</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1693,7 +1693,7 @@
 
 </details>
 
-<details><summary><a name="meetups-testing-qa"></a><b>Мероприятия Testing и QA</b></summary><br>
+<details><summary><a name="meetups-testing-qa"></a><b>Testing и QA</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1708,7 +1708,7 @@
 
 </details>
 
-<details><summary><a name="meetups-ux"></a><b>Мероприятия UX</b></summary><br>
+<details><summary><a name="meetups-ux"></a><b>UX</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
