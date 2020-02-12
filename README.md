@@ -935,7 +935,7 @@
 
 <sup>[Содержание](#содержание)</sup>
 
-<details style="margin-left: 15px;"><summary><a name="podcasts-development-dotnet"></a><b>.NET</b></summary><br>
+<details><summary><a name="podcasts-development-dotnet"></a><b>.NET</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -979,7 +979,7 @@
 
 </details>
 
-<details style="margin-left: 15px;"><summary><a name="podcasts-development-php"></a><b>PHP</b></summary><br>
+<details><summary><a name="podcasts-development-php"></a><b>PHP</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -993,7 +993,7 @@
 
 </details>
 
-<details style="margin-left: 15px;"><summary><a name="podcasts-development-python"></a><b>Python</b></summary><br>
+<details><summary><a name="podcasts-development-python"></a><b>Python</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1007,7 +1007,7 @@
 
 </details>
 
-<details style="margin-left: 15px;"><summary><a name="podcasts-development-ruby"></a><b>Ruby</b></summary><br>
+<details><summary><a name="podcasts-development-ruby"></a><b>Ruby</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1021,7 +1021,7 @@
 
 </details>
 
-<details style="margin-left: 15px;"><summary><a name="podcasts-development-scala"></a><b>Scala</b></summary><br>
+<details><summary><a name="podcasts-development-scala"></a><b>Scala</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1035,7 +1035,7 @@
 
 </details>
 
-<details style="margin-left: 15px;"><summary><a name="podcasts-development-web"></a><b>Веб-разработка</b></summary><br>
+<details><summary><a name="podcasts-development-web"></a><b>Веб-разработка</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1139,7 +1139,7 @@
 
 </details>
 
-<details style="margin-left: 15px;"><summary><a name="podcasts-development-mobile"></a><b>Мобильная разработка</b></summary><br>
+<details><summary><a name="podcasts-development-mobile"></a><b>Мобильная разработка</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1237,7 +1237,7 @@
 
 </details>
 
-<details style="margin-left: 15px;"><summary><a name="podcasts-development-gamedev"></a><b>Разработка игр</b></summary><br>
+<details><summary><a name="podcasts-development-gamedev"></a><b>Разработка игр</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
