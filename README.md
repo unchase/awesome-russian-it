@@ -1543,6 +1543,7 @@
 |Название|Описание|Места проведения мероприятий|Связанные ссылки|
 |:------:|:-------|:--------------------------:|:--------------:|
 |[![InnoThingsConf](img/favicons/inothings.ru.png)](https://inothings.ru/)<br>[InnoThingsConf](https://inothings.ru/)|Конференция для профессионалов рынка интернета вещей.|Москва|[![Twitter](img/favicons/twitter.com.png)](https://twitter.com/InoThingsConf) [![VK](img/favicons/vk.com.png)](https://vk.com/inothingsconference) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/InoThingsConference) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/c/IoTChannel) [![Telegram](img/favicons/t.me.png)](https://t.me/InoThingsTalks)|
+|[![IoT Focus TechConf](img/favicons/iotfocusconf.com.png)](http://iotfocusconf.com/)<br>[IoT Focus TechConf](http://iotfocusconf.com/)|Международная инженерная конференция об IoT разработке и решениях для бизнеса на основе концепции Internet of Things.|Минск|[![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/iotfocus/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCkAyd2IWBoxCJl_e7LOrcPQ/videos) [![Telegram](img/favicons/t.me.png)](https://t.me/iotfocusminsk) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/iotfocus/) [![LinkedIn](img/favicons/linkedin.cn.png)](https://www.linkedin.com/groups/13678534/)|
 
 </details>
 
