@@ -28,16 +28,16 @@
   * [ИТ-безопасность](#podcasts-security)
   * [Общее](#podcasts-common)
   * [Продуктовый дизайн](#podcasts-design)
-  * [Разработка](#разработка)
-      * [.NET](#net)
-      * [PHP](#php)
-      * [Python](#python)
-      * [Ruby](#ruby)
-      * [Scala](#scala)
-    * [Веб-разработка](#веб-разработка)
-    * [Мобильная разработка](#мобильная-разработка)
-      * [Android](#android)
-    * [Разработка игр](#разработка-игр)
+  * [Разработка](#podcasts-development)
+      * [.NET](#podcasts-development-dotnet)
+      * [PHP](#podcasts-development-php)
+      * [Python](#podcasts-development-python)
+      * [Ruby](#podcasts-development-ruby)
+      * [Scala](#podcasts-development-scala)
+    * [Веб-разработка](#podcasts-development-web)
+    * [Мобильная разработка](#podcasts-development-mobile)
+      * [Android](#podcasts-development-mobile-android)
+    * [Разработка игр](#podcasts-development-gamedev)
   * [Тестирование](#тестирование)
   * [BigData](#bigdata)
   * [DevOps](#devops)
@@ -931,11 +931,11 @@
 
 </details>
 
-### **Разработка**
+<details><summary><a name="podcasts-development"></a><b>Разработка</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
-##### **.NET**
+<details><summary><a name="podcasts-development-dotnet"></a><b>.NET</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -977,7 +977,9 @@
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |30-70 минут|
 
-##### **PHP**
+</details>
+
+<details><summary><a name="podcasts-development-php"></a><b>PHP</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -989,7 +991,9 @@
 |**Регулярность** |Время от времени|
 |**Длительность** |5-70 минут|
 
-##### **Python**
+</details>
+
+<details><summary><a name="podcasts-development-python"></a><b>Python</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1001,7 +1005,9 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |30-60 минут|
 
-##### **Ruby**
+</details>
+
+<details><summary><a name="podcasts-development-ruby"></a><b>Ruby</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1013,7 +1019,9 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |20-60 минут|
 
-##### **Scala**
+</details>
+
+<details><summary><a name="podcasts-development-scala"></a><b>Scala</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1025,7 +1033,9 @@
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** ||
 
-#### **Веб-разработка**
+</details>
+
+<details><summary><a name="podcasts-development-web"></a><b>Веб-разработка</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1127,7 +1137,9 @@
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |40-70 минут|
 
-#### **Мобильная разработка**
+</details>
+
+<details><summary><a name="podcasts-development-mobile"></a><b>Мобильная разработка</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1189,7 +1201,7 @@
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |40-60 минут|
 
-##### **Android**
+<details><summary><a name="podcasts-development-mobile-android"></a><b>Android</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1221,7 +1233,11 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |~20 минут|
 
-#### **Разработка игр**
+</details>
+
+</details>
+
+<details><summary><a name="podcasts-development-gamedev"></a><b>Разработка игр</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1272,6 +1288,10 @@
 |**Ведущие**      ||
 |**Регулярность** |Не выпускается|
 |**Длительность** |~60 минут|
+
+</details>
+
+</details>
 
 ### **Тестирование**
 
