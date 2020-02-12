@@ -38,9 +38,9 @@
     * [Мобильная разработка](#podcasts-development-mobile)
       * [Android](#podcasts-development-mobile-android)
     * [Разработка игр](#podcasts-development-gamedev)
-  * [Тестирование](#тестирование)
-  * [BigData](#bigdata)
-  * [DevOps](#devops)
+  * [Тестирование](#podcasts-testing)
+  * [BigData](#podcasts-bigdata)
+  * [DevOps](#podcasts-devops)
   
 * **[Мероприятия](#мероприятия)**
   * [Мероприятия Агрегаторы и Общие](#мероприятия-агрегаторы-и-общие)
@@ -1293,7 +1293,9 @@
 
 </details>
 
-### **Тестирование**
+<details><summary><a name="podcasts-testing"></a><b>Тестирование</b></summary><br>
+
+<sup>[Содержание](#содержание)</sup>
 
 |Название         |[Radio QA](http://radio-qa.com/)|
 |:----------------|:-------------------------------|
@@ -1313,7 +1315,9 @@
 |**Регулярность** |Время от времени|
 |**Длительность** |80-110 минут|
 
-### **BigData**
+</details>
+
+<details><summary><a name="podcasts-bigdata"></a><b>BigData</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1325,7 +1329,9 @@
 |**Регулярность** |Время от времени|
 |**Длительность** |~30 минут|
 
-### **DevOps**
+</details>
+
+<details><summary><a name="podcasts-devops"></a><b>DevOps</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1336,6 +1342,8 @@
 |**Ведущие**      |[Андрей Александров](https://aladmit.com/) [![GitHub](img/favicons/github.com.png)](https://github.com/aladmit) [![RSS](img/favicons/rss.png)](https://aladmit.com/feed.xml)<br>Виталий Хабаров [![GitHub](img/favicons/github.com.png)](https://github.com/vitkhab)|
 |**Регулярность** |Время от времени|
 |**Длительность** |50-90 минут|
+
+</details>
 
 ---
 
