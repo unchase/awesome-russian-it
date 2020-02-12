@@ -13,15 +13,15 @@
 ## Содержание
 
 * **[Блоги](#блоги)**
-  * [Блоги Администрирование](#блоги-администрирование)
-  * [Блоги Документация](#блоги-документация)
-  * [Блоги Общее](#блоги-общее)
-  * [Блоги Паттерны](#блоги-паттерны)
-  * [Блоги Тестирование](#блоги-тестирование)
-  * [Блоги .NET](#блоги-net)
-  * [Блоги GameDev](#блоги-gamedev)
-  * [Блоги Go](#блоги-go)
-  * [Блоги Python](#блоги-python)
+  * [Блоги Администрирование](#blogs-administrating)
+  * [Блоги Документация](#blogs-documentation)
+  * [Блоги Общее](#blogs-common)
+  * [Блоги Паттерны](#blogs-patterns)
+  * [Блоги Тестирование](#blogs-testing)
+  * [Блоги .NET](#blogs-dotnet)
+  * [Блоги GameDev](#blogs-gamedev)
+  * [Блоги Go](#blogs-go)
+  * [Блоги Python](#blogs-python)
 * **[Подкасты](#подкасты)**
   * [Администрирование](#администрирование)
   * [Блокчейн](#блокчейн)
@@ -79,7 +79,7 @@
 
 > Здесь представлены блоги различных людей, связанных с разработкой и со сферой ИТ в целом.
 
-<details><summary><a name="блоги-администрирование"></a><b>Блоги Администрирование</b></summary><br>
+<details><summary><a name="blogs-administrating"></a><b>Блоги Администрирование</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -90,7 +90,7 @@
 
 </details>
 
-<details><summary><a name="блоги-документация"></a><b>Блоги Документация</b></summary><br>
+<details><summary><a name="blogs-documentation"></a><b>Блоги Документация</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -101,7 +101,7 @@
 
 </details>
 
-<details><summary><a name="блоги-общее"></a><b>Блоги Общее</b></summary><br>
+<details><summary><a name="blogs-common"></a><b>Блоги Общее</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -115,7 +115,7 @@
 
 </details>
 
-<details><summary><a name="блоги-паттерны"></a><b>Блоги Паттерны</b></summary><br>
+<details><summary><a name="blogs-patterns"></a><b>Блоги Паттерны</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -125,7 +125,7 @@
 
 </details>
 
-<details><summary><a name="блоги-тестирование"></a><b>Блоги Тестирование</b></summary><br>
+<details><summary><a name="blogs-testing"></a><b>Блоги Тестирование</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -138,7 +138,7 @@
 
 </details>
 
-<details><summary><a name="блоги-net"></a><b>Блоги .NET</b></summary><br>
+<details><summary><a name="blogs-dotnet"></a><b>Блоги .NET</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -154,7 +154,7 @@
 
 </details>
 
-<details><summary><a name="блоги-gamedev"></a><b>Блоги GameDev</b></summary><br>
+<details><summary><a name="blogs-gamedev"></a><b>Блоги GameDev</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -165,7 +165,7 @@
 
 </details>
 
-<details><summary><a name="блоги-go"></a><b>Блоги Go</b></summary><br>
+<details><summary><a name="blogs-go"></a><b>Блоги Go</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -175,7 +175,7 @@
 
 </details>
 
-<details><summary><a name="блоги-python"></a><b>Блоги Python</b></summary><br>
+<details><summary><a name="blogs-python"></a><b>Блоги Python</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
