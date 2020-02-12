@@ -12,63 +12,10 @@
 
 ## Содержание
 
-* **[Блоги](#блоги)**
-  * [Блоги Администрирование](#blogs-administrating)
-  * [Блоги Документация](#blogs-documentation)
-  * [Блоги Общее](#blogs-common)
-  * [Блоги Паттерны](#blogs-patterns)
-  * [Блоги Тестирование](#blogs-testing)
-  * [Блоги .NET](#blogs-dotnet)
-  * [Блоги GameDev](#blogs-gamedev)
-  * [Блоги Go](#blogs-go)
-  * [Блоги Python](#blogs-python)
-* **[Подкасты](#подкасты)**
-  * [Администрирование](#podcasts-administrating)
-  * [Блокчейн](#podcasts-blockchain)
-  * [ИТ-безопасность](#podcasts-security)
-  * [Общее](#podcasts-common)
-  * [Продуктовый дизайн](#podcasts-design)
-  * [Разработка](#podcasts-development)
-      * [.NET](#podcasts-development-dotnet)
-      * [PHP](#podcasts-development-php)
-      * [Python](#podcasts-development-python)
-      * [Ruby](#podcasts-development-ruby)
-      * [Scala](#podcasts-development-scala)
-    * [Веб-разработка](#podcasts-development-web)
-    * [Мобильная разработка](#podcasts-development-mobile)
-      * [Android](#podcasts-development-mobile-android)
-    * [Разработка игр](#podcasts-development-gamedev)
-  * [Тестирование](#podcasts-testing)
-  * [BigData](#podcasts-bigdata)
-  * [DevOps](#podcasts-devops)
-  
-* **[Мероприятия](#мероприятия)**
-  * [Мероприятия Агрегаторы и Общие](#meetups-aggregators)
-  * [Мероприятия Аналитика](#meetups-analytics)
-  * [Мероприятия БД](#meetups-db)
-  * [Мероприятия AI](#meetups-ai)
-  * [Мероприятия Architecture](#meetups-architecture)
-  * [Мероприятия BlockChain](#meetups-blockchain)
-  * [Мероприятия BigData и DataScience](#meetups-bigdata-datascience)
-  * [Мероприятия Development](#meetups-development)
-      * [Мероприятия 1C](#meetups-development-1c)
-      * [Мероприятия .NET](#meetups-development-dotnet)
-      * [Мероприятия C++](#meetups-development-cpp)
-      * [Мероприятия GameDev](#meetups-development-gamedev)
-      * [Мероприятия Go](#meetups-development-go)
-      * [Мероприятия IoT](#meetups-development-iot)
-      * [Мероприятия Java](#meetups-development-java)
-      * [Мероприятия Mobile](#meetups-development-mobile)
-      * [Мероприятия MR VR AR](#meetups-development-mr-vr-ar)
-      * [Мероприятия PHP](#meetups-development-php)
-      * [Мероприятия Python](#meetups-development-python)
-      * [Мероприятия Scala](#meetups-development-scala)
-      * [Мероприятия Web](#meetups-development-web)
-  * [Мероприятия DevOps](#meetups-devops)
-  * [Мероприятия Management](#meetups-management)
-  * [Мероприятия Security](#meetups-security)
-  * [Мероприятия Testing и QA](#meetups-testing-qa)
-  * [Мероприятия UX](#meetups-ux)
+|<p align="center">**[Блоги](#блоги)**</p>|<p align="center">**[Подкасты](#подкасты)**</p>|<p align="center">**[Мероприятия](#мероприятия)**</p>|
+|:------------------|:------------------------|:------------------------------|
+| • [Блоги Администрирование](#blogs-administrating)<br> • [Блоги Документация](#blogs-documentation)<br> • [Блоги Общее](#blogs-common)<br> • [Блоги Паттерны](#blogs-patterns)<br> • [Блоги Тестирование](#blogs-testing)<br> • [Блоги .NET](#blogs-dotnet)<br> • [Блоги GameDev](#blogs-gamedev)<br> • [Блоги Go](#blogs-go)<br> • [Блоги Python](#blogs-python)|• [Администрирование](#podcasts-administrating)<br> • [Блокчейн](#podcasts-blockchain)<br> • [ИТ-безопасность](#podcasts-security)<br> • [Общее](#podcasts-common)<br> • [Продуктовый дизайн](#podcasts-design)<br> • [Разработка](#podcasts-development)<br> • • • [.NET](#podcasts-development-dotnet)<br> • • • [PHP](#podcasts-development-php)<br> • • • [Python](#podcasts-development-python)<br> • • • [Ruby](#podcasts-development-ruby)<br> • • • [Scala](#podcasts-development-scala)<br> • • [Веб-разработка](#podcasts-development-web)<br> • • [Мобильная разработка](#podcasts-development-mobile)<br> • • • [Android](#podcasts-development-mobile-android)<br> • • [Разработка игр](#podcasts-development-gamedev)<br> • [Тестирование](#podcasts-testing)<br> • [BigData](#podcasts-bigdata)<br> • [DevOps](#podcasts-devops)<br>|[Мероприятия Агрегаторы и Общие](#meetups-aggregators)<br> • [Мероприятия Аналитика](#meetups-analytics)<br> • [Мероприятия БД](#meetups-db)<br> • [Мероприятия AI](#meetups-ai)<br> • [Мероприятия Architecture](#meetups-architecture)<br> • [Мероприятия BlockChain](#meetups-blockchain)<br> • [Мероприятия BigData и DataScience](#meetups-bigdata-datascience)<br> • [Мероприятия Development](#meetups-development)<br> •  • [Мероприятия 1C](#meetups-development-1c)<br> •  • [Мероприятия .NET](#meetups-development-dotnet)<br> •  • [Мероприятия C++](#meetups-development-cpp)<br> •  • [Мероприятия GameDev](#meetups-development-gamedev)<br> •  • [Мероприятия Go](#meetups-development-go)<br> •  • [Мероприятия IoT](#meetups-development-iot)<br> •  • [Мероприятия Java](#meetups-development-java)<br> •  • [Мероприятия Mobile](#meetups-development-mobile)<br> •  • [Мероприятия MR VR AR](#meetups-development-mr-vr-ar)<br> •  • [Мероприятия PHP](#meetups-development-php)<br> •  • [Мероприятия Python](#meetups-development-python)<br> •  • [Мероприятия Scala](#meetups-development-scala)<br> •  • [Мероприятия Web](#meetups-development-web)<br> •  • [Мероприятия DevOps](#meetups-devops)<br> •  • [Мероприятия Management](#meetups-management)<br> • [Мероприятия Security](#meetups-security)<br> • [Мероприятия Testing и QA](#meetups-testing-qa)<br> • [Мероприятия UX](#meetups-ux)|
+
 * **[Информация для авторов ресурсов](#информация-для-авторов-ресурсов)**
 * **[Контрибьюторы](#контрибьюторы)**
 
