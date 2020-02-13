@@ -1227,6 +1227,16 @@
 
 ---
 
+|Название         |[DTF](https://dtf.ru/tag/%D1%83%D1%82%D1%80%D0%B5%D0%BD%D0%BD%D0%B5%D0%B5%D1%88%D0%BE%D1%83DTF)|
+|:----------------|:--------------------------------------|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/il/podcast/dtf/id1473930288)|
+|**Описание**     |Новости и аналитика об играх, а также актуальная информация из мира кино и телевидения. Наш сайт — это гибкая платформа, где может писать каждый.|
+|**Ведущие**      ||
+|**Регулярность** |Периодически|
+|**Длительность** |20-60 минут|
+
+---
+
 |Название         |Radio GD|
 |:----------------|:-------|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/radiogd) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/radio-gd/id1400069457) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/radio-gd/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/radio-gd) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/Radio-GD-id1322200?country=ru) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/radio-gd)|
