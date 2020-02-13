@@ -1479,6 +1479,7 @@
 
 |Название|Описание|Места проведения мероприятий|Связанные ссылки|
 |:------:|:-------|:--------------------------:|:--------------:|
+|[![1crm.ru](img/favicons/1crm.ru.png)](https://1crm.ru/events/)<br>[1crm.ru](https://1crm.ru/events/)|Мероприятия для тех, кто ценит отношения с клиентами и свое время, а также стремится строить бизнес правильно с помощью современных инструментов, таких как 1C:CRM.|Москва|[![VK](img/favicons/vk.com.png)](https://vk.com/1crm_club) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/1C.CRM/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/c/1CCRM)|
 |[![Infostart](img/favicons/infostart.ru.png)](https://infostart.ru/events/)<br>[Infostart](https://infostart.ru/events/)|Мероприятия сообщества Инфостарт, которая собирает в себе самые актуальные вопросы управления и технологий 1С.|Россия|[![Twitter](img/favicons/twitter.com.png)](https://twitter.com/infostart) [![VK](img/favicons/vk.com.png)](https://vk.com/infostartru) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/INFOSTARTRU-1564122180531601/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCjuwXCXPZbTcQe4cLd_4CsA) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/infostart.ru/) [![Yandex Zen](img/favicons/zen.yandex.ru.png)](https://zen.yandex.ru/id/5b3dffc9cf892600a95fdac7)|
 
 </details>
