@@ -1414,6 +1414,7 @@
 
 |Название|Описание|Места проведения мероприятий|Связанные ссылки|
 |:------:|:-------|:--------------------------:|:--------------:|
+|[![OpenTalks.AI](img/favicons/opentalks.ai.png)](https://opentalks.ai/)<br>[OpenTalks.AI](https://opentalks.ai/)|OpenTalks.AI – ведущая независимая открытая конференция по искусственному интеллекту в России.|Москва|[![Twitter](img/favicons/twitter.com.png)](https://twitter.com/OpenTalksAI) [![VK](img/favicons/vk.com.png)](https://vk.com/opentalks_ai) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/OpenTalksAI/) [![Telegram](img/favicons/t.me.png)](https://t.me/OpenTalksAI) [![Email](img/favicons/email.png)](mailto:org@opentalks.ai)|
 |[![RAIF](img/favicons/raif.jet.su.png)](https://raif.jet.su/)<br>[RAIF](https://raif.jet.su/)|RAIF — это первая масштабная площадка в России и СНГ для обмена ценным опытом, стратегиями и результатами кейсов в области Artificial Intelligence (AI), Machine Learning (ML) и Internet of Things (IoT).|Москва|[![Email](img/favicons/email.png)](mailto:forum-raif@jet.su)|
 
 </details>
