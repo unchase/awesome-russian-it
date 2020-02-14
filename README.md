@@ -22,7 +22,7 @@
 
 > Здесь представлены различные блоги и новостные агрегаторы, связанные с разработкой и со сферой ИТ в целом.
 
-<details><summary><a name="blogs-administrating"></a><b>Администрирование</b></summary><br>
+<details open="open"><summary><a name="blogs-administrating"></a><b>Администрирование</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -33,7 +33,7 @@
 
 </details>
 
-<details><summary><a name="blogs-documentation"></a><b>Документация</b></summary><br>
+<details open="open"><summary><a name="blogs-documentation"></a><b>Документация</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -44,7 +44,7 @@
 
 </details>
 
-<details><summary><a name="blogs-common"></a><b>Общее</b></summary><br>
+<details open="open"><summary><a name="blogs-common"></a><b>Общее</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -58,7 +58,7 @@
 
 </details>
 
-<details><summary><a name="blogs-patterns"></a><b>Паттерны</b></summary><br>
+<details open="open"><summary><a name="blogs-patterns"></a><b>Паттерны</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -68,7 +68,7 @@
 
 </details>
 
-<details><summary><a name="blogs-testing"></a><b>Тестирование</b></summary><br>
+<details open="open"><summary><a name="blogs-testing"></a><b>Тестирование</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -82,7 +82,7 @@
 
 </details>
 
-<details><summary><a name="blogs-dotnet"></a><b>.NET</b></summary><br>
+<details open="open"><summary><a name="blogs-dotnet"></a><b>.NET</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -99,7 +99,7 @@
 
 </details>
 
-<details><summary><a name="blogs-gamedev"></a><b>GameDev</b></summary><br>
+<details open="open"><summary><a name="blogs-gamedev"></a><b>GameDev</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -111,7 +111,7 @@
 
 </details>
 
-<details><summary><a name="blogs-go"></a><b>Go</b></summary><br>
+<details open="open"><summary><a name="blogs-go"></a><b>Go</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -121,7 +121,7 @@
 
 </details>
 
-<details><summary><a name="blogs-python"></a><b>Python</b></summary><br>
+<details open="open"><summary><a name="blogs-python"></a><b>Python</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -137,7 +137,7 @@
 
 > Список русскоязычных подкастов для инженеров и разработчиков сферы ИТ. Здесь собрана информация обо всех как наиболее популярных, так и почти неизвестных ИТ-подкастах, а также указаны ссылки для связи с их авторами.
 
-<details><summary><a name="podcasts-administrating"></a><b>Администрирование</b></summary><br>
+<details open="open"><summary><a name="podcasts-administrating"></a><b>Администрирование</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -151,7 +151,7 @@
 
 </details>
 
-<details><summary><a name="podcasts-blockchain"></a><b>Блокчейн</b></summary><br>
+<details open="open"><summary><a name="podcasts-blockchain"></a><b>Блокчейн</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -165,7 +165,7 @@
 
 </details>
 
-<details><summary><a name="podcasts-security"></a><b>ИТ-безопасность</b></summary><br>
+<details open="open"><summary><a name="podcasts-security"></a><b>ИТ-безопасность</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -199,7 +199,7 @@
 
 </details>
 
-<details><summary><a name="podcasts-common"></a><b>Общее</b></summary><br>
+<details open="open"><summary><a name="podcasts-common"></a><b>Общее</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -853,7 +853,7 @@
 
 </details>
 
-<details><summary><a name="podcasts-design"></a><b>Продуктовый дизайн</b></summary><br>
+<details open="open"><summary><a name="podcasts-design"></a><b>Продуктовый дизайн</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -877,11 +877,11 @@
 
 </details>
 
-<details><summary><a name="podcasts-development"></a><b>Разработка</b></summary><br>
+<details open="open"><summary><a name="podcasts-development"></a><b>Разработка</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
-<details><summary><a name="podcasts-development-dotnet"></a><b>&nbsp;&nbsp;&nbsp;&nbsp;.NET</b></summary><br>
+<details open="open"><summary><a name="podcasts-development-dotnet"></a><b>&nbsp;&nbsp;&nbsp;&nbsp;.NET</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -925,7 +925,7 @@
 
 </details>
 
-<details><summary><a name="podcasts-development-php"></a><b>&nbsp;&nbsp;&nbsp;&nbsp;PHP</b></summary><br>
+<details open="open"><summary><a name="podcasts-development-php"></a><b>&nbsp;&nbsp;&nbsp;&nbsp;PHP</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -939,7 +939,7 @@
 
 </details>
 
-<details><summary><a name="podcasts-development-python"></a><b>&nbsp;&nbsp;&nbsp;&nbsp;Python</b></summary><br>
+<details open="open"><summary><a name="podcasts-development-python"></a><b>&nbsp;&nbsp;&nbsp;&nbsp;Python</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -953,7 +953,7 @@
 
 </details>
 
-<details><summary><a name="podcasts-development-ruby"></a><b>&nbsp;&nbsp;&nbsp;&nbsp;Ruby</b></summary><br>
+<details open="open"><summary><a name="podcasts-development-ruby"></a><b>&nbsp;&nbsp;&nbsp;&nbsp;Ruby</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -967,7 +967,7 @@
 
 </details>
 
-<details><summary><a name="podcasts-development-scala"></a><b>&nbsp;&nbsp;&nbsp;&nbsp;Scala</b></summary><br>
+<details open="open"><summary><a name="podcasts-development-scala"></a><b>&nbsp;&nbsp;&nbsp;&nbsp;Scala</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -981,7 +981,7 @@
 
 </details>
 
-<details><summary><a name="podcasts-development-web"></a><b>&nbsp;&nbsp;Веб-разработка</b></summary><br>
+<details open="open"><summary><a name="podcasts-development-web"></a><b>&nbsp;&nbsp;Веб-разработка</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1085,7 +1085,7 @@
 
 </details>
 
-<details><summary><a name="podcasts-development-mobile"></a><b>&nbsp;&nbsp;Мобильная разработка</b></summary><br>
+<details open="open"><summary><a name="podcasts-development-mobile"></a><b>&nbsp;&nbsp;Мобильная разработка</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1147,7 +1147,7 @@
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |40-60 минут|
 
-<details><summary><a name="podcasts-development-mobile-android"></a><b>&nbsp;&nbsp;&nbsp;&nbsp;Android</b></summary><br>
+<details open="open"><summary><a name="podcasts-development-mobile-android"></a><b>&nbsp;&nbsp;&nbsp;&nbsp;Android</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1183,7 +1183,7 @@
 
 </details>
 
-<details><summary><a name="podcasts-development-gamedev"></a><b>&nbsp;&nbsp;Разработка игр</b></summary><br>
+<details open="open"><summary><a name="podcasts-development-gamedev"></a><b>&nbsp;&nbsp;Разработка игр</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1249,7 +1249,7 @@
 
 </details>
 
-<details><summary><a name="podcasts-testing"></a><b>Тестирование</b></summary><br>
+<details open="open"><summary><a name="podcasts-testing"></a><b>Тестирование</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1273,7 +1273,7 @@
 
 </details>
 
-<details><summary><a name="podcasts-bigdata"></a><b>BigData</b></summary><br>
+<details open="open"><summary><a name="podcasts-bigdata"></a><b>BigData</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1287,7 +1287,7 @@
 
 </details>
 
-<details><summary><a name="podcasts-devops"></a><b>DevOps</b></summary><br>
+<details open="open"><summary><a name="podcasts-devops"></a><b>DevOps</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1309,7 +1309,7 @@
 
 > Здесь собраны агрегаторы всевозможных мероприятий (конференций, митапов, хакатонов и встреч), сообщества и компании, проводящие их, и связанные с ИТ тематикой.
 
-<details><summary><a name="meetups-aggregators"></a><b>Агрегаторы и Общие</b></summary><br>
+<details open="open"><summary><a name="meetups-aggregators"></a><b>Агрегаторы и Общие</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1398,7 +1398,7 @@
 
 </details>
 
-<details><summary><a name="meetups-analytics"></a><b>Аналитика</b></summary><br>
+<details open="open"><summary><a name="meetups-analytics"></a><b>Аналитика</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1412,7 +1412,7 @@
 
 </details>
 
-<details><summary><a name="meetups-db"></a><b>БД</b></summary><br>
+<details open="open"><summary><a name="meetups-db"></a><b>БД</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1423,7 +1423,7 @@
 
 </details>
 
-<details><summary><a name="meetups-ai"></a><b>AI</b></summary><br>
+<details open="open"><summary><a name="meetups-ai"></a><b>AI</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1435,7 +1435,7 @@
 
 </details>
 
-<details><summary><a name="meetups-architecture"></a><b>Architecture</b></summary><br>
+<details open="open"><summary><a name="meetups-architecture"></a><b>Architecture</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1445,7 +1445,7 @@
 
 </details>
 
-<details><summary><a name="meetups-blockchain"></a><b>BlockChain</b></summary><br>
+<details open="open"><summary><a name="meetups-blockchain"></a><b>BlockChain</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1457,7 +1457,7 @@
 
 </details>
 
-<details><summary><a name="meetups-bigdata-datascience"></a><b>BigData и DataScience</b></summary><br>
+<details open="open"><summary><a name="meetups-bigdata-datascience"></a><b>BigData и DataScience</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1470,7 +1470,7 @@
 
 </details>
 
-<details><summary><a name="meetups-development"></a><b>Development</b></summary><br>
+<details open="open"><summary><a name="meetups-development"></a><b>Development</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1487,7 +1487,7 @@
 |[![TechTrain](img/favicons/techtrain.ru.png)](https://techtrain.ru/)<br>[TechTrain](https://techtrain.ru/)|TechTrain – большой фестиваль для разработчиков, инженеров и им сочувствующих. Фестиваль, который в одном месте собирает всех, кто любит разработку ПО так же, как мы. Неважно, есть у вас виртуальная машина или нет, топите вы за ООП или за функциональщину, за перформанс или за скорость разработки – на TechTrain вы найдете единомышленников, интересные проекты и технологические новинки (VR и AR, новые архитектуры и гаджеты, да кто знает, что еще).|Санкт-Петербург|[![Twitter](img/favicons/twitter.com.png)](https://twitter.com/techtrainfest) [![VK](img/favicons/vk.com.png)](https://vk.com/techtrain) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/techtrainfest/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCJoerW5eDOz5qu7I2CYi7xg) [![Telegram](img/favicons/t.me.png)](https://t.me/techtrainfest)|
 |[![UIC Dev](img/favicons/uic.dev.png)](https://www.uic.dev)<br>[UIC Dev](https://www.uic.dev)|UIC Dev — технологическая конференция и вечеринка в одном флаконе.<br>UIC Dev объединяет профессионалов в области интернет-технологий. Среди спикеров — ведущие российские дизайнеры, разработчики, тестировщики, креативщики и руководители проектов.<br>В расслабленном лаундж-формате мы говорим о трендах, инструментах и кейсах. Живые доклады, нескучные форматы, виски-брейки и сплочение сообщества через обмен практиками.<br>UIC Dev — отличное место для общения и прокачки. Собираемся там, где IT в фокусе.|Россия|[![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/user/PicomLtd) [![Telegram](img/favicons/t.me.png)](https://t.me/uic_dev) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/uic_dev/)|
 
-<details><summary><a name="meetups-development-1c"></a><b>&nbsp;&nbsp;1C</b></summary><br>
+<details open="open"><summary><a name="meetups-development-1c"></a><b>&nbsp;&nbsp;1C</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1498,7 +1498,7 @@
 
 </details>
 
-<details><summary><a name="meetups-development-dotnet"></a><b>&nbsp;&nbsp;.NET</b></summary><br>
+<details open="open"><summary><a name="meetups-development-dotnet"></a><b>&nbsp;&nbsp;.NET</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1515,7 +1515,7 @@
 
 </details>
 
-<details><summary><a name="meetups-development-cpp"></a><b>&nbsp;&nbsp;C++</b></summary><br>
+<details open="open"><summary><a name="meetups-development-cpp"></a><b>&nbsp;&nbsp;C++</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1526,7 +1526,7 @@
 
 </details>
 
-<details><summary><a name="meetups-development-gamedev"></a><b>&nbsp;&nbsp;GameDev</b></summary><br>
+<details open="open"><summary><a name="meetups-development-gamedev"></a><b>&nbsp;&nbsp;GameDev</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1548,7 +1548,7 @@
 
 </details>
 
-<details><summary><a name="meetups-development-go"></a><b>&nbsp;&nbsp;Go</b></summary><br>
+<details open="open"><summary><a name="meetups-development-go"></a><b>&nbsp;&nbsp;Go</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1559,7 +1559,7 @@
 
 </details>
 
-<details><summary><a name="meetups-development-iot"></a><b>&nbsp;&nbsp;IoT</b></summary><br>
+<details open="open"><summary><a name="meetups-development-iot"></a><b>&nbsp;&nbsp;IoT</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1570,7 +1570,7 @@
 
 </details>
 
-<details><summary><a name="meetups-development-java"></a><b>&nbsp;&nbsp;Java</b></summary><br>
+<details open="open"><summary><a name="meetups-development-java"></a><b>&nbsp;&nbsp;Java</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1583,7 +1583,7 @@
 
 </details>
 
-<details><summary><a name="meetups-development-mobile"></a><b>&nbsp;&nbsp;Mobile</b></summary><br>
+<details open="open"><summary><a name="meetups-development-mobile"></a><b>&nbsp;&nbsp;Mobile</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1595,7 +1595,7 @@
 
 </details>
 
-<details><summary><a name="meetups-development-mr-vr-ar"></a><b>&nbsp;&nbsp;MR VR AR</b></summary><br>
+<details open="open"><summary><a name="meetups-development-mr-vr-ar"></a><b>&nbsp;&nbsp;MR VR AR</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1607,7 +1607,7 @@
 
 </details>
 
-<details><summary><a name="meetups-development-php"></a><b>&nbsp;&nbsp;PHP</b></summary><br>
+<details open="open"><summary><a name="meetups-development-php"></a><b>&nbsp;&nbsp;PHP</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1618,7 +1618,7 @@
 
 </details>
 
-<details><summary><a name="meetups-development-python"></a><b>&nbsp;&nbsp;Python</b></summary><br>
+<details open="open"><summary><a name="meetups-development-python"></a><b>&nbsp;&nbsp;Python</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1631,7 +1631,7 @@
 
 </details>
 
-<details><summary><a name="meetups-development-scala"></a><b>&nbsp;&nbsp;Scala</b></summary><br>
+<details open="open"><summary><a name="meetups-development-scala"></a><b>&nbsp;&nbsp;Scala</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1641,7 +1641,7 @@
 
 </details>
 
-<details><summary><a name="meetups-development-web"></a><b>&nbsp;&nbsp;Web</b></summary><br>
+<details open="open"><summary><a name="meetups-development-web"></a><b>&nbsp;&nbsp;Web</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1660,7 +1660,7 @@
 
 </details>
 
-<details><summary><a name="meetups-devops"></a><b>DevOps</b></summary><br>
+<details open="open"><summary><a name="meetups-devops"></a><b>DevOps</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1676,7 +1676,7 @@
 
 </details>
 
-<details><summary><a name="meetups-management"></a><b>Management</b></summary><br>
+<details open="open"><summary><a name="meetups-management"></a><b>Management</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1703,7 +1703,7 @@
 
 </details>
 
-<details><summary><a name="meetups-security"></a><b>Security</b></summary><br>
+<details open="open"><summary><a name="meetups-security"></a><b>Security</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1724,7 +1724,7 @@
 
 </details>
 
-<details><summary><a name="meetups-testing-qa"></a><b>Testing и QA</b></summary><br>
+<details open="open"><summary><a name="meetups-testing-qa"></a><b>Testing и QA</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1739,7 +1739,7 @@
 
 </details>
 
-<details><summary><a name="meetups-ux"></a><b>UX</b></summary><br>
+<details open="open"><summary><a name="meetups-ux"></a><b>UX</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
