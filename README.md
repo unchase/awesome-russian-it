@@ -1388,6 +1388,18 @@
 
 ---
 
+<details open="open"><summary><a name="youtube-iot"></a><b>IoT</b></summary><br>
+
+<sup>[Содержание](#содержание)</sup>
+
+|Название|Описание|Всего видео|Подписчиков|Дата последнего видео|
+|:------:|:-------|:---------:|:---------:|:-------------------:|
+|[IoT Channel](https://www.youtube.com/channel/UCeKQk9ER5NWfSfIszMX3QFg)|Контент IoT Channel охватывает все аспекты мира интернета вещей: разработку аппаратного и программного обеспечения устройств, безопасность для пользователей, способы передачи информации между устройствами и "сервером" и их тестирование, эксплуатацию и изменение бизнес-процессов под влиянием IoT-технологий.|<span id="UCeKQk9ER5NWfSfIszMX3QFg" class="youtube-count"></span>|<span id="UCeKQk9ER5NWfSfIszMX3QFg" class="youtube-subscribers"></span>|<span id="UCeKQk9ER5NWfSfIszMX3QFg" class="last-video-date"></span>|
+
+</details>
+
+---
+
 <details open="open"><summary><a name="youtube-security"></a><b>Безопасность</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
