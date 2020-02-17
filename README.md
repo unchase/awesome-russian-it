@@ -1324,6 +1324,18 @@
 
 ---
 
+<details open="open"><summary><a name="youtube-ar-vr"></a><b>AR, VR</b></summary><br>
+
+<sup>[Содержание](#содержание)</sup>
+
+|Название|Описание|Всего видео|Подписчиков|Дата последнего видео|
+|:------:|:-------|:---------:|:---------:|:-------------------:|
+|[AVRA Ассоциация AR-VR](https://www.youtube.com/channel/UCtfKT_4RvLXxuOKGxjvN7xQ)|Официальный YouTube-канал российской Ассоциации дополненной и виртуальной реальности.|<span id="UCtfKT_4RvLXxuOKGxjvN7xQ" class="youtube-count"></span>|<span id="UCtfKT_4RvLXxuOKGxjvN7xQ" class="youtube-subscribers"></span>|<span id="UCtfKT_4RvLXxuOKGxjvN7xQ" class="last-video-date"></span>|
+
+</details>
+
+---
+
 <details open="open"><summary><a name="youtube-development"></a><b>Development</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
