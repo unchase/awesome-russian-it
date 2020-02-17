@@ -1328,6 +1328,16 @@
 
 <sup>[Содержание](#содержание)</sup>
 
+<details open="open"><summary><a name="youtube-development-1c"></a><b>1C</b></summary><br>
+
+<sup>[Содержание](#содержание)</sup>
+
+|Название|Описание|Всего видео|Подписчиков|Дата последнего видео|
+|:------:|:-------|:---------:|:---------:|:-------------------:|
+|[1C Platform](https://www.youtube.com/channel/UC8C9c4GFLs6cNqBVWSM9jLw)|Новости от платформы 1С:Предприятие, обучающие материалы.|<span id="UC8C9c4GFLs6cNqBVWSM9jLw" class="youtube-count"></span>|<span id="UC8C9c4GFLs6cNqBVWSM9jLw" class="youtube-subscribers"></span>|<span id="UC8C9c4GFLs6cNqBVWSM9jLw" class="last-video-date"></span>|
+
+</details>
+
 <details open="open"><summary><a name="youtube-development-dotnet"></a><b>.NET</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
