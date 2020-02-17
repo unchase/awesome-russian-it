@@ -1384,6 +1384,7 @@
 |Название|Описание|Всего видео|Подписчиков|Дата последнего видео|
 |:------:|:-------|:---------:|:---------:|:-------------------:|
 |[XYZ](https://www.youtube.com/channel/UCtJsE0SDhyS4ib2evb5k3gg)|Рассказываем о геймдизайне, кино, моделинге и другом современном искусстве.|<span id="UCtJsE0SDhyS4ib2evb5k3gg" class="youtube-count"></span>|<span id="UCtJsE0SDhyS4ib2evb5k3gg" class="youtube-subscribers"></span>|<span id="UCtJsE0SDhyS4ib2evb5k3gg" class="last-video-date"></span>|
+|[Подкаст "Как Делают Игры"](https://www.youtube.com/channel/UCEkOWo6CbP_Dbwoym-E3Drw)|Подкаст "Как Делают Игры" — это то, что раньше называли "научно-популярная радиопередача". Мы стараемся человеческим языком рассказать о создании игр людям, которые либо уже делают игры, либо только собираются этим заняться.|<span id="UCEkOWo6CbP_Dbwoym-E3Drw" class="youtube-count"></span>|<span id="UCEkOWo6CbP_Dbwoym-E3Drw" class="youtube-subscribers"></span>|<span id="UCEkOWo6CbP_Dbwoym-E3Drw" class="last-video-date"></span>|
 
 </details>
 
