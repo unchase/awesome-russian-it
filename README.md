@@ -1347,12 +1347,12 @@
 
 <sup>[Содержание](#содержание)</sup>
 
-Название|Описание|Всего видео|Подписчиков|Дата последнего видео|
+|Название|Описание|Всего видео|Подписчиков|Дата последнего видео|
 |:------:|:-------|:---------:|:---------:|:-------------------:|
 |<a href="https://www.youtube.com/channel/UCA5otLRl-J5knJlO1ivyFMQ"><img width="30" src="https://yt3.ggpht.com/a/AGF-l7-ZpPaOXN8RKR61SEOInF4lAhyeX-0TTWKUrQ=s288-c-k-c0xffffffff-no-rj-mo"></a><br>[Domain-Driven Design Injection](https://www.youtube.com/channel/UCA5otLRl-J5knJlO1ivyFMQ)|Видеозаписи докладов Domain-Driven Design Injection.<br>DDDi — инициатива для разработчиков и инженеров-программистов, которые ищут новые способы решения нетривиальных задач в проектировании. Наша цель — популяризировать предметно-ориентированное проектирование и создать пространство для обмена опытом и идеями по теме DDD.|<span id="UCA5otLRl-J5knJlO1ivyFMQ" class="youtube-count"></span>|<span id="UCA5otLRl-J5knJlO1ivyFMQ" class="youtube-subscribers"></span>|<span id="UCA5otLRl-J5knJlO1ivyFMQ" class="last-video-date"></span>|
 |<a href="https://www.youtube.com/user/nixsolpr39"><img width="30" src="https://yt3.ggpht.com/a/AGF-l7_07hBxxqH234vqIuHdiYLWYDHgdmIYG31uHQ=s288-c-k-c0xffffffff-no-rj-mo"></a><br>[NIX](https://www.youtube.com/user/nixsolpr39)|Привет, давай знакомиться! Мы команда НИКС: нам уже 25 лет, однако этот солидный возраст совсем не повлиял на наше умение весело работать и дружно отдыхать. НИКС — это 1600 девелоперов и тестировщиков, дизайнеров, аналитиков требований, Sales и Project менеджеров, и многих, многих других классных IT-специалистов из Харькова. Подпишись на этот канал, чтобы посмотреть на нашу жизнь и легендарные корпоративы.|<span id="nixsolpr39" class="youtube-count"></span>|<span id="nixsolpr39" class="youtube-subscribers"></span>|<span id="nixsolpr39" class="last-video-date"></span>|
 
-<details open="open"><summary><a name="youtube-development-1c"></a><b>1C</b></summary><br>
+<details open="open"><summary><a name="youtube-development-1c"></a><b>&nbsp;&nbsp;1C</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1362,7 +1362,7 @@
 
 </details>
 
-<details open="open"><summary><a name="youtube-development-dotnet"></a><b>.NET</b></summary><br>
+<details open="open"><summary><a name="youtube-development-dotnet"></a><b>&nbsp;&nbsp;.NET</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1378,7 +1378,7 @@
 
 </details>
 
-<details open="open"><summary><a name="youtube-development-go"></a><b>Go</b></summary><br>
+<details open="open"><summary><a name="youtube-development-go"></a><b>&nbsp;&nbsp;Go</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1388,7 +1388,7 @@
 
 </details>
 
-<details open="open"><summary><a name="youtube-development-java"></a><b>Java</b></summary><br>
+<details open="open"><summary><a name="youtube-development-java"></a><b>&nbsp;&nbsp;Java</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1399,7 +1399,7 @@
 
 </details>
 
-<details open="open"><summary><a name="youtube-development-mobile"></a><b>Mobile</b></summary><br>
+<details open="open"><summary><a name="youtube-development-mobile"></a><b>&nbsp;&nbsp;Mobile</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1408,7 +1408,7 @@
 |<a href="https://www.youtube.com/channel/UCO5brRSuH5RrUMCldd_ABbw"><img width="30" src="https://yt3.ggpht.com/a/AGF-l7-FyjzEevU_yyM5x_WanKuW6L9nw2Z0NsOn0Q=s288-c-k-c0xffffffff-no-rj-mo"></a><br>[iThink](https://www.youtube.com/channel/UCO5brRSuH5RrUMCldd_ABbw)|iThink - конференция для мобильных разработчиков.|<span id="UCO5brRSuH5RrUMCldd_ABbw" class="youtube-count"></span>|<span id="UCO5brRSuH5RrUMCldd_ABbw" class="youtube-subscribers"></span>|<span id="UCO5brRSuH5RrUMCldd_ABbw" class="last-video-date"></span>|
 |<a href="https://www.youtube.com/channel/UCP8MtCo2ZcrJc7_Zhcjym9g"><img width="30" src="https://yt3.ggpht.com/a/AGF-l7-0JBbl36sjwpum9Nr1EuEKDXwH-6pHcFwRNQ=s288-c-k-c0xffffffff-no-rj-mo"></a><br>[Mobile Channel](https://www.youtube.com/channel/UCP8MtCo2ZcrJc7_Zhcjym9g)|Контент Mobile Channel посвящен разработке мобильных приложений: технологиям Android и iOS, кросс-платформенной разработке, архитектуре мобильных приложений, клиент-серверному взаимодействию и процессам разработки и тестирования.<br>Здесь мы публикуем материалы с профессиональной конференции для мобильных разработчиков [AppsConf](http://appsconf.ru/).|<span id="UCP8MtCo2ZcrJc7_Zhcjym9g" class="youtube-count"></span>|<span id="UCP8MtCo2ZcrJc7_Zhcjym9g" class="youtube-subscribers"></span>|<span id="UCP8MtCo2ZcrJc7_Zhcjym9g" class="last-video-date"></span>|
 
-<details open="open"><summary><a name="youtube-development-mobile-android"></a><b>Android</b></summary><br>
+<details open="open"><summary><a name="youtube-development-mobile-android"></a><b>&nbsp;&nbsp;&nbsp;&nbsp;Android</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1421,7 +1421,7 @@
 
 </details>
 
-<details open="open"><summary><a name="youtube-development-php"></a><b>PHP</b></summary><br>
+<details open="open"><summary><a name="youtube-development-php"></a><b>&nbsp;&nbsp;PHP</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1431,7 +1431,7 @@
 
 </details>
 
-<details open="open"><summary><a name="youtube-development-python"></a><b>Python</b></summary><br>
+<details open="open"><summary><a name="youtube-development-python"></a><b>&nbsp;&nbsp;Python</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1443,7 +1443,7 @@
 
 </details>
 
-<details open="open"><summary><a name="youtube-development-ruby"></a><b>Ruby</b></summary><br>
+<details open="open"><summary><a name="youtube-development-ruby"></a><b>&nbsp;&nbsp;Ruby</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1453,7 +1453,7 @@
 
 </details>
 
-<details open="open"><summary><a name="youtube-development-web"></a><b>Web</b></summary><br>
+<details open="open"><summary><a name="youtube-development-web"></a><b>&nbsp;&nbsp;Web</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
