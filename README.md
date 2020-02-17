@@ -1417,6 +1417,18 @@
 
 ---
 
+<details open="open"><summary><a name="youtube-management"></a><b>Management</b></summary><br>
+
+<sup>[Содержание](#содержание)</sup>
+
+|Название|Описание|Всего видео|Подписчиков|Дата последнего видео|
+|:------:|:-------|:---------:|:---------:|:-------------------:|
+|[ProductSense](https://www.youtube.com/channel/UCYAhNGkB-I2rCbBvnIEU12A)|Собираем практики продуктового менеджмента: Создание полезных и прибыльных продуктов. Практические инструменты. Тренды и идеи.|<span id="UCYAhNGkB-I2rCbBvnIEU12A" class="youtube-count"></span>|<span id="UCYAhNGkB-I2rCbBvnIEU12A" class="youtube-subscribers"></span>|<span id="UCYAhNGkB-I2rCbBvnIEU12A" class="last-video-date"></span>|
+
+</details>
+
+---
+
 <details open="open"><summary><a name="youtube-security"></a><b>Безопасность</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
