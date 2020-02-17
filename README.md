@@ -1448,6 +1448,16 @@
 
 </details>
 
+<details open="open"><summary><a name="youtube-development-ruby"></a><b>Ruby</b></summary><br>
+
+<sup>[Содержание](#содержание)</sup>
+
+|Название|Описание|Всего видео|Подписчиков|Дата последнего видео|
+|:------:|:-------|:---------:|:---------:|:-------------------:|
+|<a href="https://www.youtube.com/channel/UCpph4oLJ7uVz3udNFi4inEQ"><img width="30" src="https://yt3.ggpht.com/a/AGF-l78YsbQGLjIHzNWee4kLqN0KT4a8vIyrBpjOeA=s288-c-k-c0xffffffff-no-rj-mo"></a><br>[Ruby Roars](https://www.youtube.com/channel/UCpph4oLJ7uVz3udNFi4inEQ)|Уже шестое комьюнити в сокровищнице NIX Solutions для проведения душевных митапов за чашечкой кофе. Главная тематика митапов —  Ruby. Главная фишка митапов — душевность, открытость, experience sharing. Главный символ митапов — RubyDog (в народе Рубинчик).|<span id="UCpph4oLJ7uVz3udNFi4inEQ" class="youtube-count"></span>|<span id="UCpph4oLJ7uVz3udNFi4inEQ" class="youtube-subscribers"></span>|<span id="UCpph4oLJ7uVz3udNFi4inEQ" class="last-video-date"></span>|
+
+</details>
+
 <details open="open"><summary><a name="youtube-development-web"></a><b>Web</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
