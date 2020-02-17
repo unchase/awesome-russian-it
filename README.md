@@ -1336,6 +1336,18 @@
 
 ---
 
+<details open="open"><summary><a name="youtube-development-blockchain"></a><b>BlockChain</b></summary><br>
+
+<sup>[Содержание](#содержание)</sup>
+
+|Название|Описание|Всего видео|Подписчиков|Дата последнего видео|
+|:------:|:-------|:---------:|:---------:|:-------------------:|
+|[Blockchain Channel](https://www.youtube.com/channel/UChMiC7__JDt1da0mR_IeH-Q)|Контент канала охватывает такие тематики, как архитектура и безопасность блокчейн-платформ, особенности разработки проектов с использованием блокчейн-технологии, государственное регулирование, легальность блокчейна, интеграция умных контрактов и физической реальности и другие направления, связанные с разработкой и внедрением блокчейна.|<span id="UChMiC7__JDt1da0mR_IeH-Q" class="youtube-count"></span>|<span id="UChMiC7__JDt1da0mR_IeH-Q" class="youtube-subscribers"></span>|<span id="UChMiC7__JDt1da0mR_IeH-Q" class="last-video-date"></span>|
+
+</details>
+
+---
+
 <details open="open"><summary><a name="youtube-development"></a><b>Development</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
