@@ -1531,7 +1531,7 @@
 
 ---
 
-<details open="open"><summary><a name="youtube-communities"></a><b>Компании, Организации, Сообщества</b></summary><br>
+<details open="open"><summary><a name="youtube-communities"></a><b>Компании, Организации, Сообщества, Конференции</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1549,21 +1549,10 @@
 |<a href="https://www.youtube.com/channel/UClWS1cVSbGHLc-cOi4KJvTw"><img width="30" src="https://yt3.ggpht.com/a/AGF-l7-Ye__66VGNfuyVG1dKotfTwXrcc_Hq7OQI2Q=s288-c-k-c0xffffffff-no-rj-mo"></a><br>[Nexign Team](https://www.youtube.com/channel/UClWS1cVSbGHLc-cOi4KJvTw)|[Nexign](https://job.nexign.com/) (ранее «Петер-Сервис») — первая компания в России, которая создала биллинг. Уже 26 лет мы пишем софт для крупных операторов связи в 14 странах мира.  А с 2018 года расширяем присутствие на международном рынке под брендом Nexign.<br>Хотите узнать, как нам удается создавать IT-продукты, которые обслуживают больше 200 миллионов абонентов? Смотрите новое шоу Nexign, герои которого – пятеро сотрудников, совсем недавно ставших частью команды. У каждого из них своя роль в команде, разный багаж знаний, но цели — одинаково амбициозные.|<span id="UClWS1cVSbGHLc-cOi4KJvTw" class="youtube-count"></span>|<span id="UClWS1cVSbGHLc-cOi4KJvTw" class="youtube-subscribers"></span>|<span id="UClWS1cVSbGHLc-cOi4KJvTw" class="last-video-date"></span>|
 |<a href="https://www.youtube.com/channel/UCyXbPrE1_OXwiFtwszfDmaA"><img width="30" src="https://yt3.ggpht.com/a/AGF-l79TIKB1kHzowQ6ba74swpzUDWWtbKsG3wiyfQ=s288-c-k-c0xffffffff-no-rj-mo"></a><br>[OneTwoTrip! Tech](https://www.youtube.com/channel/UCyXbPrE1_OXwiFtwszfDmaA)|Видео с мероприятий [OneTwoTrip!](https://www.onetwotrip.com/ru).|<span id="UCyXbPrE1_OXwiFtwszfDmaA" class="youtube-count"></span>|<span id="UCyXbPrE1_OXwiFtwszfDmaA" class="youtube-subscribers"></span>|<span id="UCyXbPrE1_OXwiFtwszfDmaA" class="last-video-date"></span>|
 |<a href="https://www.youtube.com/channel/UCCqNFXg3NRbRA6qNKFRecdw"><img width="30" src="https://yt3.ggpht.com/a/AGF-l7-5prMuZG7zOx7LTEex5FP_EjBgVzO2Yfe_-Q=s288-c-k-c0xffffffff-no-rj-mo"></a><br>[Ozon IT Events](https://www.youtube.com/channel/UCCqNFXg3NRbRA6qNKFRecdw)|Видео ИТ-мероприятий [Ozon](https://ozon.dev/).|<span id="UCCqNFXg3NRbRA6qNKFRecdw" class="youtube-count"></span>|<span id="UCCqNFXg3NRbRA6qNKFRecdw" class="youtube-subscribers"></span>|<span id="UCCqNFXg3NRbRA6qNKFRecdw" class="last-video-date"></span>|
+|<a href="https://www.youtube.com/channel/UCvasfOIImo7D9lQkb1Wc1tw"><img width="30" src="https://yt3.ggpht.com/a/AGF-l79XeUABRPSe_mN9qCfYN7lMBu9RaiGKfWrmzg=s288-c-k-c0xffffffff-no-rj-mo"></a><br>[Pro Conf](https://www.youtube.com/channel/UCvasfOIImo7D9lQkb1Wc1tw)|Подкаст proConf - мы обозреваем технические конференции со всего мира. Каждую неделю огромное количество людей на различных митапах и конференциях делятся своим опытом и знаниями, а мы делаем так чтобы вы не пропустили самые интересные моменты.|<span id="UCvasfOIImo7D9lQkb1Wc1tw" class="youtube-count"></span>|<span id="UCvasfOIImo7D9lQkb1Wc1tw" class="youtube-subscribers"></span>|<span id="UCvasfOIImo7D9lQkb1Wc1tw" class="last-video-date"></span>|
 |<a href="https://www.youtube.com/channel/UC7hjrpB81FSipI1oqtOaZqQ"><img width="30" src="https://yt3.ggpht.com/a/AGF-l79NKmBChytWyJWUSP6Jn1w9qy_fc43xqpoQfQ=s288-c-k-c0xffffffff-no-rj-mo"></a><br>[RITFest Channel](https://www.youtube.com/channel/UC7hjrpB81FSipI1oqtOaZqQ)|Видеотрансляция главного зала фестиваля "Российских интернет технологий" (РИТ++).|<span id="UC7hjrpB81FSipI1oqtOaZqQ" class="youtube-count"></span>|<span id="UC7hjrpB81FSipI1oqtOaZqQ" class="youtube-subscribers"></span>|<span id="UC7hjrpB81FSipI1oqtOaZqQ" class="last-video-date"></span>|
 |<a href="https://www.youtube.com/channel/UCl5UjDgC4_SOjiLnIRznkEg"><img width="30" src="https://yt3.ggpht.com/a/AGF-l78R93I1ki4OvvYj25EOCpL01iC155mFzqEfEw=s288-c-k-c0xffffffff-no-rj-mo"></a><br>[TverIO](https://www.youtube.com/channel/UCl5UjDgC4_SOjiLnIRznkEg)|Добро пожаловать в Тверское ИТ-сообщество!<br>Мы искренне верим, что сообщества объединяют людей и делают их профессиональную жизнь продуктивнее, поэтому регулярно проводим митапы, организовываем курсы, научные и популярные лекции и мастер-классы, активно ведем дискуссии в чате (Slack).|<span id="UCl5UjDgC4_SOjiLnIRznkEg" class="youtube-count"></span>|<span id="UCl5UjDgC4_SOjiLnIRznkEg" class="youtube-subscribers"></span>|<span id="UCl5UjDgC4_SOjiLnIRznkEg" class="last-video-date"></span>|
 |<a href="https://www.youtube.com/channel/UCoUiuNfbW-YY9SRpg7D9fMw"><img width="30" src="https://yt3.ggpht.com/a/AGF-l7_YVW2K6lfBlr-lmY-K0f-peh2ldbMfP23Ofg=s288-c-k-c0xffffffff-no-rj-mo"></a><br>[Технологии в Контуре](https://www.youtube.com/channel/UCoUiuNfbW-YY9SRpg7D9fMw)|YouTube-канал с техническими докладами компании [Контур](https://kontur.ru/).|<span id="UCoUiuNfbW-YY9SRpg7D9fMw" class="youtube-count"></span>|<span id="UCoUiuNfbW-YY9SRpg7D9fMw" class="youtube-subscribers"></span>|<span id="UCoUiuNfbW-YY9SRpg7D9fMw" class="last-video-date"></span>|
-
-</details>
-
----
-
-<details open="open"><summary><a name="youtube-conference"></a><b>Конференции</b></summary><br>
-
-<sup>[Содержание](#содержание)</sup>
-
-|Название|Описание|Всего видео|Подписчиков|Дата последнего видео|
-|:------:|:-------|:---------:|:---------:|:-------------------:|
-|<a href="https://www.youtube.com/channel/UCvasfOIImo7D9lQkb1Wc1tw"><img width="30" src="https://yt3.ggpht.com/a/AGF-l79XeUABRPSe_mN9qCfYN7lMBu9RaiGKfWrmzg=s288-c-k-c0xffffffff-no-rj-mo"></a><br>[Pro Conf](https://www.youtube.com/channel/UCvasfOIImo7D9lQkb1Wc1tw)|Подкаст proConf - мы обозреваем технические конференции со всего мира. Каждую неделю огромное количество людей на различных митапах и конференциях делятся своим опытом и знаниями, а мы делаем так чтобы вы не пропустили самые интересные моменты.|<span id="UCvasfOIImo7D9lQkb1Wc1tw" class="youtube-count"></span>|<span id="UCvasfOIImo7D9lQkb1Wc1tw" class="youtube-subscribers"></span>|<span id="UCvasfOIImo7D9lQkb1Wc1tw" class="last-video-date"></span>|
 
 </details>
 
