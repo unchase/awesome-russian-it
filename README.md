@@ -14,7 +14,7 @@
 
 |<p align="center">**[Блоги](#блоги)**</p>|<p align="center">**[Подкасты](#подкасты)**</p>|<p align="center">**[Мероприятия](#мероприятия)**</p>|<p align="center">**Прочее**</p>|
 |:-|:-|:-|:-|
-|&nbsp;•&nbsp;[Администрирование](#blogs-administrating)<br>&nbsp;•&nbsp;[Документация](#blogs-documentation)<br>&nbsp;•&nbsp;[Общее](#blogs-common)<br>&nbsp;•&nbsp;[Паттерны](#blogs-patterns)<br>&nbsp;•&nbsp;[Тестирование](#blogs-testing)<br>&nbsp;•&nbsp;[.NET](#blogs-dotnet)<br>&nbsp;•&nbsp;[GameDev](#blogs-gamedev)<br>&nbsp;•&nbsp;[Go](#blogs-go)<br>&nbsp;•&nbsp;[Python](#blogs-python)|&nbsp;•&nbsp;[Администрирование](#podcasts-administrating)<br>&nbsp;•&nbsp;[Блокчейн](#podcasts-blockchain)<br>&nbsp;•&nbsp;[ИТ-безопасность](#podcasts-security)<br>&nbsp;•&nbsp;[Общее](#podcasts-common)<br>&nbsp;•&nbsp;[Продуктовый дизайн](#podcasts-design)<br>&nbsp;•&nbsp;[Разработка](#podcasts-development)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;[.NET](#podcasts-development-dotnet)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;[PHP](#podcasts-development-php)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;[Python](#podcasts-development-python)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;[Ruby](#podcasts-development-ruby)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;[Scala](#podcasts-development-scala)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[Веб-разработка](#podcasts-development-web)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[Мобильная разработка](#podcasts-development-mobile)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;[Android](#podcasts-development-mobile-android)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[Разработка игр](#podcasts-development-gamedev)<br>&nbsp;•&nbsp;[Тестирование](#podcasts-testing)<br>&nbsp;•&nbsp;[BigData](#podcasts-bigdata)<br>&nbsp;•&nbsp;[DevOps](#podcasts-devops)<br>|&nbsp;•&nbsp;[Агрегаторы и Общие](#meetups-aggregators)<br>&nbsp;•&nbsp;[Аналитика](#meetups-analytics)<br>&nbsp;•&nbsp;[БД](#meetups-db)<br>&nbsp;•&nbsp;[AI](#meetups-ai)<br>&nbsp;•&nbsp;[Architecture](#meetups-architecture)<br>&nbsp;•&nbsp;[BlockChain](#meetups-blockchain)<br>&nbsp;•&nbsp;[BigData и DataScience](#meetups-bigdata-datascience)<br>&nbsp;•&nbsp;[Development](#meetups-development)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[1C](#meetups-development-1c)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[.NET](#meetups-development-dotnet)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[C++](#meetups-development-cpp)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[GameDev](#meetups-development-gamedev)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[Go](#meetups-development-go)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[IoT](#meetups-development-iot)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[Java](#meetups-development-java)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[Mobile](#meetups-development-mobile)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[MR VR AR](#meetups-development-mr-vr-ar)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[PHP](#meetups-development-php)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[Python](#meetups-development-python)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[Scala](#meetups-development-scala)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[Elixir](#meetups-development-elixir)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[Web](#meetups-development-web)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[DevOps](#meetups-devops)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[Management](#meetups-management)<br>&nbsp;•&nbsp;[Security](#meetups-security)<br>&nbsp;•&nbsp;[Testing и QA](#meetups-testing-qa)<br>&nbsp;•&nbsp;[UX](#meetups-ux)|&nbsp;•&nbsp;[Информация для авторов ресурсов](#информация-для-авторов-ресурсов)<br>&nbsp;•&nbsp;[Контрибьюторы](#контрибьюторы)|
+|&nbsp;•&nbsp;[Администрирование](#blogs-administrating)<br>&nbsp;•&nbsp;[Документация](#blogs-documentation)<br>&nbsp;•&nbsp;[Общее](#blogs-common)<br>&nbsp;•&nbsp;[Паттерны](#blogs-patterns)<br>&nbsp;•&nbsp;[Тестирование](#blogs-testing)<br>&nbsp;•&nbsp;[.NET](#blogs-dotnet)<br>&nbsp;•&nbsp;[GameDev](#blogs-gamedev)<br>&nbsp;•&nbsp;[Go](#blogs-go)<br>&nbsp;•&nbsp;[Python](#blogs-python)|&nbsp;•&nbsp;[Администрирование](#podcasts-administrating)<br>&nbsp;•&nbsp;[Блокчейн](#podcasts-blockchain)<br>&nbsp;•&nbsp;[ИТ-безопасность](#podcasts-security)<br>&nbsp;•&nbsp;[Общее](#podcasts-common)<br>&nbsp;•&nbsp;[Продуктовый дизайн](#podcasts-design)<br>&nbsp;•&nbsp;[Разработка](#podcasts-development)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;[.NET](#podcasts-development-dotnet)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;[PHP](#podcasts-development-php)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;[Python](#podcasts-development-python)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;[Ruby](#podcasts-development-ruby)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;[Scala](#podcasts-development-scala)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[Веб-разработка](#podcasts-development-web)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[Мобильная разработка](#podcasts-development-mobile)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;[Android](#podcasts-development-mobile-android)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[Разработка игр](#podcasts-development-gamedev)<br>&nbsp;•&nbsp;[Тестирование](#podcasts-testing)<br>&nbsp;•&nbsp;[BigData](#podcasts-bigdata)<br>&nbsp;•&nbsp;[DevOps](#podcasts-devops)<br>|&nbsp;•&nbsp;[Агрегаторы и Общие](#meetups-aggregators)<br>&nbsp;•&nbsp;[Аналитика](#meetups-analytics)<br>&nbsp;•&nbsp;[БД](#meetups-db)<br>&nbsp;•&nbsp;[AI](#meetups-ai)<br>&nbsp;•&nbsp;[Architecture](#meetups-architecture)<br>&nbsp;•&nbsp;[BlockChain](#meetups-blockchain)<br>&nbsp;•&nbsp;[BigData и DataScience](#meetups-bigdata-datascience)<br>&nbsp;•&nbsp;[Development](#meetups-development)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[1C](#meetups-development-1c)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[.NET](#meetups-development-dotnet)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[C++](#meetups-development-cpp)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[Elixir](#meetups-development-elixir)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[GameDev](#meetups-development-gamedev)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[Go](#meetups-development-go)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[IoT](#meetups-development-iot)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[Java](#meetups-development-java)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[Mobile](#meetups-development-mobile)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[MR VR AR](#meetups-development-mr-vr-ar)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[PHP](#meetups-development-php)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[Python](#meetups-development-python)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[Scala](#meetups-development-scala)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[Web](#meetups-development-web)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[DevOps](#meetups-devops)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[Management](#meetups-management)<br>&nbsp;•&nbsp;[Security](#meetups-security)<br>&nbsp;•&nbsp;[Testing и QA](#meetups-testing-qa)<br>&nbsp;•&nbsp;[UX](#meetups-ux)|&nbsp;•&nbsp;[Информация для авторов ресурсов](#информация-для-авторов-ресурсов)<br>&nbsp;•&nbsp;[Контрибьюторы](#контрибьюторы)|
 
 ## **Блоги**
 
@@ -1304,6 +1304,263 @@
 
 ---
 
+## **YouTube-каналы**
+
+<sup>[Содержание](#содержание)</sup>
+
+> Здесь собрано множество YouTube-каналов, связанных с ИТ и около-ИТшной тематикой.
+
+<details open="open"><summary><a name="youtube-ai-ml-datascience"></a><b>AI, ML и DataScience</b></summary><br>
+
+<sup>[Содержание](#содержание)</sup>
+
+|Название|Описание|Всего видео|Подписчиков|Дата последнего видео|
+|:------:|:-------|:---------:|:---------:|:-------------------:|
+|[AI Community](https://www.youtube.com/channel/UCv9uq004VYU_NHUJoW2I0mQ)|YouTube-канал сообщества людей, заинтересованных в коммерциализации AI. В рамках проекта AI Heroes мы проводим регулярные вебинары с ведущими экспертами Data Science.|<span id="UCv9uq004VYU_NHUJoW2I0mQ" class="youtube-count"></span>|<span id="UCv9uq004VYU_NHUJoW2I0mQ" class="youtube-subscribers"></span>|<span id="UCv9uq004VYU_NHUJoW2I0mQ" class="last-video-date"></span>|
+|[Dmitri Soshnikov](https://www.youtube.com/user/dsoshnikov)|YouTube-канал Дмитрия Сошникова, технологического евангелиста в компании Майкрософт, с выступлениями по искусственному интеллекту и машинному обучению.|<span id="dsoshnikov" class="youtube-count"></span>|<span id="dsoshnikov" class="youtube-subscribers"></span>|<span id="dsoshnikov" class="last-video-date"></span>|
+|[Gomel Data Science Community](https://www.youtube.com/channel/UCK3ShrERfCvOGPSG1X9TV9g)|YouTube-канал Gomel Data Science Community.|<span id="UCK3ShrERfCvOGPSG1X9TV9g" class="youtube-count"></span>|<span id="UCK3ShrERfCvOGPSG1X9TV9g" class="youtube-subscribers"></span>|<span id="UCK3ShrERfCvOGPSG1X9TV9g" class="last-video-date"></span>|
+
+</details>
+
+---
+
+<details open="open"><summary><a name="youtube-ar-vr"></a><b>AR, VR</b></summary><br>
+
+<sup>[Содержание](#содержание)</sup>
+
+|Название|Описание|Всего видео|Подписчиков|Дата последнего видео|
+|:------:|:-------|:---------:|:---------:|:-------------------:|
+|[AVRA Ассоциация AR-VR](https://www.youtube.com/channel/UCtfKT_4RvLXxuOKGxjvN7xQ)|Официальный YouTube-канал российской Ассоциации дополненной и виртуальной реальности.|<span id="UCtfKT_4RvLXxuOKGxjvN7xQ" class="youtube-count"></span>|<span id="UCtfKT_4RvLXxuOKGxjvN7xQ" class="youtube-subscribers"></span>|<span id="UCtfKT_4RvLXxuOKGxjvN7xQ" class="last-video-date"></span>|
+
+</details>
+
+---
+
+<details open="open"><summary><a name="youtube-development-blockchain"></a><b>BlockChain</b></summary><br>
+
+<sup>[Содержание](#содержание)</sup>
+
+|Название|Описание|Всего видео|Подписчиков|Дата последнего видео|
+|:------:|:-------|:---------:|:---------:|:-------------------:|
+|[Blockchain Channel](https://www.youtube.com/channel/UChMiC7__JDt1da0mR_IeH-Q)|Контент канала охватывает такие тематики, как архитектура и безопасность блокчейн-платформ, особенности разработки проектов с использованием блокчейн-технологии, государственное регулирование, легальность блокчейна, интеграция умных контрактов и физической реальности и другие направления, связанные с разработкой и внедрением блокчейна.|<span id="UChMiC7__JDt1da0mR_IeH-Q" class="youtube-count"></span>|<span id="UChMiC7__JDt1da0mR_IeH-Q" class="youtube-subscribers"></span>|<span id="UChMiC7__JDt1da0mR_IeH-Q" class="last-video-date"></span>|
+
+</details>
+
+---
+
+<details open="open"><summary><a name="youtube-development"></a><b>Development</b></summary><br>
+
+<sup>[Содержание](#содержание)</sup>
+
+<details open="open"><summary><a name="youtube-development-1c"></a><b>1C</b></summary><br>
+
+<sup>[Содержание](#содержание)</sup>
+
+|Название|Описание|Всего видео|Подписчиков|Дата последнего видео|
+|:------:|:-------|:---------:|:---------:|:-------------------:|
+|[1C Platform](https://www.youtube.com/channel/UC8C9c4GFLs6cNqBVWSM9jLw)|Новости от платформы 1С:Предприятие, обучающие материалы.|<span id="UC8C9c4GFLs6cNqBVWSM9jLw" class="youtube-count"></span>|<span id="UC8C9c4GFLs6cNqBVWSM9jLw" class="youtube-subscribers"></span>|<span id="UC8C9c4GFLs6cNqBVWSM9jLw" class="last-video-date"></span>|
+
+</details>
+
+<details open="open"><summary><a name="youtube-development-dotnet"></a><b>.NET</b></summary><br>
+
+<sup>[Содержание](#содержание)</sup>
+
+|Название|Описание|Всего видео|Подписчиков|Дата последнего видео|
+|:------:|:-------|:---------:|:---------:|:-------------------:|
+|[DotNet & More Подкаст](https://www.youtube.com/channel/UCCangFtmypr2MmiULHquf2A)|Канал с записями подкаста [DotNet & More](https://dotnetmore.ru) (подкаст о .NET технологиях и не только).|<span id="UCCangFtmypr2MmiULHquf2A" class="youtube-count"></span>|<span id="UCCangFtmypr2MmiULHquf2A" class="youtube-subscribers"></span>|<span id="UCCangFtmypr2MmiULHquf2A" class="last-video-date"></span>|
+|[Dot Nuts](https://www.youtube.com/channel/UC_j5YXTarPW5euuMWRphTiw)|.Nuts - это сообщество .Net разработчиков в Рязани. Мы не ограничиваем себя только "байками" и "охами" о C#, VB.NET или MS SQL Server, а любим простоту JavaScript, изучаем возможности F#, видим преимущества Python и можем пожестить с C++.|<span id="UC_j5YXTarPW5euuMWRphTiw" class="youtube-count"></span>|<span id="UC_j5YXTarPW5euuMWRphTiw" class="youtube-subscribers"></span>|<span id="UC_j5YXTarPW5euuMWRphTiw" class="last-video-date"></span>|
+|[Мини-конференции CLRium](https://www.youtube.com/channel/UCG1q-u4WKoL0QVi47b-sWqA)|Конференция по технологиям .NET.|<span id="UCG1q-u4WKoL0QVi47b-sWqA" class="youtube-count"></span>|<span id="UCG1q-u4WKoL0QVi47b-sWqA" class="youtube-subscribers"></span>|<span id="UCG1q-u4WKoL0QVi47b-sWqA" class="last-video-date"></span>|
+
+</details>
+
+<details open="open"><summary><a name="youtube-development-go"></a><b>Go</b></summary><br>
+
+<sup>[Содержание](#содержание)</sup>
+
+|Название|Описание|Всего видео|Подписчиков|Дата последнего видео|
+|:------:|:-------|:---------:|:---------:|:-------------------:|
+|[GopherCon Russia](https://www.youtube.com/channel/UCq-OB01F8YnS-FJpeJRCvMQ)|Видеозаписи конференции GopherCon Russia, посвященной разработке на Go.|<span id="UCq-OB01F8YnS-FJpeJRCvMQ" class="youtube-count"></span>|<span id="UCq-OB01F8YnS-FJpeJRCvMQ" class="youtube-subscribers"></span>|<span id="UCq-OB01F8YnS-FJpeJRCvMQ" class="last-video-date"></span>|
+
+</details>
+
+<details open="open"><summary><a name="youtube-development-python"></a><b>Python</b></summary><br>
+
+<sup>[Содержание](#содержание)</sup>
+
+|Название|Описание|Всего видео|Подписчиков|Дата последнего видео|
+|:------:|:-------|:---------:|:---------:|:-------------------:|
+|[MoscowPython](https://www.youtube.com/channel/UC-OVMPlMA3-YCIeg4z5z23A)|Видеозаписи со встреч питонистов и джангистов в Москве и не только.|<span id="UC-OVMPlMA3-YCIeg4z5z23A" class="youtube-count"></span>|<span id="UC-OVMPlMA3-YCIeg4z5z23A" class="youtube-subscribers"></span>|<span id="UC-OVMPlMA3-YCIeg4z5z23A" class="last-video-date"></span>|
+|[Python Channel](https://www.youtube.com/channel/UCqC1iSQnRIDz_rOy8LHe69g)|YouTube-канал [Moscow Python Conf++](https://conf.python.ru).|<span id="UCqC1iSQnRIDz_rOy8LHe69g" class="youtube-count"></span>|<span id="UCqC1iSQnRIDz_rOy8LHe69g" class="youtube-subscribers"></span>|<span id="UCqC1iSQnRIDz_rOy8LHe69g" class="last-video-date"></span>|
+
+</details>
+
+<details open="open"><summary><a name="youtube-development-web"></a><b>Web</b></summary><br>
+
+<sup>[Содержание](#содержание)</sup>
+
+|Название|Описание|Всего видео|Подписчиков|Дата последнего видео|
+|:------:|:-------|:---------:|:---------:|:-------------------:|
+|[Dmitry Patsura](https://www.youtube.com/channel/UCiSimVxFWqw5RFWLxrE1oLQ)|YouTube-канал [Дмитрия Пацуры](https://resume.dmtry.me/), в котором он публикует аудио-подкаст UnderJS.|<span id="UCiSimVxFWqw5RFWLxrE1oLQ" class="youtube-count"></span>|<span id="UCiSimVxFWqw5RFWLxrE1oLQ" class="youtube-subscribers"></span>|<span id="UCiSimVxFWqw5RFWLxrE1oLQ" class="last-video-date"></span>|
+|[Frontend Channel](https://www.youtube.com/channel/UCGQRn0aTnJK-zHFAdT9Nm1A)|[FrontendConf](https://frontendconf.ru) — крупнейшая профессиональная конференция для фронтденд-разработчиков в России, которая посвящена всем аспектам разработки клиентской части веб-проектов: адаптивный дизайн и юзабилити, вёрстка, CSS и HTML, разработка на JavaScript, новые и популярные фреймворки, одностраничные приложения, архитектура, автоматизация и тестирование фронтенда, rich-медиа и быстродействие интерфейса.|<span id="UCGQRn0aTnJK-zHFAdT9Nm1A" class="youtube-count"></span>|<span id="UCGQRn0aTnJK-zHFAdT9Nm1A" class="youtube-subscribers"></span>|<span id="UCGQRn0aTnJK-zHFAdT9Nm1A" class="last-video-date"></span>|
+|[Frontend Weekend](https://www.youtube.com/channel/UCCcdxAkVpk8WnyRIknFbe4A)|Еженедельный подкаст о новостях мира frontend-разработки.<br>Обсуждаем всё: от JavaScript и CSS до митапов, конференций и работы в IT-сфере.|<span id="UCCcdxAkVpk8WnyRIknFbe4A" class="youtube-count"></span>|<span id="UCCcdxAkVpk8WnyRIknFbe4A" class="youtube-subscribers"></span>|<span id="UCCcdxAkVpk8WnyRIknFbe4A" class="last-video-date"></span>|
+|[uWebDesign](https://www.youtube.com/user/uwebdesign)|Канал подкастеров из Челябинска — uWebDesign. Здесь вы найдете контент про web разработку и IT на русском языке, а также про ux дизайн, инструменты для разработки, урбанистику, geek новости и многое другое.|<span id="uwebdesign" class="youtube-count"></span>|<span id="uwebdesign" class="youtube-subscribers"></span>|<span id="uwebdesign" class="last-video-date"></span>|
+
+</details>
+
+</details>
+
+---
+
+<details open="open"><summary><a name="youtube-devops"></a><b>DevOps</b></summary><br>
+
+<sup>[Содержание](#содержание)</sup>
+
+|Название|Описание|Всего видео|Подписчиков|Дата последнего видео|
+|:------:|:-------|:---------:|:---------:|:-------------------:|
+|[Devops Days](https://www.youtube.com/channel/UCXvUfWqUKc8mjG7P40XnaPA)|Видео с международной серии конференций для энтузиастов DevOps.|<span id="UCXvUfWqUKc8mjG7P40XnaPA" class="youtube-count"></span>|<span id="UCXvUfWqUKc8mjG7P40XnaPA" class="youtube-subscribers"></span>|<span id="UCXvUfWqUKc8mjG7P40XnaPA" class="last-video-date"></span>|
+|[DevOps Moscow](https://www.youtube.com/channel/UC-oN4D4sUut8-FTcP5Opp_A)|Youtube-канал московского сообщества DevOps. Тут мы выкладываем видео-записи наших встреч, доклады и прочую полезную информацию.|<span id="UC-oN4D4sUut8-FTcP5Opp_A" class="youtube-count"></span>|<span id="UC-oN4D4sUut8-FTcP5Opp_A" class="youtube-subscribers"></span>|<span id="UC-oN4D4sUut8-FTcP5Opp_A" class="last-video-date"></span>|
+|[HangOps_ru](https://www.youtube.com/channel/UCr5mwN4AKxiYxysr8PeQdaA)|Канал для DevOps и о DevOps.|<span id="UCr5mwN4AKxiYxysr8PeQdaA" class="youtube-count"></span>|<span id="UCr5mwN4AKxiYxysr8PeQdaA" class="youtube-subscribers"></span>|<span id="UCr5mwN4AKxiYxysr8PeQdaA" class="last-video-date"></span>|
+|[MONHOUSE](https://www.youtube.com/channel/UCyQ9sLBi9F3Mo_LRQrJ6RNg)|Это место, где собираются люди и знания по вопросам мониторинга и автоматизированного управления.<br>На нашем канале вы найдете видео, посвященные инструментам мониторинга для ИТ и бизнеса. Все об использовании, настройке, реальных кейсах и многое другое, без привязки к конкретному производителю или платформе.|<span id="UCyQ9sLBi9F3Mo_LRQrJ6RNg" class="youtube-count"></span>|<span id="UCyQ9sLBi9F3Mo_LRQrJ6RNg" class="youtube-subscribers"></span>|<span id="UCyQ9sLBi9F3Mo_LRQrJ6RNg" class="last-video-date"></span>|
+
+</details>
+
+---
+
+<details open="open"><summary><a name="youtube-gamedev"></a><b>Gamedev</b></summary><br>
+
+<sup>[Содержание](#содержание)</sup>
+
+|Название|Описание|Всего видео|Подписчиков|Дата последнего видео|
+|:------:|:-------|:---------:|:---------:|:-------------------:|
+|[Brave](https://www.youtube.com/channel/UCROfPYCzpW3XqyjjAOImmvQ)|Всем привет! Вы смотрите храбрый канал Brave. Я CG-художник и 2d-аниматор.|<span id="UCROfPYCzpW3XqyjjAOImmvQ" class="youtube-count"></span>|<span id="UCROfPYCzpW3XqyjjAOImmvQ" class="youtube-subscribers"></span>|<span id="UCROfPYCzpW3XqyjjAOImmvQ" class="last-video-date"></span>|
+|[XYZ](https://www.youtube.com/channel/UCtJsE0SDhyS4ib2evb5k3gg)|Рассказываем о геймдизайне, кино, моделинге и другом современном искусстве.|<span id="UCtJsE0SDhyS4ib2evb5k3gg" class="youtube-count"></span>|<span id="UCtJsE0SDhyS4ib2evb5k3gg" class="youtube-subscribers"></span>|<span id="UCtJsE0SDhyS4ib2evb5k3gg" class="last-video-date"></span>|
+|[Zavtracast – подкаст об играх](https://www.youtube.com/channel/UCWu4IYWg9JpBurse8e-udPA)|Это официальный канал Завтракаста - подкаста о завтрашнем дне в играх, медиа, технологиях и интернете.|<span id="UCWu4IYWg9JpBurse8e-udPA" class="youtube-count"></span>|<span id="UCWu4IYWg9JpBurse8e-udPA" class="youtube-subscribers"></span>|<span id="UCWu4IYWg9JpBurse8e-udPA" class="last-video-date"></span>|
+|[Подкаст "Как Делают Игры"](https://www.youtube.com/channel/UCEkOWo6CbP_Dbwoym-E3Drw)|Подкаст "Как Делают Игры" — это то, что раньше называли "научно-популярная радиопередача". Мы стараемся человеческим языком рассказать о создании игр людям, которые либо уже делают игры, либо только собираются этим заняться.|<span id="UCEkOWo6CbP_Dbwoym-E3Drw" class="youtube-count"></span>|<span id="UCEkOWo6CbP_Dbwoym-E3Drw" class="youtube-subscribers"></span>|<span id="UCEkOWo6CbP_Dbwoym-E3Drw" class="last-video-date"></span>|
+
+</details>
+
+---
+
+<details open="open"><summary><a name="youtube-iot"></a><b>IoT</b></summary><br>
+
+<sup>[Содержание](#содержание)</sup>
+
+|Название|Описание|Всего видео|Подписчиков|Дата последнего видео|
+|:------:|:-------|:---------:|:---------:|:-------------------:|
+|[IoT Channel](https://www.youtube.com/channel/UCeKQk9ER5NWfSfIszMX3QFg)|Контент IoT Channel охватывает все аспекты мира интернета вещей: разработку аппаратного и программного обеспечения устройств, безопасность для пользователей, способы передачи информации между устройствами и "сервером" и их тестирование, эксплуатацию и изменение бизнес-процессов под влиянием IoT-технологий.|<span id="UCeKQk9ER5NWfSfIszMX3QFg" class="youtube-count"></span>|<span id="UCeKQk9ER5NWfSfIszMX3QFg" class="youtube-subscribers"></span>|<span id="UCeKQk9ER5NWfSfIszMX3QFg" class="last-video-date"></span>|
+
+</details>
+
+---
+
+<details open="open"><summary><a name="youtube-it"></a><b>IT</b></summary><br>
+
+<sup>[Содержание](#содержание)</sup>
+
+|Название|Описание|Всего видео|Подписчиков|Дата последнего видео|
+|:------:|:-------|:---------:|:---------:|:-------------------:|
+|[DataArt Online](https://www.youtube.com/user/DataArt)|DataArt - это глобальная технологическая консалтинговая компания, которая проектирует, разрабатывает и поддерживает уникальные программные решения, помогая клиентам развивать свой бизнес.|<span id="DataArt" class="youtube-count"></span>|<span id="DataArt" class="youtube-subscribers"></span>|<span id="DataArt" class="last-video-date"></span>|
+|[iCluster](https://www.youtube.com/channel/UCJ29is7jbsw76UUJ9a6qZOQ)|Международный IT-кластер Нижегородской области - это некоммерческая ассоциация, созданная для взаимодействия между корпорациями, средним ИТ-бизнесом, ИТ-стартапами и командами разработчиков.|<span id="UCJ29is7jbsw76UUJ9a6qZOQ" class="youtube-count"></span>|<span id="UCJ29is7jbsw76UUJ9a6qZOQ" class="youtube-subscribers"></span>|<span id="UCJ29is7jbsw76UUJ9a6qZOQ" class="last-video-date"></span>|
+|[Innopolis City](https://www.youtube.com/channel/UCPzZyyzdemUh4Bbo7d75r0g)|Видео из жизни it-города Иннополис (Республика Татарстан).|<span id="UCPzZyyzdemUh4Bbo7d75r0g" class="youtube-count"></span>|<span id="UCPzZyyzdemUh4Bbo7d75r0g" class="youtube-subscribers"></span>|<span id="UCPzZyyzdemUh4Bbo7d75r0g" class="last-video-date"></span>|
+|[IT-Events](https://www.youtube.com/channel/UCIx_9YpbAcFouJ60Il4T3wA)|YouTube-канал агрегатора ИТ-событий [IT-Events](https://it-events.com/)|<span id="UCIx_9YpbAcFouJ60Il4T3wA" class="youtube-count"></span>|<span id="UCIx_9YpbAcFouJ60Il4T3wA" class="youtube-subscribers"></span>|<span id="UCIx_9YpbAcFouJ60Il4T3wA" class="last-video-date"></span>|
+|[ITSTARTS](https://www.youtube.com/channel/UCfVduUM-kNHSp7aKFdEAybw)|Канал еженедельного подкаста про IT и Startup сферу Беларуси.<br>Два стартапера встречаются с инвесторами, IT-предпринимателями, успешными стартаперами и экспертами сферы, чтобы анализировать и обсуждать насущные для Беларуси вопросы.|<span id="UCfVduUM-kNHSp7aKFdEAybw" class="youtube-count"></span>|<span id="UCfVduUM-kNHSp7aKFdEAybw" class="youtube-subscribers"></span>|<span id="UCfVduUM-kNHSp7aKFdEAybw" class="last-video-date"></span>|
+|[АйТиБорода](https://www.youtube.com/channel/UCeObZv89Stb2xLtjLJ0De3Q)|Ку! Меня зовут Лекс и я бородатый программист. С 2012 года у меня накопилось много опыта, историй и знакомств, которыми я делюсь здесь, на этом канале.<br>Но канал - это не просто хобби. Для меня это целый Проект, посвященный не столько программированию, сколько жизни айтишников изнутри. Без всякой цензуры, ярлыков и лишнего пафоса. Весь контент на канале вместе с вами формирует цельное сообщество единомышленников, способных перевернуть этот мир ко всем чертям, в добром смысле слова :)|<span id="UCeObZv89Stb2xLtjLJ0De3Q" class="youtube-count"></span>|<span id="UCeObZv89Stb2xLtjLJ0De3Q" class="youtube-subscribers"></span>|<span id="UCeObZv89Stb2xLtjLJ0De3Q" class="last-video-date"></span>|
+|[Цинковый Прод](https://www.youtube.com/channel/UC6cTShKx3lJWw-EzSr_ZAfw)|YouTube-канал подкаста о разработке и ИТ [Цинковый прод](https://soundcloud.com/znprod)|<span id="UC6cTShKx3lJWw-EzSr_ZAfw" class="youtube-count"></span>|<span id="UC6cTShKx3lJWw-EzSr_ZAfw" class="youtube-subscribers"></span>|<span id="UC6cTShKx3lJWw-EzSr_ZAfw" class="last-video-date"></span>|
+
+</details>
+
+---
+
+<details open="open"><summary><a name="youtube-management"></a><b>Management</b></summary><br>
+
+<sup>[Содержание](#содержание)</sup>
+
+|Название|Описание|Всего видео|Подписчиков|Дата последнего видео|
+|:------:|:-------|:---------:|:---------:|:-------------------:|
+|[ProductSense](https://www.youtube.com/channel/UCYAhNGkB-I2rCbBvnIEU12A)|Собираем практики продуктового менеджмента: Создание полезных и прибыльных продуктов. Практические инструменты. Тренды и идеи.|<span id="UCYAhNGkB-I2rCbBvnIEU12A" class="youtube-count"></span>|<span id="UCYAhNGkB-I2rCbBvnIEU12A" class="youtube-subscribers"></span>|<span id="UCYAhNGkB-I2rCbBvnIEU12A" class="last-video-date"></span>|
+
+</details>
+
+---
+
+<details open="open"><summary><a name="youtube-testing-qa"></a><b>Testing и QA</b></summary><br>
+
+<sup>[Содержание](#содержание)</sup>
+
+|Название|Описание|Всего видео|Подписчиков|Дата последнего видео|
+|:------:|:-------|:---------:|:---------:|:-------------------:|
+|[SPb CoA](https://www.youtube.com/channel/UCKAToRr8AwzqJIlihWPk8RQ)|Добро пожаловать на страницу канала «Сообщество аналитиков Санкт-Петербурга (СПб СоА)».<br>В этот канал мы выкладываем видео с наших регулярных встреч, на которых участники сообщества выступают с докладами на интересующие их и сообщество темы. Выступаем на: #spbcoa, #ITGM, #analystdays, #secr, #ЛАФ и многие другие. Проводим мастер-классы и тренинги.<br>Составляем подборки по темам: бизнес-анализ (business analysis), системный анализ (system analysis), требования (requirements), программная инженерия (software engineering), системная инженерия (system engineering).|<span id="UCKAToRr8AwzqJIlihWPk8RQ" class="youtube-count"></span>|<span id="UCKAToRr8AwzqJIlihWPk8RQ" class="youtube-subscribers"></span>|<span id="UCKAToRr8AwzqJIlihWPk8RQ" class="last-video-date"></span>|
+
+</details>
+
+---
+
+<details open="open"><summary><a name="youtube-security"></a><b>Безопасность</b></summary><br>
+
+<sup>[Содержание](#содержание)</sup>
+
+|Название|Описание|Всего видео|Подписчиков|Дата последнего видео|
+|:------:|:-------|:---------:|:---------:|:-------------------:|
+|[Information Security BY](https://www.youtube.com/channel/UCzaeFUbS72veQ0MVf5Ds6Ig)|Канал по информационной безопасности в ИТ.|<span id="UCzaeFUbS72veQ0MVf5Ds6Ig" class="youtube-count"></span>|<span id="UCzaeFUbS72veQ0MVf5Ds6Ig" class="youtube-subscribers"></span>|<span id="UCzaeFUbS72veQ0MVf5Ds6Ig" class="last-video-date"></span>|
+|[OWASP Moscow](https://www.youtube.com/channel/UCmSAiZ15i1iF8NQsN3xZSWA)|Открытый проект по обеспечению безопасности веб-приложений (OWASP) представляет собой некоммерческий (501c3), образовательный, благотворительный фонд, помогающий организациям начать проектировать, разрабатывать, приобретать, использовать и поддерживать безопасное ПО. Все инструменты, документы, форумы и отделения OWASP являются бесплатными и открытыми для тех, кто заинтересован в улучшении безопасности приложений.|<span id="UCmSAiZ15i1iF8NQsN3xZSWA" class="youtube-count"></span>|<span id="UCmSAiZ15i1iF8NQsN3xZSWA" class="youtube-subscribers"></span>|<span id="UCmSAiZ15i1iF8NQsN3xZSWA" class="last-video-date"></span>|
+
+</details>
+
+---
+
+<details open="open"><summary><a name="youtube-communities"></a><b>Компании, Организации, Сообщества</b></summary><br>
+
+<sup>[Содержание](#содержание)</sup>
+
+|Название|Описание|Всего видео|Подписчиков|Дата последнего видео|
+|:------:|:-------|:---------:|:---------:|:-------------------:|
+|[Dodo Pizza Russia](https://www.youtube.com/channel/UCkPTVsNw2R5lwQ_VxF6Wuow)|Официальный канал удивительной пиццерии «Додо Пицца» Почему наша пиццерия удивительная? Подписывайтесь на наш канал, чтобы узнать подробности!|<span id="UCkPTVsNw2R5lwQ_VxF6Wuow" class="youtube-count"></span>|<span id="UCkPTVsNw2R5lwQ_VxF6Wuow" class="youtube-subscribers"></span>|<span id="UCkPTVsNw2R5lwQ_VxF6Wuow" class="last-video-date"></span>|
+|[EPAM Moscow ITsubbotnik](https://www.youtube.com/channel/UCBHF44ABG_qK3N8UzTUAPyA)|#ITСубботник — это масштабная внешняя IT-конференция ЕРАМ. На ней наши специалисты рассказывают о том, с какими необычными задачами сталкивались на проектах и как находили решения, делятся примерами внедрений новых технологий и инструментов.|<span id="UCBHF44ABG_qK3N8UzTUAPyA" class="youtube-count"></span>|<span id="UCBHF44ABG_qK3N8UzTUAPyA" class="youtube-subscribers"></span>|<span id="UCBHF44ABG_qK3N8UzTUAPyA" class="last-video-date"></span>|
+|[EPAM Saint-Petersburg](https://www.youtube.com/channel/UCo1fCtyXhdTrGnGUgoCHuCQ)|Канал с докладами Петербургского сообщества [EPAM](https://www.epam-group.ru/).|<span id="UCo1fCtyXhdTrGnGUgoCHuCQ" class="youtube-count"></span>|<span id="UCo1fCtyXhdTrGnGUgoCHuCQ" class="youtube-subscribers"></span>|<span id="UCo1fCtyXhdTrGnGUgoCHuCQ" class="last-video-date"></span>|
+|[FunCorp](https://www.youtube.com/channel/UCxefbirKEpPrqo6AmHEHP1A)|FunCorp — международная компания с офисами на Кипре, в США и в России. С 2004 года мы создаем сервисы, которые делают мир веселее. Ежедневно над продуктами Корпорации смеются более 4 миллионов человек по обе стороны океана, а наш флагман iFunny с завидным постоянством входит в TOP10 развлекательных приложений США.|<span id="UCxefbirKEpPrqo6AmHEHP1A" class="youtube-count"></span>|<span id="UCxefbirKEpPrqo6AmHEHP1A" class="youtube-subscribers"></span>|<span id="UCxefbirKEpPrqo6AmHEHP1A" class="last-video-date"></span>|
+|[GDG Kaliningrad](https://www.youtube.com/channel/UCXEgJkiO3F3HonG3QBtEz3Q)|Канал Калининградского сообщества [GDG](https://developers.google.com/community/gdg?hl=ru).|<span id="UCXEgJkiO3F3HonG3QBtEz3Q" class="youtube-count"></span>|<span id="UCXEgJkiO3F3HonG3QBtEz3Q" class="youtube-subscribers"></span>|<span id="UCXEgJkiO3F3HonG3QBtEz3Q" class="last-video-date"></span>|
+|[GDG Novosibirsk](https://www.youtube.com/channel/UCKvqypT9a7-wMF6vLklWIgw)|Канал Новосибирского сообщества [GDG](https://developers.google.com/community/gdg?hl=ru).|<span id="UCKvqypT9a7-wMF6vLklWIgw" class="youtube-count"></span>|<span id="UCKvqypT9a7-wMF6vLklWIgw" class="youtube-subscribers"></span>|<span id="UCKvqypT9a7-wMF6vLklWIgw" class="last-video-date"></span>|
+|[JetBrainsTV Russia](https://www.youtube.com/channel/UCSlqvh44HWn32t3C1XowgHQ)|YouTube-канал ведущего мирового производителя профессиональных средств разработки [JetBrains](https://jetbrains.ru/), в котором публикуются конференции компании.|<span id="UCSlqvh44HWn32t3C1XowgHQ" class="youtube-count"></span>|<span id="UCSlqvh44HWn32t3C1XowgHQ" class="youtube-subscribers"></span>|<span id="UCSlqvh44HWn32t3C1XowgHQ" class="last-video-date"></span>|
+|[Microsoft Россия — официальный канал](https://www.youtube.com/channel/UCWdcSjbNfqed0uOldxJZECA)|Добро пожаловать на официальный российский YouTube канал компании Microsoft! Здесь Вы можете посмотреть все самые интересные видео о различных продуктах и услугах Microsoft.|<span id="UCWdcSjbNfqed0uOldxJZECA" class="youtube-count"></span>|<span id="UCWdcSjbNfqed0uOldxJZECA" class="youtube-subscribers"></span>|<span id="UCWdcSjbNfqed0uOldxJZECA" class="last-video-date"></span>|
+|[Nexign Team](https://www.youtube.com/channel/UClWS1cVSbGHLc-cOi4KJvTw)|[Nexign](https://job.nexign.com/) (ранее «Петер-Сервис») — первая компания в России, которая создала биллинг. Уже 26 лет мы пишем софт для крупных операторов связи в 14 странах мира.  А с 2018 года расширяем присутствие на международном рынке под брендом Nexign.<br>Хотите узнать, как нам удается создавать IT-продукты, которые обслуживают больше 200 миллионов абонентов? Смотрите новое шоу Nexign, герои которого – пятеро сотрудников, совсем недавно ставших частью команды. У каждого из них своя роль в команде, разный багаж знаний, но цели — одинаково амбициозные.|<span id="UClWS1cVSbGHLc-cOi4KJvTw" class="youtube-count"></span>|<span id="UClWS1cVSbGHLc-cOi4KJvTw" class="youtube-subscribers"></span>|<span id="UClWS1cVSbGHLc-cOi4KJvTw" class="last-video-date"></span>|
+|[OneTwoTrip! Tech](https://www.youtube.com/channel/UCyXbPrE1_OXwiFtwszfDmaA)|Видео с мероприятий [OneTwoTrip!](https://www.onetwotrip.com/ru).|<span id="UCyXbPrE1_OXwiFtwszfDmaA" class="youtube-count"></span>|<span id="UCyXbPrE1_OXwiFtwszfDmaA" class="youtube-subscribers"></span>|<span id="UCyXbPrE1_OXwiFtwszfDmaA" class="last-video-date"></span>|
+|[TverIO](https://www.youtube.com/channel/UCl5UjDgC4_SOjiLnIRznkEg)|Добро пожаловать в Тверское ИТ-сообщество!<br>Мы искренне верим, что сообщества объединяют людей и делают их профессиональную жизнь продуктивнее, поэтому регулярно проводим митапы, организовываем курсы, научные и популярные лекции и мастер-классы, активно ведем дискуссии в чате (Slack).|<span id="UCl5UjDgC4_SOjiLnIRznkEg" class="youtube-count"></span>|<span id="UCl5UjDgC4_SOjiLnIRznkEg" class="youtube-subscribers"></span>|<span id="UCl5UjDgC4_SOjiLnIRznkEg" class="last-video-date"></span>|
+|[Технологии в Контуре](https://www.youtube.com/channel/UCoUiuNfbW-YY9SRpg7D9fMw)|YouTube-канал с техническими докладами компании [Контур](https://kontur.ru/).|<span id="UCoUiuNfbW-YY9SRpg7D9fMw" class="youtube-count"></span>|<span id="UCoUiuNfbW-YY9SRpg7D9fMw" class="youtube-subscribers"></span>|<span id="UCoUiuNfbW-YY9SRpg7D9fMw" class="last-video-date"></span>|
+
+</details>
+
+---
+
+<details open="open"><summary><a name="youtube-conference"></a><b>Конференции</b></summary><br>
+
+<sup>[Содержание](#содержание)</sup>
+
+|Название|Описание|Всего видео|Подписчиков|Дата последнего видео|
+|:------:|:-------|:---------:|:---------:|:-------------------:|
+|[Pro Conf](https://www.youtube.com/channel/UCvasfOIImo7D9lQkb1Wc1tw)|Подкаст proConf - мы обозреваем технические конференции со всего мира. Каждую неделю огромное количество людей на различных митапах и конференциях делятся своим опытом и знаниями, а мы делаем так чтобы вы не пропустили самые интересные моменты.|<span id="UCvasfOIImo7D9lQkb1Wc1tw" class="youtube-count"></span>|<span id="UCvasfOIImo7D9lQkb1Wc1tw" class="youtube-subscribers"></span>|<span id="UCvasfOIImo7D9lQkb1Wc1tw" class="last-video-date"></span>|
+
+</details>
+
+---
+
+<details open="open"><summary><a name="youtube-education"></a><b>Образование</b></summary><br>
+
+<sup>[Содержание](#содержание)</sup>
+
+|Название|Описание|Всего видео|Подписчиков|Дата последнего видео|
+|:------:|:-------|:---------:|:---------:|:-------------------:|
+|[Code Space IT education](https://www.youtube.com/channel/UCQ4sIJkkH0bPteTv-KNsPCQ)|Видео-канал образовательной платформы в сфере IT - Code Space.|<span id="UCQ4sIJkkH0bPteTv-KNsPCQ" class="youtube-count"></span>|<span id="UCQ4sIJkkH0bPteTv-KNsPCQ" class="youtube-subscribers"></span>|<span id="UCQ4sIJkkH0bPteTv-KNsPCQ" class="last-video-date"></span>|
+|[GetIT](https://www.youtube.com/channel/UC-6howYj-3rZ3LPFGMapuRA)|Мы создали сообщество для тех, кто хочет улучшить свои навыки программирования, подготовиться к техническому интервью или просто завести полезные знакомства.|<span id="UC-6howYj-3rZ3LPFGMapuRA" class="youtube-count"></span>|<span id="UC-6howYj-3rZ3LPFGMapuRA" class="youtube-subscribers"></span>|<span id="UC-6howYj-3rZ3LPFGMapuRA" class="last-video-date"></span>|
+|[ITVDN](https://www.youtube.com/channel/UCzxRv9BtqrM946JmaMLtv_w)|ITVDN  входит в TOP-5 лучших русскоязычных образовательных ресурсов, на нем более 150 курсов для изучения программирования. Новые видео уроки выходят ежедневно, новые курсы программирования каждую неделю! Бесплатные уроки для новичков, записи вебинаров с опытными разработчиками, репортажи с IT конференций - это далеко не полный перечень того, что найдут для себя желающие изучать программирование. Много интересного и полезного как для новичков, так и для профессионалов в сфере IT.|<span id="UCzxRv9BtqrM946JmaMLtv_w" class="youtube-count"></span>|<span id="UCzxRv9BtqrM946JmaMLtv_w" class="youtube-subscribers"></span>|<span id="UCzxRv9BtqrM946JmaMLtv_w" class="last-video-date"></span>|
+|[loftblog](https://www.youtube.com/channel/UCIIt69f5D44s2cdb9vXQNzA)|[LoftBlog](https://loftblog.ru/) — это лучшее место для изучения it-технологий. Десятки практических уроков и курсов, где мы просто и весело будем учить вас только самому нужному и интересному, а именно, всему, что необходимо для создания горячего web-сервиса или сайта.|<span id="UCIIt69f5D44s2cdb9vXQNzA" class="youtube-count"></span>|<span id="UCIIt69f5D44s2cdb9vXQNzA" class="youtube-subscribers"></span>|<span id="UCIIt69f5D44s2cdb9vXQNzA" class="last-video-date"></span>|
+|[Mad Devs](https://www.youtube.com/channel/UCF6liiudpZq6AQe6hXVEW7w)|Полезные советы от IT-специалистов, рабочие процессы в Mad Devs, техническая экспертиза.|<span id="UCF6liiudpZq6AQe6hXVEW7w" class="youtube-count"></span>|<span id="UCF6liiudpZq6AQe6hXVEW7w" class="youtube-subscribers"></span>|<span id="UCF6liiudpZq6AQe6hXVEW7w" class="last-video-date"></span>|
+|[Компьютерные науки](https://www.youtube.com/channel/UCKFojzto0n4Ab3CRQRZ2zYA)|Образовательные видео [школы анализа данных Yandex](http://shad.yandex.ru).|<span id="UCKFojzto0n4Ab3CRQRZ2zYA" class="youtube-count"></span>|<span id="UCKFojzto0n4Ab3CRQRZ2zYA" class="youtube-subscribers"></span>|<span id="UCKFojzto0n4Ab3CRQRZ2zYA" class="last-video-date"></span>|
+
+</details>
+
+---
+
 ## **Мероприятия**
 
 <sup>[Содержание](#содержание)</sup>
@@ -1531,6 +1788,16 @@
 
 </details>
 
+<details open="open"><summary><a name="meetups-development-elixir"></a><b>&nbsp;&nbsp;Elixir</b></summary><br>
+
+<sup>[Содержание](#содержание)</sup>
+
+|Название|Описание|Места проведения мероприятий|Связанные ссылки|
+|:------:|:-------|:--------------------------:|:--------------:|
+|[![ElixirLangMoscow](img/favicons/elixir-lang.moscow.png)](http://elixir-lang.moscow/)<br>[ElixirLangMoscow](http://elixir-lang.moscow/)|Elixir сообщество Москвы.|Москва|[![Twitter](img/favicons/twitter.com.png)](https://twitter.com/elixir_lang_mos) [![Telegram](img/favicons/t.me.png)](https://t.me/wunsh)|
+
+</details>
+
 <details open="open"><summary><a name="meetups-development-gamedev"></a><b>&nbsp;&nbsp;GameDev</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
@@ -1644,16 +1911,6 @@
 |Название|Описание|Места проведения мероприятий|Связанные ссылки|
 |:------:|:-------|:--------------------------:|:--------------:|
 |[![ScalaConf](img/favicons/scalaconf.ru.png)](https://scalaconf.ru/)<br>[ScalaConf](https://scalaconf.ru/)|Профессиональная конференция для Scala-разработчиков.|Москва|[![Twitter](img/favicons/twitter.com.png)](https://twitter.com/ScalaConfRu/) [![VK](img/favicons/vk.com.png)](https://vk.com/scalaconf) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/ScalaConf/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/user/profyclub) [![Telegram](img/favicons/t.me.png)](https://t.me/ScalaConfTalks)|
-
-</details>
-
-<details open="open"><summary><a name="meetups-development-elixir"></a><b>&nbsp;&nbsp;Elixir</b></summary><br>
-
-<sup>[Содержание](#содержание)</sup>
-
-|Название|Описание|Места проведения мероприятий|Связанные ссылки|
-|:------:|:-------|:--------------------------:|:--------------:|
-|[![ElixirLangMoscow](img/favicons/elixir-lang.moscow.png)](http://elixir-lang.moscow/)<br>[ElixirLangMoscow](http://elixir-lang.moscow/)|Elixir сообщество Москвы.|Москва|[![Twitter](img/favicons/twitter.com.png)](https://twitter.com/elixir_lang_mos) [![Telegram](img/favicons/t.me.png)](https://t.me/wunsh)|
 
 </details>
 
