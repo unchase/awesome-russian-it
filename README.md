@@ -1425,6 +1425,16 @@
 
 </details>
 
+<details open="open"><summary><a name="youtube-development-php"></a><b>PHP</b></summary><br>
+
+<sup>[Содержание](#содержание)</sup>
+
+|Название|Описание|Всего видео|Подписчиков|Дата последнего видео|
+|:------:|:-------|:---------:|:---------:|:-------------------:|
+|<a href="https://www.youtube.com/user/thinkphpcomua"><img width="30" src="https://yt3.ggpht.com/a/AGF-l79xLiw_Kmncxk51jjD65wToV64yYEOUzNexbA=s288-c-k-c0xffffffff-no-rj-mo"></a><br>[ThinkPHP](https://www.youtube.com/user/thinkphpcomua)|ThinkPHP — это сообщество программистов, где стар и млад может не только обменяться опытом и поучиться премудростям PHP-мастерства, но и потренироваться выступать на публике, а также достойно противиться волне тролинга и отвечать на каверзные вопросы. И все это — в непринуждённой, почти домашней обстановке за чашкой кофе с плюшками. Приятно, что участие в проекте бесплатное, а выступить могут все желающие, предварительно заявив о теме выступления.|<span id="thinkphpcomua" class="youtube-count"></span>|<span id="thinkphpcomua" class="youtube-subscribers"></span>|<span id="thinkphpcomua" class="last-video-date"></span>|
+
+</details>
+
 <details open="open"><summary><a name="youtube-development-python"></a><b>Python</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
