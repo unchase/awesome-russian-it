@@ -1323,8 +1323,6 @@
 
 </details>
 
----
-
 <details open="open"><summary><a name="youtube-ar-vr"></a><b>AR, VR</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
@@ -1335,8 +1333,6 @@
 
 </details>
 
----
-
 <details open="open"><summary><a name="youtube-development-blockchain"></a><b>BlockChain</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
@@ -1346,8 +1342,6 @@
 |<a href="https://www.youtube.com/channel/UChMiC7__JDt1da0mR_IeH-Q"><img width="30" src="https://yt3.ggpht.com/a/AGF-l7-T3mJ0kyNFuorg6jFPCzZX-TZ7jpcyDJTXfg=s288-c-k-c0xffffffff-no-rj-mo"></a><br>[Blockchain Channel](https://www.youtube.com/channel/UChMiC7__JDt1da0mR_IeH-Q)|Контент канала охватывает такие тематики, как архитектура и безопасность блокчейн-платформ, особенности разработки проектов с использованием блокчейн-технологии, государственное регулирование, легальность блокчейна, интеграция умных контрактов и физической реальности и другие направления, связанные с разработкой и внедрением блокчейна.|<span id="UChMiC7__JDt1da0mR_IeH-Q" class="youtube-count"></span>|<span id="UChMiC7__JDt1da0mR_IeH-Q" class="youtube-subscribers"></span>|<span id="UChMiC7__JDt1da0mR_IeH-Q" class="last-video-date"></span>|
 
 </details>
-
----
 
 <details open="open"><summary><a name="youtube-development"></a><b>Development</b></summary><br>
 
@@ -1477,8 +1471,6 @@
 
 </details>
 
----
-
 <details open="open"><summary><a name="youtube-devops"></a><b>DevOps</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
@@ -1494,8 +1486,6 @@
 |<a href="https://www.youtube.com/channel/UCyQ9sLBi9F3Mo_LRQrJ6RNg"><img width="30" src="https://yt3.ggpht.com/a/AGF-l7-ri8xBZck8bJVTN41j9_9PLGCwwjXVJs4P1w=s288-c-k-c0xffffffff-no-rj-mo"></a><br>[MONHOUSE](https://www.youtube.com/channel/UCyQ9sLBi9F3Mo_LRQrJ6RNg)|Это место, где собираются люди и знания по вопросам мониторинга и автоматизированного управления.<br>На нашем канале вы найдете видео, посвященные инструментам мониторинга для ИТ и бизнеса. Все об использовании, настройке, реальных кейсах и многое другое, без привязки к конкретному производителю или платформе.|<span id="UCyQ9sLBi9F3Mo_LRQrJ6RNg" class="youtube-count"></span>|<span id="UCyQ9sLBi9F3Mo_LRQrJ6RNg" class="youtube-subscribers"></span>|<span id="UCyQ9sLBi9F3Mo_LRQrJ6RNg" class="last-video-date"></span>|
 
 </details>
-
----
 
 <details open="open"><summary><a name="youtube-gamedev"></a><b>Gamedev</b></summary><br>
 
@@ -1513,8 +1503,6 @@
 
 </details>
 
----
-
 <details open="open"><summary><a name="youtube-iot"></a><b>IoT</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
@@ -1524,8 +1512,6 @@
 |<a href="https://www.youtube.com/channel/UCeKQk9ER5NWfSfIszMX3QFg"><img width="30" src="https://yt3.ggpht.com/a/AGF-l7-9P106pRjKGcofVZ1vM1JjKPaLKfF34iaPAw=s288-c-k-c0xffffffff-no-rj-mo"></a><br>[IoT Channel](https://www.youtube.com/channel/UCeKQk9ER5NWfSfIszMX3QFg)|Контент IoT Channel охватывает все аспекты мира интернета вещей: разработку аппаратного и программного обеспечения устройств, безопасность для пользователей, способы передачи информации между устройствами и "сервером" и их тестирование, эксплуатацию и изменение бизнес-процессов под влиянием IoT-технологий.|<span id="UCeKQk9ER5NWfSfIszMX3QFg" class="youtube-count"></span>|<span id="UCeKQk9ER5NWfSfIszMX3QFg" class="youtube-subscribers"></span>|<span id="UCeKQk9ER5NWfSfIszMX3QFg" class="last-video-date"></span>|
 
 </details>
-
----
 
 <details open="open"><summary><a name="youtube-it"></a><b>IT</b></summary><br>
 
@@ -1554,8 +1540,6 @@
 
 </details>
 
----
-
 <details open="open"><summary><a name="youtube-management"></a><b>Management</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
@@ -1570,8 +1554,6 @@
 
 </details>
 
----
-
 <details open="open"><summary><a name="youtube-testing-qa"></a><b>Testing и QA</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
@@ -1585,8 +1567,6 @@
 
 </details>
 
----
-
 <details open="open"><summary><a name="youtube-security"></a><b>Безопасность</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
@@ -1599,8 +1579,6 @@
 
 </details>
 
----
-
 <details open="open"><summary><a name="youtube-documentation"></a><b>Документация</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
@@ -1610,8 +1588,6 @@
 |<a href="https://www.youtube.com/channel/UC-u9657urQQh8b3oYhGQ1tQ"><img width="30" src="https://yt3.ggpht.com/a/AGF-l7_smvkwHs-pykAK5QpIF7hrkFaxHPmb4sLPsQ=s288-c-k-c0xffffffff-no-rj-mo"></a><br>[documentat.io](https://www.youtube.com/channel/UC-u9657urQQh8b3oYhGQ1tQ)|Курсы и семинары по технической документации и управлению документационными процессами. Помощь в создании документации.|<span id="UC-u9657urQQh8b3oYhGQ1tQ" class="youtube-count"></span>|<span id="UC-u9657urQQh8b3oYhGQ1tQ" class="youtube-subscribers"></span>|<span id="UC-u9657urQQh8b3oYhGQ1tQ" class="last-video-date"></span>|
 
 </details>
-
----
 
 <details open="open"><summary><a name="youtube-communities"></a><b>Компании, Организации, Сообщества, Конференции</b></summary><br>
 
@@ -1651,8 +1627,6 @@
 |<a href="https://www.youtube.com/channel/UCoUiuNfbW-YY9SRpg7D9fMw"><img width="30" src="https://yt3.ggpht.com/a/AGF-l7_YVW2K6lfBlr-lmY-K0f-peh2ldbMfP23Ofg=s288-c-k-c0xffffffff-no-rj-mo"></a><br>[Технологии в Контуре](https://www.youtube.com/channel/UCoUiuNfbW-YY9SRpg7D9fMw)|YouTube-канал с техническими докладами компании [Контур](https://kontur.ru/).|<span id="UCoUiuNfbW-YY9SRpg7D9fMw" class="youtube-count"></span>|<span id="UCoUiuNfbW-YY9SRpg7D9fMw" class="youtube-subscribers"></span>|<span id="UCoUiuNfbW-YY9SRpg7D9fMw" class="last-video-date"></span>|
 
 </details>
-
----
 
 <details open="open"><summary><a name="youtube-education"></a><b>Образование</b></summary><br>
 
