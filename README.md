@@ -1399,6 +1399,16 @@
 
 </details>
 
+<details open="open"><summary><a name="youtube-development-mobile"></a><b>Mobile</b></summary><br>
+
+<sup>[Содержание](#содержание)</sup>
+
+|Название|Описание|Всего видео|Подписчиков|Дата последнего видео|
+|:------:|:-------|:---------:|:---------:|:-------------------:|
+|<a href="https://www.youtube.com/channel/UCP8MtCo2ZcrJc7_Zhcjym9g"><img width="30" src="https://yt3.ggpht.com/a/AGF-l7-0JBbl36sjwpum9Nr1EuEKDXwH-6pHcFwRNQ=s288-c-k-c0xffffffff-no-rj-mo"></a><br>[Mobile Channel](https://www.youtube.com/channel/UCP8MtCo2ZcrJc7_Zhcjym9g)|Контент Mobile Channel посвящен разработке мобильных приложений: технологиям Android и iOS, кросс-платформенной разработке, архитектуре мобильных приложений, клиент-серверному взаимодействию и процессам разработки и тестирования.<br>Здесь мы публикуем материалы с профессиональной конференции для мобильных разработчиков [AppsConf](http://appsconf.ru/).|<span id="UCP8MtCo2ZcrJc7_Zhcjym9g" class="youtube-count"></span>|<span id="UCP8MtCo2ZcrJc7_Zhcjym9g" class="youtube-subscribers"></span>|<span id="UCP8MtCo2ZcrJc7_Zhcjym9g" class="last-video-date"></span>|
+
+</details>
+
 <details open="open"><summary><a name="youtube-development-python"></a><b>Python</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
