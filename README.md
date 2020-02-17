@@ -1335,6 +1335,7 @@
 |Название|Описание|Всего видео|Подписчиков|Дата последнего видео|
 |:------:|:-------|:---------:|:---------:|:-------------------:|
 |[DotNet & More Подкаст](https://www.youtube.com/channel/UCCangFtmypr2MmiULHquf2A)|Канал с записями подкаста [DotNet & More](https://dotnetmore.ru) (подкаст о .NET технологиях и не только).|<span id="UCCangFtmypr2MmiULHquf2A" class="youtube-count"></span>|<span id="UCCangFtmypr2MmiULHquf2A" class="youtube-subscribers"></span>|<span id="UCCangFtmypr2MmiULHquf2A" class="last-video-date"></span>|
+|[Dot Nuts](https://www.youtube.com/channel/UC_j5YXTarPW5euuMWRphTiw)|.Nuts - это сообщество .Net разработчиков в Рязани. Мы не ограничиваем себя только "байками" и "охами" о C#, VB.NET или MS SQL Server, а любим простоту JavaScript, изучаем возможности F#, видим преимущества Python и можем пожестить с C++.|<span id="UC_j5YXTarPW5euuMWRphTiw" class="youtube-count"></span>|<span id="UC_j5YXTarPW5euuMWRphTiw" class="youtube-subscribers"></span>|<span id="UC_j5YXTarPW5euuMWRphTiw" class="last-video-date"></span>|
 |[Мини-конференции CLRium](https://www.youtube.com/channel/UCG1q-u4WKoL0QVi47b-sWqA)|Конференция по технологиям .NET.|<span id="UCG1q-u4WKoL0QVi47b-sWqA" class="youtube-count"></span>|<span id="UCG1q-u4WKoL0QVi47b-sWqA" class="youtube-subscribers"></span>|<span id="UCG1q-u4WKoL0QVi47b-sWqA" class="last-video-date"></span>|
 
 </details>
