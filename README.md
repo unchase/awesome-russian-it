@@ -1360,7 +1360,17 @@
 
 </details>
 
+</details>
+
 ---
+
+<details open="open"><summary><a name="youtube-devops"></a><b>DevOps</b></summary><br>
+
+<sup>[Содержание](#содержание)</sup>
+
+|Название|Описание|Всего видео|Подписчиков|Дата последнего видео|
+|:------:|:-------|:---------:|:---------:|:-------------------:|
+|[DevOps Moscow](https://www.youtube.com/channel/UC-oN4D4sUut8-FTcP5Opp_A)|Youtube-канал московского сообщества DevOps. Тут мы выкладываем видео-записи наших встреч, доклады и прочую полезную информацию.|<span id="UC-oN4D4sUut8-FTcP5Opp_A" class="youtube-count"></span>|<span id="UC-oN4D4sUut8-FTcP5Opp_A" class="youtube-subscribers"></span>|<span id="UC-oN4D4sUut8-FTcP5Opp_A" class="last-video-date"></span>|
 
 </details>
 
