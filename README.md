@@ -1408,6 +1408,7 @@
 |Название|Описание|Всего видео|Подписчиков|Дата последнего видео|
 |:------:|:-------|:---------:|:---------:|:-------------------:|
 |[iCluster](https://www.youtube.com/channel/UCJ29is7jbsw76UUJ9a6qZOQ)|Международный IT-кластер Нижегородской области - это некоммерческая ассоциация, созданная для взаимодействия между корпорациями, средним ИТ-бизнесом, ИТ-стартапами и командами разработчиков.|<span id="UCJ29is7jbsw76UUJ9a6qZOQ" class="youtube-count"></span>|<span id="UCJ29is7jbsw76UUJ9a6qZOQ" class="youtube-subscribers"></span>|<span id="UCJ29is7jbsw76UUJ9a6qZOQ" class="last-video-date"></span>|
+|[Цинковый Прод](https://www.youtube.com/channel/UC6cTShKx3lJWw-EzSr_ZAfw)|YouTube-канал подкаста о разработке и ИТ [Цинковый прод](https://soundcloud.com/znprod)|<span id="UC6cTShKx3lJWw-EzSr_ZAfw" class="youtube-count"></span>|<span id="UC6cTShKx3lJWw-EzSr_ZAfw" class="youtube-subscribers"></span>|<span id="UC6cTShKx3lJWw-EzSr_ZAfw" class="last-video-date"></span>|
 
 </details>
 
