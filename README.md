@@ -1352,6 +1352,10 @@
 
 <sup>[Содержание](#содержание)</sup>
 
+Название|Описание|Всего видео|Подписчиков|Дата последнего видео|
+|:------:|:-------|:---------:|:---------:|:-------------------:|
+|[Domain-Driven Design Injection](https://www.youtube.com/channel/UCA5otLRl-J5knJlO1ivyFMQ)|Видеозаписи докладов Domain-Driven Design Injection.<br>DDDi — инициатива для разработчиков и инженеров-программистов, которые ищут новые способы решения нетривиальных задач в проектировании. Наша цель — популяризировать предметно-ориентированное проектирование и создать пространство для обмена опытом и идеями по теме DDD.|<span id="UCA5otLRl-J5knJlO1ivyFMQ" class="youtube-count"></span>|<span id="UCA5otLRl-J5knJlO1ivyFMQ" class="youtube-subscribers"></span>|<span id="UCA5otLRl-J5knJlO1ivyFMQ" class="last-video-date"></span>|
+
 <details open="open"><summary><a name="youtube-development-1c"></a><b>1C</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
