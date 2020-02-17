@@ -1349,8 +1349,6 @@
 
 </details>
 
----
-
 <details open="open"><summary><a name="youtube-development-web"></a><b>Web</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
