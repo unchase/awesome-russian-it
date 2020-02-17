@@ -1388,6 +1388,16 @@
 
 </details>
 
+<details open="open"><summary><a name="youtube-development-java"></a><b>Java</b></summary><br>
+
+<sup>[Содержание](#содержание)</sup>
+
+|Название|Описание|Всего видео|Подписчиков|Дата последнего видео|
+|:------:|:-------|:---------:|:---------:|:-------------------:|
+|<a href="https://www.youtube.com/channel/UCYrGYT7BswsJGkmG7-IAF8g"><img width="30" src="https://yt3.ggpht.com/a/AGF-l7_DNZF9lgMNrrjfGrZ42d1w5ruVmrWbCdrbRg=s288-c-k-c0xffffffff-no-rj-mo"></a><br>[JUG.ru](https://www.youtube.com/channel/UCYrGYT7BswsJGkmG7-IAF8g)|На этом канале публикуются видео со встреч петербургской Java User Group (JUG.ru), а также международных Java-конференций JPoint (Москва), Joker (Санкт-Петербург) и JBreak (Новосибирск).|<span id="UCYrGYT7BswsJGkmG7-IAF8g" class="youtube-count"></span>|<span id="UCYrGYT7BswsJGkmG7-IAF8g" class="youtube-subscribers"></span>|<span id="UCYrGYT7BswsJGkmG7-IAF8g" class="last-video-date"></span>|
+
+</details>
+
 <details open="open"><summary><a name="youtube-development-python"></a><b>Python</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
