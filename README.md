@@ -129,6 +129,7 @@
 |Название|Описание|Автор/Создатель|
 |:-------|:-------|:--------------|
 |**[Блог Антона Жиянова](https://antonz.ru/)**<br> [![Telegram](img/favicons/t.me.png)](https://t.me/ohmypy) [![RSS](img/favicons/rss.png)](https://antonz.ru/rss/)|Личный блог Антона Жиянова о Python и разработке продуктов.|Антон Жиянов|
+|**[sobolevn.me](https://sobolevn.me)**<br> [![Github](img/favicons/github.com.png)](https://github.com/sobolevn/sobolevn.github.io) [![RSS](img/favicons/rss.png)](https://sobolevn.me/feed.xml)|О хорошем и плохом в разработке, ворчание про менеджмент.|Никита Соболев|
 
 </details>
 
