@@ -1431,6 +1431,18 @@
 
 ---
 
+<details open="open"><summary><a name="youtube-testing-qa"></a><b>Testing и QA</b></summary><br>
+
+<sup>[Содержание](#содержание)</sup>
+
+|Название|Описание|Всего видео|Подписчиков|Дата последнего видео|
+|:------:|:-------|:---------:|:---------:|:-------------------:|
+|[SPb CoA](https://www.youtube.com/channel/UCKAToRr8AwzqJIlihWPk8RQ)|Добро пожаловать на страницу канала «Сообщество аналитиков Санкт-Петербурга (СПб СоА)».<br>В этот канал мы выкладываем видео с наших регулярных встреч, на которых участники сообщества выступают с докладами на интересующие их и сообщество темы. Выступаем на: #spbcoa, #ITGM, #analystdays, #secr, #ЛАФ и многие другие. Проводим мастер-классы и тренинги.<br>Составляем подборки по темам: бизнес-анализ (business analysis), системный анализ (system analysis), требования (requirements), программная инженерия (software engineering), системная инженерия (system engineering).|<span id="UCKAToRr8AwzqJIlihWPk8RQ" class="youtube-count"></span>|<span id="UCKAToRr8AwzqJIlihWPk8RQ" class="youtube-subscribers"></span>|<span id="UCKAToRr8AwzqJIlihWPk8RQ" class="last-video-date"></span>|
+
+</details>
+
+---
+
 <details open="open"><summary><a name="youtube-security"></a><b>Безопасность</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
