@@ -1350,6 +1350,16 @@
 
 </details>
 
+<details open="open"><summary><a name="youtube-development-go"></a><b>Go</b></summary><br>
+
+<sup>[Содержание](#содержание)</sup>
+
+|Название|Описание|Всего видео|Подписчиков|Дата последнего видео|
+|:------:|:-------|:---------:|:---------:|:-------------------:|
+|[GopherCon Russia](https://www.youtube.com/channel/UCq-OB01F8YnS-FJpeJRCvMQ)|Видеозаписи конференции GopherCon Russia, посвященной разработке на Go.|<span id="UCq-OB01F8YnS-FJpeJRCvMQ" class="youtube-count"></span>|<span id="UCq-OB01F8YnS-FJpeJRCvMQ" class="youtube-subscribers"></span>|<span id="UCq-OB01F8YnS-FJpeJRCvMQ" class="last-video-date"></span>|
+
+</details>
+
 <details open="open"><summary><a name="youtube-development-python"></a><b>Python</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
