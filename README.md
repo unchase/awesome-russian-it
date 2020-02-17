@@ -1421,6 +1421,7 @@
 
 |Название|Описание|Всего видео|Подписчиков|Дата последнего видео|
 |:------:|:-------|:---------:|:---------:|:-------------------:|
+|[Information Security BY](https://www.youtube.com/channel/UCzaeFUbS72veQ0MVf5Ds6Ig)|Канал по информационной безопасности в ИТ.|<span id="UCzaeFUbS72veQ0MVf5Ds6Ig" class="youtube-count"></span>|<span id="UCzaeFUbS72veQ0MVf5Ds6Ig" class="youtube-subscribers"></span>|<span id="UCzaeFUbS72veQ0MVf5Ds6Ig" class="last-video-date"></span>|
 |[OWASP Moscow](https://www.youtube.com/channel/UCmSAiZ15i1iF8NQsN3xZSWA)|Открытый проект по обеспечению безопасности веб-приложений (OWASP) представляет собой некоммерческий (501c3), образовательный, благотворительный фонд, помогающий организациям начать проектировать, разрабатывать, приобретать, использовать и поддерживать безопасное ПО. Все инструменты, документы, форумы и отделения OWASP являются бесплатными и открытыми для тех, кто заинтересован в улучшении безопасности приложений.|<span id="UCmSAiZ15i1iF8NQsN3xZSWA" class="youtube-count"></span>|<span id="UCmSAiZ15i1iF8NQsN3xZSWA" class="youtube-subscribers"></span>|<span id="UCmSAiZ15i1iF8NQsN3xZSWA" class="last-video-date"></span>|
 
 </details>
