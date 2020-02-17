@@ -1647,6 +1647,16 @@
 
 </details>
 
+<details open="open"><summary><a name="meetups-development-elixir"></a><b>&nbsp;&nbsp;Elixir</b></summary><br>
+
+<sup>[Содержание](#содержание)</sup>
+
+|Название|Описание|Места проведения мероприятий|Связанные ссылки|
+|:------:|:-------|:--------------------------:|:--------------:|
+|[![ElixirLangMoscow](img/favicons/elixir-lang.moscow.png)](http://elixir-lang.moscow/)<br>[ElixirLangMoscow](http://elixir-lang.moscow/)|Elixir сообщество Москвы.|Москва|[![Twitter](img/favicons/twitter.com.png)](https://twitter.com/elixir_lang_mos) [![Telegram](img/favicons/t.me.png)](https://t.me/wunsh)|
+
+</details>
+
 <details open="open"><summary><a name="meetups-development-web"></a><b>&nbsp;&nbsp;Web</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
