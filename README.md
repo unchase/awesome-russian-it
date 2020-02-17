@@ -1401,6 +1401,7 @@
 |Название|Описание|Всего видео|Подписчиков|Дата последнего видео|
 |:------:|:-------|:---------:|:---------:|:-------------------:|
 |<a href="https://www.youtube.com/channel/UCYrGYT7BswsJGkmG7-IAF8g"><img width="30" src="https://yt3.ggpht.com/a/AGF-l7_DNZF9lgMNrrjfGrZ42d1w5ruVmrWbCdrbRg=s288-c-k-c0xffffffff-no-rj-mo"></a><br>[JUG.ru](https://www.youtube.com/channel/UCYrGYT7BswsJGkmG7-IAF8g)|На этом канале публикуются видео со встреч петербургской Java User Group (JUG.ru), а также международных Java-конференций JPoint (Москва), Joker (Санкт-Петербург) и JBreak (Новосибирск).|<span id="UCYrGYT7BswsJGkmG7-IAF8g" class="youtube-count"></span>|<span id="UCYrGYT7BswsJGkmG7-IAF8g" class="youtube-subscribers"></span>|<span id="UCYrGYT7BswsJGkmG7-IAF8g" class="last-video-date"></span>|
+|<a href="https://www.youtube.com/user/thinkjavakharkiv"><img width="30" src="https://yt3.ggpht.com/a/AGF-l78KAildVUGHOVsZm39uY1C3yojdhIVoemkkIA=s288-c-k-c0xffffffff-no-rj-mo"></a><br>[ThinkJava](https://www.youtube.com/user/thinkjavakharkiv)|Мы собираем джавистов Харькова (и не только), чтобы обсудить актуальные темы за чашкой чая, поделиться ценным опытом с коллегами и вместе найти решение сложных проблем. Следи за нами в соц. сетях и будь в курсе событий.|<span id="thinkjavakharkiv" class="youtube-count"></span>|<span id="thinkjavakharkiv" class="youtube-subscribers"></span>|<span id="thinkjavakharkiv" class="last-video-date"></span>|
 
 </details>
 
