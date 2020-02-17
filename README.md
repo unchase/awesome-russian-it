@@ -1570,6 +1570,18 @@
 
 ---
 
+<details open="open"><summary><a name="youtube-documentation"></a><b>Документация</b></summary><br>
+
+<sup>[Содержание](#содержание)</sup>
+
+|Название|Описание|Всего видео|Подписчиков|Дата последнего видео|
+|:------:|:-------|:---------:|:---------:|:-------------------:|
+|<a href="https://www.youtube.com/channel/UC-u9657urQQh8b3oYhGQ1tQ"><img width="30" src="https://yt3.ggpht.com/a/AGF-l7_smvkwHs-pykAK5QpIF7hrkFaxHPmb4sLPsQ=s288-c-k-c0xffffffff-no-rj-mo"></a><br>[documentat.io](https://www.youtube.com/channel/UC-u9657urQQh8b3oYhGQ1tQ)|Курсы и семинары по технической документации и управлению документационными процессами. Помощь в создании документации.|<span id="UC-u9657urQQh8b3oYhGQ1tQ" class="youtube-count"></span>|<span id="UC-u9657urQQh8b3oYhGQ1tQ" class="youtube-subscribers"></span>|<span id="UC-u9657urQQh8b3oYhGQ1tQ" class="last-video-date"></span>|
+
+</details>
+
+---
+
 <details open="open"><summary><a name="youtube-communities"></a><b>Компании, Организации, Сообщества, Конференции</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
