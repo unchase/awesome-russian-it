@@ -1421,6 +1421,7 @@
 |Название|Описание|Всего видео|Подписчиков|Дата последнего видео|
 |:------:|:-------|:---------:|:---------:|:-------------------:|
 |<a href="https://www.youtube.com/channel/UCW6lJMRd66erX8bwnfortrA"><img width="30" src="https://yt3.ggpht.com/a/AGF-l781IfSbpiyEwNSgGHtIstphhG_QAVRrFtmibA=s288-c-k-c0xffffffff-no-rj-mo"></a><br>[Alexander Smirnov](https://www.youtube.com/channel/UCW6lJMRd66erX8bwnfortrA)|Android в Лицах – видеоблог об Android разработке во всех её проявлениях.|<span id="UCW6lJMRd66erX8bwnfortrA" class="youtube-count"></span>|<span id="UCW6lJMRd66erX8bwnfortrA" class="youtube-subscribers"></span>|<span id="UCW6lJMRd66erX8bwnfortrA" class="last-video-date"></span>|
+|<a href="https://www.youtube.com/channel/UCyYHyGOGPDGkjIGszavFF_A"><img width="30" src="https://yt3.ggpht.com/a/AGF-l79UxtqSqKRINNqmxB-TqQwhuTlXLNSXfxXMeg=s288-c-k-c0xffffffff-no-rj-mo"></a><br>[ThinkAndroid](https://www.youtube.com/channel/UCyYHyGOGPDGkjIGszavFF_A)|Конференция Android-разработчиков.|<span id="UCyYHyGOGPDGkjIGszavFF_A" class="youtube-count"></span>|<span id="UCyYHyGOGPDGkjIGszavFF_A" class="youtube-subscribers"></span>|<span id="UCyYHyGOGPDGkjIGszavFF_A" class="last-video-date"></span>|
 
 </details>
 
