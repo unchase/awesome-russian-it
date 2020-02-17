@@ -1495,6 +1495,7 @@
 
 |Название|Описание|Всего видео|Подписчиков|Дата последнего видео|
 |:------:|:-------|:---------:|:---------:|:-------------------:|
+|<a href="https://www.youtube.com/channel/UCwdZJnP85Ivmkg_y2QB8pQg"><img width="30" src="https://yt3.ggpht.com/a/AGF-l79wsCoZJpnJwB8m4E334p31QWUjtw_Chu2Lyw=s288-c-k-c0xffffffff-no-rj-mo"></a><br>[ProductCamp Russia](https://www.youtube.com/channel/UCwdZJnP85Ivmkg_y2QB8pQg)|С 2010 года ProductCamp проводится для экспертов в области продуктового менеджмента из России и Восточной Европы. На мероприятии затрагиваются различные тематические области управления продуктом: от маркетинговых исследований и разработки до вывода на рынок и оперирования.|<span id="UCwdZJnP85Ivmkg_y2QB8pQg" class="youtube-count"></span>|<span id="UCwdZJnP85Ivmkg_y2QB8pQg" class="youtube-subscribers"></span>|<span id="UCwdZJnP85Ivmkg_y2QB8pQg" class="last-video-date"></span>|
 |<a href="https://www.youtube.com/channel/UCYAhNGkB-I2rCbBvnIEU12A"><img width="30" src="https://yt3.ggpht.com/a/AGF-l790lIvFlzVkrlpIz3BV4Pt8HO_aECLpI_tozg=s288-c-k-c0xffffffff-no-rj-mo"></a><br>[ProductSense](https://www.youtube.com/channel/UCYAhNGkB-I2rCbBvnIEU12A)|Собираем практики продуктового менеджмента: Создание полезных и прибыльных продуктов. Практические инструменты. Тренды и идеи.|<span id="UCYAhNGkB-I2rCbBvnIEU12A" class="youtube-count"></span>|<span id="UCYAhNGkB-I2rCbBvnIEU12A" class="youtube-subscribers"></span>|<span id="UCYAhNGkB-I2rCbBvnIEU12A" class="last-video-date"></span>|
 
 </details>
