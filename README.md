@@ -1315,7 +1315,7 @@
 <sup>[Содержание](#содержание)</sup>
 
 |Название|Описание|Всего видео|Подписчиков|Дата последнего видео|
-|:-------|:-------|:---------:|:---------:|:-------------------:|
+|:------:|:-------|:---------:|:---------:|:-------------------:|
 |[AI Community](https://www.youtube.com/channel/UCv9uq004VYU_NHUJoW2I0mQ)|YouTube-канал сообщества людей, заинтересованных в коммерциализации AI. В рамках проекта AI Heroes мы проводим регулярные вебинары с ведущими экспертами Data Science.|<span id="UCv9uq004VYU_NHUJoW2I0mQ" class="youtube-count"></span>|<span id="UCv9uq004VYU_NHUJoW2I0mQ" class="youtube-subscribers"></span>|<span id="UCv9uq004VYU_NHUJoW2I0mQ" class="last-video-date"></span>|
 |[Dmitri Soshnikov](https://www.youtube.com/user/dsoshnikov)|YouTube-канал Дмитрия Сошникова, технологического евангелиста в компании Майкрософт, с выступлениями по искусственному интеллекту и машинному обучению.|<span id="dsoshnikov" class="youtube-count"></span>|<span id="dsoshnikov" class="youtube-subscribers"></span>|<span id="dsoshnikov" class="last-video-date"></span>|
 |[Gomel Data Science Community](https://www.youtube.com/channel/UCK3ShrERfCvOGPSG1X9TV9g)|YouTube-канал Gomel Data Science Community.|<span id="UCK3ShrERfCvOGPSG1X9TV9g" class="youtube-count"></span>|<span id="UCK3ShrERfCvOGPSG1X9TV9g" class="youtube-subscribers"></span>|<span id="UCK3ShrERfCvOGPSG1X9TV9g" class="last-video-date"></span>|
@@ -1328,12 +1328,12 @@
 
 <sup>[Содержание](#содержание)</sup>
 
-<details open="open"><summary><a name="youtube-development-python"></a><b>Python</b></summary><br>
+<details open="open"><summary><a name="youtube-development-dotnet"></a><b>.NET</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
 |Название|Описание|Всего видео|Подписчиков|Дата последнего видео|
-|:-------|:-------|:---------:|:---------:|:-------------------:|
+|:------:|:-------|:---------:|:---------:|:-------------------:|
 |[DotNet & More Подкаст](https://www.youtube.com/channel/UCCangFtmypr2MmiULHquf2A)|Канал с записями подкаста [DotNet & More](https://dotnetmore.ru) (подкаст о .NET технологиях и не только).|<span id="UCCangFtmypr2MmiULHquf2A" class="youtube-count"></span>|<span id="UCCangFtmypr2MmiULHquf2A" class="youtube-subscribers"></span>|<span id="UCCangFtmypr2MmiULHquf2A" class="last-video-date"></span>|
 
 </details>
@@ -1343,7 +1343,7 @@
 <sup>[Содержание](#содержание)</sup>
 
 |Название|Описание|Всего видео|Подписчиков|Дата последнего видео|
-|:-------|:-------|:---------:|:---------:|:-------------------:|
+|:------:|:-------|:---------:|:---------:|:-------------------:|
 |[MoscowPython](https://www.youtube.com/channel/UC-OVMPlMA3-YCIeg4z5z23A)|Видеозаписи со встреч питонистов и джангистов в Москве и не только.|<span id="UC-OVMPlMA3-YCIeg4z5z23A" class="youtube-count"></span>|<span id="UC-OVMPlMA3-YCIeg4z5z23A" class="youtube-subscribers"></span>|<span id="UC-OVMPlMA3-YCIeg4z5z23A" class="last-video-date"></span>|
 |[Python Channel](https://www.youtube.com/channel/UCqC1iSQnRIDz_rOy8LHe69g)|YouTube-канал [Moscow Python Conf++](https://conf.python.ru).|<span id="UCqC1iSQnRIDz_rOy8LHe69g" class="youtube-count"></span>|<span id="UCqC1iSQnRIDz_rOy8LHe69g" class="youtube-subscribers"></span>|<span id="UCqC1iSQnRIDz_rOy8LHe69g" class="last-video-date"></span>|
 
@@ -1356,7 +1356,7 @@
 <sup>[Содержание](#содержание)</sup>
 
 |Название|Описание|Всего видео|Подписчиков|Дата последнего видео|
-|:-------|:-------|:---------:|:---------:|:-------------------:|
+|:------:|:-------|:---------:|:---------:|:-------------------:|
 |[Dmitry Patsura](https://www.youtube.com/channel/UCiSimVxFWqw5RFWLxrE1oLQ)|YouTube-канал [Дмитрия Пацуры](https://resume.dmtry.me/), в котором он публикует аудио-подкаст UnderJS.|<span id="UCiSimVxFWqw5RFWLxrE1oLQ" class="youtube-count"></span>|<span id="UCiSimVxFWqw5RFWLxrE1oLQ" class="youtube-subscribers"></span>|<span id="UCiSimVxFWqw5RFWLxrE1oLQ" class="last-video-date"></span>|
 |[Frontend Channel](https://www.youtube.com/channel/UCGQRn0aTnJK-zHFAdT9Nm1A)|[FrontendConf](https://frontendconf.ru) — крупнейшая профессиональная конференция для фронтденд-разработчиков в России, которая посвящена всем аспектам разработки клиентской части веб-проектов: адаптивный дизайн и юзабилити, вёрстка, CSS и HTML, разработка на JavaScript, новые и популярные фреймворки, одностраничные приложения, архитектура, автоматизация и тестирование фронтенда, rich-медиа и быстродействие интерфейса.|<span id="UCGQRn0aTnJK-zHFAdT9Nm1A" class="youtube-count"></span>|<span id="UCGQRn0aTnJK-zHFAdT9Nm1A" class="youtube-subscribers"></span>|<span id="UCGQRn0aTnJK-zHFAdT9Nm1A" class="last-video-date"></span>|
 
@@ -1373,7 +1373,7 @@
 <sup>[Содержание](#содержание)</sup>
 
 |Название|Описание|Всего видео|Подписчиков|Дата последнего видео|
-|:-------|:-------|:---------:|:---------:|:-------------------:|
+|:------:|:-------|:---------:|:---------:|:-------------------:|
 |[XYZ](https://www.youtube.com/channel/UCtJsE0SDhyS4ib2evb5k3gg)|Рассказываем о геймдизайне, кино, моделинге и другом современном искусстве.|<span id="UCtJsE0SDhyS4ib2evb5k3gg" class="youtube-count"></span>|<span id="UCtJsE0SDhyS4ib2evb5k3gg" class="youtube-subscribers"></span>|<span id="UCtJsE0SDhyS4ib2evb5k3gg" class="last-video-date"></span>|
 
 </details>
@@ -1385,7 +1385,7 @@
 <sup>[Содержание](#содержание)</sup>
 
 |Название|Описание|Всего видео|Подписчиков|Дата последнего видео|
-|:-------|:-------|:---------:|:---------:|:-------------------:|
+|:------:|:-------|:---------:|:---------:|:-------------------:|
 |[OWASP Moscow](https://www.youtube.com/channel/UCmSAiZ15i1iF8NQsN3xZSWA)|Открытый проект по обеспечению безопасности веб-приложений (OWASP) представляет собой некоммерческий (501c3), образовательный, благотворительный фонд, помогающий организациям начать проектировать, разрабатывать, приобретать, использовать и поддерживать безопасное ПО. Все инструменты, документы, форумы и отделения OWASP являются бесплатными и открытыми для тех, кто заинтересован в улучшении безопасности приложений.|<span id="UCmSAiZ15i1iF8NQsN3xZSWA" class="youtube-count"></span>|<span id="UCmSAiZ15i1iF8NQsN3xZSWA" class="youtube-subscribers"></span>|<span id="UCmSAiZ15i1iF8NQsN3xZSWA" class="last-video-date"></span>|
 
 </details>
@@ -1397,7 +1397,7 @@
 <sup>[Содержание](#содержание)</sup>
 
 |Название|Описание|Всего видео|Подписчиков|Дата последнего видео|
-|:-------|:-------|:---------:|:---------:|:-------------------:|
+|:------:|:-------|:---------:|:---------:|:-------------------:|
 |[Dodo Pizza Russia](https://www.youtube.com/channel/UCkPTVsNw2R5lwQ_VxF6Wuow)|Официальный канал удивительной пиццерии «Додо Пицца» Почему наша пиццерия удивительная? Подписывайтесь на наш канал, чтобы узнать подробности!|<span id="UCkPTVsNw2R5lwQ_VxF6Wuow" class="youtube-count"></span>|<span id="UCkPTVsNw2R5lwQ_VxF6Wuow" class="youtube-subscribers"></span>|<span id="UCkPTVsNw2R5lwQ_VxF6Wuow" class="last-video-date"></span>|
 |[JetBrainsTV Russia](https://www.youtube.com/channel/UCSlqvh44HWn32t3C1XowgHQ)|YouTube-канал ведущего мирового производителя профессиональных средств разработки [JetBrains](https://jetbrains.ru/), в котором публикуются конференции компании.|<span id="UCSlqvh44HWn32t3C1XowgHQ" class="youtube-count"></span>|<span id="UCSlqvh44HWn32t3C1XowgHQ" class="youtube-subscribers"></span>|<span id="UCSlqvh44HWn32t3C1XowgHQ" class="last-video-date"></span>|
 |[Microsoft Россия — официальный канал](https://www.youtube.com/channel/UCWdcSjbNfqed0uOldxJZECA)|Добро пожаловать на официальный российский YouTube канал компании Microsoft! Здесь Вы можете посмотреть все самые интересные видео о различных продуктах и услугах Microsoft.|<span id="UCWdcSjbNfqed0uOldxJZECA" class="youtube-count"></span>|<span id="UCWdcSjbNfqed0uOldxJZECA" class="youtube-subscribers"></span>|<span id="UCWdcSjbNfqed0uOldxJZECA" class="last-video-date"></span>|
@@ -1412,7 +1412,7 @@
 <sup>[Содержание](#содержание)</sup>
 
 |Название|Описание|Всего видео|Подписчиков|Дата последнего видео|
-|:-------|:-------|:---------:|:---------:|:-------------------:|
+|:------:|:-------|:---------:|:---------:|:-------------------:|
 |[Pro Conf](https://www.youtube.com/channel/UCvasfOIImo7D9lQkb1Wc1tw)|Подкаст proConf - мы обозреваем технические конференции со всего мира. Каждую неделю огромное количество людей на различных митапах и конференциях делятся своим опытом и знаниями, а мы делаем так чтобы вы не пропустили самые интересные моменты.|<span id="UCvasfOIImo7D9lQkb1Wc1tw" class="youtube-count"></span>|<span id="UCvasfOIImo7D9lQkb1Wc1tw" class="youtube-subscribers"></span>|<span id="UCvasfOIImo7D9lQkb1Wc1tw" class="last-video-date"></span>|
 
 </details>
@@ -1424,7 +1424,7 @@
 <sup>[Содержание](#содержание)</sup>
 
 |Название|Описание|Всего видео|Подписчиков|Дата последнего видео|
-|:-------|:-------|:---------:|:---------:|:-------------------:|
+|:------:|:-------|:---------:|:---------:|:-------------------:|
 |[ITVDN](https://www.youtube.com/channel/UCzxRv9BtqrM946JmaMLtv_w)|ITVDN  входит в TOP-5 лучших русскоязычных образовательных ресурсов, на нем более 150 курсов для изучения программирования. Новые видео уроки выходят ежедневно, новые курсы программирования каждую неделю! Бесплатные уроки для новичков, записи вебинаров с опытными разработчиками, репортажи с IT конференций - это далеко не полный перечень того, что найдут для себя желающие изучать программирование. Много интересного и полезного как для новичков, так и для профессионалов в сфере IT.|<span id="UCzxRv9BtqrM946JmaMLtv_w" class="youtube-count"></span>|<span id="UCzxRv9BtqrM946JmaMLtv_w" class="youtube-subscribers"></span>|<span id="UCzxRv9BtqrM946JmaMLtv_w" class="last-video-date"></span>|
 
 </details>
