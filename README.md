@@ -1401,6 +1401,18 @@
 
 ---
 
+<details open="open"><summary><a name="youtube-it"></a><b>IT</b></summary><br>
+
+<sup>[Содержание](#содержание)</sup>
+
+|Название|Описание|Всего видео|Подписчиков|Дата последнего видео|
+|:------:|:-------|:---------:|:---------:|:-------------------:|
+|[iCluster](https://www.youtube.com/channel/UCJ29is7jbsw76UUJ9a6qZOQ)|Международный IT-кластер Нижегородской области - это некоммерческая ассоциация, созданная для взаимодействия между корпорациями, средним ИТ-бизнесом, ИТ-стартапами и командами разработчиков.|<span id="UCJ29is7jbsw76UUJ9a6qZOQ" class="youtube-count"></span>|<span id="UCJ29is7jbsw76UUJ9a6qZOQ" class="youtube-subscribers"></span>|<span id="UCJ29is7jbsw76UUJ9a6qZOQ" class="last-video-date"></span>|
+
+</details>
+
+---
+
 <details open="open"><summary><a name="youtube-security"></a><b>Безопасность</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
