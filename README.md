@@ -1652,6 +1652,7 @@
 |Название|Описание|Всего видео|Подписчиков|Дата последнего видео|
 |:------:|:-------|:---------:|:---------:|:-------------------:|
 |<a href="https://www.youtube.com/channel/UC-u9657urQQh8b3oYhGQ1tQ"><img width="30" src="https://yt3.ggpht.com/a/AGF-l7_smvkwHs-pykAK5QpIF7hrkFaxHPmb4sLPsQ=s288-c-k-c0xffffffff-no-rj-mo"></a><br>[documentat.io](https://www.youtube.com/channel/UC-u9657urQQh8b3oYhGQ1tQ)|Курсы и семинары по технической документации и управлению документационными процессами. Помощь в создании документации.|<span id="UC-u9657urQQh8b3oYhGQ1tQ" class="youtube-count"></span>|<span id="UC-u9657urQQh8b3oYhGQ1tQ" class="youtube-subscribers"></span>|<span id="UC-u9657urQQh8b3oYhGQ1tQ" class="last-video-date"></span>|
+|<a href="https://www.youtube.com/channel/UCLY4cASELis_WG6nQrK9Eog"><img width="30" src="https://yt3.ggpht.com/a/AGF-l7846jtsbgpyCgHKiKx5h8hWETzNePetCoM3Ag=s288-c-k-c0xffffffff-no-rj-mo"></a><br>[Write the Docs Russia](https://www.youtube.com/channel/UCLY4cASELis_WG6nQrK9Eog)|Видео выступлений сообщества технических писателей.|<span id="UCLY4cASELis_WG6nQrK9Eog" class="youtube-count"></span>|<span id="UCLY4cASELis_WG6nQrK9Eog" class="youtube-subscribers"></span>|<span id="UCLY4cASELis_WG6nQrK9Eog" class="last-video-date"></span>|
 
 </details>
 
