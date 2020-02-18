@@ -1403,6 +1403,7 @@
 
 |Название|Описание|Всего видео|Подписчиков|Дата последнего видео|
 |:------:|:-------|:---------:|:---------:|:-------------------:|
+|<a href="https://www.youtube.com/channel/UCGq2P6UDaP1cHMxOIkF0jqg"><img width="30" src="https://yt3.ggpht.com/a/AGF-l782fE6G0GGSehSEU8hEyJu-AgRUBciF4mkCNg=s288-c-k-c0xffffffff-no-rj-mo"></a><br>[Golang Piter](https://www.youtube.com/channel/UCGq2P6UDaP1cHMxOIkF0jqg)|Международная техническая конференция о языке программирования Go.|<span id="UCGq2P6UDaP1cHMxOIkF0jqg" class="youtube-count"></span>|<span id="UCGq2P6UDaP1cHMxOIkF0jqg" class="youtube-subscribers"></span>|<span id="UCGq2P6UDaP1cHMxOIkF0jqg" class="last-video-date"></span>|
 |<a href="https://www.youtube.com/channel/UCq-OB01F8YnS-FJpeJRCvMQ"><img width="30" src="https://yt3.ggpht.com/a/AGF-l79-lY62L5OHwS_WtGqbOu4T_qcGJ9ZgpKfN9w=s288-c-k-c0xffffffff-no-rj-mo"></a><br>[GopherCon Russia](https://www.youtube.com/channel/UCq-OB01F8YnS-FJpeJRCvMQ)|Видеозаписи конференции GopherCon Russia, посвященной разработке на Go.|<span id="UCq-OB01F8YnS-FJpeJRCvMQ" class="youtube-count"></span>|<span id="UCq-OB01F8YnS-FJpeJRCvMQ" class="youtube-subscribers"></span>|<span id="UCq-OB01F8YnS-FJpeJRCvMQ" class="last-video-date"></span>|
 
 </details>
