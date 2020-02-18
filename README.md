@@ -1383,6 +1383,16 @@
 
 </details>
 
+<details open="open"><summary><a name="youtube-development-cpp"></a><b>&nbsp;&nbsp;C++</b></summary><br>
+
+<sup>[Содержание](#содержание)</sup>
+
+|Название|Описание|Всего видео|Подписчиков|Дата последнего видео|
+|:------:|:-------|:---------:|:---------:|:-------------------:|
+|<a href="https://www.youtube.com/channel/UCifgOu6ARWbZ_dV29gss8xw"><img width="30" src="https://yt3.ggpht.com/a/AGF-l7-FKlrfHPGx98noY_O7auxtu6cSshfIyar37Q=s288-c-k-c0xffffffff-no-rj-mo"></a><br>[corehard](https://www.youtube.com/channel/UCifgOu6ARWbZ_dV29gss8xw)|CoreHard - C ++ сообщество родом из Минска, Беларусь.|<span id="UCifgOu6ARWbZ_dV29gss8xw" class="youtube-count"></span>|<span id="UCifgOu6ARWbZ_dV29gss8xw" class="youtube-subscribers"></span>|<span id="UCifgOu6ARWbZ_dV29gss8xw" class="last-video-date"></span>|
+
+</details>
+
 <details open="open"><summary><a name="youtube-development-go"></a><b>&nbsp;&nbsp;Go</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
