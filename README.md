@@ -1480,6 +1480,7 @@
 |Название|Описание|Всего видео|Подписчиков|Дата последнего видео|
 |:------:|:-------|:---------:|:---------:|:-------------------:|
 |<a href="https://www.youtube.com/channel/UCwhdOXBJIuNWFXYNQid6ciw"><img width="30" src="https://yt3.ggpht.com/a/AGF-l7-bxhJC25HxVWvzKthu8iKhF6X0LLTc7SonVA=s288-c-k-c0xffffffff-no-rj-mo"></a><br>[Design Prosmotr](https://www.youtube.com/channel/UCwhdOXBJIuNWFXYNQid6ciw)|Графический дизайн. Лекции, мастер-классы и интенсивы.|<span id="UCwhdOXBJIuNWFXYNQid6ciw" class="youtube-count"></span>|<span id="UCwhdOXBJIuNWFXYNQid6ciw" class="youtube-subscribers"></span>|<span id="UCwhdOXBJIuNWFXYNQid6ciw" class="last-video-date"></span>|
+|<a href="https://www.youtube.com/channel/UCd6bYYAKUuq1j5r5LEe0NuQ"><img width="30" src="https://yt3.ggpht.com/a/AGF-l7_18idJTH0iMPy6FlL7CSR9uOFoM2xqMLf5Og=s288-c-k-c0xffffffff-no-rj-mo"></a><br>[OnLive](https://www.youtube.com/channel/UCd6bYYAKUuq1j5r5LEe0NuQ)|Design StandUp «OnLive» — это встреча дизайнеров, которая не подразумевает лекций, тетрадок и презентаций. Известные дизайнеры делятся историями и отвечают на вопросы гостей со сцены бара. Именно благодаря открытому общению спикера с гостями и непринужденной атмосфере раскрываются знания, которые не услышишь на лекциях.|<span id="UCd6bYYAKUuq1j5r5LEe0NuQ" class="youtube-count"></span>|<span id="UCd6bYYAKUuq1j5r5LEe0NuQ" class="youtube-subscribers"></span>|<span id="UCd6bYYAKUuq1j5r5LEe0NuQ" class="last-video-date"></span>|
 
 </details>
 
