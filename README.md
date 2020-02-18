@@ -1982,6 +1982,16 @@
 
 </details>
 
+<details open="open"><summary><a name="meetups-development-kotlin"></a><b>&nbsp;&nbsp;Kotlin</b></summary><br>
+
+<sup>[Содержание](#содержание)</sup>
+
+|Название|Описание|Места проведения мероприятий|Связанные ссылки|
+|:------:|:-------|:--------------------------:|:--------------:|
+|[![Belarus Kotlin User Group](img/favicons/bkug.by.png)](https://bkug.by/)<br>[Belarus Kotlin User Group](https://bkug.by/)|Сообщество разработчиков на языке Kotlin.|Белоруссия|[![Twitter](img/favicons/twitter.com.png)](https://twitter.com/BelarusKUG) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/c/BelarusKUG) [![Telegram](img/favicons/t.me.png)](https://t.me/kotlin_lang) [![GitHub](img/favicons/github.com.png)](https://github.com/BelarusKUG) [![Email](img/favicons/email.png)](mailto:team@bkug.by) [![RSS](img/favicons/rss.png)](https://bkug.by/feed/)|
+
+</details>
+
 <details open="open"><summary><a name="meetups-development-mobile"></a><b>&nbsp;&nbsp;Mobile</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
