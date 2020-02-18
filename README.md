@@ -1573,7 +1573,6 @@
 
 </details>
 
-<!---
 <details open="open"><summary><a name="youtube-it"></a><b>IT</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
@@ -1615,7 +1614,6 @@
 |<a href="https://www.youtube.com/channel/UC6cTShKx3lJWw-EzSr_ZAfw"><img width="30" src="https://yt3.ggpht.com/a/AGF-l7-paSbbTQZuJJEy3ZOmNm-bZQag25WHo39EhQ=s288-c-k-c0xffffffff-no-rj-mo"></a><br>[Цинковый Прод](https://www.youtube.com/channel/UC6cTShKx3lJWw-EzSr_ZAfw)|YouTube-канал подкаста о разработке и ИТ [Цинковый прод](https://soundcloud.com/znprod)|<span id="UC6cTShKx3lJWw-EzSr_ZAfw" class="youtube-count"></span>|<span id="UC6cTShKx3lJWw-EzSr_ZAfw" class="youtube-subscribers"></span>|<span id="UC6cTShKx3lJWw-EzSr_ZAfw" class="last-video-date"></span>|
 
 </details>
---->
 
 <details open="open"><summary><a name="youtube-management"></a><b>Management</b></summary><br>
 
