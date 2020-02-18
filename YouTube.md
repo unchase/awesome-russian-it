@@ -10,6 +10,38 @@
 
 ---
 
+## Содержание
+
+* [AI, ML и DataScience](#youtube-ai-ml-datascience)
+* [AR, VR](#youtube-ar-vr)
+* [BlockChain](#youtube-blockchain)
+* [Development](#youtube-development)
+  * [1C](#youtube-development-1c)
+  * [.NET](#youtube-development-dotnet)
+  * [C++](#youtube-development-cpp)
+  * [Go](#youtube-development-go)
+  * [Java](#youtube-development-java)
+  * [Kotlin](#youtube-development-kotlin)
+  * [Mobile](#youtube-development-mobile)
+  * [PHP](#youtube-development-php)
+  * [Python](#youtube-development-python)
+  * [Ruby](#youtube-development-ruby)
+  * [Web](#youtube-development-web)
+* [Design](#youtube-design)
+* [DevOps](#youtube-devops)
+* [Gamedev](#youtube-gamedev)
+* [IoT](#youtube-iot)
+* [IT](#youtube-it)
+* [Management](#youtube-management)
+* [Testing и QA](#youtube-testing-qa)
+* [БД](#youtube-db)
+* [Безопасность](#youtube-security)
+* [Документация](#youtube-documentation)
+* [Компании, Организации, Сообщества, Конференции](#youtube-communities)
+* [Образование](#youtube-education)
+
+---
+
 ## **YouTube-каналы**
 
 <sup>[Содержание](#содержание)</sup>
@@ -41,7 +73,7 @@
 
 </details>
 
-<details open="open"><summary><a name="youtube-development-blockchain"></a><b>BlockChain</b></summary><br>
+<details open="open"><summary><a name="youtube-blockchain"></a><b>BlockChain</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
