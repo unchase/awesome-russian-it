@@ -1401,6 +1401,16 @@
 
 </details>
 
+<details open="open"><summary><a name="youtube-development-kotlin"></a><b>&nbsp;&nbsp;Kotlin</b></summary><br>
+
+<sup>[Содержание](#содержание)</sup>
+
+|Название|Описание|Всего видео|Подписчиков|Дата последнего видео|
+|:------:|:-------|:---------:|:---------:|:-------------------:|
+|<a href="https://www.youtube.com/channel/UCj38YQRHsZ-idApaCIf_wSQ"><img width="30" src="https://yt3.ggpht.com/a/AGF-l78hQwwTuH4TDgh50J46zR09J5tePvPg9VdLNw=s288-c-k-c0xffffffff-no-rj-mo"></a><br>[Belarus Kotlin User Group](https://www.youtube.com/channel/UCj38YQRHsZ-idApaCIf_wSQ)|Канал сообщества [Belarus Kotlin User Group](https://bkug.by/).|<span id="UCj38YQRHsZ-idApaCIf_wSQ" class="youtube-count"></span>|<span id="UCj38YQRHsZ-idApaCIf_wSQ" class="youtube-subscribers"></span>|<span id="UCj38YQRHsZ-idApaCIf_wSQ" class="last-video-date"></span>|
+
+</details>
+
 <details open="open"><summary><a name="youtube-development-mobile"></a><b>&nbsp;&nbsp;Mobile</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
