@@ -1329,6 +1329,7 @@
 
 |Название|Описание|Всего видео|Подписчиков|Дата последнего видео|
 |:------:|:-------|:---------:|:---------:|:-------------------:|
+|<a href="https://www.youtube.com/channel/UCpEiWhfSNHhrI8I-DgZOoDg"><img width="30" src="https://yt3.ggpht.com/a/AGF-l7_zbAbQlur05qwEpmaADadUAIYXuKbaKjZqxg=s288-c-k-c0xffffffff-no-rj-mo"></a><br>[AR Conference](https://www.youtube.com/channel/UCpEiWhfSNHhrI8I-DgZOoDg)|AR Conference — это международная инновационная конференция по дополненной и виртуальной реальности.<br>Ежегодную конференцию посещают сотни специалистов, экспертов и лидеров индустрии, а также огромное количество журналистов и представителей IT-сферы, маркетинга и многих других сфер бизнеса.|<span id="UCpEiWhfSNHhrI8I-DgZOoDg" class="youtube-count"></span>|<span id="UCpEiWhfSNHhrI8I-DgZOoDg" class="youtube-subscribers"></span>|<span id="UCpEiWhfSNHhrI8I-DgZOoDg" class="last-video-date"></span>|
 |<a href="https://www.youtube.com/channel/UCtfKT_4RvLXxuOKGxjvN7xQ"><img width="30" src="https://yt3.ggpht.com/a/AGF-l7_0Es1A8BQNqdyvyuKlS0UkN6h2wznhFrCPxw=s288-c-k-c0xffffffff-no-rj-mo"></a><br>[AVRA Ассоциация AR-VR](https://www.youtube.com/channel/UCtfKT_4RvLXxuOKGxjvN7xQ)|Официальный YouTube-канал российской Ассоциации дополненной и виртуальной реальности.|<span id="UCtfKT_4RvLXxuOKGxjvN7xQ" class="youtube-count"></span>|<span id="UCtfKT_4RvLXxuOKGxjvN7xQ" class="youtube-subscribers"></span>|<span id="UCtfKT_4RvLXxuOKGxjvN7xQ" class="last-video-date"></span>|
 
 </details>
