@@ -1473,6 +1473,16 @@
 
 </details>
 
+<details open="open"><summary><a name="youtube-design"></a><b>Design</b></summary><br>
+
+<sup>[Содержание](#содержание)</sup>
+
+|Название|Описание|Всего видео|Подписчиков|Дата последнего видео|
+|:------:|:-------|:---------:|:---------:|:-------------------:|
+|<a href="https://www.youtube.com/channel/UCwhdOXBJIuNWFXYNQid6ciw"><img width="30" src="https://yt3.ggpht.com/a/AGF-l7-bxhJC25HxVWvzKthu8iKhF6X0LLTc7SonVA=s288-c-k-c0xffffffff-no-rj-mo"></a><br>[Design Prosmotr](https://www.youtube.com/channel/UCwhdOXBJIuNWFXYNQid6ciw)|Графический дизайн. Лекции, мастер-классы и интенсивы.|<span id="UCwhdOXBJIuNWFXYNQid6ciw" class="youtube-count"></span>|<span id="UCwhdOXBJIuNWFXYNQid6ciw" class="youtube-subscribers"></span>|<span id="UCwhdOXBJIuNWFXYNQid6ciw" class="last-video-date"></span>|
+
+</details>
+
 <details open="open"><summary><a name="youtube-devops"></a><b>DevOps</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
