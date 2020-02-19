@@ -1219,6 +1219,16 @@
 
 ---
 
+|Название         |Ранние Индюки|
+|:----------------|:------------|
+|**Ссылки**       |[![VK](img/favicons/vk.com.png)](https://vk.com/podcasts-182599383)|
+|**Описание**     |Подкаст о разработке игр от двух инди-разработчиков.|
+|**Ведущие**      |Сергей Гиммелрейх<br>Евгений Павлов|
+|**Регулярность** |Время от времени|
+|**Длительность** |~30 минут|
+
+---
+
 |Название         |[ХОЧУ В ГЕЙМДЕВ](https://hsbi.hse.ru/programs/vocational_retraining/menedzhment-igrovykh-internet-proektov/skpodkast/)|
 |:----------------|:---------------|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/hvgamedev) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/%D1%85%D0%BE%D1%87%D1%83-%D0%B2-%D0%B3%D0%B5%D0%B9%D0%BC%D0%B4%D0%B5%D0%B2/id1490959979) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/%D0%A5%D0%BE%D1%87%D1%83-%D0%B2-%D0%93%D0%B5%D0%B9%D0%BC%D0%B4%D0%B5%D0%B2-id2495011?country=ru) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/watch?v=MKI5cEIfrDg&list=PLYEH4GKbMx6tYzVY76hf4C9xrD420VWLe) • [![VK](img/favicons/vk.com.png)](https://vk.com/hsbi_games) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/9495544)|
