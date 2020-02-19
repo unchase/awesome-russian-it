@@ -1200,6 +1200,16 @@
 
 ---
 
+|Название         |Игрожоры|
+|:----------------|:-------|
+|**Ссылки**       |[![Podster](img/favicons/podster.fm.png)](https://grzhr.podster.fm/) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/%D0%B8%D0%B3%D1%80%D0%BE%D0%B6%D0%BE%D1%80%D1%8B/id1438708331) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/?feed=aHR0cHM6Ly9wb2RzdGVyLmZtL3Jzcy54bWw_cGlkPTYxNjA3) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/ighrozhory) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/%D0%98%D0%B3%D1%80%D0%BE%D0%B6%D0%BE%D1%80%D1%8B-id1455667?country=ru) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/igrozhory) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCS781VEsuJKX2Zc8CCiud4Q) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcasts-167869329) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/grzhr_podcast) • [![Telegram](img/favicons/t.me.png)](https://t.me/grzhr) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/6965497) • [![Discord](img/favicons/discordapp.com.png)](https://discordapp.com/invite/Kwcj3HT) • [![RSS](img/favicons/rss.png)](https://podster.fm/rss.xml?pid=61607)|
+|**Описание**     |Игрожоры - это подкаст об индустрии игр. Мы обсуждаем самые интересные новости, связанные с интерактивными развлечениями, общаемся с разработчиками и просто орем в микрофон, чтобы скрасить ваш досуг.|
+|**Ведущие**      |Андрей Захаров|
+|**Регулярность** |Несколько раз в месяц|
+|**Длительность** |30-60 минут|
+
+---
+
 |Название         |[Как делают игры](https://kdicast.com/)|
 |:----------------|:--------------------------------------|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/podkast-galyonkin-com/id560881209) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/kak-delajut-igry/) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/kdicast) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCEkOWo6CbP_Dbwoym-E3Drw) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/kak-delayut-igry) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/series-19282) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/id25342?country=ru)|
