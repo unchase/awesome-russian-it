@@ -1270,6 +1270,16 @@
 
 ---
 
+|Название         |[Gameru DA!](https://www.gameru.net/feed/tag=gameru-da)|
+|:----------------|:------------------------------------------------------|
+|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/gameru) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/?feed=aHR0cHM6Ly93d3cuZ2FtZXJ1Lm5ldC9yc3MvR2FtZXJ1RGE%3D)[![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/watch?v=saiEgN_u3r0&list=PL5HzmjIgQYaR_0UFKJzktXZEa5ieAShoQ)|
+|**Описание**     |Ламповый геймдев-подкаст с разработчиками из индустрии компьютерных игр.|
+|**Ведущие**      |Ярослав<br>Сергей|
+|**Регулярность** |Время от времени|
+|**Длительность** |40-60 минут|
+
+---
+
 |Название         |Radio GD|
 |:----------------|:-------|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/radiogd) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/radio-gd/id1400069457) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/radio-gd/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/radio-gd) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/Radio-GD-id1322200?country=ru) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/radio-gd)|
