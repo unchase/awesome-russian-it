@@ -1190,6 +1190,16 @@
 
 <sup>[Содержание](#содержание)</sup>
 
+|Название         |Жиза ГД|
+|:----------------|:------|
+|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/pixonic/sets/inacqfwsnbdb) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/%D0%B6%D0%B8%D0%B7%D0%B0-%D0%B3%D0%B4/id1413689117) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/zhiza-gd/) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/zhiza-gd) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/id1377224?country=ru) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/zhiza-gd) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/9206351)|
+|**Описание**     |Об игровой индустрии от тех, кто любит и делает игры. Подкаст Pixonic о тонкостях разработки, новостях и многом другом. Новый выпуск — каждые две недели!|
+|**Ведущие**      |Владимир Красильников<br>Анатолий Шестов<br>Никита Гук [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/azazelis/)|
+|**Регулярность** |Раз в две недели|
+|**Длительность** |40-60 минут|
+
+---
+
 |Название         |[Как делают игры](https://kdicast.com/)|
 |:----------------|:--------------------------------------|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/podkast-galyonkin-com/id560881209) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/kak-delajut-igry/) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/kdicast) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCEkOWo6CbP_Dbwoym-E3Drw) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/kak-delayut-igry) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/series-19282) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/id25342?country=ru)|
