@@ -318,6 +318,16 @@
 
 ---
 
+|Название         |[Космос-Веб](https://www.cosmos-web.ru/)|
+|:----------------|:---------------------------------------|
+|**Ссылки**       |[![VK](img/favicons/vk.com.png)](https://vk.com/cosmosweb) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/cosmos_web) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/cosmosweb/posts/1474524369376604) • [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/cosmosweb/) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/9629980/track/61630236)|
+|**Описание**     |Разговоры на горячие темы из мира digital.|
+|**Ведущие**      ||
+|**Регулярность** ||
+|**Длительность** |~10 минут|
+
+---
+
 |Название         |Лёха & Лёха о новостях VMware и ИТ|
 |:----------------|:---------------------------------|
 |**Ссылки**       |[![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/?feed=aHR0cHM6Ly9hbGV4LWFuZC1hbGV4LXBvZGNhc3QuczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vcG9kY2FzdC54bWw=) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/%D0%9B%D1%91%D1%85%D0%B0-%26-%D0%9B%D1%91%D1%85%D0%B0-%D0%BE-%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D1%8F%D1%85-VMware-%D0%B8-%D0%98%D0%A2-id2164079?country=ru) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/9348886?from=serp)|
