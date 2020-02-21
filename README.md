@@ -268,6 +268,16 @@
 
 ---
 
+|Название         |Директлайн|
+|:----------------|:---------|
+|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/directline-marketing) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCcOnHT_nv6wDY6F6nmguwvg) • [![VK](img/favicons/vk.com.png)](https://vk.com/directline) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/directlinepro) • [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/directline_band/)|
+|**Описание**     |Подкаст для маркетологов и предпринимателей, которые хотят больше узнать про инструменты интернет-маркетинга. Открыто делимся своим опытом в SEO, рекламе и разработке сайтов.|
+|**Ведущие**      ||
+|**Регулярность** |Время от времени|
+|**Длительность** |10-20 минут|
+
+---
+
 |Название         |[Еженедельный подкаст от Umputun](https://podcast.umputun.com/)|
 |:----------------|:--------------------------------------------------------------|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/podcast/uwp-e%D0%B6%D0%B5%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D0%BF%D0%BE%D0%B4%D0%BA%D0%B0%D1%81%D1%82-%D0%BE%D1%82-umputun/id77546991) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/uwp-podkast-ot-umputun/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/umputun-1427926) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/UWP-E%D0%B6%D0%B5%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D0%BF%D0%BE%D0%B4%D0%BA%D0%B0%D1%81%D1%82-%D0%BE%D1%82-Umputun-id7689?country=us) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/uwp-podkast-ot-umputun) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCKLP9z6_KJi3YSr3FlrR79Q) • [![Telegram](img/favicons/t.me.png)](https://t.me/uwp_podcast) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/6891839?from=serp) • [![RSS](img/favicons/rss.png)](http://feeds.rucast.net/Umputun)|
