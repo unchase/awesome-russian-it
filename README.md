@@ -378,6 +378,16 @@
 
 ---
 
+|Название         |Ничего такого|
+|:----------------|:------------|
+|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/nichego-takogo) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/%D0%BD%D0%B8%D1%87%D0%B5%D0%B3%D0%BE-%D1%82%D0%B0%D0%BA%D0%BE%D0%B3%D0%BE/id1498922167) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/user/dodomovie) • [![VK](img/favicons/vk.com.png)](https://vk.com/dodopizzadev) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/dodopizzadev/) • [![Telegram](img/favicons/t.me.png)](https://teleg.run/dodopizzadev) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/9921383) • [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/company/dodopizzadev/) • [![GitHub](img/favicons/github.com.png)](https://github.com/dodopizza)|
+|**Описание**     |В мире не так много важного, но квинтиллион всего интересного.<br>Например, нам интересно как выглядит культура, строятся команды и процессы в разных технологических компаниях.<br>Пользуясь связями и сертификатами на бесплатную пиццу будем приглашать крутых чуваков из крутых компаний вроде Miro, Яндекса, Amazon, Microsoft или Едадила и говорить об этом.|
+|**Ведущие**      |Борис<br>Елизавета Швец [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/Schvepsss/)<br>Антон<br>Евгений Пешков [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/gradea/)|
+|**Регулярность** |Еженедельно|
+|**Длительность** |~35 минут|
+
+---
+
 |Название         |«Ну, па-ап!»|
 |:----------------|:-----------|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/%D0%BD%D1%83-%D0%BF%D0%B0-%D0%B0%D0%BF/id1451758558) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/nu-pa-ap/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/nu-pa-ap) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/%C2%AB%D0%9D%D1%83%2C-%D0%BF%D0%B0-%D0%B0%D0%BF!%C2%BB-id2032491?country=ru) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/nu-pa-ap) • [![VK](img/favicons/vk.com.png)](https://vk.com/oh.dad.podcast) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/pages/category/Podcast/%D0%9F%D0%BE%D0%B4%D0%BA%D0%B0%D1%81%D1%82-%D0%9D%D1%83-%D0%BF%D0%B0-%D0%B0%D0%BF-107006390801228/) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/7133170?from=serp) • [![Email](img/favicons/email.png)](mailto:oh.dad.podcast@gmail.com)|
