@@ -790,6 +790,16 @@
 
 ---
 
+|Название         |[Old-Hard.RU](http://www.old-hard.ru/podcasts)|
+|:----------------|:---------------------------------------------|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/old-hard/id1477741470) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/?feed=aHR0cHM6Ly9vbGQtaGFyZC5ydS9vbGRfaGFyZC54bWw) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/old-hard/) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/Old-Hard-id2287794?country=ru) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCwfbt8rkHpLmfkKJkXkB_ag) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcasts-60351656) • [![Telegram](img/favicons/t.me.png)](https://t.me/oldhard_podcast) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/8501501) • [![RSS](img/favicons/rss.png)](https://old-hard.ru/old_hard.xml)|
+|**Описание**     |Подкаст посвящён старым компьютерным играм и железу (трёхмерным ускорителям, игровым приставкам, ноутбукам и т.п.) и является спин-оффом выходящей с 2013 года одноимённой Youtube-передачи.<br>В рамках подкаста я также буду рассказывать про новые игры в олдскульном стиле, книги, фильмы и сериалы, связанные с играми или IT, в общем - буду затрагивать любые околоайтишные или околоигровые темы.|
+|**Ведущие**      |Дмитрий Newbilius Моисеев [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCj1JJWwpsSIoBGsPZKQoNKQ) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/newbilius/)|
+|**Регулярность** |Ежемесячно|
+|**Длительность** |20-50 минут|
+
+---
+
 |Название         |[Podlodka Podcast](http://podlodka.io/)|
 |:----------------|:--------------------------------------|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/podlodka) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/podlodka-podcast/id1209828744) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjI5MTMzNzEwNi9zb3VuZHMucnNz) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/podlodka-podcast/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/podlodka-podcast) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/id483085?country=ru) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/channel/podlodka-podcast) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCOei1E1Vqq10S913OEqTWGw) • [![VK](img/favicons/vk.com.png)](https://vk.com/podlodkapodcast) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/PodlodkaPodcast) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/podlodkacast/) • [![Telegram](img/favicons/t.me.png)](https://t.me/podlodka) • [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/podlodkacast/) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/7570122?from=serp) • [![RSS](img/favicons/rss.png)](http://feeds.soundcloud.com/users/soundcloud:users:291337106/sounds.rss)|
