@@ -740,6 +740,16 @@
 
 ---
 
+|Название         |IT Бложек|
+|:----------------|:--------|
+|**Ссылки**       |[![VK](img/favicons/vk.com.png)](https://vk.com/it.community)|
+|**Описание**     |Уютный подкаст про ИТ.|
+|**Ведущие**      |Павел Зверев|
+|**Регулярность** |Время от времени|
+|**Длительность** |10-20 минут|
+
+---
+
 |Название         |IT-Trend|
 |:----------------|:-------|
 |**Ссылки**       |[![Podster](img/favicons/podster.fm.png)](https://it-trend.podster.fm/) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/it-trend/id567224504) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/it-trend/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/series-1296990) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/it-trend) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcasts-171656757) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/it__trend) • [![Telegram](img/favicons/t.me.png)](https://t.me/it_trend_bot) • [![RSS](img/favicons/rss.png)](https://podster.fm/rss.xml?pid=142)|
