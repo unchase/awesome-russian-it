@@ -830,6 +830,16 @@
 
 ---
 
+|Название         |Run Loop Podcast|
+|:----------------|:---------------|
+|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/runloop-podcast) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/run-loop-podcast/id1409669962) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/run-loop-podcast/) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/run-loop-podcast) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/id1366698?country=ru) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/run-loop-podcast) • [![GitHub](img/favicons/github.com.png)](https://github.com/rozag/run-loop-podcast)|
+|**Описание**     |Подкаст об ИТ от Ильи Царева, Романа Бусыгина и Алексея Милеева.|
+|**Ведущие**      |[Илья Царев](http://www.itsarev.me/) [![GitHub](img/favicons/github.com.png)](https://github.com/iltsarev) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/iltsarev/)<br>Роман Бусыгин<br>Алексей Милеев [![GitHub](img/favicons/github.com.png)](https://github.com/rozag) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/rozag/)|
+|**Регулярность** |Время от времени|
+|**Длительность** |30-40 минут|
+
+---
+
 |Название         |[SDCast](https://sdcast.ksdaemon.ru/)|
 |:----------------|:------------------------------------|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/software-development-podcast/id890468606) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/sdcast/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/sdcast) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/373241?country=ru) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/sdcast) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/SDCast_podcast) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/6880277?from=serp) • [![RSS](img/favicons/rss.png)](https://sdcast.ksdaemon.ru/feed/podcast/)|
