@@ -226,6 +226,7 @@
 |Название|Описание|Всего видео|Подписчиков|Дата последнего видео|
 |:------:|:-------|:---------:|:---------:|:-------------------:|
 |<a href="https://www.youtube.com/channel/UCpph4oLJ7uVz3udNFi4inEQ"><img width="30" src="https://yt3.ggpht.com/a/AGF-l78YsbQGLjIHzNWee4kLqN0KT4a8vIyrBpjOeA=s288-c-k-c0xffffffff-no-rj-mo"></a><br>[Ruby Roars](https://www.youtube.com/channel/UCpph4oLJ7uVz3udNFi4inEQ)|Уже шестое комьюнити в сокровищнице NIX Solutions для проведения душевных митапов за чашечкой кофе. Главная тематика митапов —  Ruby. Главная фишка митапов — душевность, открытость, experience sharing. Главный символ митапов — RubyDog (в народе Рубинчик).|<span id="UCpph4oLJ7uVz3udNFi4inEQ" class="youtube-count"></span>|<span id="UCpph4oLJ7uVz3udNFi4inEQ" class="youtube-subscribers"></span>|<span id="UCpph4oLJ7uVz3udNFi4inEQ" class="last-video-date"></span>|
+|<a href="https://www.youtube.com/user/railsclub"><img width="30" src="https://yt3.ggpht.com/a/AGF-l78_lDYAW3jSyY-zSWUFBIJ48GtzY5_gJivcnQ=s288-c-k-c0xffffffff-no-rj-mo"></a><br>[Ruby Russia club](https://www.youtube.com/user/railsclub)|Конференция RubyRussia — это уникальное место, где можно пообщаться с коллегами, поделиться живым опытом, встретить старых друзей и узнать о чем-то новом.|<span id="railsclub" class="youtube-count"></span>|<span id="railsclub" class="youtube-subscribers"></span>|<span id="railsclub" class="last-video-date"></span>|
 
 </details>
 
