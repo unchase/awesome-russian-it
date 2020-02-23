@@ -124,7 +124,17 @@
 
 |Название|Описание|Автор/Создатель|
 |:-------|:-------|:--------------|
-|**[4gophers](https://4gophers.ru/)**<br> [![VK](img/favicons/vk.com.png)](https://vk.com/golang) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/4gophers) [![Telegram](img/favicons/t.me.png)](https://t.me/gophernews) [![Slack](img/favicons/slack.png)](http://slack.golang-ru.com/) [![RSS](img/favicons/rss.png)](https://4gophers.ru/articles/index.xml)|Блог по языку программирования Go/Golang.||
+|**[4gophers](https://4gophers.ru/)**<br>[![VK](img/favicons/vk.com.png)](https://vk.com/golang) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/4gophers) [![Telegram](img/favicons/t.me.png)](https://t.me/gophernews) [![Slack](img/favicons/slack.png)](http://slack.golang-ru.com/) [![RSS](img/favicons/rss.png)](https://4gophers.ru/articles/index.xml)|Блог по языку программирования Go/Golang.||
+
+</details>
+
+<details open="open"><summary><a name="blogs-java"></a><bJava</b></summary><br>
+
+<sup>[Содержание](#содержание)</sup>
+
+|Название|Описание|Автор/Создатель|
+|:-------|:-------|:--------------|
+|**[miniJUG](https://minijug.ru/)**<br>[![VK](img/favicons/vk.com.png)](https://vk.com/minijug) [![Telegram](img/favicons/t.me.png)](https://tlg.name/miniJUG)|Новости из мира Java.||
 
 </details>
 
