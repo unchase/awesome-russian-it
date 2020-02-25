@@ -1972,7 +1972,7 @@
 Этот проект существует благодаря [всем людям](https://github.com/unchase/awesome-russian-it/graphs/contributors), которые вносят свой вклад.
 
 <p align="center">
-  <a href="https://github.com/unchase"><img width="30" src="img/contributors/unchase.jpg"></a> <a href="https://github.com/sobolevn"><img width="30" src="img/contributors/sobolevn.jpg"></a>
+  <a href="https://github.com/unchase"><img width="30" src="img/contributors/unchase.jpg"></a> <a href="https://github.com/sobolevn"><img width="30" src="img/contributors/sobolevn.jpg"></a> <a href="https://github.com/kalashnikovisme"><img width="30" src="img/contributors/kalashnikovisme.jpg"></a>
 </p>
 
 Если у вас есть желание помочь с наполнением или актуализацией этого репозитория, пожалуйста, ознакомьтесь с информацией в файле [CONTRIBUTING.md](CONTRIBUTING.md).
