@@ -41,6 +41,7 @@
 
 |Название|Описание|Автор/Создатель|
 |:-------|:-------|:--------------|
+|**[docops-hq.github.io](https://docops-hq.github.io/conf/)**<br>[![GitHub](img/favicons/github.com.png)](https://github.com/docops-hq/conf)|Сайт с конспектами выступлений по документированию с различных конференций.|Николай Волынкин [![GitHub](img/favicons/github.com.png)](https://github.com/NickVolynkin)|
 |**[Lana Teletype.in](https://teletype.in/@lananovikova)**|Дайджесты чата Docops с полезной информацией по документированию.|[Светлана Новикова](https://lananovikova.tech/) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/nerazzgadannaya/posts/) [![Telegram](img/favicons/t.me.png)](https://t.me/the_know_all)|
 |**[Learnapidoc-ru 2.0](https://starkovden.github.io/)**|Курс по документированию API. Вольный перевод курса [Documenting APIs: a guide for technical writers](https://idratherbewriting.com/learnapidoc/), составленного Томом Джонсоном, техническим писателем Amazon.|Tom Johnson<br>Переводчик: [![GitHub](img/favicons/github.com.png)](https://github.com/Starkovden)|
 
