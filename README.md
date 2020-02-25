@@ -331,6 +331,16 @@
 
 ---
 
+|Название         |[Канадский Лось и компания (RCMP)](https://rcmp.me/)|
+|:----------------|:---------------------------------------------------|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/us/podcast/канадский-лось-и-компания/id363311940) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/kanadskii-los-i-kompaniia) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/id362958?country=ru) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/user/cndlos) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/cndlos) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/cndmoose) • [![Telegram](img/favicons/t.me.png)](https://t-do.ru/rcmp_podcast) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/8797094)|
+|**Описание**     |RCMP - подкаст о жизни программистов в Канаде и работе в Америке.|
+|**Ведущие**      |Евгений<br>Иван|
+|**Регулярность** |Еженедельно|
+|**Длительность** |~90 минут|
+
+---
+
 |Название         |[Клуб анонимных продакт-менеджеров](https://www.kapm.show/)|
 |:----------------|:----------------------------------------------------------|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ua/podcast/%D0%BA%D0%BB%D1%83%D0%B1-%D0%B0%D0%BD%D0%BE%D0%BD%D0%B8%D0%BC%D0%BD%D1%8B%D1%85-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%BA%D1%82-%D0%BC%D0%B5%D0%BD%D0%B5%D0%B4%D0%B6%D0%B5%D1%80%D0%BE%D0%B2/id1272548806) • [![RSS](img/favicons/rss.png)](https://www.kapm.show/feed/podcast/)|
