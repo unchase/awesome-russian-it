@@ -136,6 +136,7 @@
 
 |Название|Описание|Всего видео|Подписчиков|Дата последнего видео|
 |:------:|:-------|:---------:|:---------:|:-------------------:|
+|<a href="https://www.youtube.com/channel/UCJ9v015sPgEi0jJXe_zanjA"><img width="30" src="https://yt3.ggpht.com/a/AGF-l7-UdL6XtC8tZV7VU03jHBIsfckNhMdwj5pxzQ=s288-c-k-c0xffffffff-no-rj-mo"></a><br>[C++ User Group](https://www.youtube.com/channel/UCJ9v015sPgEi0jJXe_zanjA)|Основная идея C++ User Group это обмен опытом, знакомство с коллегами, живое профессиональное общение. Предполагается, что C++ User Group должна объединять C++ программистов не в одном городе, быть мобильной. Поэтому встречи проходят в разных городах.|<span id="UCJ9v015sPgEi0jJXe_zanjA" class="youtube-count"></span>|<span id="UCJ9v015sPgEi0jJXe_zanjA" class="youtube-subscribers"></span>|<span id="UCJ9v015sPgEi0jJXe_zanjA" class="last-video-date"></span>|
 |<a href="https://www.youtube.com/channel/UCifgOu6ARWbZ_dV29gss8xw"><img width="30" src="https://yt3.ggpht.com/a/AGF-l7-FKlrfHPGx98noY_O7auxtu6cSshfIyar37Q=s288-c-k-c0xffffffff-no-rj-mo"></a><br>[corehard](https://www.youtube.com/channel/UCifgOu6ARWbZ_dV29gss8xw)|CoreHard - C ++ сообщество родом из Минска, Беларусь.|<span id="UCifgOu6ARWbZ_dV29gss8xw" class="youtube-count"></span>|<span id="UCifgOu6ARWbZ_dV29gss8xw" class="youtube-subscribers"></span>|<span id="UCifgOu6ARWbZ_dV29gss8xw" class="last-video-date"></span>|
 
 </details>
