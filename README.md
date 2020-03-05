@@ -272,6 +272,16 @@
 
 ---
 
+|Название         |Горячий #tceh|
+|:----------------|:------------|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/горячий-tceh/id1492765073) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/Горячий-tceh-id2520882?country=ru) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcast-73842245_456239023) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/9520849)|
+|**Описание**     |Подкаст об инновациях, технологиях и предпринимательстве.|
+|**Ведущие**      |Екатерина<br>Наталья|
+|**Регулярность** |Время от времени|
+|**Длительность** |30-50 минут|
+
+---
+
 |Название         |[Две столицы](http://www.2capitals.space)|
 |:----------------|:----------------------------------------|
 |**Ссылки**       |[![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/dve-stolicy-ujutnyj-podkast-it-pankov/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/series-1297185) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/2491598?country=ru) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/dve-stolitsy-uyutnyy-podkast-it-pankov) • [![Podster](img/favicons/podster.fm.png)](https://2capitals.podster.fm/) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCVyA6ONMsbIB-TSLZO8HNmQ) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcast2capitals) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/2capitals/) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/6880541?from=serp)|
