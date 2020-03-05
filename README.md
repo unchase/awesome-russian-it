@@ -242,6 +242,16 @@
 
 ---
 
+|Название         |Айтипадкаст|
+|:----------------|:----------|
+|**Ссылки**       |[![Anchor](img/favicons/anchor.fm.png)](https://anchor.fm/itpadcast) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/podcast/id1498122067) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8xMWViOGE4Yy9wb2RjYXN0L3Jzcw%3D%3D) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/9936034) • [![RSS](img/favicons/rss.png)](https://anchor.fm/s/11eb8a8c/podcast/rss)|
+|**Описание**     |Подкаст об очень серьезных и важных IT-вещах, но простыми словами.|
+|**Ведущие**      |Артур<br>Роман|
+|**Регулярность** |Раз в две недели|
+|**Длительность** |45-50 минут|
+
+---
+
 |Название         |[В бесконечность и далее](https://www.toinfinity.org/)|
 |:----------------|:-----------------------------------------------------|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/to-infinity-948561200) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/в-бесконечность-и-далее/id1399902281) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/v-beskonechnost-i-dalee/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/2348240) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/%D0%92-%D0%B1%D0%B5%D1%81%D0%BA%D0%BE%D0%BD%D0%B5%D1%87%D0%BD%D0%BE%D1%81%D1%82%D1%8C-%D0%B8-%D0%B4%D0%B0%D0%BB%D0%B5%D0%B5-id1323362?country=ru) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/v-beskonechnost-i-daleye) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCcPyOe2AXDG3c3t-ZvX-0Pw) • [![VK](img/favicons/vk.com.png)](https://vk.com/toinfinitypodcast) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/KZO50uPqSZDDTpX) • [![Telegram](img/favicons/t.me.png)](https://t.me/toinfinity_podcast) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/8750471?from=serp) • [![Email](img/favicons/email.png)](mailto:tiab.mailbox@gmail.com) • [![RSS](img/favicons/rss.png)](http://toinfinityandbeyond.libsyn.com/rss)|
