@@ -722,6 +722,16 @@
 
 ---
 
+|Название         |[ForGeeks Podcast](https://anchor.fm/forgeeks)|
+|:----------------|:---------------------------------------------|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/forgeeks-podcast/id1436711112) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/?feed=aHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL2ZnZWVrcw) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/forgeeks-podcast/) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/forgeeks-podcast-2578747) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/forgeeks-podcast) • [![Podster](img/favicons/podster.fm.png)](https://forgeeks.podster.fm/) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcasts-121593523) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/7560675) • [![RSS](img/favicons/rss.png)](https://anchor.fm/s/b4fb914/podcast/rss)|
+|**Описание**     |Всё про технологии и около того. Гаджеты, инновации, медицина, космос и пр. Каждую неделю рассказываем о новом и интересном в мире IT.|
+|**Ведущие**      |Сергей Кузнецов<br>Вахтанг Махарадзе|
+|**Регулярность** |Еженедельно|
+|**Длительность** |30-40 минут|
+
+---
+
 |Название         |[Futureinapps](https://futureinapps.com/podcast)|
 |:----------------|:-----------------------------------------------|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/futureinapps) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/futureinapps/id1492129452) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/futureinapps/) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/Futureinapps-id2522030?country=ru) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCgjqcItv1ICwNxAUc5-UzqA) • [![VK](img/favicons/vk.com.png)](https://vk.com/futureinapps) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/futureinapps) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/futureinapps) • [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/futureinapps/) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/9535377?from=serp) • [![Email](img/favicons/email.png)](mailto:INFO@FUTUREINAPPS.COM)|
