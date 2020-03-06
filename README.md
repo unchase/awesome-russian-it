@@ -462,6 +462,16 @@
 
 ---
 
+|Название         |[ООП и в продакшн](https://ooprod.ru/)|
+|:----------------|:-------------------------------------|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/ооп-и-в-продакшн/id1465231106) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/?feed=aHR0cHM6Ly9vb3Byb2QucnUvcG9kY2FzdC9pbmRleC54bWw%3d) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/ООП-и-в-продакшн-id2143741?country=ru) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UC8i29Fda2v-eaCM1i5OmIIg) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/ooprodru) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/7718113)|
+|**Описание**     |Расслабленные беседы об информационных технологиях с легким образовательным послевкусием.|
+|**Ведущие**      |Дядя Серёжа<br>Палыч|
+|**Регулярность** |Время от времени|
+|**Длительность** |50-80 минут|
+
+---
+
 |Название         |Откровенно про IT-карьеризм|
 |:----------------|:--------------------------|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/us/podcast/%D0%BE%D1%82%D0%BA%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE-%D0%BF%D1%80%D0%BE-it-%D0%BA%D0%B0%D1%80%D1%8C%D0%B5%D1%80%D0%B8%D0%B7%D0%BC/id472631602) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/it-19398) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/otkrovenno-pro-it-kar-yerizm) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/it.career.ua/)|
