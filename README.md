@@ -712,6 +712,16 @@
 
 ---
 
+|Название         |[Geek Export](https://geekexport.com/podcast)|
+|:----------------|:--------------------------------------------|
+|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/geekexport) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/geek-export/id1489876173) • [![Telegram](img/favicons/t.me.png)](https://t.me/geekexport) • [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/geek.exp/) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/9350528) • [![Email](img/favicons/email.png)](mailto:all@geekexport.com)|
+|**Описание**     |Подкаст про карьеру в Европе для IT специалистов. Общаемся про переезд, технологии. Наши гости дают советы о том, как найти работу и что для этого делать.|
+|**Ведущие**      |Игорь Сорока [![GitHub](img/favicons/github.com.png)](https://github.com/Grenguar)|
+|**Регулярность** |Время от времени|
+|**Длительность** |30-80 минут|
+
+---
+
 |Название         |[Generic Talks](https://generictalks.com/)|
 |:----------------|:-----------------------------------------|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/generictalks) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/pl/podcast/generic-talks/id1489980299) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/generic-talks) • [![VK](img/favicons/vk.com.png)](https://vk.com/generictalks) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/GenericTalks) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/generictalks/) • [![Telegram](img/favicons/t.me.png)](https://t.me/generictalks) • [![GitHub](img/favicons/github.com.png)](https://github.com/generictalks) • [![Email](img/favicons/email.png)](mailto:podcast@olegk.dev)|
