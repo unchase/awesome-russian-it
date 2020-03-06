@@ -882,6 +882,16 @@
 
 ---
 
+|Название         |Machine Learning Podcast|
+|:----------------|:-----------------------|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/machine-learning-podcast/id1495052772) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/9781458)|
+|**Описание**     |Это подкаст о машинном обучении от неспециалиста для неспециалистов. Буду рассказывать о развитии индустрии, проводить ликбез, объяснять терминологию и профессиональные жаргонизмы. Я сам не так давно начал погружаться в эту тему и по мере своего развития буду делиться своим пониманием этой интересной и перспективной области знаний.|
+|**Ведущие**      ||
+|**Регулярность** |Еженедельно|
+|**Длительность** |20-40 минут|
+
+---
+
 |Название         |[Make sense podcast](https://productsense.io/podcast)|
 |:----------------|:----------------------------------------------------|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/productsense) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/make-sense-podcast/id1417851966) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/make-sense/) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/make-sense-podcast) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/make-sense-podcast-id1381489?country=ru) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/make-sense) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/playlist?list=PLLgDtcIRzw1pjg9owrmHvyHkY0GHCIo2h) • [![VK](img/favicons/vk.com.png)](https://vk.com/mkspodcast) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/makesensecast/?ref=py_c) • [![Telegram](img/favicons/t.me.png)](https://t-do.ru/productsense) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/6842874?from=serp)|
