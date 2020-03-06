@@ -982,6 +982,16 @@
 
 ---
 
+|Название         |WikiTiles - энциклопедия Microsoft|
+|:----------------|:---------------------------------|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/wikitiles-энциклопедия-microsoft/id1195781986) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/wikitiles-microsoft) • [![Podster](img/favicons/podster.fm.png)](https://wikitiles.podster.fm/) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCuZkRpVSCiqFpxoh7ICnn-A) • [![VK](img/favicons/vk.com.png)](https://vk.com/wikitiles)|
+|**Описание**     |Добро пожаловать на подкаст-страничку канала WikiTIles - энциклопедии Microsoft!<br>Здесь я буду делиться с вами мыслями о последних событиях из Редмонда, а также последними новостями из мира высоких технологий.|
+|**Ведущие**      |Александр Старцев|
+|**Регулярность** |Время от времени|
+|**Длительность** |15-100 минут|
+
+---
+
 |Название         |[Zavractcast](https://zavtracast.ru)|
 |:----------------|:-----------------------------------|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/cy/podcast/zavtracast-завтракаст/id1068329384) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/?feed=aHR0cHM6Ly9mZWVkcy5wb2RjYXN0bWlycm9yLmNvbS96YXZ0cmFjYXN0) • [![Player](img/favicons/player.fm.png)](https://player.fm/podcasts/zavtracast) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/id1403291?country=ru) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/zavtracast) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCWu4IYWg9JpBurse8e-udPA) • [![VK](img/favicons/vk.com.png)](https://vk.com/zavtracast) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/zavtracast) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/zavtracast) • [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/zavtracast/) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/6411314?from=serp) • [![Twitch](img/favicons/twitch.tv.png)](https://www.twitch.tv/zavtracast) • [![Email](img/favicons/email.png)](mailto:zavtracast@gmail.com) • [![RSS](img/favicons/rss.png)](https://feeds.podcastmirror.com/zavtracast)|
