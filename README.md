@@ -984,7 +984,7 @@
 
 |Название         |WikiTiles - энциклопедия Microsoft|
 |:----------------|:---------------------------------|
-|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/wikitiles-энциклопедия-microsoft/id1195781986) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/wikitiles-microsoft) • [![Podster](img/favicons/podster.fm.png)](https://wikitiles.podster.fm/) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCuZkRpVSCiqFpxoh7ICnn-A) • [![VK](img/favicons/vk.com.png)](https://vk.com/wikitiles)|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/wikitiles-энциклопедия-microsoft/id1195781986) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/wikitiles-microsoft) • [![Podster](img/favicons/podster.fm.png)](https://wikitiles.podster.fm/) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCuZkRpVSCiqFpxoh7ICnn-A) • [![VK](img/favicons/vk.com.png)](https://vk.com/wikitiles) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/8968890)|
 |**Описание**     |Добро пожаловать на подкаст-страничку канала WikiTIles - энциклопедии Microsoft!<br>Здесь я буду делиться с вами мыслями о последних событиях из Редмонда, а также последними новостями из мира высоких технологий.|
 |**Ведущие**      |Александр Старцев|
 |**Регулярность** |Время от времени|
