@@ -1264,6 +1264,16 @@
 
 ---
 
+|Название         |Undefined Podcast|
+|:----------------|:----------------|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/undefined-podcast/id1499128651) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/10034426)|
+|**Описание**     |Аудио версии переводов статей из мира Javascript, Frontend разработки и веб технологий. В рамках фронтенд сообщества Undefined.|
+|**Ведущие**      |Елена<br>Филипп|
+|**Регулярность** |Время от времени|
+|**Длительность** |~10 минут|
+
+---
+
 |Название         |[UnderJS](https://underjs.ru/)|
 |:----------------|:-----------------------------|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/underjs) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/underjs-podcast/id1475405773) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/?feed=aHR0cHM6Ly91bmRlcmpzLnJ1L2l0dW5lcy54bWw%3D) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/episodes/106-senjor-znaet-cenu-govnokodu/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/underjs-podcast) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/UnderJS-Podcast-id2229507?country=ru) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/clip/62-mul-tikul-turnyy-podkast-ne-o-frontende) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/playlist?list=PL2p_GfZz-_1OWXrKUZRBc8LzMz5FJNXW7) • [![VK](img/favicons/vk.com.png)](https://vk.com/underjs) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/UnderJs) • [![Telegram](img/favicons/t.me.png)](https://t.me/uderjs_announcce) • [![GitHub](img/favicons/github.com.png)](https://github.com/underjs) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/8291062?from=serp) • [![RSS](img/favicons/rss.png)](https://underjs.ru/feed.xml)|
