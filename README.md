@@ -402,6 +402,16 @@
 
 ---
 
+|Название         |[Лухури Ларек](https://luhurilarek.com/)|
+|:----------------|:---------------------------------------|
+|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/luhurilarek) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/лухури-ларек/id1477012728) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/Лухури-Ларек-id2269351?country=ru) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/8445622) • [![RSS](img/favicons/rss.png)](http://feeds.feedburner.com/luhuri-larek)|
+|**Описание**     |Беседы о мире IT. Обсуждаем процессы и явления, которые касаются нас при разработке ПО.|
+|**Ведущие**      ||
+|**Регулярность** |Время от времени|
+|**Длительность** |50-100 минут|
+
+---
+
 |Название         |МакЛикбез .подкаст|
 |:----------------|:-----------------|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/макликбез-подкаст/id1395500354) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/maklikbiez-podkast) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/%D0%9C%D0%B0%D0%BA%D0%9B%D0%B8%D0%BA%D0%B1%D0%B5%D0%B7-.%D0%BF%D0%BE%D0%B4%D0%BA%D0%B0%D1%81%D1%82-id1365942?country=ru) • [![Podster](img/favicons/podster.fm.png)](https://maklikbez-podkast.podster.fm/) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCkTNOXHzfyx7C-cIhCHmpCw) • [![VK](img/favicons/vk.com.png)](https://vk.com/maclikbez) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/9638339?from=serp)|
