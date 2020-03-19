@@ -504,6 +504,16 @@
 
 ---
 
+|Название         |Подкаст Университета ИТМО|
+|:----------------|:------------------------|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/подкаст-университета-итмо/id1500562035) • [![RSS](img/favicons/rss.png)](http://www.vigorousspace.co/itmo?format=rss)|
+|**Описание**     |Обсуждаем рабочие, научные и образовательные проекты Университета ИТМО вместе с его представителями, профильными специалистами и руководителями лабораторий.|
+|**Ведущие**      |Дмитрий Кабанов [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/dmitrykabanov/)|
+|**Регулярность** |Время от времени|
+|**Длительность** |45 минут|
+
+---
+
 |Название         |[Подкасты Mobile-review.com](https://mobile-review.com/articles/2006/new-mr-podcasts.shtml)|
 |:----------------|:------------------------------------------------------------------------------------------|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/hr/podcast/%D0%BF%D0%BE%D0%B4%D0%BA%D0%B0%D1%81%D1%82%D1%8B-mobile-review-com/id271623368) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/mobile-review/) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/podkasty-mobile-reviewcom) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/id1051204?country=ru) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/user/MobileReviewcom/videos) • [![VK](img/favicons/vk.com.png)](https://vk.com/mobilereviewcom) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/mobilreview) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/mobilereviewcom/) • [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/mobilereview/) • [![RSS](img/favicons/rss.png)](https://mobile-review.com/podcasts/rss.xml)|
