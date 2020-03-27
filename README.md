@@ -268,7 +268,7 @@
 |:----------------|:---------------|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/esnippet) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/us/podcast/вечерний-сниппет/id1491663108) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/id2506460?utm_campaign=ex_share_ch&utm_medium=exlink&country=ru) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/9535893) • [![RSS](img/favicons/rss.png)](http://feeds.soundcloud.com/users/soundcloud:users:749703376/sounds.rss)|
 |**Описание**     |Подкаст про Айти.|
-|**Ведущие**      |Евгений<br>Максим<br>Виталий|
+|**Ведущие**      |Евгения<br>Максим<br>Виталий|
 |**Регулярность** |Еженедельно|
 |**Длительность** |40-60 минут|
 
