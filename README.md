@@ -394,6 +394,16 @@
 
 ---
 
+|Название         |Кулуарный|
+|:----------------|:--------|
+|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/kuluarnyiy) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/кулуарный/id1498625033) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/kuluarnyi) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/10072343)|
+|**Описание**     |Мы  -  отдушина для людей, которые любят поговорить, но устали от напыщенных рассуждений о новых фреймворках и баззвордов.<br>У нас гость может скинуть оковы привычного образа и без лишней стеснительности предстать перед коммьюнити человеком, которым на самом деле является. Со своей интересной историей, забавными байками, увлечениями, которые заставляют иногда закрыть родную IDE. Показать, что он много больше, нежели технический специалист.|
+|**Ведущие**      |Антон Назаров [![GitHub](img/favicons/github.com.png)](https://github.com/MortyMerr) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/M0rtyMerr/) [![Medium](img/favicons/medium.com.png)](https://medium.com/@MortyMerr)<br>Эрик|
+|**Регулярность** |Еженедельно|
+|**Длительность** |70-110 минут|
+
+---
+
 |Название         |Лёха & Лёха о новостях VMware и ИТ|
 |:----------------|:---------------------------------|
 |**Ссылки**       |[![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/?feed=aHR0cHM6Ly9hbGV4LWFuZC1hbGV4LXBvZGNhc3QuczMuZXUtY2VudHJhbC0xLmFtYXpvbmF3cy5jb20vcG9kY2FzdC54bWw=) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/%D0%9B%D1%91%D1%85%D0%B0-%26-%D0%9B%D1%91%D1%85%D0%B0-%D0%BE-%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D1%8F%D1%85-VMware-%D0%B8-%D0%98%D0%A2-id2164079?country=ru) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/9348886?from=serp)|
