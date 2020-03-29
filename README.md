@@ -1170,6 +1170,16 @@
 
 <sup>[Содержание](#содержание)</sup>
 
+|Название         |Между Скобок|
+|:----------------|:-----------|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/между-скобок/id1501691253) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/mezhdu-skobok/) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/10152203)|
+|**Описание**     |Подкаст обо всём, что связано с разработкой на PHP.|
+|**Ведущие**      |Сергей|
+|**Регулярность** |Несколько раз в месяц|
+|**Длительность** |~50 минут|
+
+---
+
 |Название         |[Пятиминутка PHP](https://5minphp.ru/)|
 |:----------------|:-------------------------------------|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/5minphp) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/patiminutka-php/id996423650) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/pyatiminutka-php/) • [![VK](img/favicons/vk.com.png)](https://vk.com/5minphp) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/5minphp) • [![Telegram](img/favicons/t.me.png)](https://t.me/tg_5minphp) • [![Podster](img/favicons/podster.fm.png)](https://podster.fm/user/5minphp) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/php-90501) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/pyatiminutka-php) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/%D0%9F%D1%8F%D1%82%D0%B8%D0%BC%D0%B8%D0%BD%D1%83%D1%82%D0%BA%D0%B0-PHP-id36139?country=ru) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCkqGd3xwk9LqNYXVTjAe3ww) • [![RSS](img/favicons/rss.png)](http://feeds.soundcloud.com/users/soundcloud:users:153519653/sounds.rss) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/7293227)|
