@@ -1,0 +1,50 @@
+name: Update_YouTube_Data
+
+on:
+  schedule:
+    - cron: '20 15 * * *'
+
+##on:
+##  push:
+##    branches: [ master ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Setup .NET Core
+      uses: actions/setup-dotnet@v1
+      with:
+        dotnet-version: 3.1.101
+    - name: ls
+      run: ls
+    - name: Set chmod to Unchase.HtmlTagsUpdater
+      run: chmod 777 ./utils/Unchase.HtmlTagsUpdater
+    - name: Run Unchase.HtmlTagsUpdater
+      env:
+        API_KEY: ${{ secrets.ApiKey }}
+      run: ./utils/Unchase.HtmlTagsUpdater -k "$API_KEY" -f "YouTube.md" -t "YouTube"
+      
+    - name: Show YouTube.md
+      run: cat YouTube.md
+      
+    - name: Git status
+      run: /usr/bin/git status
+      
+    - name: Git set author (email)
+      run: /usr/bin/git config --global user.name "GitHub Action Unchase"
+      
+    - name: Git set author (email)
+      run: /usr/bin/git config --global user.email "spiritkola@hotmail.com"
+      
+    - name: Git add
+      run: /usr/bin/git add YouTube.md
+      
+    - name: Git commit
+      run: /usr/bin/git commit -m "Update youtube channels data"
+      
+    - name: Git push
+      run: /usr/bin/git push origin master
