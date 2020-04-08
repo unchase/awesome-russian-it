@@ -410,9 +410,9 @@
 
 ---
 
-|Название         |[Клуб анонимных продакт-менеджеров](https://www.kapm.show/)|
-|:----------------|:----------------------------------------------------------|
-|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ua/podcast/%D0%BA%D0%BB%D1%83%D0%B1-%D0%B0%D0%BD%D0%BE%D0%BD%D0%B8%D0%BC%D0%BD%D1%8B%D1%85-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%BA%D1%82-%D0%BC%D0%B5%D0%BD%D0%B5%D0%B4%D0%B6%D0%B5%D1%80%D0%BE%D0%B2/id1272548806) • [![RSS](img/favicons/rss.png)](https://www.kapm.show/feed/podcast/)|
+|Название         |[Клуб анонимных продакт-менеджеров](https://www.kapm.show/) [#2](https://www.kapm.club/)|
+|:----------------|:---------------------------------------------------------------------------------------|
+|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/kapmshow) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ua/podcast/%D0%BA%D0%BB%D1%83%D0%B1-%D0%B0%D0%BD%D0%BE%D0%BD%D0%B8%D0%BC%D0%BD%D1%8B%D1%85-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%BA%D1%82-%D0%BC%D0%B5%D0%BD%D0%B5%D0%B4%D0%B6%D0%B5%D1%80%D0%BE%D0%B2/id1272548806) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/klub-anonimnykh-prodakt-mieniedzhierov) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/2487820?country=ru) • [![RSS](img/favicons/rss.png)](https://www.kapm.show/feed/podcast/)|
 |**Описание**     |Клуб анонимных продакт-менеджеров - это место, где профессионалы из сферы управления продуктом и смежных дисциплин делятся опытом, лайфкахами и историями успеха.|
 |**Ведущие**      |Владимир Мирненко|
 |**Регулярность** |Время от времени|
