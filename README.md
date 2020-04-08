@@ -318,6 +318,18 @@
 
 ---
 
+|Название         |[Выжить на Галере](https://galerapodcast.com/)|
+|:----------------|:---------------------------------------------|
+|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/galerapodcast) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/выжить-на-галере/id1440854860) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/?feed=aHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL3NvdW5kY2xvdWQvT1BaaA) • [![Anchor](img/favicons/anchor.fm.png)](https://anchor.fm/galerapodcast) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/2721135?country=ru) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCChmSnQjM73-DNQk02RTC1A) • [![Telegram](img/favicons/t.me.png)](https://t.me/galerapodcast) • [![RSS](img/favicons/rss.png)](https://anchor.fm/s/197785a8/podcast/rss)|
+|**Описание**     |Выжить на Галере - подкаст про IT, в котором проджект-менеджер Антон Костюченко и фронтенд-разработчик Тони Бабенко обсуждают проблемы, процессы, сложности и другие интересные вопросы с которыми сталкиваются все (или почти все), кто работает в IT.<br>Мы подробно обсуждаем как стать лучше, куда расти, как быть на пике продуктивности, повышать себе зарплату и как достигать новых карьерных достижений.|
+|**Ведущие**      |Антон Костюченко<br>[Тони Бабенко](https://tonnio.dev/)|
+|**Регулярность** |Ежемесячно|
+|**Длительность** |20-30 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1440854860" class="episodes"></span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1440854860" class="release-date"></span>|
+
+---
+
 |Название         |Горячий #tceh|
 |:----------------|:------------|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/горячий-tceh/id1492765073) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/Горячий-tceh-id2520882?country=ru) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcast-73842245_456239023) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/9520849)|
