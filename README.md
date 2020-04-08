@@ -8,7 +8,7 @@
 
 <h5 align="center">Здесь собран список полезных русскоязычных ресурсов, связанных с информационными технологиями (разработка, администрирование, митапы и конференции, интервью, новости ИТ и пр.).</h5>
 
-> Ежедневно автоматически обновляются данные о количестве подписчиков, количестве видео и дате последнего видео для [YouTube-каналов](YouTube.md), а также о количестве эпизодов и дате релиза последнего эпизода для [подкастов](#подкасты).
+> Ежедневно автоматически обновляются данные о количестве подписчиков, количестве видео и дате последнего видео для [YouTube-каналов](YouTube.md), а также о количестве эпизодов и дате релиза последнего эпизода для [подкастов](#podcasts).
 
 ---
 
@@ -16,7 +16,7 @@
 
 Также вы можете посмотреть [список русскоязычных YouTube-каналов](YouTube.md), связанных с ИТ.
 
-|<p align="center">**[Блоги](#блоги)**</p>|<p align="center">**[Подкасты](#подкасты)**</p>|<p align="center">**[Мероприятия](#мероприятия)**</p>|<p align="center">**Прочее**</p>|
+|<p align="center">**[Блоги](#блоги)**</p>|<p align="center">**[Подкасты](#podcasts)**</p>|<p align="center">**[Мероприятия](#мероприятия)**</p>|<p align="center">**Прочее**</p>|
 |:-|:-|:-|:-|
 |&nbsp;•&nbsp;[Администрирование](#blogs-administrating)<br>&nbsp;•&nbsp;[Документация](#blogs-documentation)<br>&nbsp;•&nbsp;[Общее](#blogs-common)<br>&nbsp;•&nbsp;[Паттерны](#blogs-patterns)<br>&nbsp;•&nbsp;[Тестирование](#blogs-testing)<br>&nbsp;•&nbsp;[.NET](#blogs-dotnet)<br>&nbsp;•&nbsp;[GameDev](#blogs-gamedev)<br>&nbsp;•&nbsp;[Java](#blogs-java)<br>&nbsp;•&nbsp;[Go](#blogs-go)<br>&nbsp;•&nbsp;[Python](#blogs-python)|&nbsp;•&nbsp;[Администрирование](#podcasts-administrating)<br>&nbsp;•&nbsp;[Блокчейн](#podcasts-blockchain)<br>&nbsp;•&nbsp;[ИТ-безопасность](#podcasts-security)<br>&nbsp;•&nbsp;[Общее](#podcasts-common)<br>&nbsp;•&nbsp;[Продуктовый дизайн](#podcasts-design)<br>&nbsp;•&nbsp;[Разработка](#podcasts-development)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;[.NET](#podcasts-development-dotnet)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;[PHP](#podcasts-development-php)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;[Python](#podcasts-development-python)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;[Ruby](#podcasts-development-ruby)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;[Scala](#podcasts-development-scala)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[Веб-разработка](#podcasts-development-web)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[Мобильная разработка](#podcasts-development-mobile)<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;[Android](#podcasts-development-mobile-android)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[Разработка игр](#podcasts-development-gamedev)<br>&nbsp;•&nbsp;[Тестирование](#podcasts-testing)<br>&nbsp;•&nbsp;[BigData](#podcasts-bigdata)<br>&nbsp;•&nbsp;[DevOps](#podcasts-devops)<br>|&nbsp;•&nbsp;[Агрегаторы и Общие](#meetups-aggregators)<br>&nbsp;•&nbsp;[Аналитика](#meetups-analytics)<br>&nbsp;•&nbsp;[БД](#meetups-db)<br>&nbsp;•&nbsp;[AI](#meetups-ai)<br>&nbsp;•&nbsp;[Architecture](#meetups-architecture)<br>&nbsp;•&nbsp;[BlockChain](#meetups-blockchain)<br>&nbsp;•&nbsp;[BigData и DataScience](#meetups-bigdata-datascience)<br>&nbsp;•&nbsp;[Development](#meetups-development)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[1C](#meetups-development-1c)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[.NET](#meetups-development-dotnet)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[C++](#meetups-development-cpp)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[Elixir](#meetups-development-elixir)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[GameDev](#meetups-development-gamedev)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[Go](#meetups-development-go)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[IoT](#meetups-development-iot)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[Java](#meetups-development-java)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[Kotlin](#meetups-development-kotlin)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[Mobile](#meetups-development-mobile)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[MR VR AR](#meetups-development-mr-vr-ar)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[PHP](#meetups-development-php)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[Python](#meetups-development-python)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[Ruby](#meetups-development-ruby)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[Scala](#meetups-development-scala)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[Web](#meetups-development-web)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[DevOps](#meetups-devops)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[Management](#meetups-management)<br>&nbsp;•&nbsp;[Security](#meetups-security)<br>&nbsp;•&nbsp;[Testing и QA](#meetups-testing-qa)<br>&nbsp;•&nbsp;[UX](#meetups-ux)|&nbsp;•&nbsp;[YouTube-каналы (в отдельном файле)](https://github.com/unchase/awesome-russian-it/blob/master/YouTube.md)<br>&nbsp;•&nbsp;[Информация для авторов ресурсов](#информация-для-авторов-ресурсов)<br>&nbsp;•&nbsp;[Контрибьюторы](#контрибьюторы)|
 
@@ -154,7 +154,7 @@
 
 </details>
 
-## **Подкасты** (обновлено: <span class="last-update">04.08.2020 06:22 +00</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">04.08.2020 06:22 +00</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
