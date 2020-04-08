@@ -1824,6 +1824,18 @@
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1400069457" class="episodes">41 (<font color="green">+0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1400069457" class="release-date">06.16.2019 14:48 +00</span>|
 
+---
+
+|Название         |[theBatya TALK](https://thebatya.com/podcasts/)|
+|:----------------|:----------------------------------------------|
+|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/thebatya_talk) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/thebatya-talk/id1457864181) • [![Anchor](img/favicons/anchor.fm.png)](https://anchor.fm/thebatya) • [![Podster](img/favicons/podster.fm.png)](https://thebatya-talk.podster.fm/) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/thebatya-talk-2509819) • [![VK](img/favicons/vk.com.png)](https://vk.com/thebatya) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/batyagaming) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/batya.gaming/) • [![Telegram](img/favicons/t.me.png)](https://t.me/thebatya) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/7730362)|
+|**Описание**     |Подкаст об индустрии игр на языке игроков.|
+|**Ведущие**      |Евгений Рамазанов|
+|**Регулярность** |Ежемесячно|
+|**Длительность** |30-60 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1457864181" class="episodes"></span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1457864181" class="release-date"></span>|
+
 </details>
 
 </details>
