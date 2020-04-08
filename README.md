@@ -766,6 +766,18 @@
 
 ---
 
+|Название         |Циферкаст|
+|:----------------|:--------|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/циферкаст/id1473142814) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/8093588)|
+|**Описание**     |«Циферкаст» — подкаст Центра подготовки руководителей цифровой трансформации. Ведущие Ксения Ткачева и Олег Шакиров обсуждают с гостями что происходит с обществом и государством в цифровую эпоху.|
+|**Ведущие**      |Ксения Ткачева<br>Олег Шакиров|
+|**Регулярность** |Время от времени|
+|**Длительность** |30-70 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1473142814" class="episodes"></span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1473142814" class="release-date"></span>|
+
+---
+
 |Название         |[#BeardyCast: гаджеты и медиакультура](https://beardycast.com/)|
 |:----------------|:--------------------------------------------------------------|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/beardycast) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/beardycast-%D0%B3%D0%B0%D0%B4%D0%B6%D0%B5%D1%82%D1%8B-%D0%B8-%D0%BC%D0%B5%D0%B4%D0%B8%D0%B0%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B0/id868222886) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/beardycast) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/BeardyCast%3A-%D0%B3%D0%B0%D0%B4%D0%B6%D0%B5%D1%82%D1%8B-%D0%B8-%D0%BC%D0%B5%D0%B4%D0%B8%D0%B0%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B0-id108326?country=ru) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/channel/beardycast) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UC8LC9RGDSc-brZldHFvML3A) • [![VK](img/favicons/vk.com.png)](https://vk.com/beardycast) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/beardyshow) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/beardycast/) • [![Telegram](img/favicons/t.me.png)](https://tlg.name/beardycast) • [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/beardycast/) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/6408410) • [![Medium](img/favicons/medium.com.png)](https://medium.com/@BeardyCast)|
