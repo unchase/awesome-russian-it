@@ -26,10 +26,10 @@ jobs:
     - name: Run Unchase.HtmlTagsUpdater
       env:
         API_KEY: ${{ secrets.ApiKey }}
-      run: ./utils/Unchase.HtmlTagsUpdater -f "README.md" -t "iTunesPodcast"
+      run: ./utils/Unchase.HtmlTagsUpdater -f "Podcasts.md" -t "iTunesPodcast"
       
-    - name: Show README.md
-      run: cat README.md
+    - name: Show Podcasts.md
+      run: cat Podcasts.md
       
     - name: Git status
       run: /usr/bin/git status
@@ -41,7 +41,7 @@ jobs:
       run: /usr/bin/git config --global user.email "spiritkola@hotmail.com"
       
     - name: Git add
-      run: /usr/bin/git add README.md
+      run: /usr/bin/git add Podcasts.md
       
     - name: Git commit
       run: /usr/bin/git commit -m "Update podcasts data"
