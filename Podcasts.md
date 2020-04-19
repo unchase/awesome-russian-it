@@ -151,6 +151,18 @@
 
 ---
 
+|Название         |[Битовая каска](https://bitcask.live/)|
+|:----------------|:-------------------------------------|
+|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/bitcask) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/битовая-каска-bitcask/id1497722428) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/bitovaia-kaska-bitcask)  • [![VK](img/favicons/vk.com.png)](https://vk.com/bitcask) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/bitcaskpodcast) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/bitcask/)|
+|**Описание**     |Подкаст про ИТ, технологии, Java, конференции и всё в таком духе.|
+|**Ведущие**      |Андрей Дмитриев<br>Олег Чирухин [![GitHub](img/favicons/github.com.png)](https://github.com/olegchir) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/olegchir/)<br>Анатолий Коровин<br>Всеволод Брекелов [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/vbrekelov/)|
+|**Регулярность** |Еженедельно|
+|**Длительность** |~60 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1497722428" class="episodes"></span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1497722428" class="release-date"></span>|
+
+---
+
 |Название         |[В бесконечность и далее](https://www.toinfinity.org/)|
 |:----------------|:-----------------------------------------------------|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/to-infinity-948561200) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/в-бесконечность-и-далее/id1399902281) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/v-beskonechnost-i-dalee/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/2348240) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/%D0%92-%D0%B1%D0%B5%D1%81%D0%BA%D0%BE%D0%BD%D0%B5%D1%87%D0%BD%D0%BE%D1%81%D1%82%D1%8C-%D0%B8-%D0%B4%D0%B0%D0%BB%D0%B5%D0%B5-id1323362?country=ru) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/v-beskonechnost-i-daleye) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCcPyOe2AXDG3c3t-ZvX-0Pw) • [![VK](img/favicons/vk.com.png)](https://vk.com/toinfinitypodcast) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/KZO50uPqSZDDTpX) • [![Telegram](img/favicons/t.me.png)](https://t.me/toinfinity_podcast) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/8750471?from=serp) • [![Email](img/favicons/email.png)](mailto:tiab.mailbox@gmail.com) • [![RSS](img/favicons/rss.png)](http://toinfinityandbeyond.libsyn.com/rss)|
