@@ -1665,6 +1665,18 @@
 
 ---
 
+|Название         |Подкаст XYZ|
+|:----------------|:----------|
+|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/user-763842102) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/подкаст-xyz/id1506185868) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/watch?v=vwO1k60NvnQ&list=PLYwj09AbSoHl9DBZol_C-vtodZnmTiq3z) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcasts-124560669) • [![Telegram](img/favicons/t.me.png)](https://t.me/xyz_podcast) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/10329772)|
+|**Описание**     |Подкаст про геймдев и фильмы.|
+|**Ведущие**      |Дмитрий Борисов<br>Артемий Леонов|
+|**Регулярность** |Еженедельно|
+|**Длительность** |80-120 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1506185868" class="episodes"></span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1506185868" class="release-date"></span>|
+
+---
+
 |Название         |[Подпольный геймдизайн](https://torick.ru/podkast/)|
 |:----------------|:--------------------------------------------------|
 |**Ссылки**       |[![Podster](img/favicons/podster.fm.png)](https://ugd.podster.fm/) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/podpolnyj-gejmdizajn/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/series-1296923) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/podpol-nyy-geymdizayn)|
