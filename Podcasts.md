@@ -1791,6 +1791,18 @@
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="670175970" class="episodes">50 (<font color="green">+0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="670175970" class="release-date">10.01.2019 09:00 +00</span>|
 
+---
+
+|Название         |[DevOps Kitchen Talks](https://devopskitchentalks.podbean.com/)|
+|:----------------|:--------------------------------------------------------------|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/the-devops-kitchen-talkss-podcast/id1502639464) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCXJ196NygANaBHg_KznKXag) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/10151746) • [![RSS](img/favicons/rss.png)](https://feed.podbean.com/devopskitchentalks/feed.xml)|
+|**Описание**     |DevOps Kitchen Talks подкаст - это разговоры о современном DevOps, IT и около IT тематиках. Постоянные ведущие Виктор и Максим неформально общаются на разнообразные темы, делятся своими взглядами и вспоминают забавные случаи из реального опыта.|
+|**Ведущие**      |Виктор<br>Максим|
+|**Регулярность** |Раз в две недели|
+|**Длительность** |80-120 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1502639464" class="episodes"></span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1502639464" class="release-date"></span>|
+
 </details>
 
 ---
