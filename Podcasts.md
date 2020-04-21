@@ -75,6 +75,18 @@
 
 <sup>[Содержание](#содержание)</sup>
 
+|Название         |Мимокрокодил|
+|:----------------|:-----------|
+|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/m1mo-croc) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/id1505781025) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/10321679)|
+|**Описание**     |Мимокрокодил — это подкаст про IT-технологии и Информационную безопасность, где три ИБ-специалиста рассуждают о куче вещей, в которых ничего не понимают.|
+|**Ведущие**      |Денис Рыбин<br>Егор Карбутов<br>Кирилл Воробьев|
+|**Регулярность** |Время от времени|
+|**Длительность** |~60 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1505781025" class="episodes"></span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1505781025" class="release-date"></span>|
+
+---
+
 |Название         |[Хочу в ИБ](https://hochu-v-ib.ru/)|
 |:----------------|:----------------------------------|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/%D1%85%D0%BE%D1%87%D1%83-%D0%B2-%D0%B8%D0%B1/id1481167745) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/2579713) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.by/album/8849520) • [![RSS](img/favicons/rss.png)](https://hochu-v-ib.ru/feed/mp3/)|
