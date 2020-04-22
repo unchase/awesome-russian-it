@@ -33,7 +33,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">04.22.2020 18:02 +00</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">04.22.2020 20:01 +00</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -67,7 +67,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |50-110 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1289965366" class="episodes">97 (<font color="green">+0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1289965366" class="release-date">04.21.2020 17:48 +00</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1289965366" class="release-date">04.22.2020 08:51 +00</span>|
 
 </details>
 
@@ -334,8 +334,8 @@
 |**Ведущие**      |Владимир Мирненко|
 |**Регулярность** |Время от времени|
 |**Длительность** |50-100 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1272548806" class="episodes">12 (<font color="green">+1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1272548806" class="release-date">04.22.2020 08:40 +00</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1272548806" class="episodes">11 (<font color="red">-1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1272548806" class="release-date">03.30.2020 12:40 +00</span>|
 
 ---
 
@@ -1200,7 +1200,7 @@
 |**Ведущие**      |[Валентин Петухов (Wylsacom)](https://wylsa.com/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCt7sv-NKh44rHAEb-qCCxvA)<br>Григорий Бакунов (Bobuk) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/bobuk/) [![GitHub](img/favicons/github.com.png)](https://github.com/bobuk)|
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |120-150 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1068329384" class="episodes">220 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1068329384" class="episodes">220 (<font color="green">+0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1068329384" class="release-date">04.22.2020 11:33 +00</span>|
 
 </details>
