@@ -10,6 +10,13 @@
 
 > Ежедневно автоматически обновляются данные о количестве подписчиков, количестве видео и дате последнего видео для [YouTube-каналов](YouTube.md), а также о количестве эпизодов и дате релиза последнего эпизода для [подкастов](Podcasts.md).
 
+## Статус ежедневного обновления
+
+|Раздел|Статус|
+|:----:|:----:|
+|Podcasts|![Update_Podcasts_Data](https://github.com/unchase/awesome-russian-it/workflows/Update_Podcasts_Data/badge.svg)|
+|YouTube|![Update_YouTube_Data](https://github.com/unchase/awesome-russian-it/workflows/Update_YouTube_Data/badge.svg)|
+
 ---
 
 ## Содержание
