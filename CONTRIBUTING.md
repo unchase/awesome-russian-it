@@ -61,9 +61,9 @@ http://favicon.yandex.net/favicon/<ссылка_на_ресурс>
 
 |Название|Описание|Всего видео|Подписчиков|Дата последнего видео|
 |:------:|:-------|:---------:|:---------:|:-------------------:|
-|<a href=""><img width="30" src=""></a><br>[]()||<span id="" class="youtube-count"></span>|<span id="" class="youtube-subscribers"></span>|<span id="" class="last-video-date"></span>|
+|<a href=""><img width="30" src=""></a><br>[]()||<span id="" class="youtube-count" hashtag=""></span>|<span id="" class="youtube-subscribers"></span>|<span id="" class="last-video-date"></span>|
 
-*Во все `<span>` в качестве id необходимо подставить идентификатор YouTube-канала или идентификатор пользователя YouTube.* 
+*Во все `<span>` в качестве id необходимо подставить идентификатор YouTube-канала или идентификатор пользователя YouTube. В атрибут hashtag необходимо подставить хэш-тег, который будет отображаться в telegram-канале.* 
 Эта информация будет использоваться для автоматического ежедневного обновления данных по YouTube-каналам.
 
 ---
