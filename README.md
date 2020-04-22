@@ -12,10 +12,10 @@
 
 ## Статус ежедневного обновления
 
-|Раздел|Статус|
-|:----:|:----:|
-|Podcasts|![Update_Podcasts_Data](https://github.com/unchase/awesome-russian-it/workflows/Update_Podcasts_Data/badge.svg)|
-|YouTube|![Update_YouTube_Data](https://github.com/unchase/awesome-russian-it/workflows/Update_YouTube_Data/badge.svg)|
+|Раздел|Статус|Telegram-канал|
+|:----:|:----:|:-------------|
+|Podcasts|![Update_Podcasts_Data](https://github.com/unchase/awesome-russian-it/workflows/Update_Podcasts_Data/badge.svg)|[@awesome_russian_it](https://t.me/awesome_russian_it) - здесь ежедневно вместе с обновлением репозитория публикуются новые выпуски подкастов, добавленные с прошлого обновления.|
+|YouTube|![Update_YouTube_Data](https://github.com/unchase/awesome-russian-it/workflows/Update_YouTube_Data/badge.svg)||
 
 ---
 
