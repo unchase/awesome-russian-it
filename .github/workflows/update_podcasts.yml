@@ -23,10 +23,11 @@ jobs:
       run: ls
     - name: Set chmod to Unchase.HtmlTagsUpdater
       run: chmod 777 ./utils/Unchase.HtmlTagsUpdater
-    - name: Run Unchase.HtmlTagsUpdater
+    - name: Run Unchase.HtmlTagsUpdater (with Telegram Bot)
       env:
-        API_KEY: ${{ secrets.ApiKey }}
-      run: ./utils/Unchase.HtmlTagsUpdater -f "Podcasts.md" -t "iTunesPodcast"
+        TG_KEY: ${{ secrets.TgKey }}
+        TG_CHANNEL_ID: ${{ secrets.TgChannelId }}
+      run: ./utils/Unchase.HtmlTagsUpdater -f "Podcasts.md" -t "iTunesPodcast" -a "$TG_KEY" -c "$TG_CHANNEL_ID" -n "" -p "0" -i "15" -r "96.113.176.101:1080"
       
     - name: Show Podcasts.md
       run: cat Podcasts.md
