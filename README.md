@@ -14,8 +14,8 @@
 
 |Раздел|Статус|Telegram-канал|
 |:----:|:----:|:-------------|
-|Podcasts|![Update_Podcasts_Data](https://github.com/unchase/awesome-russian-it/workflows/Update_Podcasts_Data/badge.svg)|[@awesome_russian_it](https://t.me/awesome_russian_it) - здесь периодически вместе с обновлением файла ([Podcasts.md](Podcasts.md)) репозитория публикуются новые выпуски подкастов, добавленные с прошлого обновления.|
-|YouTube|![Update_YouTube_Data](https://github.com/unchase/awesome-russian-it/workflows/Update_YouTube_Data/badge.svg)||
+|Podcasts|![Update_Podcasts_Data](https://github.com/unchase/awesome-russian-it/workflows/Update_Podcasts_Data/badge.svg)|[@awesome_russian_podcasts](https://t.me/awesome_russian_podcasts) - здесь периодически вместе с обновлением файла ([Podcasts.md](Podcasts.md)) репозитория публикуются новые выпуски подкастов, добавленные с прошлого обновления.|
+|YouTube|![Update_YouTube_Data](https://github.com/unchase/awesome-russian-it/workflows/Update_YouTube_Data/badge.svg)|[@awesome_russian_youtube](https://t.me/awesome_russian_youtube) - здесь периодически вместе с обновлением файла ([YouTube.md](YouTube.md)) репозитория публикуются новые видео из YouTube-каналов, добавленные с прошлого обновления.|
 
 ---
 
