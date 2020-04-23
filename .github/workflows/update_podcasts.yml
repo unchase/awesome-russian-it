@@ -2,7 +2,7 @@ name: Update_Podcasts_Data
 
 on:
   schedule:
-    - cron: '0 8-23/2 * * *'
+    - cron: '0 5-20/2 * * *'
 
 ##on:
 ##  push:
