@@ -2,7 +2,7 @@ name: Update_YouTube_Data
 
 on:
   schedule:
-    - cron: '40 15 * * *'
+    - cron: '0 4-19/8 * * *'
 
 ##on:
 ##  push:
