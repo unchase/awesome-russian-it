@@ -2,7 +2,7 @@ name: Update_YouTube_Data
 
 on:
   schedule:
-    - cron: '0 4-19/8 * * *'
+    - cron: '0 6-21/8 * * *'
 
 ##on:
 ##  push:
@@ -26,7 +26,9 @@ jobs:
     - name: Run Unchase.HtmlTagsUpdater
       env:
         API_KEY: ${{ secrets.ApiKey }}
-      run: ./utils/Unchase.HtmlTagsUpdater -k "$API_KEY" -f "YouTube.md" -t "YouTube"
+        TG_KEY: ${{ secrets.TgKey }}
+        TG_CHANNEL_ID: ${{ secrets.TgYoutubeChannelId }}
+      run: ./utils/Unchase.HtmlTagsUpdater -k "$API_KEY" -f "YouTube.md" -t "YouTube" -a "$TG_KEY" -c "$TG_CHANNEL_ID" -n "" -p "0" -i "15" -r "96.113.176.101:1080"
       
     - name: Show YouTube.md
       run: cat YouTube.md
