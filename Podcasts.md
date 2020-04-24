@@ -565,6 +565,18 @@
 
 ---
 
+|Название         |[Радио Платформа](https://radioplatforma.com/)|
+|:----------------|:---------------------------------------------|
+|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/radioplatforma) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/радио-платформа/id1494625132) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/2630904) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCvsqSBRmL-dNLYRwHtgmeNg) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/RadioPlatforma) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/radioplatforma/) • [![Telegram](img/favicons/t.me.png)](https://t.me/radioplatforma) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/9715581) • [![RSS](img/favicons/rss.png)](https://feeds.buzzsprout.com/806006.rss)|
+|**Описание**     |IT Подкаст о разработке и технологиях с участием интересных гостей.|
+|**Ведущие**      |Стас Лозенко<br>Андрей Гнатюк|
+|**Регулярность** |Время от времени|
+|**Длительность** |60-90 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1494625132" class="episodes" hashtag="radioplatforma">5</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1494625132" class="release-date">03.16.2020</span>|
+
+---
+
 |Название         |[Радио-Т](https://radio-t.com)|
 |:----------------|:-----------------------------|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/podcast/%D1%80%D0%B0%D0%B4%D0%B8%D0%BE-%D1%82/id256504435) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/11441) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/id1572?country=ru) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCBl1ML1jnlhRxHlCjSKTyeA) • [![VK](img/favicons/vk.com.png)](https://vk.com/radio_t) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/radio_t) • [![Telegram](img/favicons/t.me.png)](https://t.me/radio_t_podcast) • [![Email](img/favicons/email.png)](mailto:podcast@radio-t.com) • [![RSS](img/favicons/rss.png)](http://feeds.rucast.net/radio-t)|
