@@ -433,6 +433,16 @@
 
 ---
 
+|Название         |Мы обречены|
+|:----------------|:----------|
+|**Ссылки**       |[![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCUSbYJK87rpBUJ5KGQd7oHA) • [![Telegram](img/favicons/t.me.png)](https://t.me/myobrecheny) • [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/search/?q=%5Bмы%20обречены%5D&target_type=posts) • [![Email](img/favicons/email.png)](mailto:myobrecheny@gmail.com)|
+|**Описание**     |Лучший подкаст про ИТ в России.|
+|**Ведущие**      |Артем Малышев<br>Фил Ранжин|
+|**Регулярность** |Еженедельно|
+|**Длительность** |50-70 минут|
+
+---
+
 |Название         |Мысли и методы (бывш. Хекслет)|
 |:----------------|:-----------------------------|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/mimpod) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/hekslet/id1162673070) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/episodes/24-eksperiment-mysli-i-metody/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/mysli-i-mietody-byvsh-khieksliet) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/id395706?country=ru) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/clip/24-eksperiment-mysli-i-metody) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/watch?v=YG-Qk4teUsM&list=PLJkY8w_wcMfs8B03qRp0tSW4KHcxOetvx) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/ru_freetonik) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/6408500?from=serp) • [![RSS](img/favicons/rss.png)](http://feeds.soundcloud.com/users/soundcloud:users:259154388/sounds.rss)|
