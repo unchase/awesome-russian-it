@@ -1309,6 +1309,16 @@
 
 <sup>[Содержание](#содержание)</sup>
 
+|Название         |[Z-namespace](https://ilyakaznacheev.github.io/z-namespace/)|
+|:----------------|:-----------------------------------------------------------|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/z-namespace/id1501041559) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/?feed=aHR0cDovL3Jzcy5jYXN0Ym94LmZtL2V2ZXJlc3QvYTE1NTY5OWFmZmYxNDAzODkzYjIzZmNmOTM5ZmM1YTAueG1s) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/id2658981?country=ru) • [![Overcast](img/favicons/overcast.fm.png)](https://overcast.fm/itunes1501041559/z-namespace) • [![Telegram](img/favicons/t.me.png)](https://t.me/z_namespace) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/10122818) • [![GitHub](img/favicons/github.com.png)](https://github.com/ilyakaznacheev/z-namespace) • [![RSS](img/favicons/rss.png)](http://rss.castbox.fm/everest/a155699afff1403893b23fcf939fc5a0.xml)|
+|**Описание**     |Подкаст про хорошие практики в плохих местах.<br>Первый русскоязычный подкаст про разработку промышленного ПО, SAP, ABAP, и прочие грозные аббревиатуры.|
+|**Ведущие**      |Илья Казначеев<br>Илья Виноградов<br>Иван Тюменьев|
+|**Регулярность** |Время от времени|
+|**Длительность** |90-140 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1501041559" class="episodes" hashtag="z_namespace">4</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1501041559" class="release-date">04.12.2020</span>|
+
 <details open="open"><summary><a name="podcasts-development-dotnet"></a><b>&nbsp;&nbsp;&nbsp;&nbsp;.NET</b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
