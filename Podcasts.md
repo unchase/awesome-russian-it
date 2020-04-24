@@ -649,6 +649,18 @@
 
 ---
 
+|Название         |[Твой Digital](www.tvoydigital.ru)|
+|:----------------|:---------------------------------|
+|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/tvoydigital) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/твой-digital/id1502778082) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcasts-191694122) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/tvoydigital) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/tvoydigital) • [![Telegram](img/favicons/t.me.png)](https://t.me/tvoydigital) • [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/tvoydigital/) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/10141776)|
+|**Описание**     |Твой Digital - Первый ежедневный подкаст о цифровых технологиях.<br>События и явления, которые имеют отношение к твоей жизни.<br>Информация и новости, которые имеют ясный и четкий ответ на вопрос "Что мне с этого?".|
+|**Ведущие**      |Станислав Леонидов|
+|**Регулярность** |Ежедневно|
+|**Длительность** |~10-15 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1502778082" class="episodes" hashtag="tvoydigital">13</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1502778082" class="release-date">04.14.2020</span>|
+
+---
+
 |Название         |Технологии и жизнь — подкаст|
 |:----------------|:---------------------------|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8-%D0%B8-%D0%B6%D0%B8%D0%B7%D0%BD%D1%8C-%D0%BF%D0%BE%D0%B4%D0%BA%D0%B0%D1%81%D1%82/id1013700516) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/series-1955593) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/%D0%A2%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8-%D0%B8-%D0%B6%D0%B8%D0%B7%D0%BD%D1%8C---%D0%BF%D0%BE%D0%B4%D0%BA%D0%B0%D1%81%D1%82-id2046306?country=ru) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/7322142?from=serp)|
