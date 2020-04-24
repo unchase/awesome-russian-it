@@ -1197,6 +1197,16 @@
 
 ---
 
+|Название         |TerraLink Digital|
+|:----------------|:----------------|
+|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/user-65005812) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/10351342)|
+|**Описание**     |Подкаст от TerraLink «Первая цифровая» - это аудиоверсия одноименной телепередачи. В ней ведущие Андрей Трещук и Виктория Макарычева встречаются с лидерами бизнеса и обсуждают, что такое цифровизация, какие связанные с ней изменения происходят на предприятиях уже сейчас, а каких можно ожидать в ближайшем будущем, чем отличается цифровая компания от других, и как перестроиться на новые технологии. Гости программы - топ-менеджеры предприятий и организаций разных отраслей, руководители ИТ подразделений, директоры по цифровизации, а также независимые эксперты.|
+|**Ведущие**      |Андрей Трещук<br>Виктория Макарычева|
+|**Регулярность** |Время от времени|
+|**Длительность** |~25 минут|
+
+---
+
 |Название         |[The Art Of Programming](https://theartofprogramming.podbean.com/)|
 |:----------------|:-----------------------------------------------------------------|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/the-art-of-programming/id1046278525) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/the-art-of-programming/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/the-art-of-programming-2361435) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/The-Art-Of-Programming-id1336593?country=ru) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/the-art-of-programming) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/taoppodcast) • [![Telegram](img/favicons/t.me.png)](https://t.me/taoplive) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/6883832?from=serp) • [![RSS](img/favicons/rss.png)](https://feed.podbean.com/theartofprogramming/feed.xml)|
