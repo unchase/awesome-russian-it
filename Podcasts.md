@@ -1149,6 +1149,18 @@
 
 ---
 
+|Название         |Rococast|
+|:----------------|:-------|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/rococast/id1455993703) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/rococast) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/7115653)|
+|**Описание**     |О технологиях простым языком. Мы рассказываем об IT новинках, делимся своим мнением о новых устройствах и тестируем самые последние и актуальные гаджеты.|
+|**Ведущие**      ||
+|**Регулярность** |Еженедельно|
+|**Длительность** |~10-15 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1455993703" class="episodes" hashtag="rococast">16</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1455993703" class="release-date">04.08.2020</span>|
+
+---
+
 |Название         |[RootCast](https://root-nation.com/tag/rootcast/)|
 |:----------------|:------------------------------------------------|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/us/podcast/rootcast/id626208574) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/rootcast-1402624) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/id492387?country=ru) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/rootcast) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/6914323?from=serp)|
