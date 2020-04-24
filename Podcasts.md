@@ -1485,6 +1485,18 @@
 
 ---
 
+|Название         |Разговоры про веб. Без коммитов|
+|:----------------|:------------------------------|
+|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/itcase-pro) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/без-коммитов/id1454000225) • [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/itcase_pro/) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/7375251)|
+|**Описание**     |Разговоры про веб. Подкаст Без коммитов. Говорим о наболевшем в веб-разработке, веб-дизайне, блогерах и ботах, и о том, как создавать продукты для людей. Для широкой аудитории. 18+|
+|**Ведущие**      ||
+|**Регулярность** |Ежемесячно|
+|**Длительность** |20-60 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1454000225" class="episodes" hashtag="itcase_pro">9</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1454000225" class="release-date">04.15.2020</span>|
+
+---
+
 |Название         |[Сделайте мне красиво](https://front.sexy/)|
 |:----------------|:------------------------------------------|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/begebot) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/%D1%81%D0%B4%D0%B5%D0%BB%D0%B0%D0%B9%D1%82%D0%B5-%D0%BC%D0%BD%D0%B5-%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%D0%BE/id1447645563) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/sdielaitie-mnie-krasivo) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCYKah0AIoNsC9AZpdPb_teg) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/frontsexy) • [![Telegram](img/favicons/t.me.png)](https://t.me/frontsexy) • [![RSS](img/favicons/rss.png)](http://feeds.feedburner.com/beegebot/smk)|
