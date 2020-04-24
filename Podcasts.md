@@ -71,6 +71,18 @@
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1289965366" class="episodes" hashtag="basicblockradio">97 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1289965366" class="release-date">04.22.2020 11:51</span>|
 
+---
+
+|Название         |Радио ForkLog|
+|:----------------|:------------|
+|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/forklog) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/радио-forklog/id1485575312) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/radio-forklog) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCC9FnXTC8_ENzaNSO5cHQ6g) • [![VK](img/favicons/vk.com.png)](https://vk.com/forklogcom) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/forklog) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/forklog/) • [![Telegram](img/favicons/t.me.png)](http://t.me/forkshow) • [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/forklog/) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/9207084)|
+|**Описание**     |Podcast by Радио ForkLog.|
+|**Ведущие**      ||
+|**Регулярность** |Еженедельно|
+|**Длительность** |40-50 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1485575312" class="episodes" hashtag="forklog">152</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1485575312" class="release-date">04.21.2020</span>|
+
 </details>
 
 <details open="open"><summary><a name="podcasts-security"></a><b>ИТ-безопасность</b></summary><br>
