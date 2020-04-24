@@ -781,6 +781,18 @@
 
 ---
 
+|Название         |[CG ПОДКАСТ №1](http://podcast.matematic.xyz/)|
+|:----------------|:---------------------------------------------|
+|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/matematicxyz) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/cg-подкаст-1/id1484275234) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/?feed=aHR0cDovL2ZlZWRzLnNvdW5kY2xvdWQuY29tL3VzZXJzL3NvdW5kY2xvdWQ6dXNlcnM6NzIwNjUyOTIxL3NvdW5kcy5yc3M) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/playlist?list=PLg7sZNBj2UgkZ-H59oxK3Ta9RokjFp-7O) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcasts-121000548) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/mathematicxyz/) • [![Telegram](img/favicons/t.me.png)](http://t.me/matematicxyz) • [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/matematicxyz/) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/9220205)|
+|**Описание**     |Первый подкаст об индустрии компьютерной графики на русском.|
+|**Ведущие**      ||
+|**Регулярность** |Еженедельно|
+|**Длительность** |20-80 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1484275234" class="episodes" hashtag="matematicxyz">28</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1484275234" class="release-date">04.23.2020</span>|
+
+---
+
 |Название         |[CSSSR (Новости 512)](https://csssr.com/ru)|
 |:----------------|:------------------------------------------|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/csssr) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/novosti-512/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/novosti-512) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCdkZ6ckHOJ3DjAYxoGeMG0w) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcasts-185290073) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/csssr_dev) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/csssr/) • [![LinkedIn](img/favicons/linkedin.cn.png)](https://www.linkedin.com/company/csssr) • [![GitHub](img/favicons/github.com.png)](https://github.com/CSSSR)|
