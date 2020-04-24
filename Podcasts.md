@@ -89,6 +89,18 @@
 
 <sup>[Содержание](#содержание)</sup>
 
+|Название         |Безопасность для всех|
+|:----------------|:--------------------|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/безопасность-для-всех/id1404009975) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/9432586)|
+|**Описание**     |Информационно-развлекательный подкаст о безопасности. Свежие новости и полезная информация.|
+|**Ведущие**      |Андрей Данин|
+|**Регулярность** |Время от времени|
+|**Длительность** |5-10 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1404009975" class="episodes" hashtag=""></span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1404009975" class="release-date">04.05.2020</span>|
+
+---
+
 |Название         |Мимокрокодил|
 |:----------------|:-----------|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/m1mo-croc) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/id1505781025) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/10321679)|
