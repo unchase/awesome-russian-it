@@ -28,7 +28,7 @@ jobs:
         API_KEY: ${{ secrets.ApiKey }}
         TG_KEY: ${{ secrets.TgKey }}
         TG_CHANNEL_ID: ${{ secrets.TgYoutubeChannelId }}
-      run: ./utils/Unchase.HtmlTagsUpdater -k "$API_KEY" -f "YouTube.md" -t "YouTube" -a "$TG_KEY" -c "$TG_CHANNEL_ID" -n "" -p "0" -i "15" -r "96.113.176.101:1080"
+      run: ./utils/Unchase.HtmlTagsUpdater -k "$API_KEY" -f "YouTube.md" -t "YouTube" -a "$TG_KEY" -c "$TG_CHANNEL_ID" -n "" -p "0" -i "30" -r "96.113.176.101:1080"
       
     - name: Show YouTube.md
       run: cat YouTube.md
