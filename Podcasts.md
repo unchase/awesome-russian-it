@@ -505,6 +505,18 @@
 
 ---
 
+|Название         |Подкаст iLounge|
+|:----------------|:--------------|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/подкаст-ilounge/id1497449532) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCd-7Kxq6e-56fCvdQ8-NQ-Q) • [![VK](img/favicons/vk.com.png)](https://vk.com/ilounge) • [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/iloungeua/)|
+|**Описание**     |💙 Рассказываем том, что так любим — Apple и iPhone, интересные гаджеты, аудио обзоры техники и последние новости из мира технологий.|
+|**Ведущие**      |Константин|
+|**Регулярность** |Еженедельно|
+|**Длительность** |5-10 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1497449532" class="episodes" hashtag="ilounge">47</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1497449532" class="release-date">04.23.2020</span>|
+
+---
+
 |Название         |[Подкасты Mobile-review.com](https://mobile-review.com/articles/2006/new-mr-podcasts.shtml)|
 |:----------------|:------------------------------------------------------------------------------------------|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/hr/podcast/%D0%BF%D0%BE%D0%B4%D0%BA%D0%B0%D1%81%D1%82%D1%8B-mobile-review-com/id271623368) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/mobile-review/) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/podkasty-mobile-reviewcom) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/id1051204?country=ru) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/user/MobileReviewcom/videos) • [![VK](img/favicons/vk.com.png)](https://vk.com/mobilereviewcom) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/mobilreview) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/mobilereviewcom/) • [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/mobilereview/) • [![RSS](img/favicons/rss.png)](https://mobile-review.com/podcasts/rss.xml)|
