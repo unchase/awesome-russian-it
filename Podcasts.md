@@ -35,7 +35,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">04.25.2020 14:03</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">04.25.2020 16:03</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -762,8 +762,8 @@
 |**Ведущие**      |Ксения Ткачева<br>Олег Шакиров|
 |**Регулярность** |Время от времени|
 |**Длительность** |30-70 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1473142814" class="episodes" hashtag="Циферкаст">14 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1473142814" class="release-date">04.16.2020 03:31</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1473142814" class="episodes" hashtag="Циферкаст">15 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1473142814" class="release-date">04.23.2020 02:06</span>|
 
 ---
 
@@ -1442,8 +1442,8 @@
 |**Ведущие**      |Григорий Петров [![GitHub](img/favicons/github.com.png)](https://github.com/grigoryvp) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/eyeofhell/)<br>Илья Лебедев [![GitHub](img/favicons/github.com.png)](https://github.com/Melevir)<br>[Валентин Домбровский](http://dombrovsky.me/)<br>Михаил Корнеев [![GitHub](img/favicons/github.com.png)](https://github.com/korneevm) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/voldar/)<br>Злата Обуховская<br>Алексей Штырняев|
 |**Регулярность** |Еженедельно|
 |**Длительность** |30-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1429543935" class="episodes" hashtag="moscowpython">72 (<font color="red">-1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1429543935" class="release-date">04.18.2020 13:58</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1429543935" class="episodes" hashtag="moscowpython">73 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1429543935" class="release-date">04.25.2020 10:57</span>|
 
 </details>
 
