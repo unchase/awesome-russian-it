@@ -35,7 +35,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">04.26.2020 10:03</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">04.26.2020 12:03</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1459,7 +1459,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |20-60 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="597248066" class="episodes" hashtag="rwpod">40 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="597248066" class="release-date">04.26.2020 00:00</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="597248066" class="release-date">04.20.2020 00:00</span>|
 
 </details>
 
