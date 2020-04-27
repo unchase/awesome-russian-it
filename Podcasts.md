@@ -35,7 +35,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">04.27.2020 18:04</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">04.27.2020 20:04</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -336,7 +336,7 @@
 |**Ведущие**      |Илья Верязов|
 |**Регулярность** |Время от времени|
 |**Длительность** |25-45 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1120110650" class="episodes" hashtag="Ивент_Кухня">37 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1120110650" class="episodes" hashtag="Ивент_Кухня">37 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1120110650" class="release-date">04.27.2020 05:00</span>|
 
 ---
@@ -702,7 +702,7 @@
 |**Ведущие**      |[Александр Плющев](https://plushev.com/)<br>Григорий Бакунов (Bobuk) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/bobuk/) [![GitHub](img/favicons/github.com.png)](https://github.com/bobuk)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |~50 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="378499320" class="episodes" hashtag="tochka">21 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="378499320" class="episodes" hashtag="tochka">21 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="378499320" class="release-date">04.26.2020 21:05</span>|
 
 ---
