@@ -35,7 +35,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">05.01.2020 18:04</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">05.01.2020 20:05</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -349,7 +349,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |~90 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="363311940" class="episodes" hashtag="rcmp_podcast">10 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="363311940" class="release-date">04.24.2020 02:43</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="363311940" class="release-date">05.01.2020 03:01</span>|
 
 ---
 
@@ -775,7 +775,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |70-120 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="868222886" class="episodes" hashtag="beardycast">300 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="868222886" class="release-date">04.29.2020 14:42</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="868222886" class="release-date">05.01.2020 17:53</span>|
 
 ---
 
@@ -964,8 +964,8 @@
 |**Ведущие**      |[Далер Алиёров](https://aliyorov.com/) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/daleraliyorov/)<br>Иван Звягин [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/baragol/) <br>Адель Мубаракшин [![GitHub](img/favicons/github.com.png)](https://github.com/ExarGD)<br>Николай Землянский<br>Анна Линская|
 |**Регулярность** |Еженедельно|
 |**Длительность** |30-50 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1464188474" class="episodes" hashtag="habrweekly">49 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1464188474" class="release-date">04.24.2020 19:59</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1464188474" class="episodes" hashtag="habrweekly">50 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1464188474" class="release-date">05.01.2020 18:08</span>|
 
 ---
 
@@ -976,7 +976,7 @@
 |**Ведущие**      ||
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |~10-30 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1469955287" class="episodes" hashtag="HiTech">12 (<font color="red">-2</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1469955287" class="episodes" hashtag="HiTech">12 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1469955287" class="release-date">04.30.2020 11:04</span>|
 
 ---
@@ -1272,8 +1272,8 @@
 |**Ведущие**      |[Антон Черноусов (golodnyj)](https://blog.golodnyj.ru/) [![GitHub](img/favicons/github.com.png)](https://github.com/golodnyj) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/golodnyj/)|
 |**Регулярность** |Несколько выпусков в месяц|
 |**Длительность** |40-120 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1046278525" class="episodes" hashtag="taoppodcast">146 (<font color="red">-1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1046278525" class="release-date">04.24.2020 16:42</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1046278525" class="episodes" hashtag="taoppodcast">147 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1046278525" class="release-date">05.01.2020 11:55</span>|
 
 ---
 
@@ -1374,8 +1374,8 @@
 |**Ведущие**      |Станислав Александров<br>Александр Кугушев [![GitHub](img/favicons/github.com.png)](https://github.com/kugushev) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/KAW/)<br>Наталья|
 |**Регулярность** |1-4 раза в месяц|
 |**Длительность** |40-120 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1448111173" class="episodes" hashtag="dotnetmore">32 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1448111173" class="release-date">04.09.2020 19:36</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1448111173" class="episodes" hashtag="dotnetmore">33 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1448111173" class="release-date">05.01.2020 17:23</span>|
 
 ---
 
@@ -1710,8 +1710,8 @@
 |**Ведущие**      |Кирилл Розов [![Medium](img/favicons/medium.com.png)](https://medium.com/@kirillr) [![GitHub](img/favicons/github.com.png)](https://github.com/kirich1409)|
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |50-80 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1492425305" class="episodes" hashtag="andro_broadcast">14 (<font color="red">-1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1492425305" class="release-date">04.23.2020 03:00</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1492425305" class="episodes" hashtag="andro_broadcast">15 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1492425305" class="release-date">05.01.2020 03:00</span>|
 
 ---
 
@@ -1800,8 +1800,8 @@
 |**Ведущие**      |Алексей Давыдов<br>Евгений Кистерев<br>Алексей Тестов|
 |**Регулярность** |Еженедельно|
 |**Длительность** |60-100 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1488527416" class="episodes" hashtag="pilimtrem">21 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1488527416" class="release-date">04.24.2020 18:51</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1488527416" class="episodes" hashtag="pilimtrem">22 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1488527416" class="release-date">05.01.2020 13:46</span>|
 
 ---
 
