@@ -35,7 +35,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">04.30.2020 22:04</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">05.01.2020 08:04</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -336,8 +336,8 @@
 |**Ведущие**      |Илья Верязов|
 |**Регулярность** |Время от времени|
 |**Длительность** |25-45 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1120110650" class="episodes" hashtag="Ивент_Кухня">37 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1120110650" class="release-date">04.27.2020 05:00</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1120110650" class="episodes" hashtag="Ивент_Кухня">38 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1120110650" class="release-date">04.30.2020 14:01</span>|
 
 ---
 
@@ -952,8 +952,8 @@
 |**Ведущие**      |Иван Звягин [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/baragol/)|
 |**Регулярность** |Время от времени|
 |**Длительность** |~50 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1471344454" class="episodes" hashtag="habrspecial">4 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1471344454" class="release-date">11.13.2019 15:11</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1471344454" class="episodes" hashtag="habrspecial">5 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1471344454" class="release-date">04.30.2020 16:45</span>|
 
 ---
 
@@ -1952,8 +1952,8 @@
 |**Ведущие**      |[Андрей Александров](https://aladmit.com/) [![GitHub](img/favicons/github.com.png)](https://github.com/aladmit) [![RSS](img/favicons/rss.png)](https://aladmit.com/feed.xml)<br>Виталий Хабаров [![GitHub](img/favicons/github.com.png)](https://github.com/vitkhab)|
 |**Регулярность** |Время от времени|
 |**Длительность** |50-90 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="670175970" class="episodes" hashtag="devops_deflope">50 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="670175970" class="release-date">10.01.2019 12:00</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="670175970" class="episodes" hashtag="devops_deflope">51 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="670175970" class="release-date">04.30.2020 20:05</span>|
 
 ---
 
