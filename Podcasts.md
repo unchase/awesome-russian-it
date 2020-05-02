@@ -35,7 +35,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">05.02.2020 20:04</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">05.02.2020 22:03</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -184,7 +184,7 @@
 |**Ведущие**      |Артур<br>Роман|
 |**Регулярность** |Раз в две недели|
 |**Длительность** |45-50 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1498122067" class="episodes" hashtag="itpadcast">7 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1498122067" class="episodes" hashtag="itpadcast">7 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1498122067" class="release-date">05.02.2020 17:22</span>|
 
 ---
