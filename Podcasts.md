@@ -35,7 +35,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">05.03.2020 12:04</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">05.03.2020 14:04</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -522,7 +522,7 @@
 |**Ведущие**      |Ксения (ksenks) [![GitHub](img/favicons/github.com.png)](https://github.com/ksenks)<br>Григорий Бакунов (Bobuk) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/bobuk/) [![GitHub](img/favicons/github.com.png)](https://github.com/bobuk)<br>[Евгений Борт (umputun)](http://www.umputun.com/) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/umputun/) [![GitHub](img/favicons/github.com.png)](https://github.com/umputun) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/user/umputun)<br>[Сергей Петренко](https://blognot.co/) [![GitHub](img/favicons/github.com.png)](https://github.com/grayru) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/c/grayru) [![RSS](img/favicons/rss.png)](https://blognot.co/feed)|
 |**Регулярность** |Время от времени|
 |**Длительность** |25-40 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="288705606" class="episodes" hashtag="pirates.radiot">15 (<font color="red">0</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="288705606" class="episodes" hashtag="pirates.radiot">14 (<font color="red">-1</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="288705606" class="release-date">04.12.2020 04:00</span>|
 
 ---
@@ -1179,7 +1179,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |~10-15 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1455993703" class="episodes" hashtag="rococast">16 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1455993703" class="release-date">04.12.2020 22:32</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1455993703" class="release-date">05.02.2020 19:49</span>|
 
 ---
 
