@@ -35,7 +35,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">05.05.2020 08:07</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">05.05.2020 10:05</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -928,8 +928,8 @@
 |**Ведущие**      |[Олег Ковалев](https://olegk.dev/) [![GitHub](img/favicons/github.com.png)](https://github.com/cristaloleg)<br>Богдан Сторожук [![GitHub](img/favicons/github.com.png)](https://github.com/storozhukBM)<br>[Искандер Шарипов](https://quasilyte.dev/status/) [![GitHub](img/favicons/github.com.png)](https://github.com/quasilyte) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/quasilyte/)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |60-100 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1489980299" class="episodes" hashtag="generictalks">21 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1489980299" class="release-date">04.29.2020 23:14</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1489980299" class="episodes" hashtag="generictalks">22 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1489980299" class="release-date">05.04.2020 21:56</span>|
 
 ---
 
@@ -1142,8 +1142,8 @@
 |**Ведущие**      |Стас Цыганов [![GitHub](img/favicons/github.com.png)](https://github.com/DevAlloy)<br>[Егор Толстой](http://etolstoy.com/) [![Medium](img/favicons/medium.com.png)](https://medium.com/@etolstoy) [![GitHub](img/favicons/github.com.png)](https://github.com/etolstoy)<br>Екатерина Петрова<br>Евгений Кателла|
 |**Регулярность** |Еженедельно|
 |**Длительность** |80-150 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1209828744" class="episodes" hashtag="podlodka">170 (<font color="red">-1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1209828744" class="release-date">04.27.2020 17:00</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1209828744" class="episodes" hashtag="podlodka">171 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1209828744" class="release-date">05.04.2020 17:14</span>|
 
 ---
 
@@ -1562,7 +1562,7 @@
 |**Ведущие**      ||
 |**Регулярность** |Еженедельно|
 |**Длительность** |60-120 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1247192730" class="episodes" hashtag="frontend_u">147 (<font color="red">-1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1247192730" class="episodes" hashtag="frontend_u">147 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1247192730" class="release-date">04.27.2020 11:11</span>|
 
 ---
@@ -1752,8 +1752,8 @@
 |**Ведущие**      |Владимир Красильников<br>Анатолий Шестов<br>Никита Гук [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/azazelis/)|
 |**Регулярность** |Раз в две недели|
 |**Длительность** |40-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1413689117" class="episodes" hashtag="zhiza_gd">42 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1413689117" class="release-date">04.20.2020 14:24</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1413689117" class="episodes" hashtag="zhiza_gd">43 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1413689117" class="release-date">05.04.2020 13:42</span>|
 
 ---
 
