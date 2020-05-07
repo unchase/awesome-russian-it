@@ -35,7 +35,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">05.07.2020 16:08</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">05.07.2020 20:04</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -301,7 +301,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |40-60 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="77546991" class="episodes" hashtag="uwp_podcast">21 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="77546991" class="release-date">05.07.2020 02:17</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="77546991" class="release-date">04.28.2020 02:59</span>|
 
 ---
 
@@ -750,8 +750,8 @@
 |**Ведущие**      |Александр Тагиров|
 |**Регулярность** |Еженедельно|
 |**Длительность** |~3-4 минуты|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1459260705" class="episodes" hashtag="Цифра">133 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1459260705" class="release-date">05.07.2020 06:33</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1459260705" class="episodes" hashtag="Цифра">132 (<font color="red">-1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1459260705" class="release-date">05.01.2020 06:16</span>|
 
 ---
 
@@ -1442,7 +1442,7 @@
 |**Ведущие**      |Григорий Петров [![GitHub](img/favicons/github.com.png)](https://github.com/grigoryvp) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/eyeofhell/)<br>Илья Лебедев [![GitHub](img/favicons/github.com.png)](https://github.com/Melevir)<br>[Валентин Домбровский](http://dombrovsky.me/)<br>Михаил Корнеев [![GitHub](img/favicons/github.com.png)](https://github.com/korneevm) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/voldar/)<br>Злата Обуховская<br>Алексей Штырняев|
 |**Регулярность** |Еженедельно|
 |**Длительность** |30-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1429543935" class="episodes" hashtag="moscowpython">73 (<font color="red">-1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1429543935" class="episodes" hashtag="moscowpython">73 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1429543935" class="release-date">04.25.2020 10:57</span>|
 
 </details>
@@ -1812,8 +1812,8 @@
 |**Ведущие**      |Дмитрий Борисов<br>Артемий Леонов|
 |**Регулярность** |Еженедельно|
 |**Длительность** |80-120 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1506185868" class="episodes" hashtag="xyz">5 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1506185868" class="release-date">04.30.2020 16:43</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1506185868" class="episodes" hashtag="xyz">6 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1506185868" class="release-date">05.07.2020 15:56</span>|
 
 ---
 
