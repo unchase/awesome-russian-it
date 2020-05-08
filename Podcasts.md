@@ -1063,6 +1063,18 @@
 
 ---
 
+|Название         |Keybeard Show|
+|:----------------|:------------|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/keybeard-show/id1449696831) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCvxfGSKhOx5FMEFtFzDgcmA)|
+|**Описание**     |Keybeard — это аудио-видео подкаст, где программисты (и не очень) рассказывают программистам об околопрограммистких проблемах. Например о том, как бороться с ленью, как прокачивать фокус, как иметь дело с мудаками в команде, как мотивировать себя развиваться и т.д. Выпуски выходят примерно раз в месяц: редко, но метко – будет интересно послушать не только тем, кто непосредственно пишет код, но и тем, кто хотя бы косвенно относится к IT сфере.|
+|**Ведущие**      |Михаил Ивашниченко<br>Олег Пузанов|
+|**Регулярность** |Время от времени|
+|**Длительность** |20-40 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1449696831" class="episodes" hashtag="keybeard"></span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1449696831" class="release-date"></span>|
+
+---
+
 |Название         |[LoftBlog Podcasts](https://loftblog.ru/tag/podkast/)|
 |:----------------|:----------------------------------------------------|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/loftblog) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/us/podcast/loftblog/id1313900856) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/loftblog) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/id1093027?country=ru) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCIIt69f5D44s2cdb9vXQNzA) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcasts-37413577) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/loftblog)|
