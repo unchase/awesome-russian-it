@@ -1757,6 +1757,18 @@
 
 <sup>[Содержание](#содержание)</sup>
 
+|Название         |Большие игры|
+|:----------------|:-----------|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/большие-игры/id1501014784) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/bolshiie-ighry) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCLZ3D9zW9sNoF_jnRP9cIcw) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcasts-192597929) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/10140156)|
+|**Описание**     |Приоткрываем двери в мир игровой индустрии.|
+|**Ведущие**      |Николай Смирнов|
+|**Регулярность** |Несколько раз в неделю|
+|**Длительность** |20-40 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1501014784" class="episodes" hashtag="biggames"></span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1501014784" class="release-date"></span>|
+
+---
+
 |Название         |Жиза ГД|
 |:----------------|:------|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/pixonic/sets/inacqfwsnbdb) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/%D0%B6%D0%B8%D0%B7%D0%B0-%D0%B3%D0%B4/id1413689117) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/zhiza-gd/) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/zhiza-gd) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/id1377224?country=ru) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/zhiza-gd) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/9206351)|
