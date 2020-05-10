@@ -1817,6 +1817,18 @@
 
 ---
 
+|Название         |НАША ИГРА|
+|:----------------|:--------|
+|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/nasha_igra) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/наша-игра/id1501746913) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/?feed=aHR0cDovL3Jzcy5jYXN0Ym94LmZtL2V2ZXJlc3QvODFhNDA4ZGRhNjAwNDFhOWJlN2ExYzNjMjJlNmQ0YzQueG1s&hl=ru) • [![Castbox](img/favicons/castbox.fm.png)](https://www.castbox.fm/channel/id2664775?country=ru) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcasts-26086420) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/10141261)|
+|**Описание**     |Подкаст об отечественной игровой индустрии, видеоиграх и около того.|
+|**Ведущие**      |Михаил Пименов<br>Всеволод Уваров|
+|**Регулярность** |Время от времени|
+|**Длительность** |50-110 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1501746913" class="episodes" hashtag="nasha_igra"></span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1501746913" class="release-date"></span>|
+
+---
+
 |Название         |[ПИЛИМ, ТРЁМ](https://anchor.fm/pilim-trem)|
 |:----------------|:------------------------------------------|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/lt/podcast/%D0%BF%D0%B8%D0%BB%D0%B8%D0%BC-%D1%82%D1%80%D1%91%D0%BC/id1488527416) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8xMDdhMDI4Yy9wb2RjYXN0L3Jzcw%3D%3D) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/2582599) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/id2466429?country=ru) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/9502810) • [![Overcast](img/favicons/overcast.fm.png)](https://overcast.fm/itunes1488527416) • [![RSS](img/favicons/rss.png)](https://anchor.fm/s/107a028c/podcast/rss)|
