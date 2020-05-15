@@ -35,7 +35,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">05.14.2020 20:03</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">05.15.2020 08:04</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -268,8 +268,8 @@
 |**Ведущие**      |Екатерина<br>Наталья|
 |**Регулярность** |Время от времени|
 |**Длительность** |30-50 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1492765073" class="episodes" hashtag="tceh">11 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1492765073" class="release-date">05.06.2020 13:12</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1492765073" class="episodes" hashtag="tceh">12 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1492765073" class="release-date">05.14.2020 14:02</span>|
 
 ---
 
@@ -655,7 +655,7 @@
 |**Регулярность** |Ежедневно|
 |**Длительность** |5-10 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="episodes" hashtag="strana_tranzistoriia">300 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="release-date">05.13.2020 14:25</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="release-date">05.14.2020 14:25</span>|
 
 ---
 
@@ -834,8 +834,8 @@
 |**Ведущие**      ||
 |**Регулярность** |Еженедельно|
 |**Длительность** |20-80 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1484275234" class="episodes" hashtag="matematicxyz">31 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1484275234" class="release-date">05.14.2020 09:00</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1484275234" class="episodes" hashtag="matematicxyz">30 (<font color="red">-1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1484275234" class="release-date">05.07.2020 09:00</span>|
 
 ---
 
@@ -1824,8 +1824,8 @@
 |**Ведущие**      |Михаил Пименов<br>Всеволод Уваров|
 |**Регулярность** |Время от времени|
 |**Длительность** |50-110 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1501746913" class="episodes" hashtag="nasha_igra">7 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1501746913" class="release-date">03.23.2020 13:51</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1501746913" class="episodes" hashtag="nasha_igra">8 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1501746913" class="release-date">05.14.2020 14:21</span>|
 
 ---
 
@@ -1848,8 +1848,8 @@
 |**Ведущие**      |Дмитрий Борисов<br>Артемий Леонов|
 |**Регулярность** |Еженедельно|
 |**Длительность** |80-120 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1506185868" class="episodes" hashtag="xyz">6 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1506185868" class="release-date">05.07.2020 15:56</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1506185868" class="episodes" hashtag="xyz">7 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1506185868" class="release-date">05.14.2020 16:00</span>|
 
 ---
 
@@ -1880,7 +1880,7 @@
 |**Ведущие**      |Олег Доброштан [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCc6DRZVioHF1m-ZWXqXNAYg)<br>Вячеслав Уточкин<br>Александр Мураш|
 |**Регулярность** |Раз в три недели (по средам)|
 |**Длительность** |40-50 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1490959979" class="episodes" hashtag="hvgamedev">8 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1490959979" class="episodes" hashtag="hvgamedev">8 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1490959979" class="release-date">05.13.2020 15:43</span>|
 
 ---
@@ -1944,8 +1944,8 @@
 |**Ведущие**      |[Алексей Виноградов](http://qa-blog.alexei-vinogradov.de/) [![GitHub](img/favicons/github.com.png)](https://github.com/vinogradoff)<br>[Андрей Мясников](http://lazy-tester.blogspot.com/)<br>[Сергей Атрощенков](http://barbaricqa.com/blog/) [![RSS](img/favicons/rss.png)](http://feeds.feedburner.com/Barbaricqacom)<br>Алексей Федоров|
 |**Регулярность** |Время от времени|
 |**Длительность** |50-120 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1021236121" class="episodes" hashtag="radio_qa">70 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1021236121" class="release-date">05.08.2020 16:36</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1021236121" class="episodes" hashtag="radio_qa">71 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1021236121" class="release-date">05.14.2020 22:28</span>|
 
 ---
 
