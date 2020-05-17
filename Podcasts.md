@@ -35,7 +35,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">05.16.2020 20:03</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">05.17.2020 08:03</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1130,8 +1130,8 @@
 |**Ведущие**      |Дмитрий Newbilius Моисеев [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCj1JJWwpsSIoBGsPZKQoNKQ) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/newbilius/)|
 |**Регулярность** |Ежемесячно|
 |**Длительность** |20-50 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1477741470" class="episodes" hashtag="oldhard_podcast">6 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1477741470" class="release-date">03.19.2020 03:00</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1477741470" class="episodes" hashtag="oldhard_podcast">7 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1477741470" class="release-date">05.16.2020 03:00</span>|
 
 ---
 
@@ -1471,7 +1471,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |20-60 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="597248066" class="episodes" hashtag="rwpod">40 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="597248066" class="release-date">05.11.2020 00:00</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="597248066" class="release-date">05.16.2020 00:00</span>|
 
 </details>
 
