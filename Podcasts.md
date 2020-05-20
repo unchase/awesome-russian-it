@@ -35,7 +35,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">05.19.2020 20:04</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">05.20.2020 08:04</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -570,8 +570,8 @@
 |**Ведущие**      |Роман Рыбальченко|
 |**Регулярность** |Несколько раз в неделю|
 |**Длительность** |20-80 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1178337792" class="episodes" hashtag="romanetua">93 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1178337792" class="release-date">05.05.2020 03:00</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1178337792" class="episodes" hashtag="romanetua">94 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1178337792" class="release-date">05.19.2020 03:00</span>|
 
 ---
 
@@ -655,7 +655,7 @@
 |**Регулярность** |Ежедневно|
 |**Длительность** |5-10 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="episodes" hashtag="strana_tranzistoriia">300 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="release-date">05.19.2020 14:30</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="release-date">05.18.2020 14:30</span>|
 
 ---
 
@@ -750,8 +750,8 @@
 |**Ведущие**      |Александр Тагиров|
 |**Регулярность** |Еженедельно|
 |**Длительность** |~3-4 минуты|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1459260705" class="episodes" hashtag="Цифра">135 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1459260705" class="release-date">05.19.2020 00:00</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1459260705" class="episodes" hashtag="Цифра">136 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1459260705" class="release-date">05.20.2020 06:03</span>|
 
 ---
 
@@ -904,8 +904,8 @@
 |**Ведущие**      ||
 |**Регулярность** |Еженедельно|
 |**Длительность** |10-50 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1492129452" class="episodes" hashtag="futureinapps">18 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1492129452" class="release-date">03.16.2020 18:05</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1492129452" class="episodes" hashtag="futureinapps">19 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1492129452" class="release-date">05.18.2020 17:39</span>|
 
 ---
 
@@ -928,8 +928,8 @@
 |**Ведущие**      |[Олег Ковалев](https://olegk.dev/) [![GitHub](img/favicons/github.com.png)](https://github.com/cristaloleg)<br>Богдан Сторожук [![GitHub](img/favicons/github.com.png)](https://github.com/storozhukBM)<br>[Искандер Шарипов](https://quasilyte.dev/status/) [![GitHub](img/favicons/github.com.png)](https://github.com/quasilyte) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/quasilyte/)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |60-100 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1489980299" class="episodes" hashtag="generictalks">23 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1489980299" class="release-date">05.13.2020 01:22</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1489980299" class="episodes" hashtag="generictalks">24 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1489980299" class="release-date">05.20.2020 00:44</span>|
 
 ---
 
@@ -1000,8 +1000,8 @@
 |**Ведущие**      |Павел Калашников [![GitHub](img/favicons/github.com.png)](https://github.com/kalashnikovisme) [![VK](img/favicons/vk.com.png)](https://vk.com/kalashnikovisme) [![Facebook](img/favicons/facebook.com.png)](https://facebook.com/kalashnikovisme)<br>Наталья Мусина [![VK](img/favicons/vk.com.png)](https://vk.com/wolffyj) [![Facebook](img/favicons/facebook.com.png)](https://facebook.com/wolffyj)<br>Елизавета Сарычева [![VK](img/favicons/vk.com.png)](https://vk.com/lisa_sarycheva) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/profile.php?id=100001762322638)<br>Дмитрий Николаев [![GitHub](img/favicons/github.com.png)](https://github.com/BooSt163)
 |**Регулярность** |Еженедельно|
 |**Длительность** |30-110 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1490305221" class="episodes" hashtag="itway">23 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1490305221" class="release-date">05.07.2020 23:54</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1490305221" class="episodes" hashtag="itway">24 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1490305221" class="release-date">05.20.2020 00:01</span>|
 
 ---
 
@@ -1471,7 +1471,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |20-60 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="597248066" class="episodes" hashtag="rwpod">40 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="597248066" class="release-date">05.16.2020 00:00</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="597248066" class="release-date">05.18.2020 00:00</span>|
 
 </details>
 
@@ -1574,7 +1574,7 @@
 |**Ведущие**      ||
 |**Регулярность** |Еженедельно|
 |**Длительность** |60-120 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1247192730" class="episodes" hashtag="frontend_u">150 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1247192730" class="episodes" hashtag="frontend_u">150 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1247192730" class="release-date">05.18.2020 23:04</span>|
 
 ---
@@ -1622,8 +1622,8 @@
 |**Ведущие**      |Елена<br>Филипп|
 |**Регулярность** |Время от времени|
 |**Длительность** |~10 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1499128651" class="episodes" hashtag="undefinedpodcast">11 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1499128651" class="release-date">05.07.2020 15:01</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1499128651" class="episodes" hashtag="undefinedpodcast">12 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1499128651" class="release-date">05.19.2020 16:00</span>|
 
 ---
 
@@ -1764,7 +1764,7 @@
 |**Ведущие**      |Николай Смирнов|
 |**Регулярность** |Несколько раз в неделю|
 |**Длительность** |20-40 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1501014784" class="episodes" hashtag="biggames">16 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1501014784" class="episodes" hashtag="biggames">16 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1501014784" class="release-date">05.19.2020 16:46</span>|
 
 ---
@@ -1776,7 +1776,7 @@
 |**Ведущие**      |Владимир Красильников<br>Анатолий Шестов<br>Никита Гук [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/azazelis/)|
 |**Регулярность** |Раз в две недели|
 |**Длительность** |40-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1413689117" class="episodes" hashtag="zhiza_gd">44 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1413689117" class="episodes" hashtag="zhiza_gd">44 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1413689117" class="release-date">05.18.2020 15:53</span>|
 
 ---
