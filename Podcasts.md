@@ -35,7 +35,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">05.24.2020 08:05</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">05.24.2020 12:05</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1988,7 +1988,7 @@
 |**Ведущие**      |[Андрей Александров](https://aladmit.com/) [![GitHub](img/favicons/github.com.png)](https://github.com/aladmit) [![RSS](img/favicons/rss.png)](https://aladmit.com/feed.xml)<br>Виталий Хабаров [![GitHub](img/favicons/github.com.png)](https://github.com/vitkhab)|
 |**Регулярность** |Время от времени|
 |**Длительность** |50-90 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="670175970" class="episodes" hashtag="devops_deflope">52 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="670175970" class="episodes" hashtag="devops_deflope">52 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="670175970" class="release-date">05.23.2020 15:00</span>|
 
 ---
