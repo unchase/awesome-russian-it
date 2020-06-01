@@ -1845,11 +1845,14 @@
 
 |Название         |Flutter Dev Podcast|
 |:----------------|:------------------|
-|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/flutterdevpodcast) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/flutter-dev-podcast) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/Flutter-Dev-Podcast-id1996990?country=ru) • [![VK](img/favicons/vk.com.png)](https://vk.com/flutter_dev_podcast) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/flutterdevcast) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/flutterdevpodcast) • [![Telegram](img/favicons/t.me.png)](https://t.me/flutterdevpodcast_news)|
+|**Логотип**      |<span itunes-id="1451068853" class="itunes-img"></span>|
+|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/flutterdevpodcast) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/flutter-dev-podcast/id1451068853) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/flutter-dev-podcast) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/Flutter-Dev-Podcast-id1996990?country=ru) • [![VK](img/favicons/vk.com.png)](https://vk.com/flutter_dev_podcast) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/flutterdevcast) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/flutterdevpodcast) • [![Telegram](img/favicons/t.me.png)](https://t.me/flutterdevpodcast_news)|
 |**Описание**     |Всё что вы хотели узнать про Flutter, но боялись спросить. Мы обсуждаем новости индустрии, делимся продакшн-опытом внедрения и интересными наблюдениями, приглашаем самых разнообразных гостей из различных IT-сфер, чтобы посмотреть на Flutter под разными углами.|
 |**Ведущие**      |Евгений Сатуров [![GitHub](img/favicons/github.com.png)](https://github.com/saturov)<br>Артём Зайцев|
 |**Регулярность** |Ежемесячно|
 |**Длительность** |40-80 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1451068853" class="episodes" hashtag="flutterdevpodcast"></span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1451068853" class="release-date"></span>|
 
 ---
 
