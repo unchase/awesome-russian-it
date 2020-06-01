@@ -133,14 +133,11 @@ itunes-id=""
 
 |Название         |Noise Security Bit|
 |:----------------|:-----------------|
-|**Логотип**      |<span itunes-id="765425259" class="itunes-img"><img height=100 width=100 src=""></img></span>|
-|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/tr/podcast/noise-security-bit/id765425259) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/noise-security-bit-1296906/noise-security-bit-0x19-o-mlai-i-iegho-riealnoi-primienimosti-v-zadachakh-ib) • [![Podster](img/favicons/podster.fm.png)](https://noisebit.podster.fm/) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/N0iSeBit) • [![Telegram](img/favicons/t.me.png)](https://telegram.me/NoiSeBit_News) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/8967636?from=serp) • [![GitHub](img/favicons/github.com.png)](https://github.com/NoiSeBit) • [![Email](img/favicons/email.png)](mailto:info@noisebit.ru) • [![RSS](img/favicons/rss.png)](https://podster.fm/rss.xml?pid=845)|
+|**Ссылки**       |[![Player](img/favicons/player.fm.png)](https://player.fm/series/noise-security-bit-1296906/noise-security-bit-0x19-o-mlai-i-iegho-riealnoi-primienimosti-v-zadachakh-ib) • [![Podster](img/favicons/podster.fm.png)](https://noisebit.podster.fm/) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/N0iSeBit) • [![Telegram](img/favicons/t.me.png)](https://telegram.me/NoiSeBit_News) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/8967636?from=serp) • [![GitHub](img/favicons/github.com.png)](https://github.com/NoiSeBit) • [![Email](img/favicons/email.png)](mailto:info@noisebit.ru) • [![RSS](img/favicons/rss.png)](https://podster.fm/rss.xml?pid=845)|
 |**Описание**     |Нерегулярный подкаст о жизни ресечеров по обе стороны океана.|
 |**Ведущие**      |Алекс Матросов [![Medium](img/favicons/medium.com.png)](https://medium.com/@matrosov) [![GitHub](img/favicons/github.com.png)](https://github.com/matrosov) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/matrosov/)|
 |**Регулярность** |Время от времени|
 |**Длительность** |30-120 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="765425259" class="episodes" hashtag="NoiSeBit_News"></span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="765425259" class="release-date"></span>|
 
 ---
 
@@ -863,14 +860,11 @@ itunes-id=""
 
 |Название         |Argumentarium|
 |:----------------|:------------|
-|**Логотип**      |<span itunes-id="1460580638" class="itunes-img"><img height=100 width=100 src=""></img></span>|
-|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/csssr/sets/argumentarium) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/tr/podcast/argumentarium/id1460580638) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCdkZ6ckHOJ3DjAYxoGeMG0w) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/8742993)|
+|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/csssr/sets/argumentarium) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCdkZ6ckHOJ3DjAYxoGeMG0w) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/8742993)|
 |**Описание**     |Аудио—версия дебатов Argumentarium.|
 |**Ведущие**      ||
 |**Регулярность** |Время от времени|
 |**Длительность** |60-80 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1460580638" class="episodes" hashtag="argumentarium"></span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1460580638" class="release-date"></span>|
 
 ---
 
@@ -1749,14 +1743,11 @@ itunes-id=""
 
 |Название         |[Frontflip Podcast](http://frontflip.me/)|
 |:----------------|:----------------------------------------|
-|**Логотип**      |<span itunes-id="884716456" class="itunes-img"><img height=100 width=100 src=""></img></span>|
-|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/frontflip/id884716456) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/frontflip) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/id21790?country=ru) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/frontflip) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/frontflip_js) • [![RSS](img/favicons/rss.png)](http://frontflip.me/podcast.xml)|
+|**Ссылки**       |[![Player](img/favicons/player.fm.png)](https://player.fm/series/frontflip) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/id21790?country=ru) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/frontflip) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/frontflip_js) • [![RSS](img/favicons/rss.png)](http://frontflip.me/podcast.xml)|
 |**Описание**     |Подкаст о JavaScript'e, фронтенде и сопутствующих технологиях.|
 |**Ведущие**      |[Илья Заяц](https://ilyazayats.com/) [![GitHub](img/favicons/github.com.png)](https://github.com/somebody32) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/somebody32)<br>Артём Сущев [![GitHub](img/favicons/github.com.png)](https://github.com/H1D)|
 |**Регулярность** |Не выпускается|
 |**Длительность** |30-100 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="884716456" class="episodes" hashtag="frontflip_js"></span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="884716456" class="release-date"></span>|
 
 ---
 
@@ -1818,14 +1809,11 @@ itunes-id=""
 
 |Название         |[AppleInsider.ru](https://appleinsider.ru/ipodcast)|
 |:----------------|:--------------------------------------------------|
-|**Логотип**      |<span itunes-id="427483050" class="itunes-img"><img height=100 width=100 src=""></img></span>|
-|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/id427483050) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/appleinsiderru-1296998/wwdc2017-appleinsiderru) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/clip/298-yezhenedel-nyy-podkast-appleinsider-ru) • [![VK](img/favicons/vk.com.png)](https://vk.com/appleinsider) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/appleinsider_ru) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/AppleInsider.ru) • [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/appleinsider_ru/) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/6408365?from=serp)|
+|**Ссылки**       |[![Player](img/favicons/player.fm.png)](https://player.fm/series/appleinsiderru-1296998/wwdc2017-appleinsiderru) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/clip/298-yezhenedel-nyy-podkast-appleinsider-ru) • [![VK](img/favicons/vk.com.png)](https://vk.com/appleinsider) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/appleinsider_ru) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/AppleInsider.ru) • [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/appleinsider_ru/) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/6408365?from=serp)|
 |**Описание**     |Подкаст AppleInsider.ru знают не только посетители нашего сайта и других технологических блогов. Миша, Ренат и Ксюша давно уже успели стать звездами рунета, главными персонажами слезливых снов поклонниц и поклонников, а также предводителями целой армии фолловеров. И если вы до сих пор не знакомы с этими персоналиями, то немедленно настраивайтесь на наш подкаст и наслаждайтесь этим наиприятнейшим действом.|
 |**Ведущие**      |Миша Королев<br>[Ренат Гришин](https://about.me/iprizrak) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/user/renatgrishin)<br>Константин Ёлшин|
 |**Регулярность** |Не выпускается|
 |**Длительность** |40-120 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="427483050" class="episodes" hashtag="appleinsider"></span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="427483050" class="release-date"></span>|
 
 ---
 
