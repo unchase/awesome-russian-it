@@ -505,7 +505,7 @@
 
 |Название         |[Паша + Слава](https://it.asm0dey.ru/)|
 |:----------------|:-------------------------------------|
-|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/it-insights-and-commons-things/id1207585393) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/1389654) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/%D0%9F%D0%B0%D1%88%D0%B0-%2B-%D0%A1%D0%BB%D0%B0%D0%B2%D0%B0-id479047?country=ru) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcasts-111905078) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/pg/slava.pasha/posts/) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/7867956?from=serp)|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/it-insights-and-commons-things/id1207585393) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/1389654) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/%D0%9F%D0%B0%D1%88%D0%B0-%2B-%D0%A1%D0%BB%D0%B0%D0%B2%D0%B0-id479047?country=ru) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcasts-111905078) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/pg/slava.pasha/posts/) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/7867956?from=serp) [![RSS](img/favicons/rss.png)](https://it.asm0dey.ru/feed/podcast/phpcoder-asm0dey)|
 |**Описание**     |Подкаст об ИТ и связанных с ним вещах. Спикерами являются опытные айтишники, работающие в разных сферах и компаниях.|
 |**Ведущие**      |Паша Финкельштейн [![GitHub](img/favicons/github.com.png)](https://github.com/asm0dey)<br>Слава Семушин [![GitHub](img/favicons/github.com.png)](https://github.com/php-coder)|
 |**Регулярность** |Несколько раз в месяц|
@@ -767,6 +767,18 @@
 
 ---
 
+|Название         |[38 попугаев](https://spbpython.dev/podcast38)|
+|:----------------|:---------------------------------------------|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/38-попугаев/id1358472061) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/38-popughaiev) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/38-попугаев-id2047229?country=ru) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCcCbL9V5uOcnvrWAg95qZbg) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/podcast38)|
+|**Описание**     |Разговоры про программирование в общем, языки программирования и индустрию не только с программистами. Интересные интервью с профессионалами.|
+|**Ведущие**      |Сергей Матвиенко<br>Данил Иванов|
+|**Регулярность** |Несколько раз в месяц|
+|**Длительность** |50-70 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1358472061" class="episodes" hashtag="podcast38"></span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1358472061" class="release-date"></span>|
+
+---
+
 |Название         |[#BeardyCast: гаджеты и медиакультура](https://beardycast.com/)|
 |:----------------|:--------------------------------------------------------------|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/beardycast) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/beardycast-%D0%B3%D0%B0%D0%B4%D0%B6%D0%B5%D1%82%D1%8B-%D0%B8-%D0%BC%D0%B5%D0%B4%D0%B8%D0%B0%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B0/id868222886) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/beardycast) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/BeardyCast%3A-%D0%B3%D0%B0%D0%B4%D0%B6%D0%B5%D1%82%D1%8B-%D0%B8-%D0%BC%D0%B5%D0%B4%D0%B8%D0%B0%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B0-id108326?country=ru) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/channel/beardycast) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UC8LC9RGDSc-brZldHFvML3A) • [![VK](img/favicons/vk.com.png)](https://vk.com/beardycast) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/beardyshow) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/beardycast/) • [![Telegram](img/favicons/t.me.png)](https://tlg.name/beardycast) • [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/beardycast/) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/6408410) • [![Medium](img/favicons/medium.com.png)](https://medium.com/@BeardyCast)|
@@ -882,6 +894,18 @@
 |**Длительность** |40-60 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1415692619" class="episodes" hashtag="newsroomaz">13 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1415692619" class="release-date">12.27.2019 14:49</span>|
+
+---
+
+|Название         |Epic подкаст|
+|:----------------|:-----------|
+|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/epic_podcast) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/epic-подкаст/id1480344895) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/epic-podkast) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/8941906)|
+|**Описание**     |Секреты роста продуктов.|
+|**Ведущие**      |Денис Мартынцев<br>Кирилл Гурбанов|
+|**Регулярность** |Несколько раз в месяц|
+|**Длительность** |40-90 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1480344895" class="episodes" hashtag="epic_podcast"></span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1480344895" class="release-date"></span>|
 
 ---
 
@@ -1024,6 +1048,18 @@
 |**Ведущие**      |Павел Зверев|
 |**Регулярность** |Время от времени|
 |**Длительность** |10-20 минут|
+
+---
+
+|Название         |[IT за Edu](https://it-edu.github.io/)|
+|:----------------|:-------------------------------------|
+|**Ссылки**       |[![Anchor](img/favicons/anchor.fm.png)](https://anchor.fm/it-za-edu) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/us/podcast/it-за-edu/id1513329008) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8xZmJkOTkyMC9wb2RjYXN0L3Jzcw%3D%3D) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UC8UfZgI5XR9Cgf2D9b1PKgw) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcasts-194944477) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/ITEdu2) • [![Telegram](img/favicons/t.me.png)](https://t.me/podcast_it_za_edu) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/10653753) • [![RSS](img/favicons/rss.png)](https://anchor.fm/s/1fbd9920/podcast/rss)|
+|**Описание**     |Собираемся с различными IT-специалистами и беседуем на разные темы.|
+|**Ведущие**      |Старинин Андрей|
+|**Регулярность** |Раз в две недели|
+|**Длительность** |30-100 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1513329008" class="episodes" hashtag="itedu"></span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1513329008" class="release-date"></span>|
 
 ---
 
@@ -1359,7 +1395,7 @@
 |:----------------|:-----------------------------------------------------------|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/z-namespace/id1501041559) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/?feed=aHR0cDovL3Jzcy5jYXN0Ym94LmZtL2V2ZXJlc3QvYTE1NTY5OWFmZmYxNDAzODkzYjIzZmNmOTM5ZmM1YTAueG1s) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/id2658981?country=ru) • [![Overcast](img/favicons/overcast.fm.png)](https://overcast.fm/itunes1501041559/z-namespace) • [![Telegram](img/favicons/t.me.png)](https://t.me/z_namespace) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/10122818) • [![GitHub](img/favicons/github.com.png)](https://github.com/ilyakaznacheev/z-namespace) • [![RSS](img/favicons/rss.png)](http://rss.castbox.fm/everest/a155699afff1403893b23fcf939fc5a0.xml)|
 |**Описание**     |Подкаст про хорошие практики в плохих местах.<br>Первый русскоязычный подкаст про разработку промышленного ПО, SAP, ABAP, и прочие грозные аббревиатуры.|
-|**Ведущие**      |Илья Казначеев<br>Илья Виноградов<br>Иван Тюменьев|
+|**Ведущие**      |Илья Казначеев [![GitHub](img/favicons/github.com.png)](https://github.com/ilyakaznacheev)<br>Илья Виноградов [![GitHub](img/favicons/github.com.png)](https://github.com/oisee)<br>Иван Тюменьев [![GitHub](img/favicons/github.com.png)](https://github.com/ivantyumenyev)|
 |**Регулярность** |Время от времени|
 |**Длительность** |90-140 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1501041559" class="episodes" hashtag="z_namespace">6 (<font color="red">0</font>)</span>|
