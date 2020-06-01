@@ -1125,7 +1125,7 @@
 
 |Название         |Loving IT|
 |:----------------|:--------|
-|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/loving-it/id1478421220) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/8749243)|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/loving-it/id1478421220) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/loving-it) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/8749243)|
 |**Описание**     |Исследуем цифровые профессии, у которых есть будущее.|
 |**Ведущие**      |Дмитрий Чебанов<br>Лиля Лучик|
 |**Регулярность** |Время от времени|
