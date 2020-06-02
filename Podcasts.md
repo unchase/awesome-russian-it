@@ -35,7 +35,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">06.02.2020 08:05</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">06.02.2020 12:04</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1094,8 +1094,8 @@
 |**Ведущие**      |Павел Калашников [![GitHub](img/favicons/github.com.png)](https://github.com/kalashnikovisme) [![VK](img/favicons/vk.com.png)](https://vk.com/kalashnikovisme) [![Facebook](img/favicons/facebook.com.png)](https://facebook.com/kalashnikovisme)<br>Наталья Мусина [![VK](img/favicons/vk.com.png)](https://vk.com/wolffyj) [![Facebook](img/favicons/facebook.com.png)](https://facebook.com/wolffyj)<br>Елизавета Сарычева [![VK](img/favicons/vk.com.png)](https://vk.com/lisa_sarycheva) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/profile.php?id=100001762322638)<br>Дмитрий Николаев [![GitHub](img/favicons/github.com.png)](https://github.com/BooSt163)
 |**Регулярность** |Еженедельно|
 |**Длительность** |30-110 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1490305221" class="episodes" hashtag="itway">25 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1490305221" class="release-date">05.22.2020 01:59</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1490305221" class="episodes" hashtag="itway">26 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1490305221" class="release-date">06.02.2020 00:47</span>|
 
 ---
 
@@ -1534,8 +1534,8 @@
 |**Ведущие**      |[Анатолий Кулаков](https://github.com/AnatolyKulakov/SpbDotNet/wiki/Anatoly-Kulakov) [![GitHub](img/favicons/github.com.png)](https://github.com/AnatolyKulakov) [![DotNet.ru](img/favicons/dotnet.ru.png)](https://dotnet.ru)<br>[Игорь Лабутин](https://github.com/AnatolyKulakov/SpbDotNet/wiki/Igor-Labutin) [![GitHub](img/favicons/github.com.png)](https://github.com/ilabutin)|
 |**Регулярность** |Время от времени|
 |**Длительность** |50-80 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1484348948" class="episodes" hashtag="radiodotnet">11 (<font color="green">+1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1484348948" class="release-date">06.02.2020 00:41</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1484348948" class="episodes" hashtag="radiodotnet">10 (<font color="red">-1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1484348948" class="release-date">05.11.2020 00:33</span>|
 
 ---
 
@@ -1612,7 +1612,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |20-60 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="597248066" class="episodes" hashtag="rwpod">40 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="597248066" class="release-date">06.01.2020 00:00</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="597248066" class="release-date">05.25.2020 00:00</span>|
 
 </details>
 
