@@ -35,7 +35,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">06.03.2020 12:05</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">06.03.2020 16:04</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -606,7 +606,7 @@
 |**Ведущие**      |Роман Рыбальченко|
 |**Регулярность** |Несколько раз в неделю|
 |**Длительность** |20-80 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1178337792" class="episodes" hashtag="romanetua">95 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1178337792" class="episodes" hashtag="romanetua">95 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1178337792" class="release-date">06.02.2020 03:00</span>|
 
 ---
@@ -723,7 +723,7 @@
 |**Ведущие**      |Станислав Леонидов|
 |**Регулярность** |Ежедневно|
 |**Длительность** |~10-15 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1502778082" class="episodes" hashtag="tvoydigital">15 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1502778082" class="episodes" hashtag="tvoydigital">15 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1502778082" class="release-date">06.03.2020 03:00</span>|
 
 ---
@@ -1351,7 +1351,7 @@
 |**Ведущие**      |[Константин Буркалёв](http://blog.ksdaemon.ru/) [![GitHub](img/favicons/github.com.png)](https://github.com/KSDaemon) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/ksdaemon/) [![RSS](img/favicons/rss.png)](https://blog.ksdaemon.ru/feed/)|
 |**Регулярность** |Время от времени.|
 |**Длительность** |60-120 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="890468606" class="episodes" hashtag="sdcast">119 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="890468606" class="episodes" hashtag="sdcast">119 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="890468606" class="release-date">06.03.2020 10:50</span>|
 
 ---
@@ -1864,7 +1864,7 @@
 |**Ведущие**      |[Данис Тазетдинов](https://easyplace.wordpress.com) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/edeniska/)<br>Александр Денисов<br>Кирилл Розов [![Medium](img/favicons/medium.com.png)](https://medium.com/@kirillr) [![GitHub](img/favicons/github.com.png)](https://github.com/kirich1409)<br>Владимир Иванов [![Medium](img/favicons/medium.com.png)](https://medium.com/@dzigorium)<br>|
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |40-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1457942497" class="episodes" hashtag="mobilepeopletalks">21 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1457942497" class="episodes" hashtag="mobilepeopletalks">21 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1457942497" class="release-date">06.02.2020 18:56</span>|
 
 <details open="open"><summary><a name="podcasts-development-mobile-android"></a><b>&nbsp;&nbsp;&nbsp;&nbsp;Android</b></summary><br>
