@@ -23,148 +23,9 @@
 
 Также вы можете посмотреть [список русскоязычных Подкастов](Podcasts.md) и [список русскоязычных YouTube-каналов](YouTube.md), связанных с ИТ (расположены в отдельных файлах).
 
-|<p align="center">**[Блоги](#блоги)**</p>|<p align="center">**[Мероприятия](#мероприятия)**</p>|<p align="center">**Прочее**</p>|
+|<p align="center">**[Мероприятия](#мероприятия)**</p>|<p align="center">**[Блоги](#блоги)**</p>|<p align="center">**Прочее**</p>|
 |:-|:-|:-|
-|&nbsp;•&nbsp;[Администрирование](#blogs-administrating)<br>&nbsp;•&nbsp;[Документация](#blogs-documentation)<br>&nbsp;•&nbsp;[Общее](#blogs-common)<br>&nbsp;•&nbsp;[Паттерны](#blogs-patterns)<br>&nbsp;•&nbsp;[Тестирование](#blogs-testing)<br>&nbsp;•&nbsp;[.NET](#blogs-dotnet)<br>&nbsp;•&nbsp;[GameDev](#blogs-gamedev)<br>&nbsp;•&nbsp;[Java](#blogs-java)<br>&nbsp;•&nbsp;[Go](#blogs-go)<br>&nbsp;•&nbsp;[Python](#blogs-python)|&nbsp;•&nbsp;[Агрегаторы и Общие](#meetups-aggregators)<br>&nbsp;•&nbsp;[Аналитика](#meetups-analytics)<br>&nbsp;•&nbsp;[БД](#meetups-db)<br>&nbsp;•&nbsp;[AI](#meetups-ai)<br>&nbsp;•&nbsp;[Architecture](#meetups-architecture)<br>&nbsp;•&nbsp;[BlockChain](#meetups-blockchain)<br>&nbsp;•&nbsp;[BigData и DataScience](#meetups-bigdata-datascience)<br>&nbsp;•&nbsp;[Development](#meetups-development)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[1C](#meetups-development-1c)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[.NET](#meetups-development-dotnet)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[C++](#meetups-development-cpp)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[Elixir](#meetups-development-elixir)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[GameDev](#meetups-development-gamedev)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[Go](#meetups-development-go)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[IoT](#meetups-development-iot)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[Java](#meetups-development-java)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[Kotlin](#meetups-development-kotlin)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[Mobile](#meetups-development-mobile)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[MR VR AR](#meetups-development-mr-vr-ar)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[PHP](#meetups-development-php)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[Python](#meetups-development-python)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[Ruby](#meetups-development-ruby)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[Scala](#meetups-development-scala)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[Web](#meetups-development-web)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[DevOps](#meetups-devops)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[Management](#meetups-management)<br>&nbsp;•&nbsp;[Security](#meetups-security)<br>&nbsp;•&nbsp;[Testing и QA](#meetups-testing-qa)<br>&nbsp;•&nbsp;[UX](#meetups-ux)|&nbsp;•&nbsp;[Подкасты (в отдельном файле)](https://github.com/unchase/awesome-russian-it/blob/master/Podcasts.md)<br>&nbsp;•&nbsp;[YouTube-каналы (в отдельном файле)](https://github.com/unchase/awesome-russian-it/blob/master/YouTube.md)<br>&nbsp;•&nbsp;[Информация для авторов ресурсов](#информация-для-авторов-ресурсов)<br>&nbsp;•&nbsp;[Контрибьюторы](#контрибьюторы)|
-
-## **Блоги**
-
-<sup>[Содержание](#содержание)</sup>
-
-> Здесь представлены различные блоги и новостные агрегаторы, связанные с разработкой и со сферой ИТ в целом.
-
-<details open="open"><summary><a name="blogs-administrating"></a><b>Администрирование</b></summary><br>
-
-<sup>[Содержание](#содержание)</sup>
-
-|Название|Описание|Автор/Создатель|
-|:-------|:-------|:--------------|
-|**[Записки админа](https://sysadmin.pm/)**|Заметки сисадмина — это сборник записей системного администратора, который уже несколько лет работает с Linux на серверах.|[![Twitter](img/favicons/twitter.com.png)](https://twitter.com/sysadmin_pm) [![Telegram](img/favicons/t.me.png)](https://t.me/SysadminNotes) [![LinkedIn](img/favicons/linkedin.cn.png)](https://www.linkedin.com/in/sysadmin-pm)|
-|**[LINUX.ORG.RU](https://www.linux.org.ru/)**<br>[![RSS](img/favicons/rss.png)](https://www.linux.org.ru/section-rss.jsp?section=1)|Проект «LINUX.ORG.RU: Русская информация об ОС Linux» был основан в октябре 1998 года. Нашей целью является создание основного информационного ресурса об операционной системе Linux в России. Мы стараемся обеспечить возможность обмена различной Linux-ориентированной информацией, последними новостями, ссылками, документацией и другими ресурсами.|[Максим Валянский (maxcom)](https://valyanskiy.net/) [![GitHub](img/favicons/github.com.png)](https://github.com/maxcom) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UC02ozRTMDnJtdcVGGy2o87Q)|
-
-</details>
-
-<details open="open"><summary><a name="blogs-documentation"></a><b>Документация</b></summary><br>
-
-<sup>[Содержание](#содержание)</sup>
-
-|Название|Описание|Автор/Создатель|
-|:-------|:-------|:--------------|
-|**[docops-hq.github.io](https://docops-hq.github.io/conf/)**<br>[![GitHub](img/favicons/github.com.png)](https://github.com/docops-hq/conf)|Сайт с конспектами выступлений по документированию с различных конференций.|Николай Волынкин [![GitHub](img/favicons/github.com.png)](https://github.com/NickVolynkin)|
-|**[Lana Teletype.in](https://teletype.in/@lananovikova)**|Дайджесты чата Docops с полезной информацией по документированию.|[Светлана Новикова](https://lananovikova.tech/) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/nerazzgadannaya/posts/) [![Telegram](img/favicons/t.me.png)](https://t.me/the_know_all)|
-|**[Learnapidoc-ru 2.0](https://starkovden.github.io/)**|Курс по документированию API. Вольный перевод курса [Documenting APIs: a guide for technical writers](https://idratherbewriting.com/learnapidoc/), составленного Томом Джонсоном, техническим писателем Amazon.|Tom Johnson<br>Переводчик: [![GitHub](img/favicons/github.com.png)](https://github.com/Starkovden)|
-
-</details>
-
-<details open="open"><summary><a name="blogs-common"></a><b>Общее</b></summary><br>
-
-<sup>[Содержание](#содержание)</sup>
-
-|Название|Описание|Автор/Создатель|
-|:-------|:-------|:--------------|
-|**[Блог Александра Бындю](https://blog.byndyu.ru/)**|Личный блог Александра Бындю, IT-архитектора и эксперта в Agile и Lean.|[Личный сайт](https://byndyu.ru/) [![GitHub](img/favicons/github.com.png)](https://github.com/AlexanderByndyu) [![Medium](img/favicons/medium.com.png)](https://medium.com/@alexander.byndyu) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCuZO9u4O6vIigNmeySWSGCg)|
-|**[Блог Хекслета](https://ru.hexlet.io/blog)**<br>[![Twitter](img/favicons/twitter.com.png)](https://twitter.com/HexletHQ) [![VK](img/favicons/vk.com.png)](https://vk.com/hexlet) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/Hexlet) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/user/HexletUniversity) [![Telegram](img/favicons/t.me.png)](https://t.me/hexlet_ru) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/hexlethq/) [![RSS](img/favicons/rss.png)](https://ru.hexlet.io/blog.rss)|Лучшие статьи от Хекслета раз в неделю о разработке, карьере и обучении. Хекслет — практические курсы по программированию. Мы помогаем новичкам стать профессиональными программистами, а опытным разработчикам получать новые знания и расти профессионально.||
-|**[Хабр](https://habr.com)**<br>[![VK](img/favicons/vk.com.png)](https://vk.com/habr) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/habr_com) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/habrahabr.ru) [![Telegram](img/favicons/t.me.png)](https://t.me/habr_com) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCd_sTwKqVrweTt4oAKY5y4w)|Крупная площадка с многомиллионной аудиторией и необычными сервисами.<br>На Хабре ​ведут ​блоги ​известные ​компании. ​Они делятся ​знаниями, ​опытом ​и узнают ​мнение ​о своих ​продуктах ​из первых ​рук, ​а пользователи ​задают ​им вопросы ​напрямую ​и получают ​ответы.|[![Twitter](img/favicons/twitter.com.png)](https://twitter.com/deniskin)|
-|**[learnxinyminutes.com](https://learnxinyminutes.com/)**<br>[![GitHub](img/favicons/github.com.png)](https://github.com/adambard/learnxinyminutes-docs)|Документация как код к множеству языков и инструментов, собранная сообществом. Есть статьи на русском языке.|[Adam Bard](https://adambard.com/) [![GitHub](img/favicons/github.com.png)](https://github.com/adambard)|
-|**[Metanit.com](https://metanit.com/)**|Курсы по программированию по различным языкам и технологиям программирования от METANIT.COM.|[![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/user/Eugene22584/)|
-|**[RSDN](http://rsdn.org/)**<br>[![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/rsdnorg) [![LinkedIn](img/favicons/linkedin.cn.png)](https://www.linkedin.com/company/121922) [![RSS](img/favicons/rss.png)](https://subscribe.ru/archive/comp.soft.prog.cpplink/index.rss)|RSDN создан программистами для программистов. Главная цель создателей сайта заключается в том, чтобы хоть как-то компенсировать нехватку материалов по программированию на русском языке. Сейчас в конференциях можно часто слышать, что "Кто не знает английского, тот не программист". Понимая чудовищную несправедливость такого положения вещей, мы и решили создать RSDN. Здесь вы найдёте статьи по самой различной тематике, ответы на вопросы, полезные утилиты, готовые компоненты и многое другое. К вашим услугам коллекция ссылок на другие сайты в Сети, которые могут вам пригодиться, перечень книг, журналов, рассылок, конференций и других ресурсов, посвящённых программированию. На нашем сайте вы сможете пообщаться с авторами статей или задать коллегам в одном из форумов трудный вопрос, на который вам непременно ответят.||
-
-</details>
-
-<details open="open"><summary><a name="blogs-patterns"></a><b>Паттерны</b></summary><br>
-
-<sup>[Содержание](#содержание)</sup>
-
-|Название|Описание|Автор/Создатель|
-|:-------|:-------|:--------------|
-|**[Рефакторинг.Гуру](https://refactoring.guru/ru)**<br>[![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/refactoring.guru/) [![GitHub](img/favicons/github.com.png)](https://github.com/RefactoringGuru)|Рефакторинг.Гуру посвящён тёмным материям программирования: рефакторингу, паттернам проектирования, принципам SOLID и другим важным темам из мира программирования.<br>Главная цель этого сайта — показать общую картину того, как все эти темы пересекаются, как работают вместе и насколько они до сих пор актуальны.|Александр Швец [![GitHub](img/favicons/github.com.png)](https://github.com/neochief) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/neochief/)|
-
-</details>
-
-<details open="open"><summary><a name="blogs-testing"></a><b>Тестирование</b></summary><br>
-
-<sup>[Содержание](#содержание)</sup>
-
-|Название|Описание|Автор/Создатель|
-|:-------|:-------|:--------------|
-|**[Блог a1qa](https://www.a1qa.ru/blog/)**|Блог о тестировании и качестве ПО.|[![Twitter](img/favicons/twitter.com.png)](https://twitter.com/a1qa_RU) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/a1qa.software.testing/)|
-|**[Жизнь - это движение! А тестирование - это жизнь!](http://okiseleva.blogspot.com/)**<br>[![RSS](img/favicons/rss.png)](http://okiseleva.blogspot.com/feeds/posts/default)|Личный блог Ольги Назиной (Киселевой) по тестированию и не только.|Ольга Назина (Киселева)|
-|**[automated-testing.info](https://automated-testing.info/)**<br>[![Twitter](img/favicons/twitter.com.png)](https://twitter.com/autotestinfo) [![VK](img/favicons/vk.com.png)](https://vk.com/autotestinfo) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/autotestinfo/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/user/autotestinfo) [![Telegram](img/favicons/t.me.png)](https://t.me/atinfo) [![LinkedIn](img/favicons/linkedin.cn.png)](https://www.linkedin.com/groups/3145107/) [![GitHub](img/favicons/github.com.png)](https://github.com/atinfo)|Портал, который ставит перед собой цель соединить информацию и специалистов в области автоматизации тестирования программного обеспечения.|[Михаил Поляруш](http://poliarush.com) [![RSS](img/favicons/rss.png)](http://feeds.feedburner.com/polusok)|
-|**[OpenQuality.ru](http://blog.openquality.ru/)**<br>[![RSS](img/favicons/rss.png)](http://feeds2.feedburner.com/OpenQuality)|Цель проекта - способствовать улучшению качества программного обеспечения. Держать руку на пульсе событий, отслеживать тенденции в создании информационных систем и делиться практическим опытом внедрения новых технологий.|Юрий Кунивер|
-|**[Software-Testing.RU blogs](https://software-testing.ru/blogs)**<br>[![RSS](img/favicons/rss.png)](http://feeds.feedburner.com/RussianTestingBlogs50)|Проект Software-Testing.RU посвящён вопросам тестирования и повышения качества программного обеспечения. На нашем портале специалисты по тестированию смогут найти сотни тематических статей, подборку книг по тестированию, обзор новостей отрасли. В разделе Тренинги собрана информация об учебных курсах и тренингах по тестированию, конференциях и других мероприятиях проводимых в России и СНГ разными компаниями.|[![VK](img/favicons/vk.com.png)](http://vk.com/test_it) [![Twitter](img/favicons/twitter.com.png)](http://twitter.com/esteru) [![Facebook](img/favicons/facebook.com.png)](http://www.facebook.com/pages/Test-it/458857490853620)|
-
-</details>
-
-<details open="open"><summary><a name="blogs-dotnet"></a><b>.NET</b></summary><br>
-
-<sup>[Содержание](#содержание)</sup>
-
-|Название|Описание|Автор/Создатель|
-|:-------|:-------|:--------------|
-|**[Блог Андрея Акиньшина](https://aakinshin.net/ru/posts/)**<br>[![RSS](img/favicons/rss.png)](https://aakinshin.net/ru/rss.xml)|Блог Андрея Акиньшина — разработчика и учёного, частого спикера на конференциях, автора постов и статей. Он мейнтейнер [BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet) (самая популярная библиотека для написания .NET-бенчмарков) и автор [Pro .NET Benchmarking](https://aakinshin.net/prodotnetbenchmarking/) (книга о практиках замеров производительности).|[![MVP](img/favicons/mvp.microsoft.com.png)](https://mvp.microsoft.com/en-us/PublicProfile/5001348) [![GitHub](img/favicons/github.com.png)](https://github.com/AndreyAkinshin) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/dreamwalker/) [![Medium](img/favicons/medium.com.png)](https://medium.com/@andrey.akinshin) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCk25QhN-9_wwkqyeapuCh9w)|
-|**[Блог Андрея Амельченя](http://flash2048.com/)**<br>[![RSS](img/favicons/rss.png)](http://flash2048.com/syndication.axd/)|Мысли и статьи о программировании и не только.|[![MVP](img/favicons/mvp.microsoft.com.png)](https://mvp.microsoft.com/en-us/PublicProfile/5003272) [![GitHub](img/favicons/github.com.png)](https://github.com/flash2048) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCLT9skyV6t0bqsJ5Xzknh9w)|
-|**[Блог Дмитрия Нестерука](https://nesteruk.wordpress.com/)**|Блог о программировании — C#, F#, C++, архитектура, и многое другое.|[![GitHub](img/favicons/github.com.png)](https://github.com/nesteruk) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCJIlkaXVl-6vU3ghQkr51nQ/feed) [![Udemy](img/favicons/udemy.com.png)](https://www.udemy.com/user/dmitrinesteruk/)|
-|**[Блог Дмитрия Сошникова](https://soshnikov.com/blog/)**|Личный блог Дмитрия Сошникова, технологического евангелиста в компании Майкрософт.|Дмитрий Сошников [![GitHub](img/favicons/github.com.png)](https://github.com/shwars) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/shwars/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCmBU3P1cCbx76LX6MPb3A9Q)|
-|**[Блог Сергея Теплякова](http://sergeyteplyakov.blogspot.com/)**<br>[![RSS](img/favicons/rss.png)](http://feeds.feedburner.com/blogspot/Znar)|Личный блог Сергея Теплякова, автора книги "Паттерны проектирования на платформе .NET".|Сергей Тепляков [![MS Devblogs](img/favicons/mvp.microsoft.com.png)](https://devblogs.microsoft.com/premier-developer/author/seteplia/) [![GitHub](img/favicons/github.com.png)](https://github.com/SergeyTeplyakov) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/sergeyt/) [![RSS](img/favicons/rss.png)](https://devblogs.microsoft.com/premier-developer/author/seteplia/feed/)|
-|**[Бояринцев .NET](https://boyarincev.net/)**|Занимаюсь разработкой .NET приложений (в основном веб), в этом блоге пишу о интересных вещах, с которыми сталкиваюсь в процессе программирования.|Стас Бояринцев [![Telegram](img/favicons/t.me.png)](https://t.me/dotnetwebdev)|
-|**[Andrey on .NET](https://andrey.moveax.ru/)**<br>[![RSS](img/favicons/rss.png)](http://feeds.moveax.ru/devdotnet)|Про C#, .NET, ASP.NET, Core, MVC, Azure, EF, IoC и другие умные слова.|Андрей Веселов [![MVP](img/favicons/mvp.microsoft.com.png)](https://mvp.microsoft.com/ru-ru/PublicProfile/4039965?fullName=Andrey%20Veselov) [![GitHub](img/favicons/github.com.png)](https://github.com/VeselovAndrey)|
-|**[Code Instinct](https://www.codeinstinct.pro/)**<br>[![RSS](img/favicons/rss.png)](https://www.codeinstinct.pro/feeds/posts/default?alt=rss)|Блог Дмитрия Петухова, консультанта по технологиям машинного обучения, Cloud-архитектора, спикера, неутомимого исследователя и кофемана.|[![MVP](img/favicons/mvp.microsoft.com.png)](https://mvp.microsoft.com/ru-ru/PublicProfile/5001834?fullName=Dmitry%20Petukhov) [![GitHub](img/favicons/github.com.png)](https://github.com/codez0mb1e) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/codezombie/)|
-|**[it-community.in.ua](https://it-community.in.ua/)**<br>[![RSS](img/favicons/rss.png)](https://it-community.in.ua/feed/)|Проект «ИТ сообщество Украины» основан в начале 2014 года c целью создания информационно-коммуникационного ресурса, на котором ИТ-специалисты разного уровня смогут получить актуальную информацию о различных продуктах, а также особенностях их конфигурирования.||
-|**[Wiki .NET сообществ в GitHub](https://github.com/AnatolyKulakov/SpbDotNet/wiki)**|Wiki в GitHub с записями встреч и презентациями русскоязычных .NET сообществ с наиболее полной информацией о них.|[Анатолий Кулаков](https://github.com/AnatolyKulakov/SpbDotNet/wiki/Anatoly-Kulakov) [![GitHub](img/favicons/github.com.png)](https://github.com/AnatolyKulakov) [![DotNet.ru](img/favicons/dotnet.ru.png)](https://dotnet.ru)|
-
-</details>
-
-<details open="open"><summary><a name="blogs-gamedev"></a><b>GameDev</b></summary><br>
-
-<sup>[Содержание](#содержание)</sup>
-
-|Название|Описание|Автор/Создатель|
-|:-------|:-------|:--------------|
-|**[App2Top.ru](https://app2top.ru/)**<br>[![Twitter](img/favicons/twitter.com.png)](https://twitter.com/App2Top) [![VK](img/favicons/vk.com.png)](https://vk.com/app2top) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/App2Top) [![Telegram](img/favicons/t.me.png)](https://t.me/app2top)|App2Top.ru – это информационный ресурс, посвященный всем аспектам индустрии игр.<br>Последние новости разработки и продвижения игр, интервью с лидерами рынка, постмортемы кассовых хитов и советы по игровому дизайну, – все это, а также многое другое можно найти на App2Top.ru.||
-|[![Dat Fest](http://favicon.yandex.net/favicon/datfest.ru)](http://datfest.ru/)<br>[Dat Fest](http://datfest.ru/)|Dat Fest — это фестиваль про игры и гик-культуру в целом. Фестиваль, который посвящен всему и сразу, но в первую очередь — играм, и даже старым играм. У нас будут разработчики, интервью с известными актерами озвучки тех самых игр, турниры, традиционное и большое косплей-дефиле, мастер-классы, лекции и прочее.|Москва|[![VK](img/favicons/vk.com.png)](https://vk.com/datfest)|
-|**[DevTribe](https://devtribe.ru)**<br>[![Twitter](img/favicons/twitter.com.png)](https://twitter.com/DevTribe_ru) [![VK](img/favicons/vk.com.png)](https://vk.com/devtribe) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/c/devtribe) [![Discord](img/favicons/discordapp.com.png)](https://discordapp.com/invite/PKZkUzf)|DevTribe - это сайт об инди-играх, объединяющий людей, которые делают инди-игры, с теми, кто в эти инди-игры играет. Мы собираем в одно пространство все части gamedev'а: новости об инди-играх и разработке игр, поиск работы в игровой индустрии, база знаний по игровым инструментами и движкам, инструментарий для разработки игр, и, конечно же, возможность организовать место для дневника разработчика.|Александр Jusper Николаев|
-|**[DTF](https://dtf.ru/)**<br>[![Twitter](img/favicons/twitter.com.png)](https://twitter.com/playdtf) [![VK](img/favicons/vk.com.png)](https://vk.com/dtf) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/playdtf) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCBDLWj5X5D9bvBa3JIMMTIQ) [![Telegram](img/favicons/t.me.png)](https://tele.gg/dtfbest) [![Twitch](img/favicons/twitch.tv.png)](https://www.twitch.tv/dtfru) [![Email](img/favicons/email.png)](mailto:support@dtf.ru)|DTF — это платформа для обсуждения игр, кино, разработки и технологий. У площадки нет консолидированной позиции, здесь собираются люди с разными мнениями и взглядами на одни и те же продукты развлекательной индустрии.||
-|[![Games Conventions](http://favicon.yandex.net/favicon/games-conventions.ru)](https://games-conventions.ru/catalogue)<br>[Games Conventions](https://games-conventions.ru/catalogue)|Календарь игровых мероприятий всего мира, в т.ч. геймдева.|Весь мир|[![Twitter](img/favicons/twitter.com.png)](https://twitter.com/games_convs) [![VK](img/favicons/vk.com.png)](https://vk.com/games_conventions) [![RSS](img/favicons/rss.png)](https://games-conventions.ru/rss/rss.xml) [![Email](img/favicons/email.png)](mailto:info@games-conventions.ru)|
-|**[Good Game Marketing](http://ggmarketing.io/)**|Как продвигать игру, если вы не маркетолог.<br>Подход к маркетингу для разработчиков игр и приложений.|Екатерина Приходько [![Medium](img/favicons/medium.com.png)](https://medium.com/@iekaterina.prikhodko)|
-|**[Indie.by](http://www.indie.by)**<br>[![Twitter](img/favicons/twitter.com.png)](https://twitter.com/indie_by) [![VK](img/favicons/vk.com.png)](https://vk.com/indie_by) [![RSS](img/favicons/rss.png)](http://www.indie.by/feeds/posts/default)|Indie.by — блог о независимых играх. Этот блог создан в поддержку всех независимых игр. Здесь Вы можете найти или спросить всю интересующую вас информацию о проектах, созданных без влияния крупных компаний. В статьях освещаются темы, затрагивающие как игры, так и мероприятия, фильмы об играх, тематические интернет-ресурсы, музыку и многое другое.|Максим Павлов|
-|**[XYZ](https://www.school-xyz.com/blog)**<br>[![VK](img/favicons/vk.com.png)](https://vk.com/xyz_gamedev) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/gamedev.xyz) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCtJsE0SDhyS4ib2evb5k3gg) [![Telegram](img/favicons/t.me.png)](https://t-do.ru/xyz_cg) [![Telegram](img/favicons/t.me.png)](https://t.me/xyz_podcast) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/xyz.school/)|Блог школы онлайн курсов для успешной карьеры в индустрии игр, кино и искусства.||
-|**[Блог Алисы Высотиной](https://mistle-gamer.livejournal.com/)**<br>[![VK](img/favicons/vk.com.png)](https://vk.com/mistle_gamer)||Алиса Высотина|
-|**[Блог Михаила Кадикова](http://level-design.ru/)**<br>[![VK](img/favicons/vk.com.png)](https://vk.com/proleveldesign) [![Telegram](img/favicons/t.me.png)](https://t.me/proleveldesign)|Личный блог Михаила Кадикова, профессионального дизайнера уровней из России.|Михаил Кадиков|
-|**[Манжеты гейм-дизайнера](https://gdcuffs.com)**<br>[![Twitter](img/favicons/twitter.com.png)](https://twitter.com/gdcuffs) [![VK](img/favicons/vk.com.png)](https://vk.com/gdcuffs) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/GDcuffs/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UC1GkZH9zMTF4T4n8gO8m1hQ) [![Telegram](img/favicons/t.me.png)](https://telegram.me/gdcuffs) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/officialgdcuffs/)|Манжеты гейм-дизайнера — профессиональный блог об игровой индустрии и гейм-дизайне в частности.|Ник Филатов<br>Владимир Ковтун<br>Артём волков<br>Сергей Гимельрейх<br>Алексей Корогодин<br>Алёна Пономаренко<br>Барисби Алборов<br>Григорий Чопоров<br>Антон Токарев|
-
-</details>
-
-<details open="open"><summary><a name="blogs-go"></a><b>Go</b></summary><br>
-
-<sup>[Содержание](#содержание)</sup>
-
-|Название|Описание|Автор/Создатель|
-|:-------|:-------|:--------------|
-|**[4gophers](https://4gophers.ru/)**<br>[![VK](img/favicons/vk.com.png)](https://vk.com/golang) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/4gophers) [![Telegram](img/favicons/t.me.png)](https://t.me/gophernews) [![Slack](img/favicons/slack.png)](http://slack.golang-ru.com/) [![RSS](img/favicons/rss.png)](https://4gophers.ru/articles/index.xml)|Блог по языку программирования Go/Golang.||
-
-</details>
-
-<details open="open"><summary><a name="blogs-java"></a><b>Java</b></summary><br>
-
-<sup>[Содержание](#содержание)</sup>
-
-|Название|Описание|Автор/Создатель|
-|:-------|:-------|:--------------|
-|**[miniJUG](https://minijug.ru/)**<br>[![VK](img/favicons/vk.com.png)](https://vk.com/minijug) [![Telegram](img/favicons/t.me.png)](https://tlg.name/miniJUG)|Новости из мира Java.||
-
-</details>
-
-<details open="open"><summary><a name="blogs-python"></a><b>Python</b></summary><br>
-
-<sup>[Содержание](#содержание)</sup>
-
-|Название|Описание|Автор/Создатель|
-|:-------|:-------|:--------------|
-|**[Блог Антона Жиянова](https://antonz.ru/)**<br> [![Telegram](img/favicons/t.me.png)](https://t.me/ohmypy) [![RSS](img/favicons/rss.png)](https://antonz.ru/rss/)|Личный блог Антона Жиянова о Python и разработке продуктов.|Антон Жиянов|
-
-</details>
-
----
+|&nbsp;•&nbsp;[Агрегаторы и Общие](#meetups-aggregators)<br>&nbsp;•&nbsp;[Аналитика](#meetups-analytics)<br>&nbsp;•&nbsp;[БД](#meetups-db)<br>&nbsp;•&nbsp;[AI](#meetups-ai)<br>&nbsp;•&nbsp;[Architecture](#meetups-architecture)<br>&nbsp;•&nbsp;[BlockChain](#meetups-blockchain)<br>&nbsp;•&nbsp;[BigData и DataScience](#meetups-bigdata-datascience)<br>&nbsp;•&nbsp;[Development](#meetups-development)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[1C](#meetups-development-1c)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[.NET](#meetups-development-dotnet)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[C++](#meetups-development-cpp)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[Elixir](#meetups-development-elixir)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[GameDev](#meetups-development-gamedev)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[Go](#meetups-development-go)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[IoT](#meetups-development-iot)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[Java](#meetups-development-java)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[Kotlin](#meetups-development-kotlin)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[Mobile](#meetups-development-mobile)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[MR VR AR](#meetups-development-mr-vr-ar)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[PHP](#meetups-development-php)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[Python](#meetups-development-python)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[Ruby](#meetups-development-ruby)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[Scala](#meetups-development-scala)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[Web](#meetups-development-web)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[DevOps](#meetups-devops)<br>&nbsp;&nbsp;&nbsp;•&nbsp;[Management](#meetups-management)<br>&nbsp;•&nbsp;[Security](#meetups-security)<br>&nbsp;•&nbsp;[Testing и QA](#meetups-testing-qa)<br>&nbsp;•&nbsp;[UX](#meetups-ux)|&nbsp;•&nbsp;[Администрирование](#blogs-administrating)<br>&nbsp;•&nbsp;[Документация](#blogs-documentation)<br>&nbsp;•&nbsp;[Общее](#blogs-common)<br>&nbsp;•&nbsp;[Паттерны](#blogs-patterns)<br>&nbsp;•&nbsp;[Тестирование](#blogs-testing)<br>&nbsp;•&nbsp;[.NET](#blogs-dotnet)<br>&nbsp;•&nbsp;[GameDev](#blogs-gamedev)<br>&nbsp;•&nbsp;[Java](#blogs-java)<br>&nbsp;•&nbsp;[Go](#blogs-go)<br>&nbsp;•&nbsp;[Python](#blogs-python)|&nbsp;•&nbsp;[Подкасты (в отдельном файле)](https://github.com/unchase/awesome-russian-it/blob/master/Podcasts.md)<br>&nbsp;•&nbsp;[YouTube-каналы (в отдельном файле)](https://github.com/unchase/awesome-russian-it/blob/master/YouTube.md)<br>&nbsp;•&nbsp;[Информация для авторов ресурсов](#информация-для-авторов-ресурсов)<br>&nbsp;•&nbsp;[Контрибьюторы](#контрибьюторы)|
 
 ## **Мероприятия**
 
@@ -726,6 +587,145 @@
 |:------:|:-------|:--------------------------:|:--------------:|
 |[![ProfsoUX](img/favicons/profsoux.ru.png)](https://profsoux.ru/)<br>[ProfsoUX](https://profsoux.ru/)|ProfsoUX – это главное UX-событие в России, которое ежегодно собирает до 500 участников из разных городов и стран.|Москва, Санкт-Петербург|[![Twitter](img/favicons/twitter.com.png)](https://twitter.com/profsoux) [![VK](img/favicons/vk.com.png)](https://vk.com/profsoux) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/Profsoux) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCtro_tHnKNuQaNvs71RISeg) [![Telegram](img/favicons/t.me.png)](https://t.me/ProfsoUX) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/profsoux/) [![Email](img/favicons/email.png)](mailto:contact@profsoux.ru)|
 |[![RAUX](http://favicon.yandex.net/favicon/raux.design)](https://raux.design/)<br>[RAUX](https://raux.design/)|Международная практическая конференция для UX/UI-специалистов, исследователей, проектировщиков, аналитиков, service-дизайнеров.|Минск|[![VK](img/favicons/vk.com.png)](https://vk.com/mymondayby) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/mymondayby) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/mymondayby/) [![Email](img/favicons/email.png)](mailto:sales@mymonday.by)|
+
+</details>
+
+---
+
+## **Блоги**
+
+<sup>[Содержание](#содержание)</sup>
+
+> Здесь представлены различные блоги и новостные агрегаторы, связанные с разработкой и со сферой ИТ в целом.
+
+<details open="open"><summary><a name="blogs-administrating"></a><b>Администрирование</b></summary><br>
+
+<sup>[Содержание](#содержание)</sup>
+
+|Название|Описание|Автор/Создатель|
+|:-------|:-------|:--------------|
+|**[Записки админа](https://sysadmin.pm/)**|Заметки сисадмина — это сборник записей системного администратора, который уже несколько лет работает с Linux на серверах.|[![Twitter](img/favicons/twitter.com.png)](https://twitter.com/sysadmin_pm) [![Telegram](img/favicons/t.me.png)](https://t.me/SysadminNotes) [![LinkedIn](img/favicons/linkedin.cn.png)](https://www.linkedin.com/in/sysadmin-pm)|
+|**[LINUX.ORG.RU](https://www.linux.org.ru/)**<br>[![RSS](img/favicons/rss.png)](https://www.linux.org.ru/section-rss.jsp?section=1)|Проект «LINUX.ORG.RU: Русская информация об ОС Linux» был основан в октябре 1998 года. Нашей целью является создание основного информационного ресурса об операционной системе Linux в России. Мы стараемся обеспечить возможность обмена различной Linux-ориентированной информацией, последними новостями, ссылками, документацией и другими ресурсами.|[Максим Валянский (maxcom)](https://valyanskiy.net/) [![GitHub](img/favicons/github.com.png)](https://github.com/maxcom) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UC02ozRTMDnJtdcVGGy2o87Q)|
+
+</details>
+
+<details open="open"><summary><a name="blogs-documentation"></a><b>Документация</b></summary><br>
+
+<sup>[Содержание](#содержание)</sup>
+
+|Название|Описание|Автор/Создатель|
+|:-------|:-------|:--------------|
+|**[docops-hq.github.io](https://docops-hq.github.io/conf/)**<br>[![GitHub](img/favicons/github.com.png)](https://github.com/docops-hq/conf)|Сайт с конспектами выступлений по документированию с различных конференций.|Николай Волынкин [![GitHub](img/favicons/github.com.png)](https://github.com/NickVolynkin)|
+|**[Lana Teletype.in](https://teletype.in/@lananovikova)**|Дайджесты чата Docops с полезной информацией по документированию.|[Светлана Новикова](https://lananovikova.tech/) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/nerazzgadannaya/posts/) [![Telegram](img/favicons/t.me.png)](https://t.me/the_know_all)|
+|**[Learnapidoc-ru 2.0](https://starkovden.github.io/)**|Курс по документированию API. Вольный перевод курса [Documenting APIs: a guide for technical writers](https://idratherbewriting.com/learnapidoc/), составленного Томом Джонсоном, техническим писателем Amazon.|Tom Johnson<br>Переводчик: [![GitHub](img/favicons/github.com.png)](https://github.com/Starkovden)|
+
+</details>
+
+<details open="open"><summary><a name="blogs-common"></a><b>Общее</b></summary><br>
+
+<sup>[Содержание](#содержание)</sup>
+
+|Название|Описание|Автор/Создатель|
+|:-------|:-------|:--------------|
+|**[Блог Александра Бындю](https://blog.byndyu.ru/)**|Личный блог Александра Бындю, IT-архитектора и эксперта в Agile и Lean.|[Личный сайт](https://byndyu.ru/) [![GitHub](img/favicons/github.com.png)](https://github.com/AlexanderByndyu) [![Medium](img/favicons/medium.com.png)](https://medium.com/@alexander.byndyu) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCuZO9u4O6vIigNmeySWSGCg)|
+|**[Блог Хекслета](https://ru.hexlet.io/blog)**<br>[![Twitter](img/favicons/twitter.com.png)](https://twitter.com/HexletHQ) [![VK](img/favicons/vk.com.png)](https://vk.com/hexlet) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/Hexlet) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/user/HexletUniversity) [![Telegram](img/favicons/t.me.png)](https://t.me/hexlet_ru) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/hexlethq/) [![RSS](img/favicons/rss.png)](https://ru.hexlet.io/blog.rss)|Лучшие статьи от Хекслета раз в неделю о разработке, карьере и обучении. Хекслет — практические курсы по программированию. Мы помогаем новичкам стать профессиональными программистами, а опытным разработчикам получать новые знания и расти профессионально.||
+|**[Хабр](https://habr.com)**<br>[![VK](img/favicons/vk.com.png)](https://vk.com/habr) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/habr_com) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/habrahabr.ru) [![Telegram](img/favicons/t.me.png)](https://t.me/habr_com) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCd_sTwKqVrweTt4oAKY5y4w)|Крупная площадка с многомиллионной аудиторией и необычными сервисами.<br>На Хабре ​ведут ​блоги ​известные ​компании. ​Они делятся ​знаниями, ​опытом ​и узнают ​мнение ​о своих ​продуктах ​из первых ​рук, ​а пользователи ​задают ​им вопросы ​напрямую ​и получают ​ответы.|[![Twitter](img/favicons/twitter.com.png)](https://twitter.com/deniskin)|
+|**[learnxinyminutes.com](https://learnxinyminutes.com/)**<br>[![GitHub](img/favicons/github.com.png)](https://github.com/adambard/learnxinyminutes-docs)|Документация как код к множеству языков и инструментов, собранная сообществом. Есть статьи на русском языке.|[Adam Bard](https://adambard.com/) [![GitHub](img/favicons/github.com.png)](https://github.com/adambard)|
+|**[Metanit.com](https://metanit.com/)**|Курсы по программированию по различным языкам и технологиям программирования от METANIT.COM.|[![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/user/Eugene22584/)|
+|**[RSDN](http://rsdn.org/)**<br>[![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/rsdnorg) [![LinkedIn](img/favicons/linkedin.cn.png)](https://www.linkedin.com/company/121922) [![RSS](img/favicons/rss.png)](https://subscribe.ru/archive/comp.soft.prog.cpplink/index.rss)|RSDN создан программистами для программистов. Главная цель создателей сайта заключается в том, чтобы хоть как-то компенсировать нехватку материалов по программированию на русском языке. Сейчас в конференциях можно часто слышать, что "Кто не знает английского, тот не программист". Понимая чудовищную несправедливость такого положения вещей, мы и решили создать RSDN. Здесь вы найдёте статьи по самой различной тематике, ответы на вопросы, полезные утилиты, готовые компоненты и многое другое. К вашим услугам коллекция ссылок на другие сайты в Сети, которые могут вам пригодиться, перечень книг, журналов, рассылок, конференций и других ресурсов, посвящённых программированию. На нашем сайте вы сможете пообщаться с авторами статей или задать коллегам в одном из форумов трудный вопрос, на который вам непременно ответят.||
+
+</details>
+
+<details open="open"><summary><a name="blogs-patterns"></a><b>Паттерны</b></summary><br>
+
+<sup>[Содержание](#содержание)</sup>
+
+|Название|Описание|Автор/Создатель|
+|:-------|:-------|:--------------|
+|**[Рефакторинг.Гуру](https://refactoring.guru/ru)**<br>[![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/refactoring.guru/) [![GitHub](img/favicons/github.com.png)](https://github.com/RefactoringGuru)|Рефакторинг.Гуру посвящён тёмным материям программирования: рефакторингу, паттернам проектирования, принципам SOLID и другим важным темам из мира программирования.<br>Главная цель этого сайта — показать общую картину того, как все эти темы пересекаются, как работают вместе и насколько они до сих пор актуальны.|Александр Швец [![GitHub](img/favicons/github.com.png)](https://github.com/neochief) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/neochief/)|
+
+</details>
+
+<details open="open"><summary><a name="blogs-testing"></a><b>Тестирование</b></summary><br>
+
+<sup>[Содержание](#содержание)</sup>
+
+|Название|Описание|Автор/Создатель|
+|:-------|:-------|:--------------|
+|**[Блог a1qa](https://www.a1qa.ru/blog/)**|Блог о тестировании и качестве ПО.|[![Twitter](img/favicons/twitter.com.png)](https://twitter.com/a1qa_RU) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/a1qa.software.testing/)|
+|**[Жизнь - это движение! А тестирование - это жизнь!](http://okiseleva.blogspot.com/)**<br>[![RSS](img/favicons/rss.png)](http://okiseleva.blogspot.com/feeds/posts/default)|Личный блог Ольги Назиной (Киселевой) по тестированию и не только.|Ольга Назина (Киселева)|
+|**[automated-testing.info](https://automated-testing.info/)**<br>[![Twitter](img/favicons/twitter.com.png)](https://twitter.com/autotestinfo) [![VK](img/favicons/vk.com.png)](https://vk.com/autotestinfo) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/autotestinfo/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/user/autotestinfo) [![Telegram](img/favicons/t.me.png)](https://t.me/atinfo) [![LinkedIn](img/favicons/linkedin.cn.png)](https://www.linkedin.com/groups/3145107/) [![GitHub](img/favicons/github.com.png)](https://github.com/atinfo)|Портал, который ставит перед собой цель соединить информацию и специалистов в области автоматизации тестирования программного обеспечения.|[Михаил Поляруш](http://poliarush.com) [![RSS](img/favicons/rss.png)](http://feeds.feedburner.com/polusok)|
+|**[OpenQuality.ru](http://blog.openquality.ru/)**<br>[![RSS](img/favicons/rss.png)](http://feeds2.feedburner.com/OpenQuality)|Цель проекта - способствовать улучшению качества программного обеспечения. Держать руку на пульсе событий, отслеживать тенденции в создании информационных систем и делиться практическим опытом внедрения новых технологий.|Юрий Кунивер|
+|**[Software-Testing.RU blogs](https://software-testing.ru/blogs)**<br>[![RSS](img/favicons/rss.png)](http://feeds.feedburner.com/RussianTestingBlogs50)|Проект Software-Testing.RU посвящён вопросам тестирования и повышения качества программного обеспечения. На нашем портале специалисты по тестированию смогут найти сотни тематических статей, подборку книг по тестированию, обзор новостей отрасли. В разделе Тренинги собрана информация об учебных курсах и тренингах по тестированию, конференциях и других мероприятиях проводимых в России и СНГ разными компаниями.|[![VK](img/favicons/vk.com.png)](http://vk.com/test_it) [![Twitter](img/favicons/twitter.com.png)](http://twitter.com/esteru) [![Facebook](img/favicons/facebook.com.png)](http://www.facebook.com/pages/Test-it/458857490853620)|
+
+</details>
+
+<details open="open"><summary><a name="blogs-dotnet"></a><b>.NET</b></summary><br>
+
+<sup>[Содержание](#содержание)</sup>
+
+|Название|Описание|Автор/Создатель|
+|:-------|:-------|:--------------|
+|**[Блог Андрея Акиньшина](https://aakinshin.net/ru/posts/)**<br>[![RSS](img/favicons/rss.png)](https://aakinshin.net/ru/rss.xml)|Блог Андрея Акиньшина — разработчика и учёного, частого спикера на конференциях, автора постов и статей. Он мейнтейнер [BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet) (самая популярная библиотека для написания .NET-бенчмарков) и автор [Pro .NET Benchmarking](https://aakinshin.net/prodotnetbenchmarking/) (книга о практиках замеров производительности).|[![MVP](img/favicons/mvp.microsoft.com.png)](https://mvp.microsoft.com/en-us/PublicProfile/5001348) [![GitHub](img/favicons/github.com.png)](https://github.com/AndreyAkinshin) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/dreamwalker/) [![Medium](img/favicons/medium.com.png)](https://medium.com/@andrey.akinshin) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCk25QhN-9_wwkqyeapuCh9w)|
+|**[Блог Андрея Амельченя](http://flash2048.com/)**<br>[![RSS](img/favicons/rss.png)](http://flash2048.com/syndication.axd/)|Мысли и статьи о программировании и не только.|[![MVP](img/favicons/mvp.microsoft.com.png)](https://mvp.microsoft.com/en-us/PublicProfile/5003272) [![GitHub](img/favicons/github.com.png)](https://github.com/flash2048) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCLT9skyV6t0bqsJ5Xzknh9w)|
+|**[Блог Дмитрия Нестерука](https://nesteruk.wordpress.com/)**|Блог о программировании — C#, F#, C++, архитектура, и многое другое.|[![GitHub](img/favicons/github.com.png)](https://github.com/nesteruk) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCJIlkaXVl-6vU3ghQkr51nQ/feed) [![Udemy](img/favicons/udemy.com.png)](https://www.udemy.com/user/dmitrinesteruk/)|
+|**[Блог Дмитрия Сошникова](https://soshnikov.com/blog/)**|Личный блог Дмитрия Сошникова, технологического евангелиста в компании Майкрософт.|Дмитрий Сошников [![GitHub](img/favicons/github.com.png)](https://github.com/shwars) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/shwars/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCmBU3P1cCbx76LX6MPb3A9Q)|
+|**[Блог Сергея Теплякова](http://sergeyteplyakov.blogspot.com/)**<br>[![RSS](img/favicons/rss.png)](http://feeds.feedburner.com/blogspot/Znar)|Личный блог Сергея Теплякова, автора книги "Паттерны проектирования на платформе .NET".|Сергей Тепляков [![MS Devblogs](img/favicons/mvp.microsoft.com.png)](https://devblogs.microsoft.com/premier-developer/author/seteplia/) [![GitHub](img/favicons/github.com.png)](https://github.com/SergeyTeplyakov) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/sergeyt/) [![RSS](img/favicons/rss.png)](https://devblogs.microsoft.com/premier-developer/author/seteplia/feed/)|
+|**[Бояринцев .NET](https://boyarincev.net/)**|Занимаюсь разработкой .NET приложений (в основном веб), в этом блоге пишу о интересных вещах, с которыми сталкиваюсь в процессе программирования.|Стас Бояринцев [![Telegram](img/favicons/t.me.png)](https://t.me/dotnetwebdev)|
+|**[Andrey on .NET](https://andrey.moveax.ru/)**<br>[![RSS](img/favicons/rss.png)](http://feeds.moveax.ru/devdotnet)|Про C#, .NET, ASP.NET, Core, MVC, Azure, EF, IoC и другие умные слова.|Андрей Веселов [![MVP](img/favicons/mvp.microsoft.com.png)](https://mvp.microsoft.com/ru-ru/PublicProfile/4039965?fullName=Andrey%20Veselov) [![GitHub](img/favicons/github.com.png)](https://github.com/VeselovAndrey)|
+|**[Code Instinct](https://www.codeinstinct.pro/)**<br>[![RSS](img/favicons/rss.png)](https://www.codeinstinct.pro/feeds/posts/default?alt=rss)|Блог Дмитрия Петухова, консультанта по технологиям машинного обучения, Cloud-архитектора, спикера, неутомимого исследователя и кофемана.|[![MVP](img/favicons/mvp.microsoft.com.png)](https://mvp.microsoft.com/ru-ru/PublicProfile/5001834?fullName=Dmitry%20Petukhov) [![GitHub](img/favicons/github.com.png)](https://github.com/codez0mb1e) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/codezombie/)|
+|**[it-community.in.ua](https://it-community.in.ua/)**<br>[![RSS](img/favicons/rss.png)](https://it-community.in.ua/feed/)|Проект «ИТ сообщество Украины» основан в начале 2014 года c целью создания информационно-коммуникационного ресурса, на котором ИТ-специалисты разного уровня смогут получить актуальную информацию о различных продуктах, а также особенностях их конфигурирования.||
+|**[Wiki .NET сообществ в GitHub](https://github.com/AnatolyKulakov/SpbDotNet/wiki)**|Wiki в GitHub с записями встреч и презентациями русскоязычных .NET сообществ с наиболее полной информацией о них.|[Анатолий Кулаков](https://github.com/AnatolyKulakov/SpbDotNet/wiki/Anatoly-Kulakov) [![GitHub](img/favicons/github.com.png)](https://github.com/AnatolyKulakov) [![DotNet.ru](img/favicons/dotnet.ru.png)](https://dotnet.ru)|
+
+</details>
+
+<details open="open"><summary><a name="blogs-gamedev"></a><b>GameDev</b></summary><br>
+
+<sup>[Содержание](#содержание)</sup>
+
+|Название|Описание|Автор/Создатель|
+|:-------|:-------|:--------------|
+|**[App2Top.ru](https://app2top.ru/)**<br>[![Twitter](img/favicons/twitter.com.png)](https://twitter.com/App2Top) [![VK](img/favicons/vk.com.png)](https://vk.com/app2top) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/App2Top) [![Telegram](img/favicons/t.me.png)](https://t.me/app2top)|App2Top.ru – это информационный ресурс, посвященный всем аспектам индустрии игр.<br>Последние новости разработки и продвижения игр, интервью с лидерами рынка, постмортемы кассовых хитов и советы по игровому дизайну, – все это, а также многое другое можно найти на App2Top.ru.||
+|[![Dat Fest](http://favicon.yandex.net/favicon/datfest.ru)](http://datfest.ru/)<br>[Dat Fest](http://datfest.ru/)|Dat Fest — это фестиваль про игры и гик-культуру в целом. Фестиваль, который посвящен всему и сразу, но в первую очередь — играм, и даже старым играм. У нас будут разработчики, интервью с известными актерами озвучки тех самых игр, турниры, традиционное и большое косплей-дефиле, мастер-классы, лекции и прочее.|Москва|[![VK](img/favicons/vk.com.png)](https://vk.com/datfest)|
+|**[DevTribe](https://devtribe.ru)**<br>[![Twitter](img/favicons/twitter.com.png)](https://twitter.com/DevTribe_ru) [![VK](img/favicons/vk.com.png)](https://vk.com/devtribe) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/c/devtribe) [![Discord](img/favicons/discordapp.com.png)](https://discordapp.com/invite/PKZkUzf)|DevTribe - это сайт об инди-играх, объединяющий людей, которые делают инди-игры, с теми, кто в эти инди-игры играет. Мы собираем в одно пространство все части gamedev'а: новости об инди-играх и разработке игр, поиск работы в игровой индустрии, база знаний по игровым инструментами и движкам, инструментарий для разработки игр, и, конечно же, возможность организовать место для дневника разработчика.|Александр Jusper Николаев|
+|**[DTF](https://dtf.ru/)**<br>[![Twitter](img/favicons/twitter.com.png)](https://twitter.com/playdtf) [![VK](img/favicons/vk.com.png)](https://vk.com/dtf) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/playdtf) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCBDLWj5X5D9bvBa3JIMMTIQ) [![Telegram](img/favicons/t.me.png)](https://tele.gg/dtfbest) [![Twitch](img/favicons/twitch.tv.png)](https://www.twitch.tv/dtfru) [![Email](img/favicons/email.png)](mailto:support@dtf.ru)|DTF — это платформа для обсуждения игр, кино, разработки и технологий. У площадки нет консолидированной позиции, здесь собираются люди с разными мнениями и взглядами на одни и те же продукты развлекательной индустрии.||
+|[![Games Conventions](http://favicon.yandex.net/favicon/games-conventions.ru)](https://games-conventions.ru/catalogue)<br>[Games Conventions](https://games-conventions.ru/catalogue)|Календарь игровых мероприятий всего мира, в т.ч. геймдева.|Весь мир|[![Twitter](img/favicons/twitter.com.png)](https://twitter.com/games_convs) [![VK](img/favicons/vk.com.png)](https://vk.com/games_conventions) [![RSS](img/favicons/rss.png)](https://games-conventions.ru/rss/rss.xml) [![Email](img/favicons/email.png)](mailto:info@games-conventions.ru)|
+|**[Good Game Marketing](http://ggmarketing.io/)**|Как продвигать игру, если вы не маркетолог.<br>Подход к маркетингу для разработчиков игр и приложений.|Екатерина Приходько [![Medium](img/favicons/medium.com.png)](https://medium.com/@iekaterina.prikhodko)|
+|**[Indie.by](http://www.indie.by)**<br>[![Twitter](img/favicons/twitter.com.png)](https://twitter.com/indie_by) [![VK](img/favicons/vk.com.png)](https://vk.com/indie_by) [![RSS](img/favicons/rss.png)](http://www.indie.by/feeds/posts/default)|Indie.by — блог о независимых играх. Этот блог создан в поддержку всех независимых игр. Здесь Вы можете найти или спросить всю интересующую вас информацию о проектах, созданных без влияния крупных компаний. В статьях освещаются темы, затрагивающие как игры, так и мероприятия, фильмы об играх, тематические интернет-ресурсы, музыку и многое другое.|Максим Павлов|
+|**[XYZ](https://www.school-xyz.com/blog)**<br>[![VK](img/favicons/vk.com.png)](https://vk.com/xyz_gamedev) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/gamedev.xyz) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCtJsE0SDhyS4ib2evb5k3gg) [![Telegram](img/favicons/t.me.png)](https://t-do.ru/xyz_cg) [![Telegram](img/favicons/t.me.png)](https://t.me/xyz_podcast) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/xyz.school/)|Блог школы онлайн курсов для успешной карьеры в индустрии игр, кино и искусства.||
+|**[Блог Алисы Высотиной](https://mistle-gamer.livejournal.com/)**<br>[![VK](img/favicons/vk.com.png)](https://vk.com/mistle_gamer)||Алиса Высотина|
+|**[Блог Михаила Кадикова](http://level-design.ru/)**<br>[![VK](img/favicons/vk.com.png)](https://vk.com/proleveldesign) [![Telegram](img/favicons/t.me.png)](https://t.me/proleveldesign)|Личный блог Михаила Кадикова, профессионального дизайнера уровней из России.|Михаил Кадиков|
+|**[Манжеты гейм-дизайнера](https://gdcuffs.com)**<br>[![Twitter](img/favicons/twitter.com.png)](https://twitter.com/gdcuffs) [![VK](img/favicons/vk.com.png)](https://vk.com/gdcuffs) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/GDcuffs/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UC1GkZH9zMTF4T4n8gO8m1hQ) [![Telegram](img/favicons/t.me.png)](https://telegram.me/gdcuffs) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/officialgdcuffs/)|Манжеты гейм-дизайнера — профессиональный блог об игровой индустрии и гейм-дизайне в частности.|Ник Филатов<br>Владимир Ковтун<br>Артём волков<br>Сергей Гимельрейх<br>Алексей Корогодин<br>Алёна Пономаренко<br>Барисби Алборов<br>Григорий Чопоров<br>Антон Токарев|
+
+</details>
+
+<details open="open"><summary><a name="blogs-go"></a><b>Go</b></summary><br>
+
+<sup>[Содержание](#содержание)</sup>
+
+|Название|Описание|Автор/Создатель|
+|:-------|:-------|:--------------|
+|**[4gophers](https://4gophers.ru/)**<br>[![VK](img/favicons/vk.com.png)](https://vk.com/golang) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/4gophers) [![Telegram](img/favicons/t.me.png)](https://t.me/gophernews) [![Slack](img/favicons/slack.png)](http://slack.golang-ru.com/) [![RSS](img/favicons/rss.png)](https://4gophers.ru/articles/index.xml)|Блог по языку программирования Go/Golang.||
+
+</details>
+
+<details open="open"><summary><a name="blogs-java"></a><b>Java</b></summary><br>
+
+<sup>[Содержание](#содержание)</sup>
+
+|Название|Описание|Автор/Создатель|
+|:-------|:-------|:--------------|
+|**[miniJUG](https://minijug.ru/)**<br>[![VK](img/favicons/vk.com.png)](https://vk.com/minijug) [![Telegram](img/favicons/t.me.png)](https://tlg.name/miniJUG)|Новости из мира Java.||
+
+</details>
+
+<details open="open"><summary><a name="blogs-python"></a><b>Python</b></summary><br>
+
+<sup>[Содержание](#содержание)</sup>
+
+|Название|Описание|Автор/Создатель|
+|:-------|:-------|:--------------|
+|**[Блог Антона Жиянова](https://antonz.ru/)**<br> [![Telegram](img/favicons/t.me.png)](https://t.me/ohmypy) [![RSS](img/favicons/rss.png)](https://antonz.ru/rss/)|Личный блог Антона Жиянова о Python и разработке продуктов.|Антон Жиянов|
 
 </details>
 
