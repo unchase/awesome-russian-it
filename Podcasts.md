@@ -35,7 +35,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">06.11.2020 20:05</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">06.12.2020 08:05</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -71,7 +71,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |50-110 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1289965366" class="episodes" hashtag="basicblockradio">96 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1289965366" class="release-date">06.02.2020 13:00</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1289965366" class="release-date">06.11.2020 12:38</span>|
 
 ---
 
@@ -166,8 +166,8 @@
 |**Ведущие**      |Лекс АйТиБорода [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/lex_kar/)|
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |20-120 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1449804780" class="episodes" hashtag="itbeard">96 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1449804780" class="release-date">06.10.2020 20:37</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1449804780" class="episodes" hashtag="itbeard">97 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1449804780" class="release-date">06.12.2020 00:38</span>|
 
 ---
 
@@ -355,7 +355,7 @@
 |**Ведущие**      |Илья Верязов|
 |**Регулярность** |Время от времени|
 |**Длительность** |25-45 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1120110650" class="episodes" hashtag="Ивент_Кухня">43 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1120110650" class="episodes" hashtag="Ивент_Кухня">43 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1120110650" class="release-date">06.11.2020 11:57</span>|
 
 ---
@@ -369,7 +369,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |~90 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="363311940" class="episodes" hashtag="rcmp_podcast">10 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="363311940" class="release-date">06.05.2020 03:24</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="363311940" class="release-date">06.12.2020 03:32</span>|
 
 ---
 
@@ -876,7 +876,7 @@
 |**Ведущие**      |[Алексей Махметхажиев](https://ax.digital/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/user/alekseyleonidovich/)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |5-30 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1435783387" class="episodes" hashtag="AxDigital">21 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1435783387" class="episodes" hashtag="AxDigital">21 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1435783387" class="release-date">06.10.2020 13:53</span>|
 
 ---
@@ -1094,8 +1094,8 @@
 |**Ведущие**      |Павел Калашников [![GitHub](img/favicons/github.com.png)](https://github.com/kalashnikovisme) [![VK](img/favicons/vk.com.png)](https://vk.com/kalashnikovisme) [![Facebook](img/favicons/facebook.com.png)](https://facebook.com/kalashnikovisme)<br>Наталья Мусина [![VK](img/favicons/vk.com.png)](https://vk.com/wolffyj) [![Facebook](img/favicons/facebook.com.png)](https://facebook.com/wolffyj)<br>Елизавета Сарычева [![VK](img/favicons/vk.com.png)](https://vk.com/lisa_sarycheva) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/profile.php?id=100001762322638)<br>Дмитрий Николаев [![GitHub](img/favicons/github.com.png)](https://github.com/BooSt163)
 |**Регулярность** |Еженедельно|
 |**Длительность** |30-110 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1490305221" class="episodes" hashtag="itway">27 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1490305221" class="release-date">06.05.2020 00:50</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1490305221" class="episodes" hashtag="itway">28 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1490305221" class="release-date">06.11.2020 23:27</span>|
 
 ---
 
@@ -1892,8 +1892,8 @@
 |**Ведущие**      |Денис Неклюдов [![GitHub](img/favicons/github.com.png)](https://github.com/nekdenis) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCj_j_lkgl-d2AMIMJiTZxzg) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/nekdenis/)<br>Александр Ефременков [![GitHub](img/favicons/github.com.png)](https://github.com/iamironz)<br>Дмитрий Полищук [![GitHub](img/favicons/github.com.png)](https://github.com/dpolishuk)<br>Даниил Сердюков [![GitHub](img/favicons/github.com.png)](https://github.com/DanielSerdyukov/)<br>и др.|
 |**Регулярность** |Время от времени|
 |**Длительность** |50-140 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1076856310" class="episodes" hashtag="androiddevpodcast">110 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1076856310" class="release-date">05.20.2020 13:29</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1076856310" class="episodes" hashtag="androiddevpodcast">111 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1076856310" class="release-date">06.11.2020 11:52</span>|
 
 ---
 
