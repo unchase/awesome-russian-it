@@ -35,7 +35,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">06.29.2020 16:07</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">06.29.2020 20:05</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -231,7 +231,7 @@
 |**Ведущие**      |Евгения<br>Максим<br>Виталий|
 |**Регулярность** |Еженедельно|
 |**Длительность** |40-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1491663108" class="episodes" hashtag="esnippet">30 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1491663108" class="episodes" hashtag="esnippet">30 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1491663108" class="release-date">06.28.2020 17:44</span>|
 
 ---
@@ -277,7 +277,7 @@
 
 |Название         |Горячий #tceh|
 |:----------------|:------------|
-|**Логотип**      |<span itunes-id="1492765073" class="itunes-img"><img height="100" width="100" src="https://is2-ssl.mzstatic.com/image/thumb/Podcasts123/v4/b8/30/e3/b830e3df-2742-3f6e-a361-00c5e3158b4b/mza_3316383405684800024.jpg/600x600bb.jpg"></span>|
+|**Логотип**      |<span itunes-id="1492765073" class="itunes-img"><img height="100" width="100" src="https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/74/e9/00/74e900ed-dff8-ecf0-0ea2-1b586cfaeab1/mza_12353005880409694755.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/горячий-tceh/id1492765073) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/Горячий-tceh-id2520882?country=ru) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcast-73842245_456239023) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/9520849)|
 |**Описание**     |Подкаст об инновациях, технологиях и предпринимательстве.|
 |**Ведущие**      |Екатерина<br>Наталья|
@@ -749,8 +749,8 @@
 |**Ведущие**      |[Александр Плющев](https://plushev.com/)<br>Григорий Бакунов (Bobuk) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/bobuk/) [![GitHub](img/favicons/github.com.png)](https://github.com/bobuk)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |~50 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="378499320" class="episodes" hashtag="tochka">21 (<font color="green">+1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="378499320" class="release-date">06.28.2020 21:05</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="378499320" class="episodes" hashtag="tochka">20 (<font color="red">-1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="378499320" class="release-date">06.21.2020 21:05</span>|
 
 ---
 
@@ -1449,8 +1449,8 @@
 |**Ведущие**      |[Валентин Петухов (Wylsacom)](https://wylsa.com/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCt7sv-NKh44rHAEb-qCCxvA)<br>Григорий Бакунов (Bobuk) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/bobuk/) [![GitHub](img/favicons/github.com.png)](https://github.com/bobuk)|
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |120-150 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1068329384" class="episodes" hashtag="zavtracast">229 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1068329384" class="release-date">06.21.2020 19:05</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1068329384" class="episodes" hashtag="zavtracast">230 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1068329384" class="release-date">06.28.2020 21:39</span>|
 
 </details>
 
@@ -1905,7 +1905,7 @@
 |**Ведущие**      |Борис Веденский (cwe) [![Medium](img/favicons/medium.com.png)](https://medium.com/@vedensky) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/vedensky/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UC1a2rnuwCw6rEbAxclIHkng)<br>Валерий Истишев [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/istishev/)<br>Митя Иванов|
 |**Регулярность** |Еженедельно|
 |**Длительность** |~20 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1057019371" class="episodes" hashtag="droidercast">88 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1057019371" class="episodes" hashtag="droidercast">88 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1057019371" class="release-date">06.28.2020 14:46</span>|
 
 </details>
@@ -1937,8 +1937,8 @@
 |**Ведущие**      |Владимир Красильников<br>Анатолий Шестов<br>Никита Гук [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/azazelis/)|
 |**Регулярность** |Раз в две недели|
 |**Длительность** |40-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1413689117" class="episodes" hashtag="zhiza_gd">46 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1413689117" class="release-date">06.16.2020 20:32</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1413689117" class="episodes" hashtag="zhiza_gd">47 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1413689117" class="release-date">06.29.2020 13:11</span>|
 
 ---
 
@@ -2097,7 +2097,7 @@
 |**Ведущие**      |Евгений Рамазанов|
 |**Регулярность** |Ежемесячно|
 |**Длительность** |30-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1457864181" class="episodes" hashtag="thebatya_talk">31 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1457864181" class="episodes" hashtag="thebatya_talk">31 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1457864181" class="release-date">06.28.2020 16:53</span>|
 
 </details>
