@@ -35,7 +35,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">06.30.2020 08:07</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">06.30.2020 12:05</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -283,7 +283,7 @@
 |**Ведущие**      |Екатерина<br>Наталья|
 |**Регулярность** |Время от времени|
 |**Длительность** |30-50 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1492765073" class="episodes" hashtag="tceh">13 (<font color="red">0</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1492765073" class="episodes" hashtag="tceh">14 (<font color="green">+1</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1492765073" class="release-date">06.29.2020 14:52</span>|
 
 ---
@@ -749,7 +749,7 @@
 |**Ведущие**      |[Александр Плющев](https://plushev.com/)<br>Григорий Бакунов (Bobuk) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/bobuk/) [![GitHub](img/favicons/github.com.png)](https://github.com/bobuk)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |~50 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="378499320" class="episodes" hashtag="tochka">21 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="378499320" class="episodes" hashtag="tochka">21 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="378499320" class="release-date">06.28.2020 21:05</span>|
 
 ---
@@ -964,7 +964,7 @@
 |**Ведущие**      |Денис Мартынцев<br>Кирилл Гурбанов|
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |40-90 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1480344895" class="episodes" hashtag="EPICподкаст">14 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1480344895" class="episodes" hashtag="EPICподкаст">14 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1480344895" class="release-date">06.29.2020 16:36</span>|
 
 ---
@@ -1068,7 +1068,7 @@
 |**Ведущие**      ||
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |~10-30 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1469955287" class="episodes" hashtag="HiTech">14 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1469955287" class="episodes" hashtag="HiTech">14 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1469955287" class="release-date">06.29.2020 12:40</span>|
 
 ---
@@ -1273,7 +1273,7 @@
 |**Ведущие**      |Стас Цыганов [![GitHub](img/favicons/github.com.png)](https://github.com/DevAlloy)<br>[Егор Толстой](http://etolstoy.com/) [![Medium](img/favicons/medium.com.png)](https://medium.com/@etolstoy) [![GitHub](img/favicons/github.com.png)](https://github.com/etolstoy)<br>Екатерина Петрова<br>Евгений Кателла|
 |**Регулярность** |Еженедельно|
 |**Длительность** |80-150 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1209828744" class="episodes" hashtag="podlodka">179 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1209828744" class="episodes" hashtag="podlodka">179 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1209828744" class="release-date">06.29.2020 12:52</span>|
 
 ---
@@ -1325,7 +1325,7 @@
 |**Ведущие**      ||
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |50-100 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="626208574" class="episodes" hashtag="rootcast">52 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="626208574" class="episodes" hashtag="rootcast">52 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="626208574" class="release-date">06.29.2020 21:07</span>|
 
 ---
@@ -1628,7 +1628,7 @@
 |**Ведущие**      |Вадим Челышов [![GitHub](img/favicons/github.com.png)](https://github.com/dos65)<br>[Григорий Помадчин](http://pomadchin.com/) [![GitHub](img/favicons/github.com.png)](https://github.com/pomadchin)<br>Евгений Токарев [![GitHub](img/favicons/github.com.png)](https://github.com/strobe)<br>[Алексей Фомкин](https://fomkin.org/) [![GitHub](img/favicons/github.com.png)](https://github.com/fomkin) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/yelbota/)<br>Алексей Романчук [![GitHub](img/favicons/github.com.png)](https://github.com/13h3r)<br>Виктор Тараненко [![GitHub](img/favicons/github.com.png)](https://github.com/viktortnk) [![Medium](img/favicons/medium.com.png)](https://medium.com/@viktortnk)|
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** ||
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1156356598" class="episodes" hashtag="ScalalazPodcast">86 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1156356598" class="episodes" hashtag="ScalalazPodcast">86 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1156356598" class="release-date">06.26.2020 03:00</span>|
 
 </details>
