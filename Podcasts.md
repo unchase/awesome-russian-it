@@ -35,7 +35,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">07.02.2020 20:06</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">07.03.2020 08:05</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -166,7 +166,7 @@
 |**Ведущие**      |Лекс АйТиБорода [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/lex_kar/)|
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |20-120 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1449804780" class="episodes" hashtag="itbeard">107 (<font color="green">+2</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1449804780" class="episodes" hashtag="itbeard">107 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1449804780" class="release-date">07.02.2020 14:59</span>|
 
 ---
@@ -369,7 +369,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |~90 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="363311940" class="episodes" hashtag="rcmp_podcast">10 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="363311940" class="release-date">06.26.2020 03:19</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="363311940" class="release-date">07.03.2020 03:03</span>|
 
 ---
 
@@ -964,7 +964,7 @@
 |**Ведущие**      |Денис Мартынцев<br>Кирилл Гурбанов|
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |40-90 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1480344895" class="episodes" hashtag="EPICподкаст">15 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1480344895" class="episodes" hashtag="EPICподкаст">15 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1480344895" class="release-date">07.02.2020 15:00</span>|
 
 ---
@@ -1578,7 +1578,7 @@
 |**Регулярность** |Время от времени|
 |**Длительность** |5-70 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="996423650" class="episodes" hashtag="5minphp">80 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="996423650" class="release-date">06.23.2020 03:00</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="996423650" class="release-date">07.02.2020 03:00</span>|
 
 </details>
 
@@ -1628,8 +1628,8 @@
 |**Ведущие**      |Вадим Челышов [![GitHub](img/favicons/github.com.png)](https://github.com/dos65)<br>[Григорий Помадчин](http://pomadchin.com/) [![GitHub](img/favicons/github.com.png)](https://github.com/pomadchin)<br>Евгений Токарев [![GitHub](img/favicons/github.com.png)](https://github.com/strobe)<br>[Алексей Фомкин](https://fomkin.org/) [![GitHub](img/favicons/github.com.png)](https://github.com/fomkin) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/yelbota/)<br>Алексей Романчук [![GitHub](img/favicons/github.com.png)](https://github.com/13h3r)<br>Виктор Тараненко [![GitHub](img/favicons/github.com.png)](https://github.com/viktortnk) [![Medium](img/favicons/medium.com.png)](https://medium.com/@viktortnk)|
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** ||
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1156356598" class="episodes" hashtag="ScalalazPodcast">86 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1156356598" class="release-date">06.26.2020 03:00</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1156356598" class="episodes" hashtag="ScalalazPodcast">87 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1156356598" class="release-date">07.01.2020 03:00</span>|
 
 </details>
 
