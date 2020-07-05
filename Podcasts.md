@@ -35,7 +35,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">07.04.2020 20:05</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">07.05.2020 08:07</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -381,8 +381,8 @@
 |**Ведущие**      |Владимир Мирненко|
 |**Регулярность** |Время от времени|
 |**Длительность** |50-100 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1272548806" class="episodes" hashtag="kapm.club">12 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1272548806" class="release-date">04.22.2020 14:40</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1272548806" class="episodes" hashtag="kapm.club">13 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1272548806" class="release-date">07.05.2020 00:01</span>|
 
 ---
 
@@ -633,7 +633,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |120-180 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="256504435" class="episodes" hashtag="radiot">21 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="256504435" class="release-date">06.28.2020 02:35</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="256504435" class="release-date">07.05.2020 02:17</span>|
 
 ---
 
@@ -762,7 +762,7 @@
 |**Ведущие**      ||
 |**Регулярность** |Нескоько раз в месяц|
 |**Длительность** |20-50 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1491231589" class="episodes" hashtag="3.5">11 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1491231589" class="episodes" hashtag="3.5">11 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1491231589" class="release-date">07.04.2020 15:44</span>|
 
 ---
@@ -1449,8 +1449,8 @@
 |**Ведущие**      |[Валентин Петухов (Wylsacom)](https://wylsa.com/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCt7sv-NKh44rHAEb-qCCxvA)<br>Григорий Бакунов (Bobuk) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/bobuk/) [![GitHub](img/favicons/github.com.png)](https://github.com/bobuk)|
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |120-150 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1068329384" class="episodes" hashtag="zavtracast">230 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1068329384" class="release-date">06.28.2020 21:39</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1068329384" class="episodes" hashtag="zavtracast">231 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1068329384" class="release-date">07.04.2020 19:36</span>|
 
 </details>
 
