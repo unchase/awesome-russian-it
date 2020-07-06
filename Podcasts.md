@@ -507,8 +507,8 @@
 
 ---
 
-|Название         |[ООП и в продакшн](https://ooprod.ru/)|
-|:----------------|:-------------------------------------|
+|Название         |ООП и в продакшн|
+|:----------------|:---------------|
 |**Логотип**      |<span itunes-id="1465231106" class="itunes-img"><img height="100" width="100" src="https://is5-ssl.mzstatic.com/image/thumb/Podcasts123/v4/6f/a8/3c/6fa83c30-841d-6ca5-5557-28513e6dbc25/mza_10890907197887509419.png/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/ооп-и-в-продакшн/id1465231106) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/?feed=aHR0cHM6Ly9vb3Byb2QucnUvcG9kY2FzdC9pbmRleC54bWw%3d) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/ООП-и-в-продакшн-id2143741?country=ru) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UC8i29Fda2v-eaCM1i5OmIIg) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/ooprodru) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/7718113)|
 |**Описание**     |Расслабленные беседы об информационных технологиях с легким образовательным послевкусием.|
