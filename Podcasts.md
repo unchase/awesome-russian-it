@@ -1488,6 +1488,19 @@
 
 <sup>[Содержание](#содержание)</sup>
 
+|Название         |JavaSwag|
+|:----------------|:-------|
+|**Логотип**      |<span itunes-id="1498075914" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/javaswag) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/javaswag/id1498075914) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cDovL2ZlZWRwcm94eS5nb29nbGUuY29tL2phdmFzd2Fn) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/javaswag) • [![Telegram](img/favicons/t.me.png)](https://t.me/javaswag) • [![RSS](img/favicons/rss.png)](http://feeds.soundcloud.com/users/soundcloud:users:656797185/sounds.rss)|
+|**Описание**     |Подкаст о разработке на Java. Все то, о чем вы боялись спросить в кулуарах.|
+|**Ведущие**      |Дмитрий Балыхин|
+|**Регулярность** |Несколько раз в месяц|
+|**Длительность** |30-120 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1498075914" class="episodes" hashtag="javaswag"></span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1498075914" class="release-date"></span>|
+
+---
+
 |Название         |[Z-namespace](https://ilyakaznacheev.github.io/z-namespace/)|
 |:----------------|:-----------------------------------------------------------|
 |**Логотип**      |<span itunes-id="1501041559" class="itunes-img"><img height="100" width="100" src="https://is4-ssl.mzstatic.com/image/thumb/Podcasts124/v4/95/55/41/955541c5-b80d-1ad9-b543-f3dad2d534a6/mza_8670067886831527501.jpg/600x600bb.jpg"></span>|
