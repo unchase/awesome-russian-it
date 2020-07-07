@@ -1780,7 +1780,7 @@
 |Название         |Undefined Podcast|
 |:----------------|:----------------|
 |**Логотип**      |<span itunes-id="1499128651" class="itunes-img"><img height="100" width="100" src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/e3/82/fd/e382fd33-79e3-4d01-c391-98a4b17dec94/mza_2287752176177670523.jpg/600x600bb.jpg"></span>|
-|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/undefined-podcast/id1499128651) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/10034426)|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/undefined-podcast/id1499128651) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCZvyp_29pNQGcy-FPIioesA) • [![VK](img/favicons/vk.com.png)](https://vk.com/undefinedspb) • [![Telegram](img/favicons/t.me.png)](https://t.me/undfnd) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/10034426)|
 |**Описание**     |Аудио версии переводов статей из мира Javascript, Frontend разработки и веб технологий. В рамках фронтенд сообщества Undefined.|
 |**Ведущие**      |Елена<br>Филипп|
 |**Регулярность** |Время от времени|
