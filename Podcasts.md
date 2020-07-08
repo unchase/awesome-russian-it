@@ -35,7 +35,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">08.07.2020 12:06</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">08.07.2020 16:06</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -841,7 +841,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |70-120 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="868222886" class="episodes" hashtag="beardycast">300 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="868222886" class="release-date">01.07.2020 17:28</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="868222886" class="release-date">08.07.2020 15:34</span>|
 
 ---
 
@@ -1547,7 +1547,7 @@
 |**Ведущие**      |[Анатолий Кулаков](https://github.com/AnatolyKulakov/SpbDotNet/wiki/Anatoly-Kulakov) [![GitHub](img/favicons/github.com.png)](https://github.com/AnatolyKulakov) [![DotNet.ru](img/favicons/dotnet.ru.png)](https://dotnet.ru)<br>[Игорь Лабутин](https://github.com/AnatolyKulakov/SpbDotNet/wiki/Igor-Labutin) [![GitHub](img/favicons/github.com.png)](https://github.com/ilabutin)|
 |**Регулярность** |Время от времени|
 |**Длительность** |50-80 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1484348948" class="episodes" hashtag="radiodotnet">12 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1484348948" class="episodes" hashtag="radiodotnet">12 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1484348948" class="release-date">08.07.2020 01:11</span>|
 
 ---
