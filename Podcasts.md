@@ -35,7 +35,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">09.07.2020 12:06</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">09.07.2020 16:07</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -245,7 +245,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |40-100 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="523996227" class="episodes" hashtag="tpair_podcast">10 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="523996227" class="release-date">08.07.2020 19:23</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="523996227" class="release-date">27.06.2020 06:16</span>|
 
 ---
 
@@ -404,7 +404,7 @@
 |**Ведущие**      |Антон Назаров [![GitHub](img/favicons/github.com.png)](https://github.com/MortyMerr) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/M0rtyMerr/) [![Medium](img/favicons/medium.com.png)](https://medium.com/@MortyMerr)<br>Эрик|
 |**Регулярность** |Еженедельно|
 |**Длительность** |70-110 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1498625033" class="episodes" hashtag="kuluarnyiy">1 (<font color="red">-9</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1498625033" class="episodes" hashtag="kuluarnyiy">10 (<font color="green">+9</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1498625033" class="release-date">14.05.2020 18:44</span>|
 
 ---
@@ -476,7 +476,7 @@
 |**Ведущие**      |[Рахим Давлеткалиев](https://rakh.im/) [![GitHub](img/favicons/github.com.png)](https://github.com/freetonik) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/user/freetonik) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/freetonik/) [![RSS](img/favicons/rss.png)](https://rakh.im/feed.xml)|
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |30-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1162673070" class="episodes" hashtag="mimpod">58 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1162673070" class="episodes" hashtag="mimpod">58 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1162673070" class="release-date">09.07.2020 10:12</span>|
 
 ---
@@ -814,8 +814,8 @@
 |**Ведущие**      |Ксения Ткачева<br>Олег Шакиров|
 |**Регулярность** |Время от времени|
 |**Длительность** |30-70 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1473142814" class="episodes" hashtag="Циферкаст">21 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1473142814" class="release-date">25.06.2020 03:23</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1473142814" class="episodes" hashtag="Циферкаст">22 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1473142814" class="release-date">09.07.2020 13:38</span>|
 
 ---
 
@@ -902,8 +902,8 @@
 |**Ведущие**      ||
 |**Регулярность** |Еженедельно|
 |**Длительность** |20-80 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1484275234" class="episodes" hashtag="matematicxyz">38 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1484275234" class="release-date">02.07.2020 09:54</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1484275234" class="episodes" hashtag="matematicxyz">39 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1484275234" class="release-date">09.07.2020 10:02</span>|
 
 ---
 
@@ -1182,7 +1182,7 @@
 |**Ведущие**      |Михаил Ивашниченко<br>Олег Пузанов|
 |**Регулярность** |Время от времени|
 |**Длительность** |20-40 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1449696831" class="episodes" hashtag="keybeard">13 (<font color="red">0</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1449696831" class="episodes" hashtag="keybeard">17 (<font color="green">+4</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1449696831" class="release-date">16.01.2019 11:56</span>|
 
 ---
@@ -1449,7 +1449,7 @@
 |**Ведущие**      |Тимур Сейфельмлюков<br>Дмитрий Зомбак [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/zombak) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCGygd95WaTLPcrRSB1OIB3g)<br>Максим Зарецкий<br>Иногда:<br>[Валентин Петухов (Wylsacom)](https://wylsa.com/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCt7sv-NKh44rHAEb-qCCxvA)<br>Григорий Бакунов (Bobuk) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/bobuk/) [![GitHub](img/favicons/github.com.png)](https://github.com/bobuk)|
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |120-150 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1068329384" class="episodes" hashtag="zavtracast">232 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1068329384" class="episodes" hashtag="zavtracast">232 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1068329384" class="release-date">08.07.2020 23:23</span>|
 
 </details>
@@ -1918,7 +1918,7 @@
 |**Ведущие**      |Борис Веденский (cwe) [![Medium](img/favicons/medium.com.png)](https://medium.com/@vedensky) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/vedensky/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UC1a2rnuwCw6rEbAxclIHkng)<br>Валерий Истишев [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/istishev/)<br>Митя Иванов|
 |**Регулярность** |Еженедельно|
 |**Длительность** |~20 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1057019371" class="episodes" hashtag="droidercast">89 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1057019371" class="episodes" hashtag="droidercast">89 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1057019371" class="release-date">09.07.2020 08:00</span>|
 
 </details>
@@ -2189,7 +2189,7 @@
 |**Ведущие**      |Виктор<br>Максим|
 |**Регулярность** |Раз в две недели|
 |**Длительность** |80-120 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1502639464" class="episodes" hashtag="devopskitchentalks">9 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1502639464" class="episodes" hashtag="devopskitchentalks">9 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1502639464" class="release-date">07.07.2020 18:45</span>|
 
 </details>
