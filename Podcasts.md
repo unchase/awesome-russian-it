@@ -715,6 +715,19 @@
 
 ---
 
+|Название         |[Сферическое лидерство](http://www.sfericheskoe-liderstvo.ru/)|
+|:----------------|:-------------------------------------------------------------|
+|**Логотип**      |<span itunes-id="1496543368" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/podcast/id1496543368) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/sfierichieskoie-lidierstvo) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCUkd50lOjFovWZec3ClLo0w) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcasts-191302700) • [![RSS](img/favicons/rss.png)](http://www.sfericheskoe-liderstvo.ru/podcast.rss)|
+|**Описание**     |О работе программиста помимо программирования.<br>Вы чувствуете, что вам не дают спокойно прораммировать? Приходится посещать митинги, что-то объяснять, убеждать, контролировать выполнение задач?<br>Добро пожаловать в наш клуб, где мы обсуждаем мягкие навыки (soft skills), процессы разработки ПО, культуру компаний, и все то, что является неотъемлемой частью работы тимлида и техлида, но и каждого программиста-профессионала, который хочет быть полезен в командной работе как эксперт или как руководитель программистов.|
+|**Ведущие**      ||
+|**Регулярность** |Несколько раз в месяц|
+|**Длительность** |40-70 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1496543368" class="episodes" hashtag="sfierichieskoie_lidierstvo"></span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1496543368" class="release-date"></span>|
+
+---
+
 |Название         |[Твой Digital](www.tvoydigital.ru)|
 |:----------------|:---------------------------------|
 |**Логотип**      |<span itunes-id="1502778082" class="itunes-img"><img height="100" width="100" src="https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/7b/54/49/7b54494e-57b6-7a92-2533-2fc19671c65d/mza_9238670225735722525.jpg/600x600bb.jpg"></span>|
