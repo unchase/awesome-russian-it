@@ -35,7 +35,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">24.07.2020 20:06</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">25.07.2020 08:09</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -698,7 +698,7 @@
 |**Регулярность** |Ежедневно|
 |**Длительность** |5-10 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="episodes" hashtag="strana_tranzistoriia">300 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="release-date">23.07.2020 14:30</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="release-date">24.07.2020 14:30</span>|
 
 ---
 
@@ -801,8 +801,8 @@
 |**Ведущие**      |Антон Околелов [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/varanio/) <br>Никита Васильченко [![GitHub](img/favicons/github.com.png)](https://github.com/xenmayer) [![Medium](img/favicons/medium.com.png)](https://medium.com/@xenmayer)<br>Олег Грицак [![GitHub](img/favicons/github.com.png)](https://github.com/hack3p) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/hack3p/)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |60-110 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1458311254" class="episodes" hashtag="znprod">70 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1458311254" class="release-date">18.07.2020 06:00</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1458311254" class="episodes" hashtag="znprod">71 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1458311254" class="release-date">25.07.2020 05:59</span>|
 
 ---
 
@@ -903,7 +903,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |30-60 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1095164631" class="episodes" hashtag="biweekly">100 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1095164631" class="release-date">24.07.2020 09:52</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1095164631" class="release-date">05.07.2020 09:40</span>|
 
 ---
 
@@ -1068,8 +1068,8 @@
 |**Ведущие**      |[Далер Алиёров](https://aliyorov.com/) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/daleraliyorov/)<br>Иван Звягин [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/baragol/) <br>Адель Мубаракшин [![GitHub](img/favicons/github.com.png)](https://github.com/ExarGD)<br>Николай Землянский<br>Анна Линская|
 |**Регулярность** |Еженедельно|
 |**Длительность** |30-50 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1464188474" class="episodes" hashtag="habrweekly">63 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1464188474" class="release-date">17.07.2020 16:27</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1464188474" class="episodes" hashtag="habrweekly">64 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1464188474" class="release-date">24.07.2020 13:01</span>|
 
 ---
 
@@ -1312,8 +1312,8 @@
 |**Ведущие**      |Сергей Головин [![GitHub](img/favicons/github.com.png)](https://github.com/daynin)|
 |**Регулярность** |Раз в месяц|
 |**Длительность** |50-80 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1414821759" class="episodes" hashtag="remotetalk">15 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1414821759" class="release-date">26.06.2020 18:48</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1414821759" class="episodes" hashtag="remotetalk">16 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1414821759" class="release-date">24.07.2020 18:52</span>|
 
 ---
 
