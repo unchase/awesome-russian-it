@@ -907,6 +907,19 @@
 
 ---
 
+|Название         |[CaerusVoice](https://caerusvoice.com/)|
+|:----------------|:--------------------------------------|
+|**Логотип**      |<span itunes-id="" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/caerusvoice) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ua/podcast/caerusvoice/id1521832335) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/caerusvoice) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/caerusvoice) • [![Telegram](img/favicons/t.me.png)](https://t.me/caerusvoicecom) • [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/caerusvoice/)|
+|**Описание**     |Разговоры с выдающимися людьми об ИТ.|
+|**Ведущие**      |Дмитрий Овдий|
+|**Регулярность** |Несколько раз в месяц|
+|**Длительность** |~90 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1521832335" class="episodes" hashtag="caerusvoice"></span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1521832335" class="release-date"></span>|
+
+---
+
 |Название         |[CG ПОДКАСТ №1](http://podcast.matematic.xyz/)|
 |:----------------|:---------------------------------------------|
 |**Логотип**      |<span itunes-id="1484275234" class="itunes-img"><img height="100" width="100" src="https://is2-ssl.mzstatic.com/image/thumb/Podcasts123/v4/40/e0/56/40e0564b-5549-55b4-44ed-16209de78e92/mza_7928248026858427756.jpg/600x600bb.jpg"></span>|
