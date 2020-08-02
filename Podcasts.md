@@ -1265,6 +1265,19 @@
 
 ---
 
+|Название         |MIXR Talks|
+|:----------------|:---------|
+|**Логотип**      |<span itunes-id="1488355094" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ua/podcast/mixr-talks/id1488355094) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cHM6Ly9wb2RzdGVyLmZtL3Jzcy54bWw_cGlkPTY5NDM4) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/mixr-talks) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/mixr-talks) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCByJNLKVhRNkg-TOsubCiTQ) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/9040829) • [![RSS](img/favicons/rss.png)](https://podster.fm/rss.xml?pid=69438)|
+|**Описание**     |MIXR Talks — подкаст Андрея Ивашенцева о виртуальной, дополненной и смешанной реальностях. Технологии в перспективе, люди, которые за ними стоят, и бизнес, который они делают — каждую неделю на Disgusting Men.|
+|**Ведущие**      |Андрей Ивашенцев|
+|**Регулярность** |Еженедельно|
+|**Длительность** |40-60 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1488355094" class="episodes" hashtag="MIXR_Talks"></span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1488355094" class="release-date"></span>|
+
+---
+
 |Название         |[Old-Hard.RU](http://www.old-hard.ru/podcasts)|
 |:----------------|:---------------------------------------------|
 |**Логотип**      |<span itunes-id="1477741470" class="itunes-img"><img height="100" width="100" src="https://is5-ssl.mzstatic.com/image/thumb/Podcasts113/v4/8b/e5/bb/8be5bbaf-9222-b013-d75c-cf217719fd11/mza_2365289425233934588.png/600x600bb.jpg"></span>|
