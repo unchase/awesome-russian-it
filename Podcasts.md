@@ -909,7 +909,7 @@
 
 |Название         |[CaerusVoice](https://caerusvoice.com/)|
 |:----------------|:--------------------------------------|
-|**Логотип**      |<span itunes-id="" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Логотип**      |<span itunes-id="1521832335" class="itunes-img"><img height=100 width=100 src=""></img></span>|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/caerusvoice) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ua/podcast/caerusvoice/id1521832335) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/caerusvoice) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/caerusvoice) • [![Telegram](img/favicons/t.me.png)](https://t.me/caerusvoicecom) • [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/caerusvoice/)|
 |**Описание**     |Разговоры с выдающимися людьми об ИТ.|
 |**Ведущие**      |Дмитрий Овдий|
@@ -1529,7 +1529,7 @@
 
 |Название         |JavaHut|
 |:----------------|:------|
-|**Логотип**      |<span itunes-id="" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Логотип**      |<span itunes-id="1512015984" class="itunes-img"><img height=100 width=100 src=""></img></span>|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ua/podcast/javahut/id1512015984) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8xZjdhYjIyYy9wb2RjYXN0L3Jzcw==) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/javahut) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/JavaHut-id2849285?country=ru) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/10901370) • [![Anchor](img/favicons/anchor.fm.png)](https://anchor.fm/javahut) • [![RSS](img/favicons/rss.png)](https://anchor.fm/s/1f7ab22c/podcast/rss)|
 |**Описание**     |В этом подкасте мы разговариваем и обсуждаем темы связанные с программированием, технологиям и конечно же с Java.|
 |**Ведущие**      |Роман Мирсон<br>Евгений Никифоров [![GitHub](img/favicons/github.com.png)](https://github.com/nikita-nikiforov)|
