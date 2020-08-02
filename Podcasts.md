@@ -308,6 +308,19 @@
 
 ---
 
+|Название         |Дмитрий Суховаров|
+|:----------------|:----------------|
+|**Логотип**      |<span itunes-id="1492900770" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ua/podcast/дмитрий-суховаров/id1492900770) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8xMWYwZTkyOC9wb2RjYXN0L3Jzcw) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/dmitrii-sukhovarov) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCFWy8SzjxaJakTlWz7FHa7w) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/9638250) • [![Anchor](img/favicons/anchor.fm.png)](https://anchor.fm/dsuhovarov) • [![RSS](img/favicons/rss.png)](https://anchor.fm/s/11f0e928/podcast/rss)|
+|**Описание**     |Это такое странное место, куда будет размещаться подкаст-версия роликов на нашем Ютуб-канале, на случай если смотреть на мои щщщщи вам надоело.<br>А, да, еще тут нет цензуры, впрочем как и здравого смысла.<br>Зато есть всякие интересные новости из мира IT, важные обновления, а заодно шуточки и вот это вот всё.<br>Кароче вэлком!|
+|**Ведущие**      |Дмитрий Суховаров|
+|**Регулярность** |Ежедневно|
+|**Длительность** |10-20 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1492900770" class="episodes" hashtag="dsuhovarov"></span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1492900770" class="release-date"></span>|
+
+---
+
 |Название         |[Еженедельный подкаст от Umputun](https://podcast.umputun.com/)|
 |:----------------|:--------------------------------------------------------------|
 |**Логотип**      |<span itunes-id="77546991" class="itunes-img"><img height="100" width="100" src="https://is3-ssl.mzstatic.com/image/thumb/Podcasts123/v4/da/c8/89/dac889a9-78b3-4697-cd87-29334146318a/mza_8878081095061371573.jpg/600x600bb.jpg"></span>|
