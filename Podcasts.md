@@ -702,6 +702,19 @@
 
 ---
 
+|Название         |Стендинг деск|
+|:----------------|:------------|
+|**Логотип**      |<span itunes-id="1516488697" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/moscoding) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ua/podcast/стендинг-деск/id1516488697) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/2698323)|
+|**Описание**     |Надя Королева из Москодинга общается с успешными программистами и пытается разобраться, какие обстоятельства, личные качества и привычки предопределили их быстрый взлет.|
+|**Ведущие**      |Надежда Королева|
+|**Регулярность** |Впемя от времени|
+|**Длительность** |50-60 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1516488697" class="episodes" hashtag="moscoding"></span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1516488697" class="release-date"></span>|
+
+---
+
 |Название         |[Страна Транзистория](https://radiomayak.ru/podcasts/podcast/id/2821/)|
 |:----------------|:---------------------------------------------------------------------|
 |**Логотип**      |<span itunes-id="1437016624" class="itunes-img"><img height="100" width="100" src="https://is3-ssl.mzstatic.com/image/thumb/Podcasts113/v4/c3/4f/c1/c34fc10a-22c5-0763-8619-b5b808b6a3ca/mza_413998685325352655.jpg/600x600bb.jpg"></span>|
