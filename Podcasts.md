@@ -676,6 +676,19 @@
 
 ---
 
+|Название         |Разговоры из-под фальшпола|
+|:----------------|:-------------------------|
+|**Логотип**      |<span itunes-id="1524056283" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ua/podcast/разговоры-из-под-фальшпола/id1524056283)|
+|**Описание**     |Всем привет! Вы слушаете «Разговоры из-под фальшпола» - подкаст компании DataLine об инженерной инфраструктуре и центрах обработки данных.|
+|**Ведущие**      |Кирилл Шадский|
+|**Регулярность** |Еженедельно|
+|**Длительность** |~10 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1524056283" class="episodes" hashtag="DataLine"></span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1524056283" class="release-date"></span>|
+
+---
+
 |Название         |Сделано с нуля|
 |:----------------|:-------------|
 |**Логотип**      |<span itunes-id="1448936184" class="itunes-img"><img height="100" width="100" src="https://is5-ssl.mzstatic.com/image/thumb/Podcasts113/v4/cf/36/32/cf363296-46c0-cac8-8d2a-982b7518d075/mza_1919389443619596982.jpg/600x600bb.jpg"></span>|
