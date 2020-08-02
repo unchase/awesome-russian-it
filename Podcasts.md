@@ -35,7 +35,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">02.08.2020 08:07</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">02.08.2020 12:07</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -310,14 +310,14 @@
 
 |Название         |Дмитрий Суховаров|
 |:----------------|:----------------|
-|**Логотип**      |<span itunes-id="1492900770" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Логотип**      |<span itunes-id="1492900770" class="itunes-img"><img height="100" width="100" src="https://is2-ssl.mzstatic.com/image/thumb/Podcasts113/v4/6a/c6/e0/6ac6e022-cdf8-76b7-709a-4146380ae420/mza_14735335479633777546.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ua/podcast/дмитрий-суховаров/id1492900770) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8xMWYwZTkyOC9wb2RjYXN0L3Jzcw) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/dmitrii-sukhovarov) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCFWy8SzjxaJakTlWz7FHa7w) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/9638250) • [![Anchor](img/favicons/anchor.fm.png)](https://anchor.fm/dsuhovarov) • [![RSS](img/favicons/rss.png)](https://anchor.fm/s/11f0e928/podcast/rss)|
 |**Описание**     |Это такое странное место, куда будет размещаться подкаст-версия роликов на нашем Ютуб-канале, на случай если смотреть на мои щщщщи вам надоело.<br>А, да, еще тут нет цензуры, впрочем как и здравого смысла.<br>Зато есть всякие интересные новости из мира IT, важные обновления, а заодно шуточки и вот это вот всё.<br>Кароче вэлком!|
 |**Ведущие**      |Дмитрий Суховаров|
 |**Регулярность** |Ежедневно|
 |**Длительность** |10-20 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1492900770" class="episodes" hashtag="dsuhovarov"></span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1492900770" class="release-date"></span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1492900770" class="episodes" hashtag="dsuhovarov">120</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1492900770" class="release-date">01.08.2020 10:00</span>|
 
 ---
 
@@ -646,7 +646,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |120-180 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="256504435" class="episodes" hashtag="radiot">21 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="256504435" class="release-date">26.07.2020 02:21</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="256504435" class="release-date">02.08.2020 01:55</span>|
 
 ---
 
@@ -678,14 +678,14 @@
 
 |Название         |Разговоры из-под фальшпола|
 |:----------------|:-------------------------|
-|**Логотип**      |<span itunes-id="1524056283" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Логотип**      |<span itunes-id="1524056283" class="itunes-img"><img height="100" width="100" src="https://is2-ssl.mzstatic.com/image/thumb/Podcasts124/v4/57/0d/16/570d169b-0705-2d67-68f5-a1aef6020dc5/mza_1033909875277117265.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ua/podcast/разговоры-из-под-фальшпола/id1524056283)|
 |**Описание**     |Всем привет! Вы слушаете «Разговоры из-под фальшпола» - подкаст компании DataLine об инженерной инфраструктуре и центрах обработки данных.|
 |**Ведущие**      |Кирилл Шадский|
 |**Регулярность** |Еженедельно|
 |**Длительность** |~10 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1524056283" class="episodes" hashtag="DataLine"></span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1524056283" class="release-date"></span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1524056283" class="episodes" hashtag="DataLine">2</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1524056283" class="release-date">24.07.2020 12:13</span>|
 
 ---
 
@@ -697,8 +697,8 @@
 |**Ведущие**      |[Чернобаев Николай](http://nickchernobaev.com/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UC3Xbp3NcAtiq0XHOcU3QdOA)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |60-90 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1448936184" class="episodes" hashtag="madefromzero">42 (<font color="red">-1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1448936184" class="release-date">27.07.2020 11:44</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1448936184" class="episodes" hashtag="madefromzero">43 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1448936184" class="release-date">01.08.2020 08:42</span>|
 
 ---
 
@@ -717,14 +717,14 @@
 
 |Название         |Стендинг деск|
 |:----------------|:------------|
-|**Логотип**      |<span itunes-id="1516488697" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Логотип**      |<span itunes-id="1516488697" class="itunes-img"><img height="100" width="100" src="https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/35/9d/87/359d87ce-f810-aa09-041e-8d207b039640/mza_14751200256240827536.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/moscoding) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ua/podcast/стендинг-деск/id1516488697) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/2698323)|
 |**Описание**     |Надя Королева из Москодинга общается с успешными программистами и пытается разобраться, какие обстоятельства, личные качества и привычки предопределили их быстрый взлет.|
 |**Ведущие**      |Надежда Королева|
 |**Регулярность** |Впемя от времени|
 |**Длительность** |50-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1516488697" class="episodes" hashtag="moscoding"></span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1516488697" class="release-date"></span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1516488697" class="episodes" hashtag="moscoding">2</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1516488697" class="release-date">30.06.2020 18:03</span>|
 
 ---
 
@@ -801,7 +801,7 @@
 |**Ведущие**      |[Александр Плющев](https://plushev.com/)<br>Григорий Бакунов (Bobuk) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/bobuk/) [![GitHub](img/favicons/github.com.png)](https://github.com/bobuk)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |~50 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="378499320" class="episodes" hashtag="tochka">21 (<font color="red">0</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="378499320" class="episodes" hashtag="tochka">20 (<font color="red">-1</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="378499320" class="release-date">26.07.2020 21:05</span>|
 
 ---
@@ -948,13 +948,13 @@
 
 |Название         |[CaerusVoice](https://caerusvoice.com/)|
 |:----------------|:--------------------------------------|
-|**Логотип**      |<span itunes-id="1521832335" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Логотип**      |<span itunes-id="1521832335" class="itunes-img"><img height="100" width="100" src="https://is4-ssl.mzstatic.com/image/thumb/Podcasts124/v4/0e/cc/e9/0ecce9ec-0686-7b7f-30f1-2a62d03801cd/mza_17908066792237496149.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/caerusvoice) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ua/podcast/caerusvoice/id1521832335) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/caerusvoice) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/caerusvoice) • [![Telegram](img/favicons/t.me.png)](https://t.me/caerusvoicecom) • [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/caerusvoice/)|
 |**Описание**     |Разговоры с выдающимися людьми об ИТ.|
 |**Ведущие**      |Дмитрий Овдий|
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |~90 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1521832335" class="episodes" hashtag="caerusvoice">3</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1521832335" class="episodes" hashtag="caerusvoice">3 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1521832335" class="release-date">01.08.2020 20:47</span>|
 
 ---
@@ -1306,14 +1306,14 @@
 
 |Название         |MIXR Talks|
 |:----------------|:---------|
-|**Логотип**      |<span itunes-id="1488355094" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Логотип**      |<span itunes-id="1488355094" class="itunes-img"><img height="100" width="100" src="https://is4-ssl.mzstatic.com/image/thumb/Podcasts123/v4/45/13/89/4513890c-3cdd-5bac-0759-7339bc520b3e/mza_1501230666547987886.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ua/podcast/mixr-talks/id1488355094) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cHM6Ly9wb2RzdGVyLmZtL3Jzcy54bWw_cGlkPTY5NDM4) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/mixr-talks) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/mixr-talks) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCByJNLKVhRNkg-TOsubCiTQ) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/9040829) • [![RSS](img/favicons/rss.png)](https://podster.fm/rss.xml?pid=69438)|
 |**Описание**     |MIXR Talks — подкаст Андрея Ивашенцева о виртуальной, дополненной и смешанной реальностях. Технологии в перспективе, люди, которые за ними стоят, и бизнес, который они делают — каждую неделю на Disgusting Men.|
 |**Ведущие**      |Андрей Ивашенцев|
 |**Регулярность** |Еженедельно|
 |**Длительность** |40-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1488355094" class="episodes" hashtag="MIXR_Talks"></span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1488355094" class="release-date"></span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1488355094" class="episodes" hashtag="MIXR_Talks">21</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1488355094" class="release-date">01.08.2020 18:28</span>|
 
 ---
 
@@ -1568,14 +1568,14 @@
 
 |Название         |JavaHut|
 |:----------------|:------|
-|**Логотип**      |<span itunes-id="1512015984" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Логотип**      |<span itunes-id="1512015984" class="itunes-img"><img height="100" width="100" src="https://is3-ssl.mzstatic.com/image/thumb/Podcasts113/v4/97/34/f9/9734f973-7e4e-4ebe-c6be-885ae6654f00/mza_5938081357754737370.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ua/podcast/javahut/id1512015984) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8xZjdhYjIyYy9wb2RjYXN0L3Jzcw==) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/javahut) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/JavaHut-id2849285?country=ru) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/10901370) • [![Anchor](img/favicons/anchor.fm.png)](https://anchor.fm/javahut) • [![RSS](img/favicons/rss.png)](https://anchor.fm/s/1f7ab22c/podcast/rss)|
 |**Описание**     |В этом подкасте мы разговариваем и обсуждаем темы связанные с программированием, технологиям и конечно же с Java.|
 |**Ведущие**      |Роман Мирсон<br>Евгений Никифоров [![GitHub](img/favicons/github.com.png)](https://github.com/nikita-nikiforov)|
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |50-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1512015984" class="episodes" hashtag="javahut"></span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1512015984" class="release-date"></span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1512015984" class="episodes" hashtag="javahut">4</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1512015984" class="release-date">17.07.2020 23:12</span>|
 
 ---
 
@@ -1625,7 +1625,7 @@
 |**Ведущие**      |Станислав Александров<br>Александр Кугушев [![GitHub](img/favicons/github.com.png)](https://github.com/kugushev) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/KAW/)<br>Наталья|
 |**Регулярность** |1-4 раза в месяц|
 |**Длительность** |40-120 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1448111173" class="episodes" hashtag="dotnetmore">37 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1448111173" class="episodes" hashtag="dotnetmore">37 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1448111173" class="release-date">01.08.2020 23:51</span>|
 
 ---
