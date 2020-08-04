@@ -35,7 +35,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">04.08.2020 12:07</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">04.08.2020 16:07</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -762,8 +762,8 @@
 |**Ведущие**      ||
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |40-70 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1496543368" class="episodes" hashtag="sfierichieskoie_lidierstvo">8 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1496543368" class="release-date">19.06.2020 13:00</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1496543368" class="episodes" hashtag="sfierichieskoie_lidierstvo">9 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1496543368" class="release-date">03.08.2020 20:30</span>|
 
 ---
 
@@ -1029,8 +1029,8 @@
 |**Ведущие**      |Денис Мартынцев<br>Кирилл Гурбанов|
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |40-90 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1480344895" class="episodes" hashtag="EPICподкаст">15 (<font color="red">-2</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1480344895" class="release-date">02.07.2020 15:00</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1480344895" class="episodes" hashtag="EPICподкаст">17 (<font color="green">+2</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1480344895" class="release-date">03.08.2020 19:22</span>|
 
 ---
 
@@ -1750,7 +1750,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |40-90 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1080500016" class="episodes" hashtag="webstandards_ru">240 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1080500016" class="release-date">27.07.2020 03:00</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1080500016" class="release-date">04.08.2020 03:00</span>|
 
 ---
 
