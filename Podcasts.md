@@ -35,7 +35,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">06.08.2020 16:07</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">06.08.2020 20:08</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -355,7 +355,7 @@
 |**Ведущие**      |[Самат Галимов](https://samat.me/) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/samat/) [![Medium](img/favicons/medium.com.png)](https://medium.com/@samat)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |15-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1488945593" class="episodes" hashtag="ctodaily">24 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1488945593" class="episodes" hashtag="ctodaily">23 (<font color="red">-1</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1488945593" class="release-date">06.08.2020 05:00</span>|
 
 ---
@@ -619,7 +619,7 @@
 |**Ведущие**      |Роман Рыбальченко|
 |**Регулярность** |Несколько раз в неделю|
 |**Длительность** |20-80 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1178337792" class="episodes" hashtag="romanetua">97 (<font color="red">-2</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1178337792" class="episodes" hashtag="romanetua">97 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1178337792" class="release-date">28.07.2020 03:00</span>|
 
 ---
@@ -1042,8 +1042,8 @@
 |**Ведущие**      |Сергей Кузнецов<br>Вахтанг Махарадзе|
 |**Регулярность** |Еженедельно|
 |**Длительность** |30-40 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1436711112" class="episodes" hashtag="forgeeks">55 (<font color="green">+1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1436711112" class="release-date">06.08.2020 08:44</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1436711112" class="episodes" hashtag="forgeeks">54 (<font color="red">-1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1436711112" class="release-date">30.07.2020 12:31</span>|
 
 ---
 
@@ -2152,7 +2152,7 @@
 |**Ведущие**      |Олег Доброштан [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCc6DRZVioHF1m-ZWXqXNAYg)<br>Вячеслав Уточкин<br>Александр Мураш|
 |**Регулярность** |Раз в три недели (по средам)|
 |**Длительность** |40-50 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1490959979" class="episodes" hashtag="hvgamedev">12 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1490959979" class="episodes" hashtag="hvgamedev">12 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1490959979" class="release-date">05.08.2020 14:00</span>|
 
 ---
