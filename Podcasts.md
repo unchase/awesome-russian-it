@@ -35,7 +35,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">15.08.2020 12:07</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">15.08.2020 16:07</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -316,8 +316,8 @@
 |**Ведущие**      |Дмитрий Суховаров|
 |**Регулярность** |Ежедневно|
 |**Длительность** |10-20 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1492900770" class="episodes" hashtag="dsuhovarov">122 (<font color="red">-1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1492900770" class="release-date">10.08.2020 18:00</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1492900770" class="episodes" hashtag="dsuhovarov">124 (<font color="green">+2</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1492900770" class="release-date">15.08.2020 10:00</span>|
 
 ---
 
@@ -619,7 +619,7 @@
 |**Ведущие**      |Роман Рыбальченко|
 |**Регулярность** |Несколько раз в неделю|
 |**Длительность** |20-80 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1178337792" class="episodes" hashtag="romanetua">100 (<font color="red">0</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1178337792" class="episodes" hashtag="romanetua">98 (<font color="red">-2</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1178337792" class="release-date">11.08.2020 03:00</span>|
 
 ---
@@ -827,8 +827,8 @@
 |**Ведущие**      |[Лев Пикалёв](http://levpikalev.com/)|
 |**Регулярность** |Раз в две недели|
 |**Длительность** |30-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1443781654" class="episodes" hashtag="khantflou_insight">38 (<font color="red">-1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1443781654" class="release-date">30.07.2020 01:19</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1443781654" class="episodes" hashtag="khantflou_insight">39 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1443781654" class="release-date">13.08.2020 14:36</span>|
 
 ---
 
@@ -1068,7 +1068,7 @@
 |**Ведущие**      |Игорь Сорока [![GitHub](img/favicons/github.com.png)](https://github.com/Grenguar)|
 |**Регулярность** |Время от времени|
 |**Длительность** |30-80 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1489876173" class="episodes" hashtag="geekexport">8 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1489876173" class="episodes" hashtag="geekexport">8 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1489876173" class="release-date">13.08.2020 22:59</span>|
 
 ---
@@ -1260,8 +1260,8 @@
 |**Ведущие**      ||
 |**Регулярность** |Время от времени|
 |**Длительность** |20-80 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1313900856" class="episodes" hashtag="loftblog">184 (<font color="red">-1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1313900856" class="release-date">17.07.2020 13:19</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1313900856" class="episodes" hashtag="loftblog">185 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1313900856" class="release-date">14.08.2020 15:39</span>|
 
 ---
 
@@ -1749,8 +1749,8 @@
 |**Ведущие**      |[Вадим Макеев](https://pepelsbey.net/) [![RSS](img/favicons/rss.png)](https://pepelsbey.net/feed/index.rss) [![GitHub](img/favicons/github.com.png)](https://github.com/pepelsbey) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/pepelsbey/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCaTfYudJUVA8cV_But8KZVQ) [![Medium](img/favicons/medium.com.png)](https://medium.com/@pepelsbey)<br>[Никита Дубко](https://mefody.github.io/) [![GitHub](img/favicons/github.com.png)](https://github.com/MeFoDy)<br>Мария Просвирнина<br>[Алексей Симоненко](http://simonenko.su) [![GitHub](img/favicons/github.com.png)](https://github.com/meritt) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/meritt/)<br>Ольга Алексашенко [![GitHub](img/favicons/github.com.png)](https://github.com/tachisis/)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |40-90 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1080500016" class="episodes" hashtag="webstandards_ru">242 (<font color="green">+1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1080500016" class="release-date">11.08.2020 03:00</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1080500016" class="episodes" hashtag="webstandards_ru">241 (<font color="red">-1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1080500016" class="release-date">04.08.2020 03:00</span>|
 
 ---
 
@@ -1996,8 +1996,8 @@
 |**Ведущие**      |Денис Неклюдов [![GitHub](img/favicons/github.com.png)](https://github.com/nekdenis) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCj_j_lkgl-d2AMIMJiTZxzg) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/nekdenis/)<br>Александр Ефременков [![GitHub](img/favicons/github.com.png)](https://github.com/iamironz)<br>Дмитрий Полищук [![GitHub](img/favicons/github.com.png)](https://github.com/dpolishuk)<br>Даниил Сердюков [![GitHub](img/favicons/github.com.png)](https://github.com/DanielSerdyukov/)<br>и др.|
 |**Регулярность** |Время от времени|
 |**Длительность** |50-140 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1076856310" class="episodes" hashtag="androiddevpodcast">111 (<font color="red">-1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1076856310" class="release-date">11.06.2020 11:52</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1076856310" class="episodes" hashtag="androiddevpodcast">112 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1076856310" class="release-date">14.08.2020 10:14</span>|
 
 ---
 
