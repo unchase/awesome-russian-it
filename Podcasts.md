@@ -2033,6 +2033,19 @@
 
 ---
 
+|Название         |[Геймдев Конура](https://nrjwolf.games/podcast/)|
+|:----------------|:-----------------------------------------------|
+|**Логотип**      |<span itunes-id="1512641542" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/gamedev-konura) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/геймдев-конура/id1512641542) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cDovL2ZlZWRwcm94eS5nb29nbGUuY29tL3NvdW5kY2xvdWQvU2N6VA) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCdZb4UUDDjYMKP0H8wocJIg) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcasts-53757597) • [![Telegram](img/favicons/t.me.png)](https://t.me/nrjwolf_live) • [![Discord](img/favicons/discordapp.com.png)](https://discord.com/invite/jwPVsat) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/10713249)|
+|**Описание**     |Три парня из геймдева обсуждают что к чему.|
+|**Ведущие**      |Александр Феоктистов<br>Дмитрий Ратковский<br>Александр Маховский|
+|**Регулярность** |Еженедельно|
+|**Длительность** |40-60 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1512641542" class="episodes" hashtag="gamedev_konura"></span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1512641542" class="release-date"></span>|
+
+---
+
 |Название         |Жиза ГД|
 |:----------------|:------|
 |**Логотип**      |<span itunes-id="1413689117" class="itunes-img"><img height="100" width="100" src="https://is5-ssl.mzstatic.com/image/thumb/Podcasts123/v4/d3/10/6e/d3106e1a-692e-ed3c-290c-b83b76d8b7d0/mza_3209392125309773325.jpg/600x600bb.jpg"></span>|
