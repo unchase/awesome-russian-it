@@ -1213,6 +1213,19 @@
 
 ---
 
+|Название         |ITMO Research|
+|:----------------|:------------|
+|**Логотип**      |<span itunes-id="1514201729" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/itmo-research/id1514201729) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/itmo-research/) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/10799149)|
+|**Описание**     |Первый подкаст Университета ИТМО для тех, кто интересуется наукой и технологиями. Слушай и разбирайся в сложных темах — от квантов и инфохимии до виртуальной реальности — вместе с учеными ИТМО.|
+|**Ведущие**      |Дмитрий Кабанов|
+|**Регулярность** |Время от времени|
+|**Длительность** |30-70 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1514201729" class="episodes" hashtag="ITMO_Research"></span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1514201729" class="release-date"></span>|
+
+---
+
 |Название         |ITSTARTS|
 |:----------------|:-------|
 |**Логотип**      |<span itunes-id="1471420521" class="itunes-img"><img height="100" width="100" src="https://is2-ssl.mzstatic.com/image/thumb/Podcasts113/v4/e9/d2/75/e9d27573-5689-2670-38c1-0fb7039c9327/mza_2354156644257384388.jpg/600x600bb.jpg"></span>|
