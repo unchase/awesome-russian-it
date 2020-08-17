@@ -210,6 +210,19 @@
 
 ---
 
+|Название         |Бубнилово Инди Разработчика|
+|:----------------|:--------------------------|
+|**Логотип**      |<span itunes-id="1521503131" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/podcast/id1521503131) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8yOTY1NWUyYy9wb2RjYXN0L3Jzcw) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/id3064490?country=ru) • [![Telegram](img/favicons/t.me.png)](https://t.me/indiemeplease) •  [![RSS](img/favicons/rss.png)](https://anchor.fm/s/29655e2c/podcast/rss)|
+|**Описание**     |О трансформации разработчика в самостоятельную рабочую единицу.|
+|**Ведущие**      |[Станислав Катков](https://skatkov.com/) [![GitHub](img/favicons/github.com.png)](https://github.com/skatkov)|
+|**Регулярность** |Еженедельно|
+|**Длительность** |5-20 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1521503131" class="episodes" hashtag="Бубнилово_Инди_Разработчика"></span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1521503131" class="release-date"></span>|
+
+---
+
 |Название         |[В бесконечность и далее](https://www.toinfinity.org/)|
 |:----------------|:-----------------------------------------------------|
 |**Логотип**      |<span itunes-id="1399902281" class="itunes-img"><img height="100" width="100" src="https://is5-ssl.mzstatic.com/image/thumb/Podcasts113/v4/22/c3/15/22c31598-c9fb-d7c9-8da9-ac6ba6b41648/mza_8117957990385156452.jpg/600x600bb.jpg"></span>|
