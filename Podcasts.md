@@ -35,7 +35,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">17.08.2020 08:08</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">17.08.2020 12:08</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -53,7 +53,7 @@
 |**Ведущие**      |[Марат Сибгатулин (eucariot)](https://eucariot.livejournal.com/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCi8Dw_Kc5hKyK83xCW0jVfQ) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/eucariot/)<br>Александр Фатин (Лохматый Мамонт) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/loxmatiymamont/)<br>Антон Клочков<br>[Алексей Учакин (Snake)](https://nixman.info/) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/night_snake/) [![GitHub](img/favicons/github.com.png)](https://github.com/nightsnake) [![RSS](img/favicons/rss.png)](http://feeds.feedburner.com/khd/rss?format=xml)<br>Антон Литвинов (Dr_Wut) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/dr_wut/)<br>Роман Козлов [![GitHub](img/favicons/github.com.png)](https://github.com/soriel)<br>Роман Горшунов|
 |**Регулярность** |Еженедельно|
 |**Длительность** |30-130 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1065445951" class="episodes" hashtag="linkmeup">206 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1065445951" class="episodes" hashtag="linkmeup">206 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1065445951" class="release-date">14.08.2020 14:28</span>|
 
 </details>
@@ -316,8 +316,8 @@
 |**Ведущие**      |Дмитрий Суховаров|
 |**Регулярность** |Ежедневно|
 |**Длительность** |10-20 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1492900770" class="episodes" hashtag="dsuhovarov">124 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1492900770" class="release-date">15.08.2020 10:00</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1492900770" class="episodes" hashtag="dsuhovarov">125 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1492900770" class="release-date">17.08.2020 10:00</span>|
 
 ---
 
@@ -1042,8 +1042,8 @@
 |**Ведущие**      |Сергей Кузнецов<br>Вахтанг Махарадзе|
 |**Регулярность** |Еженедельно|
 |**Длительность** |30-40 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1436711112" class="episodes" hashtag="forgeeks">55 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1436711112" class="release-date">06.08.2020 08:44</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1436711112" class="episodes" hashtag="forgeeks">56 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1436711112" class="release-date">16.08.2020 21:13</span>|
 
 ---
 
@@ -1613,8 +1613,8 @@
 |**Ведущие**      |Илья Казначеев [![GitHub](img/favicons/github.com.png)](https://github.com/ilyakaznacheev)<br>Илья Виноградов [![GitHub](img/favicons/github.com.png)](https://github.com/oisee)<br>Иван Тюменьев [![GitHub](img/favicons/github.com.png)](https://github.com/ivantyumenyev)|
 |**Регулярность** |Время от времени|
 |**Длительность** |90-140 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1501041559" class="episodes" hashtag="z_namespace">7 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1501041559" class="release-date">05.07.2020 22:25</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1501041559" class="episodes" hashtag="z_namespace">8 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1501041559" class="release-date">16.08.2020 15:21</span>|
 
 <details open="open"><summary><a name="podcasts-development-dotnet"></a><b>&nbsp;&nbsp;&nbsp;&nbsp;.NET</b></summary><br>
 
@@ -1853,7 +1853,7 @@
 |**Ведущие**      |Андрей Смирнов [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/sandark7/)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |40-70 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1233996390" class="episodes" hashtag="frontendweekend">3 (<font color="red">-101</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1233996390" class="episodes" hashtag="frontendweekend">3 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1233996390" class="release-date">18.03.2020 20:05</span>|
 
 ---
