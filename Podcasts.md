@@ -100,7 +100,7 @@
 |**Ведущие**      |Андрей Данин|
 |**Регулярность** |Время от времени|
 |**Длительность** |5-10 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1404009975" class="episodes" hashtag="">37 (<font color="red">0</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1404009975" class="episodes" hashtag="SecurityForAll">37 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1404009975" class="release-date">12.05.2020 01:18</span>|
 
 ---
@@ -2054,7 +2054,7 @@
 |**Ведущие**      ||
 |**Регулярность** |Еженедельно|
 |**Длительность** |20-50 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1521240754" class="episodes" hashtag=""></span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1521240754" class="episodes" hashtag="Геймдев_без_сахара"></span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1521240754" class="release-date"></span>|
 
 ---
@@ -2165,11 +2165,27 @@
 
 |Название         |[Подпольный геймдизайн](https://torick.ru/podkast/)|
 |:----------------|:--------------------------------------------------|
-|**Ссылки**       |[![Podster](img/favicons/podster.fm.png)](https://ugd.podster.fm/) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/podpolnyj-gejmdizajn/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/series-1296923) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/podpol-nyy-geymdizayn)|
+|**Логотип**      |<span itunes-id="1008699731" class="itunes-img"><img height="100" width="100" src=""></span>|
+|**Ссылки**       |[![Podster](img/favicons/podster.fm.png)](https://ugd.podster.fm/) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/podpol-nyj-gejmdizajn/id1008699731) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/podpolnyj-gejmdizajn/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/series-1296923) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/podpol-nyy-geymdizayn) • [![RSS](img/favicons/rss.png)](https://podster.fm/rss.xml?pid=27934)|
 |**Описание**     |Подкаст о дизайне игр (game design) - устами тех, кто им занимается.|
 |**Ведущие**      |[Святослав (Торик)](https://torick.ru/)|
 |**Регулярность** |Не выпускается|
 |**Длительность** |80-100 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1008699731" class="episodes" hashtag="Подпольный_геймдизайн"></span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1008699731" class="release-date"></span>|
+
+---
+
+|Название         |Психология игр|
+|:----------------|:-------------|
+|**Логотип**      |<span itunes-id="1456769476" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/психология-игр/id1456769476) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/psikhologhiia-ighr)|
+|**Описание**     |Главный редактор theBatya Евгений Рамазанов и ученый-психолог Ольга Морозова обсуждают психологию игр.|
+|**Ведущие**      |Евгений Рамазанов<br>Ольга Морозова|
+|**Регулярность** |Время от времени|
+|**Длительность** |60-80 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1456769476" class="episodes" hashtag="GamesPsychology"></span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1456769476" class="release-date"></span>|
 
 ---
 
