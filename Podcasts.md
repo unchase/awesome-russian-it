@@ -2046,6 +2046,19 @@
 
 ---
 
+|Название         |Геймдев без сахара|
+|:----------------|:-----------------|
+|**Логотип**      |<span itunes-id="1521240754" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/by/podcast/геймдев-без-сахара/id1521240754) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/search/геймдев%20без%20сахара) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/id3053762) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcasts-29617250) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.by/album/11248137)|
+|**Описание**     |Подкаст для новичков и профессионалов игровой индустрии. Только самые яркие и полезные выступления конференций DevGAMM разных лет. Без воды, вредных добавок и без сахара.|
+|**Ведущие**      ||
+|**Регулярность** |Еженедельно|
+|**Длительность** |20-50 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1521240754" class="episodes" hashtag=""></span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1521240754" class="release-date"></span>|
+
+---
+
 |Название         |[Геймдев Конура](https://nrjwolf.games/podcast/)|
 |:----------------|:-----------------------------------------------|
 |**Логотип**      |<span itunes-id="1512641542" class="itunes-img"><img height="100" width="100" src="https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/f4/58/8d/f4588d6a-d09f-7958-05f7-3d62f41366a7/mza_3366278071952414774.jpg/600x600bb.jpg"></span>|
