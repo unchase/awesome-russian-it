@@ -1343,6 +1343,19 @@
 
 ---
 
+|Название         |No code maker podcast|
+|:----------------|:--------------------|
+|**Логотип**      |<span itunes-id="1522737989" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Ссылки**       |[![Anchor](img/favicons/anchor.fm.png)](https://anchor.fm/jan-lukashin) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/podcast/id1522737989) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8xMWFlODE4Yy9wb2RjYXN0L3Jzcw) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/id3133001?country=ru) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/11499536) • [![RSS](img/favicons/rss.png)](https://anchor.fm/s/11ae818c/podcast/rss)|
+|**Описание**     |Привет! Меня зовут Ян и это подкаст про платформы, компании и людей, стоящих за no code ре/эволюцией.|
+|**Ведущие**      |Ян Лукашин|
+|**Регулярность** |Время от времени|
+|**Длительность** |~10 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1522737989" class="episodes" hashtag="NoCode"></span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1522737989" class="release-date"></span>|
+
+---
+
 |Название         |[Old-Hard.RU](http://www.old-hard.ru/podcasts)|
 |:----------------|:---------------------------------------------|
 |**Логотип**      |<span itunes-id="1477741470" class="itunes-img"><img height="100" width="100" src="https://is5-ssl.mzstatic.com/image/thumb/Podcasts113/v4/8b/e5/bb/8be5bbaf-9222-b013-d75c-cf217719fd11/mza_2365289425233934588.png/600x600bb.jpg"></span>|
