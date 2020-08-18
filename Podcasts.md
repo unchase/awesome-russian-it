@@ -35,7 +35,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">17.08.2020 20:07</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">18.08.2020 08:15</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -212,14 +212,14 @@
 
 |Название         |Бубнилово Инди Разработчика|
 |:----------------|:--------------------------|
-|**Логотип**      |<span itunes-id="1521503131" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Логотип**      |<span itunes-id="1521503131" class="itunes-img"><img height="100" width="100" src="https://is4-ssl.mzstatic.com/image/thumb/Podcasts114/v4/ab/21/8c/ab218cb8-a323-0e68-ab60-532c8e6d3b40/mza_3544985887401975355.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/podcast/id1521503131) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8yOTY1NWUyYy9wb2RjYXN0L3Jzcw) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/id3064490?country=ru) • [![Telegram](img/favicons/t.me.png)](https://t.me/indiemeplease) •  [![RSS](img/favicons/rss.png)](https://anchor.fm/s/29655e2c/podcast/rss)|
 |**Описание**     |О трансформации разработчика в самостоятельную рабочую единицу.|
 |**Ведущие**      |[Станислав Катков](https://skatkov.com/) [![GitHub](img/favicons/github.com.png)](https://github.com/skatkov)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |5-20 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1521503131" class="episodes" hashtag="Бубнилово_Инди_Разработчика"></span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1521503131" class="release-date"></span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1521503131" class="episodes" hashtag="Бубнилово_Инди_Разработчика">10</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1521503131" class="release-date">10.08.2020 23:31</span>|
 
 ---
 
@@ -244,8 +244,8 @@
 |**Ведущие**      |Евгения<br>Максим<br>Виталий|
 |**Регулярность** |Еженедельно|
 |**Длительность** |40-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1491663108" class="episodes" hashtag="esnippet">37 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1491663108" class="release-date">09.08.2020 17:57</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1491663108" class="episodes" hashtag="esnippet">38 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1491663108" class="release-date">17.08.2020 09:41</span>|
 
 ---
 
@@ -522,14 +522,14 @@
 
 |Название         |[Новый подкаст (2)_после правок.final.doc](https://newpodcast2.live)|
 |:----------------|:-------------------------------------------------------------------|
-|**Логотип**      |<span itunes-id="1524851032" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Логотип**      |<span itunes-id="1524851032" class="itunes-img"><img height="100" width="100" src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts124/v4/20/25/ec/2025ecd0-38ed-d42b-72c0-53122cf07349/mza_3292045272434153933.png/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/новый-подкаст-2-после-правок-final-doc/id1524851032) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cHM6Ly9uZXdwb2RjYXN0Mi5saXZlL2ZlZWQvcG9kY2FzdC9uZXdwb3BkY2FzdDI) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/2763859) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCbNI0Ol-IsydlRfrKWDhBrg) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/newpodcast2) • [![Telegram](img/favicons/t.me.png)](https://t.me/newpodcast2) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/11575744)|
 |**Описание**     |Подкаст про тежнологии, и мир, их окружающий.|
 |**Ведущие**      |Паша Финкельштейн [![GitHub](img/favicons/github.com.png)](https://github.com/asm0dey)<br>Слава Артемьев [![GitHub](img/favicons/github.com.png)](https://github.com/viartemev)<br>Барух Садогурский [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/jbaruch/) [![Medium](img/favicons/medium.com.png)](https://medium.com/@jbaruch) [![dev.to](img/favicons/dev.to.png)](https://dev.to/jbaruch) [![GitHub](img/favicons/github.com.png)](https://github.com/jbaruch)<br>Игорь Мосягин [![GitHub](img/favicons/github.com.png)](https://github.com/shrimpsizemoose)<br>Саша Коэн [![GitHub](img/favicons/github.com.png)](https://github.com/alvcohen)<br>Владимир Иванов [![GitHub](img/favicons/github.com.png)](https://github.com/vlivanov)<br>Виктор Вербицкий [![GitHub](img/favicons/github.com.png)](https://github.com/vektory79)<br>Дарья Пронина [![GitHub](img/favicons/github.com.png)](https://github.com/Daryaggg)<br>Ольга Макасоева [![GitHub](img/favicons/github.com.png)](https://github.com/oli-kitty)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |80-90 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1524851032" class="episodes" hashtag="final.doc"></span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1524851032" class="release-date"></span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1524851032" class="episodes" hashtag="final.doc">4</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1524851032" class="release-date">13.08.2020 19:50</span>|
 
 ---
 
@@ -775,8 +775,8 @@
 |**Ведущие**      ||
 |**Регулярность** |Время от времени|
 |**Длительность** |80-90 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1466243923" class="episodes" hashtag="Сушите_вёсла">9 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1466243923" class="release-date">10.06.2020 17:42</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1466243923" class="episodes" hashtag="Сушите_вёсла">10 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1466243923" class="release-date">17.08.2020 13:06</span>|
 
 ---
 
@@ -1068,8 +1068,8 @@
 |**Ведущие**      |Сергей Кузнецов<br>Вахтанг Махарадзе|
 |**Регулярность** |Еженедельно|
 |**Длительность** |30-40 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1436711112" class="episodes" hashtag="forgeeks">55 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1436711112" class="release-date">06.08.2020 08:44</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1436711112" class="episodes" hashtag="forgeeks">56 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1436711112" class="release-date">16.08.2020 21:13</span>|
 
 ---
 
@@ -1107,8 +1107,8 @@
 |**Ведущие**      |[Олег Ковалев](https://olegk.dev/) [![GitHub](img/favicons/github.com.png)](https://github.com/cristaloleg)<br>Богдан Сторожук [![GitHub](img/favicons/github.com.png)](https://github.com/storozhukBM)<br>[Искандер Шарипов](https://quasilyte.dev/status/) [![GitHub](img/favicons/github.com.png)](https://github.com/quasilyte) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/quasilyte/)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |60-100 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1489980299" class="episodes" hashtag="generictalks">32 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1489980299" class="release-date">09.08.2020 21:23</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1489980299" class="episodes" hashtag="generictalks">33 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1489980299" class="release-date">18.08.2020 00:14</span>|
 
 ---
 
@@ -1358,14 +1358,14 @@
 
 |Название         |No code maker podcast|
 |:----------------|:--------------------|
-|**Логотип**      |<span itunes-id="1522737989" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Логотип**      |<span itunes-id="1522737989" class="itunes-img"><img height="100" width="100" src="https://is4-ssl.mzstatic.com/image/thumb/Podcasts114/v4/01/ef/a3/01efa3a5-f1fa-72f3-f4cf-5d5117272f31/mza_14074707907604240505.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Anchor](img/favicons/anchor.fm.png)](https://anchor.fm/jan-lukashin) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/podcast/id1522737989) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8xMWFlODE4Yy9wb2RjYXN0L3Jzcw) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/id3133001?country=ru) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/11499536) • [![RSS](img/favicons/rss.png)](https://anchor.fm/s/11ae818c/podcast/rss)|
 |**Описание**     |Привет! Меня зовут Ян и это подкаст про платформы, компании и людей, стоящих за no code ре/эволюцией.|
 |**Ведущие**      |Ян Лукашин|
 |**Регулярность** |Время от времени|
 |**Длительность** |~10 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1522737989" class="episodes" hashtag="NoCode"></span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1522737989" class="release-date"></span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1522737989" class="episodes" hashtag="NoCode">2</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1522737989" class="release-date">19.07.2020 09:01</span>|
 
 ---
 
@@ -1403,8 +1403,8 @@
 |**Ведущие**      |Стас Цыганов [![GitHub](img/favicons/github.com.png)](https://github.com/DevAlloy)<br>[Егор Толстой](http://etolstoy.com/) [![Medium](img/favicons/medium.com.png)](https://medium.com/@etolstoy) [![GitHub](img/favicons/github.com.png)](https://github.com/etolstoy)<br>Екатерина Петрова<br>Евгений Кателла|
 |**Регулярность** |Еженедельно|
 |**Длительность** |80-150 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1209828744" class="episodes" hashtag="podlodka">185 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1209828744" class="release-date">10.08.2020 14:21</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1209828744" class="episodes" hashtag="podlodka">186 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1209828744" class="release-date">17.08.2020 11:21</span>|
 
 ---
 
@@ -1475,14 +1475,14 @@
 
 |Название         |RUSSKY.DIGITAL|
 |:----------------|:-------------|
-|**Логотип**      |<span itunes-id="1526097167" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Логотип**      |<span itunes-id="1526097167" class="itunes-img"><img height="100" width="100" src="https://is3-ssl.mzstatic.com/image/thumb/Podcasts114/v4/ce/a1/01/cea101b0-5170-4719-42af-a2479b991123/mza_5040560279828610176.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/russky-digital) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/russky-digital/id1526097167) • [![VK](img/favicons/vk.com.png)](https://vk.com/tvoidvfu?z=podcast-143053679_456239018) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/11659894)|
 |**Описание**     |Подкаст от RUSSKY.DIGITAL.|
 |**Ведущие**      ||
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |~30 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1526097167" class="episodes" hashtag="RUSSKY.DIGITAL"></span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1526097167" class="release-date"></span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1526097167" class="episodes" hashtag="RUSSKY.DIGITAL">2</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1526097167" class="release-date">17.08.2020 05:17</span>|
 
 ---
 
@@ -1665,7 +1665,7 @@
 |**Ведущие**      |Илья Казначеев [![GitHub](img/favicons/github.com.png)](https://github.com/ilyakaznacheev)<br>Илья Виноградов [![GitHub](img/favicons/github.com.png)](https://github.com/oisee)<br>Иван Тюменьев [![GitHub](img/favicons/github.com.png)](https://github.com/ivantyumenyev)|
 |**Регулярность** |Время от времени|
 |**Длительность** |90-140 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1501041559" class="episodes" hashtag="z_namespace">8 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1501041559" class="episodes" hashtag="z_namespace">8 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1501041559" class="release-date">16.08.2020 15:21</span>|
 
 <details open="open"><summary><a name="podcasts-development-dotnet"></a><b>&nbsp;&nbsp;&nbsp;&nbsp;.NET</b></summary><br>
@@ -2100,14 +2100,14 @@
 
 |Название         |Геймдев без сахара|
 |:----------------|:-----------------|
-|**Логотип**      |<span itunes-id="1521240754" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Логотип**      |<span itunes-id="1521240754" class="itunes-img"><img height="100" width="100" src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/11/3f/17/113f1769-d864-6695-45ce-fe2584dfdbc5/mza_998598216460922389.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/by/podcast/геймдев-без-сахара/id1521240754) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/search/геймдев%20без%20сахара) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/id3053762) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcasts-29617250) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.by/album/11248137)|
 |**Описание**     |Подкаст для новичков и профессионалов игровой индустрии. Только самые яркие и полезные выступления конференций DevGAMM разных лет. Без воды, вредных добавок и без сахара.|
 |**Ведущие**      ||
 |**Регулярность** |Еженедельно|
 |**Длительность** |20-50 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1521240754" class="episodes" hashtag="Геймдев_без_сахара"></span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1521240754" class="release-date"></span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1521240754" class="episodes" hashtag="Геймдев_без_сахара">7</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1521240754" class="release-date">13.08.2020 12:30</span>|
 
 ---
 
@@ -2132,7 +2132,7 @@
 |**Ведущие**      |Владимир Красильников<br>Анатолий Шестов<br>Никита Гук [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/azazelis/)|
 |**Регулярность** |Раз в две недели|
 |**Длительность** |40-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1413689117" class="episodes" hashtag="zhiza_gd">50 (<font color="red">0</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1413689117" class="episodes" hashtag="zhiza_gd">2 (<font color="red">-48</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1413689117" class="release-date">10.08.2020 13:50</span>|
 
 ---
@@ -2217,27 +2217,27 @@
 
 |Название         |[Подпольный геймдизайн](https://torick.ru/podkast/)|
 |:----------------|:--------------------------------------------------|
-|**Логотип**      |<span itunes-id="1008699731" class="itunes-img"><img height="100" width="100" src=""></span>|
+|**Логотип**      |<span itunes-id="1008699731" class="itunes-img"><img height="100" width="100" src="https://is4-ssl.mzstatic.com/image/thumb/Podcasts123/v4/39/48/58/394858a5-4ba6-2b01-a944-db12c95632a0/mza_1181507126761523658.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Podster](img/favicons/podster.fm.png)](https://ugd.podster.fm/) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/podpol-nyj-gejmdizajn/id1008699731) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/podpolnyj-gejmdizajn/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/series-1296923) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/podpol-nyy-geymdizayn) • [![RSS](img/favicons/rss.png)](https://podster.fm/rss.xml?pid=27934)|
 |**Описание**     |Подкаст о дизайне игр (game design) - устами тех, кто им занимается.|
 |**Ведущие**      |[Святослав (Торик)](https://torick.ru/)|
 |**Регулярность** |Не выпускается|
 |**Длительность** |80-100 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1008699731" class="episodes" hashtag="Подпольный_геймдизайн"></span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1008699731" class="release-date"></span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1008699731" class="episodes" hashtag="Подпольный_геймдизайн">13</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1008699731" class="release-date">22.09.2016 15:44</span>|
 
 ---
 
 |Название         |Психология игр|
 |:----------------|:-------------|
-|**Логотип**      |<span itunes-id="1456769476" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Логотип**      |<span itunes-id="1456769476" class="itunes-img"><img height="100" width="100" src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/00/09/08/000908f2-40bd-3c71-6bfa-ff708d4239c4/mza_1962924141152968763.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/психология-игр/id1456769476) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/psikhologhiia-ighr)|
 |**Описание**     |Главный редактор theBatya Евгений Рамазанов и ученый-психолог Ольга Морозова обсуждают психологию игр.|
 |**Ведущие**      |Евгений Рамазанов<br>Ольга Морозова|
 |**Регулярность** |Время от времени|
 |**Длительность** |60-80 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1456769476" class="episodes" hashtag="GamesPsychology"></span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1456769476" class="release-date"></span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1456769476" class="episodes" hashtag="GamesPsychology">6</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1456769476" class="release-date">01.05.2020 12:09</span>|
 
 ---
 
