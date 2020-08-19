@@ -35,7 +35,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">18.08.2020 20:08</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">19.08.2020 08:12</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -430,7 +430,7 @@
 |**Ведущие**      |Антон Назаров [![GitHub](img/favicons/github.com.png)](https://github.com/MortyMerr) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/M0rtyMerr/) [![Medium](img/favicons/medium.com.png)](https://medium.com/@MortyMerr)<br>Эрик|
 |**Регулярность** |Еженедельно|
 |**Длительность** |70-110 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1498625033" class="episodes" hashtag="kuluarnyiy">10 (<font color="green">+9</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1498625033" class="episodes" hashtag="kuluarnyiy">10 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1498625033" class="release-date">14.05.2020 18:44</span>|
 
 ---
@@ -763,7 +763,7 @@
 |**Регулярность** |Ежедневно|
 |**Длительность** |5-10 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="episodes" hashtag="strana_tranzistoriia">300 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="release-date">17.08.2020 14:30</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="release-date">18.08.2020 14:30</span>|
 
 ---
 
@@ -1107,7 +1107,7 @@
 |**Ведущие**      |[Олег Ковалев](https://olegk.dev/) [![GitHub](img/favicons/github.com.png)](https://github.com/cristaloleg)<br>Богдан Сторожук [![GitHub](img/favicons/github.com.png)](https://github.com/storozhukBM)<br>[Искандер Шарипов](https://quasilyte.dev/status/) [![GitHub](img/favicons/github.com.png)](https://github.com/quasilyte) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/quasilyte/)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |60-100 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1489980299" class="episodes" hashtag="generictalks">33 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1489980299" class="episodes" hashtag="generictalks">33 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1489980299" class="release-date">18.08.2020 00:14</span>|
 
 ---
@@ -1234,8 +1234,8 @@
 |**Ведущие**      ||
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |50-90 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="567224504" class="episodes" hashtag="it_trend">102 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="567224504" class="release-date">27.07.2020 02:18</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="567224504" class="episodes" hashtag="it_trend">103 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="567224504" class="release-date">18.08.2020 01:49</span>|
 
 ---
 
