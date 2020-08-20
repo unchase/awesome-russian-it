@@ -35,7 +35,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">20.08.2020 08:08</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">20.08.2020 12:10</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -329,7 +329,7 @@
 |**Ведущие**      |Дмитрий Суховаров|
 |**Регулярность** |Ежедневно|
 |**Длительность** |10-20 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1492900770" class="episodes" hashtag="dsuhovarov">126 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1492900770" class="episodes" hashtag="dsuhovarov">126 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1492900770" class="release-date">19.08.2020 10:00</span>|
 
 ---
@@ -381,8 +381,8 @@
 |**Ведущие**      |Илья Верязов|
 |**Регулярность** |Время от времени|
 |**Длительность** |25-45 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1120110650" class="episodes" hashtag="Ивент_Кухня">47 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1120110650" class="release-date">13.08.2020 13:13</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1120110650" class="episodes" hashtag="Ивент_Кухня">48 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1120110650" class="release-date">20.08.2020 10:47</span>|
 
 ---
 
@@ -541,7 +541,7 @@
 |**Ведущие**      |Ира Сергеева<br>Леонид Сергеев|
 |**Регулярность** |Время от времени|
 |**Длительность** |30-40 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1451758558" class="episodes" hashtag="oh.dad.podcast">35 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1451758558" class="episodes" hashtag="oh.dad.podcast">35 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1451758558" class="release-date">19.08.2020 18:35</span>|
 
 ---
@@ -749,7 +749,7 @@
 |**Ведущие**      |Надежда Королева|
 |**Регулярность** |Впемя от времени|
 |**Длительность** |50-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1516488697" class="episodes" hashtag="moscoding">3 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1516488697" class="episodes" hashtag="moscoding">3 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1516488697" class="release-date">19.08.2020 20:05</span>|
 
 ---
@@ -919,7 +919,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |70-120 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="868222886" class="episodes" hashtag="beardycast">300 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="868222886" class="release-date">19.08.2020 09:00</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="868222886" class="release-date">12.08.2020 21:32</span>|
 
 ---
 
@@ -980,8 +980,8 @@
 |**Ведущие**      |Дмитрий Овдий|
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |~90 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1521832335" class="episodes" hashtag="caerusvoice">4 (<font color="green">+1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1521832335" class="release-date">19.08.2020 21:36</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1521832335" class="episodes" hashtag="caerusvoice">3 (<font color="red">-1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1521832335" class="release-date">01.08.2020 20:47</span>|
 
 ---
 
@@ -1055,7 +1055,7 @@
 |**Ведущие**      |Денис Мартынцев<br>Кирилл Гурбанов|
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |40-90 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1480344895" class="episodes" hashtag="EPICподкаст">18 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1480344895" class="episodes" hashtag="EPICподкаст">18 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1480344895" class="release-date">19.08.2020 14:38</span>|
 
 ---
@@ -1338,7 +1338,7 @@
 |**Ведущие**      |Юрий Агеев|
 |**Регулярность** |Еженедельно|
 |**Длительность** |40-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1417851966" class="episodes" hashtag="productsense">107 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1417851966" class="episodes" hashtag="productsense">107 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1417851966" class="release-date">19.08.2020 23:59</span>|
 
 ---
@@ -1351,8 +1351,8 @@
 |**Ведущие**      |Андрей Ивашенцев|
 |**Регулярность** |Еженедельно|
 |**Длительность** |40-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1488355094" class="episodes" hashtag="MIXR_Talks">22 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1488355094" class="release-date">18.08.2020 12:49</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1488355094" class="episodes" hashtag="MIXR_Talks">21 (<font color="red">-1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1488355094" class="release-date">01.08.2020 18:28</span>|
 
 ---
 
@@ -1390,7 +1390,7 @@
 |**Ведущие**      |Андрей Радионов|
 |**Регулярность** |Еженедельно|
 |**Длительность** |~70 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1503693347" class="episodes" hashtag="optacast">15 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1503693347" class="episodes" hashtag="optacast">15 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1503693347" class="release-date">19.08.2020 21:22</span>|
 
 ---
@@ -1592,7 +1592,7 @@
 |**Ведущие**      |Тимур Сейфельмлюков<br>Дмитрий Зомбак [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/zombak) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCGygd95WaTLPcrRSB1OIB3g)<br>Максим Зарецкий<br>Иногда:<br>[Валентин Петухов (Wylsacom)](https://wylsa.com/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCt7sv-NKh44rHAEb-qCCxvA)<br>Григорий Бакунов (Bobuk) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/bobuk/) [![GitHub](img/favicons/github.com.png)](https://github.com/bobuk)|
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |120-150 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1068329384" class="episodes" hashtag="zavtracast">237 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1068329384" class="episodes" hashtag="zavtracast">237 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1068329384" class="release-date">20.08.2020 03:38</span>|
 
 </details>
@@ -1763,7 +1763,7 @@
 |**Ведущие**      |Григорий Петров [![GitHub](img/favicons/github.com.png)](https://github.com/grigoryvp) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/eyeofhell/)<br>Илья Лебедев [![GitHub](img/favicons/github.com.png)](https://github.com/Melevir)<br>[Валентин Домбровский](http://dombrovsky.me/)<br>Михаил Корнеев [![GitHub](img/favicons/github.com.png)](https://github.com/korneevm) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/voldar/)<br>Злата Обуховская<br>Алексей Штырняев|
 |**Регулярность** |Еженедельно|
 |**Длительность** |30-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1429543935" class="episodes" hashtag="moscowpython">82 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1429543935" class="episodes" hashtag="moscowpython">82 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1429543935" class="release-date">19.08.2020 09:28</span>|
 
 </details>
@@ -1814,7 +1814,7 @@
 |**Ведущие**      |[Вадим Макеев](https://pepelsbey.net/) [![RSS](img/favicons/rss.png)](https://pepelsbey.net/feed/index.rss) [![GitHub](img/favicons/github.com.png)](https://github.com/pepelsbey) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/pepelsbey/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCaTfYudJUVA8cV_But8KZVQ) [![Medium](img/favicons/medium.com.png)](https://medium.com/@pepelsbey)<br>[Никита Дубко](https://mefody.github.io/) [![GitHub](img/favicons/github.com.png)](https://github.com/MeFoDy)<br>Мария Просвирнина<br>[Алексей Симоненко](http://simonenko.su) [![GitHub](img/favicons/github.com.png)](https://github.com/meritt) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/meritt/)<br>Ольга Алексашенко [![GitHub](img/favicons/github.com.png)](https://github.com/tachisis/)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |40-90 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1080500016" class="episodes" hashtag="webstandards_ru">243 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1080500016" class="episodes" hashtag="webstandards_ru">243 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1080500016" class="release-date">18.08.2020 03:00</span>|
 
 ---
@@ -1899,13 +1899,13 @@
 
 |Название         |[Frontend Weekend](https://frontendweekend.ml/ru/)|
 |:----------------|:-------------------------------------------------|
-|**Логотип**      |<span itunes-id="1233996390" class="itunes-img"><img height="100" width="100" src="https://is2-ssl.mzstatic.com/image/thumb/Podcasts124/v4/dc/ed/9b/dced9b09-6c99-aaee-1f8e-cb6bb16270ad/mza_7167037496194250379.jpg/600x600bb.jpg"></span>|
+|**Логотип**      |<span itunes-id="1233996390" class="itunes-img"><img height="100" width="100" src="https://is5-ssl.mzstatic.com/image/thumb/Podcasts128/v4/91/76/5d/91765d36-1871-f71b-ca2b-835e15b5d538/mza_1636629178684183685.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/frontend-weekend) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/frontend-weekend/id1233996390) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/frontend-weekend/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/frontend-weekend) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/id983120?country=ru) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/frontend-weekend) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCCcdxAkVpk8WnyRIknFbe4A) • [![VK](img/favicons/vk.com.png)](https://vk.com/frontendweekend) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/frontendweekend) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/frontendweekend) • [![Telegram](img/favicons/t.me.png)](https://t.me/frontendweekend) • [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/frontendweekend/) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/6842995?from=serp) • [![RSS](img/favicons/rss.png)](http://feeds.soundcloud.com/users/soundcloud:users:306455261/sounds.rss)|
 |**Описание**     |Еженедельный подкаст о новостях мира frontend-разработки и индустрии web-технологий изнутри. Обсуждаем всё: от JavaScript и CSS до митапов, конференций и работы в IT-сфере.<br><br>Самые честные интервью с известными людьми из мира web-разработки. Впечатляющие истории успеха, забавные моменты из жизни и полезные советы – мы показываем человеческое лицо frontend’а и не только.|
 |**Ведущие**      |Андрей Смирнов [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/sandark7/)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |40-70 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1233996390" class="episodes" hashtag="frontendweekend">104 (<font color="red">0</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1233996390" class="episodes" hashtag="frontendweekend">3 (<font color="red">-101</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1233996390" class="release-date">18.03.2020 20:05</span>|
 
 ---
