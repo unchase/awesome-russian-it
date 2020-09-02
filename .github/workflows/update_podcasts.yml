@@ -1,12 +1,12 @@
 name: Update_Podcasts_Data
 
-on:
-  schedule:
-    - cron: '0 5-20/4 * * *'
-
 ##on:
-##  push:
-##    branches: [ master ]
+##  schedule:
+##    - cron: '0 5-20/4 * * *'
+
+on:
+  push:
+    branches: [ dev ]
 
 jobs:
   build:
