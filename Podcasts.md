@@ -35,7 +35,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">11.09.2020 08:04</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">11.09.2020 12:03</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -395,7 +395,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |~90 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="363311940" class="episodes" hashtag="rcmp_podcast">10 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="363311940" class="release-date">11.09.2020 04:01</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="363311940" class="release-date">04.09.2020 04:22</span>|
 
 ---
 
@@ -528,7 +528,7 @@
 |**Ведущие**      |Паша Финкельштейн [![GitHub](img/favicons/github.com.png)](https://github.com/asm0dey)<br>Слава Артемьев [![GitHub](img/favicons/github.com.png)](https://github.com/viartemev)<br>Барух Садогурский [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/jbaruch/) [![Medium](img/favicons/medium.com.png)](https://medium.com/@jbaruch) [![dev.to](img/favicons/dev.to.png)](https://dev.to/jbaruch) [![GitHub](img/favicons/github.com.png)](https://github.com/jbaruch)<br>Игорь Мосягин [![GitHub](img/favicons/github.com.png)](https://github.com/shrimpsizemoose)<br>Саша Коэн [![GitHub](img/favicons/github.com.png)](https://github.com/alvcohen)<br>Владимир Иванов [![GitHub](img/favicons/github.com.png)](https://github.com/vlivanov)<br>Виктор Вербицкий [![GitHub](img/favicons/github.com.png)](https://github.com/vektory79)<br>Дарья Пронина [![GitHub](img/favicons/github.com.png)](https://github.com/Daryaggg)<br>Ольга Макасоева [![GitHub](img/favicons/github.com.png)](https://github.com/oli-kitty)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |80-90 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1524851032" class="episodes" hashtag="final.doc">8 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1524851032" class="episodes" hashtag="final.doc">8 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1524851032" class="release-date">10.09.2020 20:14</span>|
 
 ---
@@ -814,8 +814,8 @@
 |**Ведущие**      |Дмитрий Здоров<br>Василий Мязин|
 |**Регулярность** |Время от времени|
 |**Длительность** |20-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1013700516" class="episodes" hashtag="Технологии_и_жизнь">52 (<font color="green">+1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1013700516" class="release-date">10.09.2020 08:05</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1013700516" class="episodes" hashtag="Технологии_и_жизнь">51 (<font color="red">-1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1013700516" class="release-date">23.08.2020 08:05</span>|
 
 ---
 
@@ -1892,7 +1892,7 @@
 |**Ведущие**      ||
 |**Регулярность** |Еженедельно|
 |**Длительность** |60-120 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1247192730" class="episodes" hashtag="frontend_u">166 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1247192730" class="episodes" hashtag="frontend_u">166 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1247192730" class="release-date">11.09.2020 00:45</span>|
 
 ---
@@ -2105,7 +2105,7 @@
 |**Ведущие**      ||
 |**Регулярность** |Еженедельно|
 |**Длительность** |20-50 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1521240754" class="episodes" hashtag="Геймдев_без_сахара">11 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1521240754" class="episodes" hashtag="Геймдев_без_сахара">11 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1521240754" class="release-date">10.09.2020 12:30</span>|
 
 ---
