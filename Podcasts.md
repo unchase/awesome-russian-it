@@ -1239,6 +1239,19 @@
 
 ---
 
+|Название         |IT-кулер|
+|:----------------|:-------|
+|**Логотип**      |<span itunes-id="1497767124" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/us/podcast/it-кулер/id1497767124) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8xMzI2MDVmOC9wb2RjYXN0L3Jzcw==) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcasts-196000556) • [![Telegram](img/favicons/t.me.png)](https://t.me/it_cooler) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/10969548) • [![RSS](img/favicons/rss.png)](https://anchor.fm/s/132605f8/podcast/rss)|
+|**Описание**     |Подкаст Ксюши Галайда (QA) и Миши Серова (Full Stack Developer) о людях в IT. Раз в неделю мы приглашаем на интервью менеджеров, разработчиков или CEO, чтобы узнать, как они выбрали свою профессию, какой карьерный путь прошли и какие советы после этого могут дать.<br>Мы делаем это, чтобы показать, что IT - это не только разработчики и каждый может найти здесь что-то своё. Ведь чем больше ролевых моделей мы знаем, тем больше возможностей мы видим.|
+|**Ведущие**      |Ксюша Галайда<br>Миша Серова|
+|**Регулярность** |Несколько раз в месяц|
+|**Длительность** |30-60 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1497767124" class="episodes" hashtag="IT_cooler"></span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1497767124" class="release-date"></span>|
+
+---
+
 |Название         |ITMO Research|
 |:----------------|:------------|
 |**Логотип**      |<span itunes-id="1514201729" class="itunes-img"><img height="100" width="100" src="https://is2-ssl.mzstatic.com/image/thumb/Podcasts123/v4/b8/45/05/b8450525-d9ee-e38a-fd60-afad01805176/mza_17047816498801969597.jpg/600x600bb.jpg"></span>|
