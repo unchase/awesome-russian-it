@@ -35,7 +35,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">15.09.2020 20:03</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">16.09.2020 08:04</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -736,8 +736,8 @@
 |**Ведущие**      |Владимир Смеркис|
 |**Регулярность** |Еженедельно|
 |**Длительность** |~30 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1095124477" class="episodes" hashtag="silikonovie">205 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1095124477" class="release-date">20.07.2020 13:27</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1095124477" class="episodes" hashtag="silikonovie">212 (<font color="green">+7</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1095124477" class="release-date">15.09.2020 14:33</span>|
 
 ---
 
@@ -763,7 +763,7 @@
 |**Регулярность** |Ежедневно|
 |**Длительность** |5-10 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="episodes" hashtag="strana_tranzistoriia">300 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="release-date">14.09.2020 14:30</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="release-date">15.09.2020 14:30</span>|
 
 ---
 
@@ -1062,14 +1062,14 @@
 
 |Название         |[ForGeeks Podcast](https://anchor.fm/forgeeks)|
 |:----------------|:---------------------------------------------|
-|**Логотип**      |<span itunes-id="1436711112" class="itunes-img"><img height="100" width="100" src="https://is4-ssl.mzstatic.com/image/thumb/Podcasts123/v4/65/27/fe/6527fe98-8820-5468-89f5-58666a5c59b3/mza_4564460038458040815.jpg/600x600bb.jpg"></span>|
+|**Логотип**      |<span itunes-id="1436711112" class="itunes-img"><img height="100" width="100" src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts114/v4/2f/38/8e/2f388e61-26f1-45a3-4e57-0bc4e874e093/mza_6281378166929472554.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/forgeeks-podcast/id1436711112) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/?feed=aHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL2ZnZWVrcw) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/forgeeks-podcast/) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/forgeeks-podcast-2578747) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/forgeeks-podcast) • [![Podster](img/favicons/podster.fm.png)](https://forgeeks.podster.fm/) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcasts-121593523) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/7560675) • [![RSS](img/favicons/rss.png)](https://anchor.fm/s/b4fb914/podcast/rss)|
 |**Описание**     |Всё про технологии и около того. Гаджеты, инновации, медицина, космос и пр. Каждую неделю рассказываем о новом и интересном в мире IT.|
 |**Ведущие**      |Сергей Кузнецов<br>Вахтанг Махарадзе|
 |**Регулярность** |Еженедельно|
 |**Длительность** |30-40 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1436711112" class="episodes" hashtag="forgeeks">57 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1436711112" class="release-date">01.09.2020 01:35</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1436711112" class="episodes" hashtag="forgeeks">58 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1436711112" class="release-date">15.09.2020 22:50</span>|
 
 ---
 
@@ -1827,8 +1827,8 @@
 |**Ведущие**      |[Вадим Макеев](https://pepelsbey.net/) [![RSS](img/favicons/rss.png)](https://pepelsbey.net/feed/index.rss) [![GitHub](img/favicons/github.com.png)](https://github.com/pepelsbey) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/pepelsbey/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCaTfYudJUVA8cV_But8KZVQ) [![Medium](img/favicons/medium.com.png)](https://medium.com/@pepelsbey)<br>[Никита Дубко](https://mefody.github.io/) [![GitHub](img/favicons/github.com.png)](https://github.com/MeFoDy)<br>Мария Просвирнина<br>[Алексей Симоненко](http://simonenko.su) [![GitHub](img/favicons/github.com.png)](https://github.com/meritt) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/meritt/)<br>Ольга Алексашенко [![GitHub](img/favicons/github.com.png)](https://github.com/tachisis/)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |40-90 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1080500016" class="episodes" hashtag="webstandards_ru">246 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1080500016" class="release-date">08.09.2020 03:00</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1080500016" class="episodes" hashtag="webstandards_ru">247 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1080500016" class="release-date">15.09.2020 03:00</span>|
 
 ---
 
@@ -1966,7 +1966,7 @@
 |**Ведущие**      |[Дмитрий Пацура](https://resume.dmtry.me/) [![GitHub](img/favicons/github.com.png)](https://github.com/ovr)<br>Артём Кобзарь [![GitHub](img/favicons/github.com.png)](https://github.com/jsmonk)|
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |40-70 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1475405773" class="episodes" hashtag="underjs">25 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1475405773" class="episodes" hashtag="underjs">25 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1475405773" class="release-date">14.09.2020 10:00</span>|
 
 </details>
@@ -2157,7 +2157,7 @@
 |**Ведущие**      |Андрей Захаров|
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |30-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1438708331" class="episodes" hashtag="grzhr">58 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1438708331" class="episodes" hashtag="grzhr">58 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1438708331" class="release-date">14.09.2020 22:52</span>|
 
 ---
@@ -2320,7 +2320,7 @@
 |**Ведущие**      |Евгений Рамазанов|
 |**Регулярность** |Ежемесячно|
 |**Длительность** |30-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1457864181" class="episodes" hashtag="thebatya_talk">34 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1457864181" class="episodes" hashtag="thebatya_talk">34 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1457864181" class="release-date">14.09.2020 12:57</span>|
 
 </details>
