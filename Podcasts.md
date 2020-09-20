@@ -35,7 +35,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">20.09.2020 16:03</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">20.09.2020 20:04</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -166,8 +166,8 @@
 |**Ведущие**      |Лекс АйТиБорода [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/lex_kar/)|
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |20-120 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1449804780" class="episodes" hashtag="itbeard">115 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1449804780" class="release-date">08.09.2020 17:18</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1449804780" class="episodes" hashtag="itbeard">116 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1449804780" class="release-date">20.09.2020 16:42</span>|
 
 ---
 
@@ -218,8 +218,8 @@
 |**Ведущие**      |[Станислав Катков](https://skatkov.com/) [![GitHub](img/favicons/github.com.png)](https://github.com/skatkov)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |5-20 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1521503131" class="episodes" hashtag="Бубнилово_Инди_Разработчика">13 (<font color="red">-1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1521503131" class="release-date">09.09.2020 14:01</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1521503131" class="episodes" hashtag="Бубнилово_Инди_Разработчика">14 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1521503131" class="release-date">20.09.2020 00:08</span>|
 
 ---
 
@@ -541,8 +541,8 @@
 |**Ведущие**      |Ира Сергеева<br>Леонид Сергеев|
 |**Регулярность** |Время от времени|
 |**Длительность** |30-40 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1451758558" class="episodes" hashtag="oh.dad.podcast">35 (<font color="red">-1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1451758558" class="release-date">19.08.2020 18:35</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1451758558" class="episodes" hashtag="oh.dad.podcast">36 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1451758558" class="release-date">19.09.2020 20:30</span>|
 
 ---
 
@@ -672,7 +672,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |120-180 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="256504435" class="episodes" hashtag="radiot">21 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="256504435" class="release-date">13.09.2020 01:54</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="256504435" class="release-date">20.09.2020 02:46</span>|
 
 ---
 
@@ -827,7 +827,7 @@
 |**Ведущие**      |[Александр Плющев](https://plushev.com/)<br>Григорий Бакунов (Bobuk) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/bobuk/) [![GitHub](img/favicons/github.com.png)](https://github.com/bobuk)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |~50 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="378499320" class="episodes" hashtag="tochka">20 (<font color="red">-1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="378499320" class="episodes" hashtag="tochka">20 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="378499320" class="release-date">13.09.2020 21:05</span>|
 
 ---
@@ -1030,7 +1030,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |120-180 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="903660317" class="episodes" hashtag="devzen_podcast">25 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="903660317" class="release-date">13.09.2020 10:24</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="903660317" class="release-date">20.09.2020 18:06</span>|
 
 ---
 
@@ -1879,8 +1879,8 @@
 |**Ведущие**      |[Денис Бугарчев](https://begebot.livejournal.com/)<br>Михаил Коцийевский [![GitHub](img/favicons/github.com.png)](https://github.com/maxvektor)<br>[Пётр Ермишкин](https://quasiyoke.me) [![GitHub](img/favicons/github.com.png)](https://github.com/quasiyoke)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |45-80 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1447645563" class="episodes" hashtag="frontsexy">40 (<font color="red">-1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1447645563" class="release-date">01.09.2020 20:47</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1447645563" class="episodes" hashtag="frontsexy">41 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1447645563" class="release-date">20.09.2020 01:35</span>|
 
 ---
 
