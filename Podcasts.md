@@ -1584,6 +1584,16 @@
 
 ---
 
+|Название         |Type safe talks|
+|:----------------|:--------------|
+|**Ссылки**       |[![Anchor](img/favicons/anchor.fm.png)](https://anchor.fm/typesafe/episodes/Languages-we-choose-RUS-ejqple) • [![Telegram](img/favicons/t.me.png)]() • [![RSS](img/favicons/rss.png)](https://anchor.fm/s/36c633fc/podcast/rss)|
+|**Описание**     |русскоязычный подкаст от толпы друзей из разных сфер IT.|
+|**Ведущие**      |Грам<br>Влаэк<br>Медведь<br>Карим|
+|**Регулярность** |Еженедельно|
+|**Длительность** |~60 минут|
+
+---
+
 |Название         |WikiTiles - энциклопедия Microsoft|
 |:----------------|:---------------------------------|
 |**Логотип**      |<span itunes-id="1195781986" class="itunes-img"><img height="100" width="100" src="https://is4-ssl.mzstatic.com/image/thumb/Features/v4/5f/88/96/5f8896e9-9be5-529a-af14-cc807367568a/mza_1382744875394257421.png/600x600bb.jpg"></span>|
