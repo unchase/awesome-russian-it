@@ -35,7 +35,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">28.09.2020 16:04</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">28.09.2020 20:03</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -329,7 +329,7 @@
 |**Ведущие**      |Дмитрий Суховаров|
 |**Регулярность** |Ежедневно|
 |**Длительность** |10-20 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1492900770" class="episodes" hashtag="dsuhovarov">144 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1492900770" class="episodes" hashtag="dsuhovarov">144 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1492900770" class="release-date">28.09.2020 10:00</span>|
 
 ---
@@ -645,7 +645,7 @@
 |**Ведущие**      |Роман Рыбальченко|
 |**Регулярность** |Несколько раз в неделю|
 |**Длительность** |20-80 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1178337792" class="episodes" hashtag="romanetua">101 (<font color="red">-2</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1178337792" class="episodes" hashtag="romanetua">103 (<font color="green">+2</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1178337792" class="release-date">22.09.2020 03:00</span>|
 
 ---
@@ -763,7 +763,7 @@
 |**Регулярность** |Ежедневно|
 |**Длительность** |5-10 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="episodes" hashtag="strana_tranzistoriia">300 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="release-date">28.09.2020 14:30</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="release-date">24.09.2020 14:30</span>|
 
 ---
 
@@ -1114,14 +1114,14 @@
 
 |Название         |[Gurov Digital](https://gurov.digital/)|
 |:----------------|:--------------------------------------|
-|**Логотип**      |<span itunes-id="1456143785" class="itunes-img"><img height="100" width="100" src="https://is5-ssl.mzstatic.com/image/thumb/Podcasts114/v4/8c/37/12/8c371242-617d-8e8c-7c74-45f393ea1f07/mza_11266940543711420249.jpeg/600x600bb.jpg"></span>|
+|**Логотип**      |<span itunes-id="1456143785" class="itunes-img"><img height="100" width="100" src="https://is2-ssl.mzstatic.com/image/thumb/Podcasts114/v4/aa/fd/17/aafd17e5-4dd7-a686-70cb-4cfe23540d1b/mza_9711354336775186964.jpeg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/gurovdigital) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/gurov-digital/id1456143785) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/?feed=aHR0cDovL2ZlZWRzLnNvdW5kY2xvdWQuY29tL3VzZXJzL3NvdW5kY2xvdWQ6dXNlcnM6MzA4MjU5NTIxL3NvdW5kcy5yc3M) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/episodes/gurov-digital/) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCwdOVy56m5uQ2TyfRz9I45Q) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcasts-37473931) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/gurovdigital/) • [![Telegram](img/favicons/t.me.png)](http://t.me/gurovdigital) • [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/gurovdigital/) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/7115659)|
 |**Описание**     |Что произошло с Instagram, Telegram, YouTube и WhatsApp за последнее время.|
 |**Ведущие**      |[Павел Гуров](https://gurov.github.io) [![GitHub](img/favicons/github.com.png)](https://github.com/gurov) [![Medium](img/favicons/medium.com.png)](https://medium.com/@gurovdigital) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/lucius/) [![RSS](img/favicons/rss.png)](https://gurov.github.io/feed.xml)|
 |**Регулярность** |Время от времени|
 |**Длительность** |20-40 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1456143785" class="episodes" hashtag="gurovdigital">21 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1456143785" class="release-date">27.08.2020 14:39</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1456143785" class="episodes" hashtag="gurovdigital">22 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1456143785" class="release-date">28.09.2020 16:01</span>|
 
 ---
 
@@ -1416,7 +1416,7 @@
 |**Ведущие**      |Стас Цыганов [![GitHub](img/favicons/github.com.png)](https://github.com/DevAlloy)<br>[Егор Толстой](http://etolstoy.com/) [![Medium](img/favicons/medium.com.png)](https://medium.com/@etolstoy) [![GitHub](img/favicons/github.com.png)](https://github.com/etolstoy)<br>Екатерина Петрова<br>Евгений Кателла|
 |**Регулярность** |Еженедельно|
 |**Длительность** |80-150 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1209828744" class="episodes" hashtag="podlodka">192 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1209828744" class="episodes" hashtag="podlodka">192 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1209828744" class="release-date">28.09.2020 12:59</span>|
 
 ---
@@ -1569,8 +1569,8 @@
 |**Ведущие**      |[Антон Черноусов (golodnyj)](https://blog.golodnyj.ru/) [![GitHub](img/favicons/github.com.png)](https://github.com/golodnyj) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/golodnyj/)|
 |**Регулярность** |Несколько выпусков в месяц|
 |**Длительность** |40-120 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1046278525" class="episodes" hashtag="taoppodcast">163 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1046278525" class="release-date">16.09.2020 08:55</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1046278525" class="episodes" hashtag="taoppodcast">164 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1046278525" class="release-date">28.09.2020 17:26</span>|
 
 ---
 
@@ -1837,8 +1837,8 @@
 |**Ведущие**      |[Вадим Макеев](https://pepelsbey.net/) [![RSS](img/favicons/rss.png)](https://pepelsbey.net/feed/index.rss) [![GitHub](img/favicons/github.com.png)](https://github.com/pepelsbey) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/pepelsbey/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCaTfYudJUVA8cV_But8KZVQ) [![Medium](img/favicons/medium.com.png)](https://medium.com/@pepelsbey)<br>[Никита Дубко](https://mefody.github.io/) [![GitHub](img/favicons/github.com.png)](https://github.com/MeFoDy)<br>Мария Просвирнина<br>[Алексей Симоненко](http://simonenko.su) [![GitHub](img/favicons/github.com.png)](https://github.com/meritt) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/meritt/)<br>Ольга Алексашенко [![GitHub](img/favicons/github.com.png)](https://github.com/tachisis/)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |40-90 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1080500016" class="episodes" hashtag="webstandards_ru">249 (<font color="green">+1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1080500016" class="release-date">28.09.2020 03:00</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1080500016" class="episodes" hashtag="webstandards_ru">248 (<font color="red">-1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1080500016" class="release-date">21.09.2020 03:00</span>|
 
 ---
 
@@ -2180,7 +2180,7 @@
 |**Ведущие**      |[Сергей Галёнкин](http://galyonkin.com/) [![Medium](img/favicons/medium.com.png)](http://medium.com/@galyonkin)<br>[Михаил Кузьмин](http://kuzmitch.ru/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UChwapc7GYZZ3k4zTxp6B66Q)|
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |80-120 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="560881209" class="episodes" hashtag="kdicast">294 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="560881209" class="episodes" hashtag="kdicast">294 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="560881209" class="release-date">27.09.2020 03:18</span>|
 
 ---
@@ -2379,8 +2379,8 @@
 |**Ведущие**      |Константин Романов|
 |**Регулярность** |Время от времени|
 |**Длительность** |~30 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1492565320" class="episodes" hashtag="Большая_Дата">10 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1492565320" class="release-date">03.09.2020 15:05</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1492565320" class="episodes" hashtag="Большая_Дата">11 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1492565320" class="release-date">28.09.2020 16:33</span>|
 
 </details>
 
