@@ -35,7 +35,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">27.09.2020 20:04</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">28.09.2020 08:04</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -53,7 +53,7 @@
 |**Ведущие**      |[Марат Сибгатулин (eucariot)](https://eucariot.livejournal.com/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCi8Dw_Kc5hKyK83xCW0jVfQ) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/eucariot/)<br>Александр Фатин (Лохматый Мамонт) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/loxmatiymamont/)<br>Антон Клочков<br>[Алексей Учакин (Snake)](https://nixman.info/) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/night_snake/) [![GitHub](img/favicons/github.com.png)](https://github.com/nightsnake) [![RSS](img/favicons/rss.png)](http://feeds.feedburner.com/khd/rss?format=xml)<br>Антон Литвинов (Dr_Wut) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/dr_wut/)<br>Роман Козлов [![GitHub](img/favicons/github.com.png)](https://github.com/soriel)<br>Роман Горшунов|
 |**Регулярность** |Еженедельно|
 |**Длительность** |30-130 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1065445951" class="episodes" hashtag="linkmeup">212 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1065445951" class="episodes" hashtag="linkmeup">212 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1065445951" class="release-date">27.09.2020 11:41</span>|
 
 </details>
@@ -244,7 +244,7 @@
 |**Ведущие**      |Евгения<br>Максим<br>Виталий|
 |**Регулярность** |Еженедельно|
 |**Длительность** |40-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1491663108" class="episodes" hashtag="esnippet">43 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1491663108" class="episodes" hashtag="esnippet">43 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1491663108" class="release-date">27.09.2020 17:59</span>|
 
 ---
@@ -1030,7 +1030,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |120-180 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="903660317" class="episodes" hashtag="devzen_podcast">25 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="903660317" class="release-date">20.09.2020 18:06</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="903660317" class="release-date">27.09.2020 14:49</span>|
 
 ---
 
@@ -1185,7 +1185,7 @@
 |**Ведущие**      |Павел Калашников [![GitHub](img/favicons/github.com.png)](https://github.com/kalashnikovisme) [![VK](img/favicons/vk.com.png)](https://vk.com/kalashnikovisme) [![Facebook](img/favicons/facebook.com.png)](https://facebook.com/kalashnikovisme)<br>Наталья Мусина [![VK](img/favicons/vk.com.png)](https://vk.com/wolffyj) [![Facebook](img/favicons/facebook.com.png)](https://facebook.com/wolffyj)<br>Елизавета Сарычева [![VK](img/favicons/vk.com.png)](https://vk.com/lisa_sarycheva) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/profile.php?id=100001762322638)<br>Дмитрий Николаев [![GitHub](img/favicons/github.com.png)](https://github.com/BooSt163)
 |**Регулярность** |Еженедельно|
 |**Длительность** |30-110 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1490305221" class="episodes" hashtag="itway">43 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1490305221" class="episodes" hashtag="itway">43 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1490305221" class="release-date">27.09.2020 02:12</span>|
 
 ---
@@ -1247,8 +1247,8 @@
 |**Ведущие**      |Ксюша Галайда<br>Миша Серова|
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |30-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1497767124" class="episodes" hashtag="IT_cooler">11 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1497767124" class="release-date">19.07.2020 22:48</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1497767124" class="episodes" hashtag="IT_cooler">12 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1497767124" class="release-date">27.09.2020 14:37</span>|
 
 ---
 
@@ -1527,7 +1527,7 @@
 
 |Название         |[SITCast](https://sitc.community/)|
 |:----------------|:---------------------------------|
-|**Логотип**      |<span itunes-id="1449716272" class="itunes-img"><img height="100" width="100" src="https://is4-ssl.mzstatic.com/image/thumb/Podcasts114/v4/94/1e/de/941ede4c-0977-aec6-9674-5e02ff8eafd4/mza_4208650205042831173.jpg/600x600bb.jpg"></span>|
+|**Логотип**      |<span itunes-id="1449716272" class="itunes-img"><img height="100" width="100" src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts114/v4/d2/2a/1d/d22a1d7a-21ba-a2a4-60c5-ade45bd74d38/mza_4257681268837394748.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/us/podcast/sitcast/id1449716272) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/sitcast) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCWwGzRCrnCWRVQ_UlpwZQMA) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcasts-143954349) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/TcommunityI) • [![Telegram](img/favicons/t.me.png)](https://t.me/Samara_IT_Community) • [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/itc_samara/)|
 |**Описание**     |Подкаст паблика Samara IT Community в котором Дима Червяков, Коля Сладкий, Никита Пузанков и Дмитрий Николаев рассказывают о своём пути в IT и спорят на различные темы, близкие тем кто работает в сфере IT или интересуется ей.|
 |**Ведущие**      |Дима Червяков<br>Николай Сладкий [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/NikolasMelui/) [![GitHub](img/favicons/github.com.png)](https://github.com/NikolasMelui)<br>[Никита Пузанков](https://humb1t.tumblr.com/) [![dev.to](img/favicons/dev.to.png)](https://dev.to/humb1t) [![GitHub](img/favicons/github.com.png)](https://github.com/humb1t)<br>Дмитрий Николаев [![GitHub](img/favicons/github.com.png)](https://github.com/BooSt163)|
