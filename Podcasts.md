@@ -1586,11 +1586,14 @@
 
 |Название         |Type safe talks|
 |:----------------|:--------------|
-|**Ссылки**       |[![Anchor](img/favicons/anchor.fm.png)](https://anchor.fm/typesafe/episodes/Languages-we-choose-RUS-ejqple) • [![Telegram](img/favicons/t.me.png)]() • [![RSS](img/favicons/rss.png)](https://anchor.fm/s/36c633fc/podcast/rss)|
-|**Описание**     |русскоязычный подкаст от толпы друзей из разных сфер IT.|
+|**Логотип**      |<span itunes-id="1532456326" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Ссылки**       |[![Anchor](img/favicons/anchor.fm.png)](https://anchor.fm/typesafe/episodes/Languages-we-choose-RUS-ejqple) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/podcast/id1532456326) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8zNmM2MzNmYy9wb2RjYXN0L3Jzcw==) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/Type-safe-talks-id3347913) • [![Telegram](img/favicons/t.me.png)](https://t.me/type_safe) • [![RSS](img/favicons/rss.png)](https://anchor.fm/s/36c633fc/podcast/rss)|
+|**Описание**     |Русскоязычный подкаст от толпы друзей из разных сфер IT. Говорим про языки программирования, типы, всё такое.|
 |**Ведущие**      |Грам<br>Влаэк<br>Медведь<br>Карим|
 |**Регулярность** |Еженедельно|
 |**Длительность** |~60 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1532456326" class="episodes" hashtag="TypeSafeTalks"></span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1532456326" class="release-date"></span>|
 
 ---
 
