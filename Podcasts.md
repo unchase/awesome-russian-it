@@ -1236,6 +1236,19 @@
 
 ---
 
+|Название         |[It's a good cast](https://itsagoodcast.fireside.fm/)|
+|:----------------|:----------------------------------------------------|
+|**Логотип**      |<span itunes-id="454929808" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ua/podcast/its-a-good-cast/id454929808) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5maXJlc2lkZS5mbS9pdHNhZ29vZGNhc3QvcnNz) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/It's-a-good-cast-id2873860?country=ru) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/10565068) • [![RSS](img/favicons/rss.png)](https://feeds.fireside.fm/itsagoodcast/rss)|
+|**Описание**     |It's a good cast (ex.KeddroCast) - подкаст про технологии, еду, путешествия и всякое другое.|
+|**Ведущие**      |Александр Ляпота|
+|**Регулярность** |Еженедельно|
+|**Длительность** |30-70 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="454929808" class="episodes" hashtag="Its_A_Good_Cast"></span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="454929808" class="release-date"></span>|
+
+---
+
 |Название         |IT-Trend|
 |:----------------|:-------|
 |**Логотип**      |<span itunes-id="567224504" class="itunes-img"><img height="100" width="100" src="https://is4-ssl.mzstatic.com/image/thumb/Podcasts6/v4/4e/f6/7c/4ef67c65-2e6a-7fe1-d819-c6922b414c40/mza_2697005808610219231.jpg/600x600bb.jpg"></span>|
