@@ -1047,6 +1047,16 @@
 
 ---
 
+|Название         |EPAM PODCAST|
+|:----------------|:-----------|
+|**Ссылки**       |[![VK](img/favicons/vk.com.png)](https://vk.com/podcasts-58536976) • [![Telegram](img/favicons/t.me.png)](https://t.me/epamlab)|
+|**Описание**     |Разговоры с IT-экспертами на актуальные темы.|
+|**Ведущие**      ||
+|**Регулярность** |Время от времени|
+|**Длительность** |30-70 минут|
+
+---
+
 |Название         |Epic подкаст|
 |:----------------|:-----------|
 |**Логотип**      |<span itunes-id="1480344895" class="itunes-img"><img height="100" width="100" src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/29/e4/28/29e4283e-f9ec-0494-6a1d-a578ae81c85c/mza_6044865720143149648.jpg/600x600bb.jpg"></span>|
