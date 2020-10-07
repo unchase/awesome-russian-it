@@ -35,7 +35,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">07.10.2020 16:04</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">07.10.2020 20:03</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -329,7 +329,7 @@
 |**Ведущие**      |Дмитрий Суховаров|
 |**Регулярность** |Ежедневно|
 |**Длительность** |10-20 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1492900770" class="episodes" hashtag="dsuhovarov">148 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1492900770" class="episodes" hashtag="dsuhovarov">148 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1492900770" class="release-date">07.10.2020 10:00</span>|
 
 ---
@@ -528,7 +528,7 @@
 |**Ведущие**      |Паша Финкельштейн [![GitHub](img/favicons/github.com.png)](https://github.com/asm0dey)<br>Слава Артемьев [![GitHub](img/favicons/github.com.png)](https://github.com/viartemev)<br>Барух Садогурский [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/jbaruch/) [![Medium](img/favicons/medium.com.png)](https://medium.com/@jbaruch) [![dev.to](img/favicons/dev.to.png)](https://dev.to/jbaruch) [![GitHub](img/favicons/github.com.png)](https://github.com/jbaruch)<br>Игорь Мосягин [![GitHub](img/favicons/github.com.png)](https://github.com/shrimpsizemoose)<br>Саша Коэн [![GitHub](img/favicons/github.com.png)](https://github.com/alvcohen)<br>Владимир Иванов [![GitHub](img/favicons/github.com.png)](https://github.com/vlivanov)<br>Виктор Вербицкий [![GitHub](img/favicons/github.com.png)](https://github.com/vektory79)<br>Дарья Пронина [![GitHub](img/favicons/github.com.png)](https://github.com/Daryaggg)<br>Ольга Макасоева [![GitHub](img/favicons/github.com.png)](https://github.com/oli-kitty)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |80-90 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1524851032" class="episodes" hashtag="final.doc">12 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1524851032" class="episodes" hashtag="final.doc">12 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1524851032" class="release-date">06.10.2020 20:42</span>|
 
 ---
@@ -763,7 +763,7 @@
 |**Регулярность** |Ежедневно|
 |**Длительность** |5-10 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="episodes" hashtag="strana_tranzistoriia">300 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="release-date">06.10.2020 14:30</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="release-date">05.10.2020 14:30</span>|
 
 ---
 
@@ -1335,7 +1335,7 @@
 |**Ведущие**      ||
 |**Регулярность** |Время от времени|
 |**Длительность** |20-80 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1313900856" class="episodes" hashtag="loftblog">189 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1313900856" class="episodes" hashtag="loftblog">189 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1313900856" class="release-date">06.10.2020 11:10</span>|
 
 ---
