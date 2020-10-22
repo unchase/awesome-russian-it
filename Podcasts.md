@@ -35,7 +35,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">21.10.2020 20:04</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">22.10.2020 08:05</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -290,14 +290,14 @@
 
 |Название         |Горячий #tceh|
 |:----------------|:------------|
-|**Логотип**      |<span itunes-id="1492765073" class="itunes-img"><img height="100" width="100" src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts114/v4/4c/b0/2e/4cb02e44-f0c5-116a-a098-8232c46f83f2/mza_13248624109597207730.jpg/600x600bb.jpg"></span>|
+|**Логотип**      |<span itunes-id="1492765073" class="itunes-img"><img height="100" width="100" src="https://is4-ssl.mzstatic.com/image/thumb/Podcasts124/v4/78/fc/00/78fc00d3-5b6a-bf20-0d5f-371266e146b7/mza_13704526299554876945.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/горячий-tceh/id1492765073) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/Горячий-tceh-id2520882?country=ru) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcast-73842245_456239023) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/9520849)|
 |**Описание**     |Подкаст об инновациях, технологиях и предпринимательстве.|
 |**Ведущие**      |Екатерина<br>Наталья|
 |**Регулярность** |Время от времени|
 |**Длительность** |30-50 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1492765073" class="episodes" hashtag="tceh">17 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1492765073" class="release-date">05.09.2020 14:15</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1492765073" class="episodes" hashtag="tceh">18 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1492765073" class="release-date">21.10.2020 17:10</span>|
 
 ---
 
@@ -381,8 +381,8 @@
 |**Ведущие**      |Илья Верязов|
 |**Регулярность** |Время от времени|
 |**Длительность** |25-45 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1120110650" class="episodes" hashtag="Ивент_Кухня">56 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1120110650" class="release-date">15.10.2020 16:37</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1120110650" class="episodes" hashtag="Ивент_Кухня">57 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1120110650" class="release-date">22.10.2020 06:01</span>|
 
 ---
 
@@ -528,7 +528,7 @@
 |**Ведущие**      |Паша Финкельштейн [![GitHub](img/favicons/github.com.png)](https://github.com/asm0dey)<br>Слава Артемьев [![GitHub](img/favicons/github.com.png)](https://github.com/viartemev)<br>Барух Садогурский [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/jbaruch/) [![Medium](img/favicons/medium.com.png)](https://medium.com/@jbaruch) [![dev.to](img/favicons/dev.to.png)](https://dev.to/jbaruch) [![GitHub](img/favicons/github.com.png)](https://github.com/jbaruch)<br>Игорь Мосягин [![GitHub](img/favicons/github.com.png)](https://github.com/shrimpsizemoose)<br>Саша Коэн [![GitHub](img/favicons/github.com.png)](https://github.com/alvcohen)<br>Владимир Иванов [![GitHub](img/favicons/github.com.png)](https://github.com/vlivanov)<br>Виктор Вербицкий [![GitHub](img/favicons/github.com.png)](https://github.com/vektory79)<br>Дарья Пронина [![GitHub](img/favicons/github.com.png)](https://github.com/Daryaggg)<br>Ольга Макасоева [![GitHub](img/favicons/github.com.png)](https://github.com/oli-kitty)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |80-90 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1524851032" class="episodes" hashtag="final.doc">13 (<font color="red">-1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1524851032" class="episodes" hashtag="final.doc">14 (<font color="green">+1</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1524851032" class="release-date">20.10.2020 23:56</span>|
 
 ---
@@ -919,7 +919,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |70-120 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="868222886" class="episodes" hashtag="beardycast">300 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="868222886" class="release-date">14.10.2020 08:00</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="868222886" class="release-date">21.10.2020 10:52</span>|
 
 ---
 
@@ -1283,8 +1283,8 @@
 |**Ведущие**      |Дмитрий Кабанов|
 |**Регулярность** |Время от времени|
 |**Длительность** |30-70 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1514201729" class="episodes" hashtag="ITMO_Research">5 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1514201729" class="release-date">18.09.2020 12:33</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1514201729" class="episodes" hashtag="ITMO_Research">6 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1514201729" class="release-date">21.10.2020 16:58</span>|
 
 ---
 
@@ -1374,8 +1374,8 @@
 |**Ведущие**      |Юрий Агеев|
 |**Регулярность** |Еженедельно|
 |**Длительность** |40-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1417851966" class="episodes" hashtag="productsense">115 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1417851966" class="release-date">14.10.2020 23:59</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1417851966" class="episodes" hashtag="productsense">116 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1417851966" class="release-date">21.10.2020 23:59</span>|
 
 ---
 
@@ -2435,8 +2435,8 @@
 |**Ведущие**      |Виктор<br>Максим|
 |**Регулярность** |Раз в две недели|
 |**Длительность** |80-120 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1502639464" class="episodes" hashtag="devopskitchentalks">13 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1502639464" class="release-date">29.09.2020 18:35</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1502639464" class="episodes" hashtag="devopskitchentalks">14 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1502639464" class="release-date">20.10.2020 17:50</span>|
 
 </details>
 
