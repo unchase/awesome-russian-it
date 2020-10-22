@@ -35,7 +35,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">22.10.2020 16:04</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">22.10.2020 20:04</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -206,7 +206,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |~60 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1497722428" class="episodes" hashtag="bitcask">10 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1497722428" class="release-date">23.09.2020 01:03</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1497722428" class="release-date">21.10.2020 22:51</span>|
 
 ---
 
@@ -290,14 +290,14 @@
 
 |Название         |Горячий #tceh|
 |:----------------|:------------|
-|**Логотип**      |<span itunes-id="1492765073" class="itunes-img"><img height="100" width="100" src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts114/v4/4c/b0/2e/4cb02e44-f0c5-116a-a098-8232c46f83f2/mza_13248624109597207730.jpg/600x600bb.jpg"></span>|
+|**Логотип**      |<span itunes-id="1492765073" class="itunes-img"><img height="100" width="100" src="https://is4-ssl.mzstatic.com/image/thumb/Podcasts124/v4/78/fc/00/78fc00d3-5b6a-bf20-0d5f-371266e146b7/mza_13704526299554876945.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/горячий-tceh/id1492765073) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/Горячий-tceh-id2520882?country=ru) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcast-73842245_456239023) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/9520849)|
 |**Описание**     |Подкаст об инновациях, технологиях и предпринимательстве.|
 |**Ведущие**      |Екатерина<br>Наталья|
 |**Регулярность** |Время от времени|
 |**Длительность** |30-50 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1492765073" class="episodes" hashtag="tceh">17 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1492765073" class="release-date">05.09.2020 14:15</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1492765073" class="episodes" hashtag="tceh">18 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1492765073" class="release-date">21.10.2020 17:10</span>|
 
 ---
 
@@ -362,14 +362,14 @@
 
 |Название         |[Запуск завтра](https://libolibo.ru/zapuskzavtra)|
 |:----------------|:------------------------------------------------|
-|**Логотип**      |<span itunes-id="1488945593" class="itunes-img"><img height="100" width="100" src="https://is3-ssl.mzstatic.com/image/thumb/Podcasts114/v4/7d/47/74/7d477420-0386-b76b-3eb6-c3677280c602/mza_16358950410975602221.jpg/600x600bb.jpg"></span>|
+|**Логотип**      |<span itunes-id="1488945593" class="itunes-img"><img height="100" width="100" src="https://is5-ssl.mzstatic.com/image/thumb/Podcasts114/v4/ba/42/84/ba428492-bc88-e00f-6e44-6a471ba40c9d/mza_2693256799804115671.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/%D0%B7%D0%B0%D0%BF%D1%83%D1%81%D0%BA-%D0%B7%D0%B0%D0%B2%D1%82%D1%80%D0%B0/id1488945593) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/zapusk-zavtra-2577418) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/%D0%97%D0%B0%D0%BF%D1%83%D1%81%D0%BA-%D0%B7%D0%B0%D0%B2%D1%82%D1%80%D0%B0-id2476243?country=ru) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/zapusk-zavtra) • [![Telegram](img/favicons/t.me.png)](https://t.me/ctodaily) [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/9294155?from=serp)|
 |**Описание**     |Подкаст о технологиях, которые меняют нашу жизнь. Самат Галимов — человек, который решает проблемы. Он работает техническим директором и все время должен находить общий язык с людьми самых разных профессий и помогать им понять друг друга. Хакеры рассказывают ему про безопасность, дата-сайентисты — про машинное обучение и системы распознавания лиц, разработчики — про то, как сделать сервис, которым будут пользоваться миллионы, и не облажаться. Слушайте их разговоры в новом подкасте студии Либо/Либо.|
 |**Ведущие**      |[Самат Галимов](https://samat.me/) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/samat/) [![Medium](img/favicons/medium.com.png)](https://medium.com/@samat)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |15-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1488945593" class="episodes" hashtag="ctodaily">31 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1488945593" class="release-date">24.09.2020 05:00</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1488945593" class="episodes" hashtag="ctodaily">32 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1488945593" class="release-date">22.10.2020 14:09</span>|
 
 ---
 
@@ -763,7 +763,7 @@
 |**Регулярность** |Ежедневно|
 |**Длительность** |5-10 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="episodes" hashtag="strana_tranzistoriia">300 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="release-date">21.10.2020 14:30</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="release-date">22.10.2020 14:30</span>|
 
 ---
 
@@ -1374,7 +1374,7 @@
 |**Ведущие**      |Юрий Агеев|
 |**Регулярность** |Еженедельно|
 |**Длительность** |40-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1417851966" class="episodes" hashtag="productsense">116 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1417851966" class="episodes" hashtag="productsense">116 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1417851966" class="release-date">21.10.2020 23:59</span>|
 
 ---
@@ -1989,7 +1989,7 @@
 |**Ведущие**      |Елена<br>Филипп|
 |**Регулярность** |Время от времени|
 |**Длительность** |~10 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1499128651" class="episodes" hashtag="undefinedpodcast">21 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1499128651" class="episodes" hashtag="undefinedpodcast">21 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1499128651" class="release-date">21.10.2020 12:00</span>|
 
 ---
@@ -2154,8 +2154,8 @@
 |**Ведущие**      ||
 |**Регулярность** |Еженедельно|
 |**Длительность** |20-50 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1521240754" class="episodes" hashtag="Геймдев_без_сахара">16 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1521240754" class="release-date">15.10.2020 12:30</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1521240754" class="episodes" hashtag="Геймдев_без_сахара">17 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1521240754" class="release-date">22.10.2020 12:30</span>|
 
 ---
 
@@ -2435,8 +2435,8 @@
 |**Ведущие**      |Виктор<br>Максим|
 |**Регулярность** |Раз в две недели|
 |**Длительность** |80-120 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1502639464" class="episodes" hashtag="devopskitchentalks">13 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1502639464" class="release-date">29.09.2020 18:35</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1502639464" class="episodes" hashtag="devopskitchentalks">14 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1502639464" class="release-date">20.10.2020 17:50</span>|
 
 </details>
 
