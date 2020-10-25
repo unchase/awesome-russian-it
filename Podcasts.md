@@ -35,7 +35,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">25.10.2020 08:04</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">25.10.2020 12:04</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -329,8 +329,8 @@
 |**Ведущие**      |Дмитрий Суховаров|
 |**Регулярность** |Ежедневно|
 |**Длительность** |10-20 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1492900770" class="episodes" hashtag="dsuhovarov">155 (<font color="red">-1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1492900770" class="release-date">23.10.2020 17:00</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1492900770" class="episodes" hashtag="dsuhovarov">156 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1492900770" class="release-date">24.10.2020 10:00</span>|
 
 ---
 
@@ -1072,14 +1072,14 @@
 
 |Название         |[ForGeeks Podcast](https://anchor.fm/forgeeks)|
 |:----------------|:---------------------------------------------|
-|**Логотип**      |<span itunes-id="1436711112" class="itunes-img"><img height="100" width="100" src="https://is3-ssl.mzstatic.com/image/thumb/Podcasts114/v4/19/c9/c8/19c9c821-4f49-416b-1c41-f35842ab3d2b/mza_17294023929544536054.jpg/600x600bb.jpg"></span>|
+|**Логотип**      |<span itunes-id="1436711112" class="itunes-img"><img height="100" width="100" src="https://is2-ssl.mzstatic.com/image/thumb/Podcasts114/v4/d0/ca/3d/d0ca3d1a-1093-9fa4-a318-13809a386700/mza_15214664940448135910.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/forgeeks-podcast/id1436711112) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/?feed=aHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL2ZnZWVrcw) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/forgeeks-podcast/) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/forgeeks-podcast-2578747) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/forgeeks-podcast) • [![Podster](img/favicons/podster.fm.png)](https://forgeeks.podster.fm/) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcasts-121593523) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/7560675) • [![RSS](img/favicons/rss.png)](https://anchor.fm/s/b4fb914/podcast/rss)|
 |**Описание**     |Всё про технологии и около того. Гаджеты, инновации, медицина, космос и пр. Каждую неделю рассказываем о новом и интересном в мире IT.|
 |**Ведущие**      |Сергей Кузнецов<br>Вахтанг Махарадзе|
 |**Регулярность** |Еженедельно|
 |**Длительность** |30-40 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1436711112" class="episodes" hashtag="forgeeks">60 (<font color="red">-1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1436711112" class="release-date">14.10.2020 19:33</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1436711112" class="episodes" hashtag="forgeeks">61 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1436711112" class="release-date">24.10.2020 14:17</span>|
 
 ---
 
@@ -2245,7 +2245,7 @@
 |**Ведущие**      |Алексей Давыдов<br>Евгений Кистерев<br>Алексей Тестов|
 |**Регулярность** |Еженедельно|
 |**Длительность** |60-100 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1488527416" class="episodes" hashtag="pilimtrem">39 (<font color="red">-1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1488527416" class="episodes" hashtag="pilimtrem">39 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1488527416" class="release-date">17.10.2020 14:11</span>|
 
 ---
