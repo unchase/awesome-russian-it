@@ -632,7 +632,7 @@
 |**Ведущие**      ||
 |**Регулярность** |Время от времени|
 |**Длительность** |20-40 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="271623368" class="episodes" hashtag="mobilereviewcom">298 (<font color="red">0</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="271623368" class="episodes" hashtag="mobilereviewcom">1578 (<font color="green">+1280</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="271623368" class="release-date">08.10.2020 06:00</span>|
 
 ---
