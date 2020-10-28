@@ -35,7 +35,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">28.10.2020 12:04</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">28.10.2020 16:13</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -54,7 +54,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |30-130 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1065445951" class="episodes" hashtag="linkmeup">214 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1065445951" class="release-date">25.10.2020 19:34</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1065445951" class="release-date">25.10.2020 16:34</span>|
 
 </details>
 
@@ -71,7 +71,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |50-110 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1289965366" class="episodes" hashtag="basicblockradio">96 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1289965366" class="release-date">31.07.2020 10:01</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1289965366" class="release-date">31.07.2020 07:01</span>|
 
 ---
 
@@ -84,7 +84,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |40-50 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1485575312" class="episodes" hashtag="forklog">152 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1485575312" class="release-date">21.04.2020 10:35</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1485575312" class="release-date">21.04.2020 07:35</span>|
 
 </details>
 
@@ -101,7 +101,7 @@
 |**Регулярность** |Время от времени|
 |**Длительность** |5-10 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1404009975" class="episodes" hashtag="SecurityForAll">37 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1404009975" class="release-date">12.05.2020 01:18</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1404009975" class="release-date">11.05.2020 22:18</span>|
 
 ---
 
@@ -114,7 +114,7 @@
 |**Регулярность** |Время от времени|
 |**Длительность** |~60 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1505781025" class="episodes" hashtag="Мимокрокодил">3 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1505781025" class="release-date">29.07.2020 12:42</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1505781025" class="release-date">29.07.2020 09:42</span>|
 
 ---
 
@@ -150,7 +150,7 @@
 |**Регулярность** |Не выпускается|
 |**Длительность** |30-70 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="448433787" class="episodes" hashtag="securit13">125 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="448433787" class="release-date">31.12.2018 19:02</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="448433787" class="release-date">31.12.2018 16:02</span>|
 
 </details>
 
@@ -167,7 +167,7 @@
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |20-120 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1449804780" class="episodes" hashtag="itbeard">122 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1449804780" class="release-date">23.10.2020 10:49</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1449804780" class="release-date">23.10.2020 07:49</span>|
 
 ---
 
@@ -180,7 +180,7 @@
 |**Регулярность** |Не выходит|
 |**Длительность** |30-100 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1291304119" class="episodes" hashtag="IteaCast">56 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1291304119" class="release-date">15.04.2019 16:31</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1291304119" class="release-date">15.04.2019 13:31</span>|
 
 ---
 
@@ -193,7 +193,7 @@
 |**Регулярность** |Раз в две недели|
 |**Длительность** |45-50 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1498122067" class="episodes" hashtag="itpadcast">7 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1498122067" class="release-date">02.05.2020 17:22</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1498122067" class="release-date">02.05.2020 14:22</span>|
 
 ---
 
@@ -206,7 +206,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |~60 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1497722428" class="episodes" hashtag="bitcask">10 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1497722428" class="release-date">21.10.2020 22:51</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1497722428" class="release-date">21.10.2020 19:51</span>|
 
 ---
 
@@ -219,7 +219,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |5-20 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1521503131" class="episodes" hashtag="Бубнилово_Инди_Разработчика">15 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1521503131" class="release-date">26.10.2020 20:34</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1521503131" class="release-date">26.10.2020 17:34</span>|
 
 ---
 
@@ -232,7 +232,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |~70 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1399902281" class="episodes" hashtag="toinfinity_podcast">57 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1399902281" class="release-date">16.10.2020 07:59</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1399902281" class="release-date">16.10.2020 04:59</span>|
 
 ---
 
@@ -245,7 +245,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |40-60 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1491663108" class="episodes" hashtag="esnippet">47 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1491663108" class="release-date">25.10.2020 17:48</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1491663108" class="release-date">25.10.2020 14:48</span>|
 
 ---
 
@@ -258,7 +258,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |40-100 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="523996227" class="episodes" hashtag="tpair_podcast">10 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="523996227" class="release-date">21.10.2020 17:39</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="523996227" class="release-date">27.10.2020 11:31</span>|
 
 ---
 
@@ -271,7 +271,7 @@
 |**Регулярность** |Раз в две недели|
 |**Длительность** |~40 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1492086611" class="episodes" hashtag="YandexAcademy">7 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1492086611" class="release-date">26.03.2020 13:00</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1492086611" class="release-date">26.03.2020 10:00</span>|
 
 ---
 
@@ -284,7 +284,7 @@
 |**Регулярность** |Ежемесячно|
 |**Длительность** |20-30 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1440854860" class="episodes" hashtag="galerapodcast">8 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1440854860" class="release-date">09.04.2020 11:33</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1440854860" class="release-date">09.04.2020 08:33</span>|
 
 ---
 
@@ -297,7 +297,7 @@
 |**Регулярность** |Время от времени|
 |**Длительность** |30-50 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1492765073" class="episodes" hashtag="tceh">18 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1492765073" class="release-date">21.10.2020 17:10</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1492765073" class="release-date">21.10.2020 14:10</span>|
 
 ---
 
@@ -330,7 +330,7 @@
 |**Регулярность** |Ежедневно|
 |**Длительность** |10-20 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1492900770" class="episodes" hashtag="dsuhovarov">156 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1492900770" class="release-date">24.10.2020 10:00</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1492900770" class="release-date">24.10.2020 07:00</span>|
 
 ---
 
@@ -343,7 +343,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |40-60 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="77546991" class="episodes" hashtag="uwp_podcast">21 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="77546991" class="release-date">19.10.2020 03:12</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="77546991" class="release-date">19.10.2020 00:12</span>|
 
 ---
 
@@ -356,7 +356,7 @@
 |**Регулярность** |Время от времени|
 |**Длительность** |40-70 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1448989483" class="episodes" hashtag="mcspodcast">8 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1448989483" class="release-date">05.12.2019 14:57</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1448989483" class="release-date">05.12.2019 11:57</span>|
 
 ---
 
@@ -369,7 +369,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |15-60 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1488945593" class="episodes" hashtag="ctodaily">32 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1488945593" class="release-date">22.10.2020 14:09</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1488945593" class="release-date">22.10.2020 11:09</span>|
 
 ---
 
@@ -382,7 +382,7 @@
 |**Регулярность** |Время от времени|
 |**Длительность** |25-45 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1120110650" class="episodes" hashtag="Ивент_Кухня">57 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1120110650" class="release-date">22.10.2020 06:01</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1120110650" class="release-date">22.10.2020 03:01</span>|
 
 ---
 
@@ -395,7 +395,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |~90 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="363311940" class="episodes" hashtag="rcmp_podcast">10 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="363311940" class="release-date">24.10.2020 06:50</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="363311940" class="release-date">24.10.2020 03:50</span>|
 
 ---
 
@@ -408,7 +408,7 @@
 |**Регулярность** |Время от времени|
 |**Длительность** |50-100 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1272548806" class="episodes" hashtag="kapm.club">14 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1272548806" class="release-date">22.09.2020 13:23</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1272548806" class="release-date">22.09.2020 10:23</span>|
 
 ---
 
@@ -431,7 +431,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |70-110 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1498625033" class="episodes" hashtag="kuluarnyiy">1 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1498625033" class="release-date">14.05.2020 18:44</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1498625033" class="release-date">14.05.2020 15:44</span>|
 
 ---
 
@@ -454,7 +454,7 @@
 |**Регулярность** |Время от времени|
 |**Длительность** |50-100 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1477012728" class="episodes" hashtag="luhurilarek">3 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1477012728" class="release-date">22.10.2019 10:39</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1477012728" class="release-date">22.10.2019 07:39</span>|
 
 ---
 
@@ -467,7 +467,7 @@
 |**Регулярность** |Ежемесячно|
 |**Длительность** |~80 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1395500354" class="episodes" hashtag="maclikbez">29 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1395500354" class="release-date">23.10.2020 16:23</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1395500354" class="release-date">23.10.2020 13:23</span>|
 
 ---
 
@@ -480,7 +480,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |40-120 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1489218647" class="episodes" hashtag="mamkinboycast">12 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1489218647" class="release-date">13.04.2020 23:31</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1489218647" class="release-date">13.04.2020 20:31</span>|
 
 ---
 
@@ -503,7 +503,7 @@
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |30-60 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1162673070" class="episodes" hashtag="mimpod">63 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1162673070" class="release-date">09.10.2020 12:02</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1162673070" class="release-date">09.10.2020 09:02</span>|
 
 ---
 
@@ -516,7 +516,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |~35 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1498922167" class="episodes" hashtag="Ничего_такого">10 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1498922167" class="release-date">23.04.2020 13:00</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1498922167" class="release-date">23.04.2020 10:00</span>|
 
 ---
 
@@ -529,7 +529,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |80-90 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1524851032" class="episodes" hashtag="final.doc">14 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1524851032" class="release-date">20.10.2020 23:56</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1524851032" class="release-date">20.10.2020 20:56</span>|
 
 ---
 
@@ -542,7 +542,7 @@
 |**Регулярность** |Время от времени|
 |**Длительность** |30-40 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1451758558" class="episodes" hashtag="oh.dad.podcast">38 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1451758558" class="release-date">26.10.2020 16:01</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1451758558" class="release-date">26.10.2020 13:01</span>|
 
 ---
 
@@ -567,8 +567,8 @@
 |**Ведущие**      |Михаил Марченко<br>Ольга Давыдова|
 |**Регулярность** |Время от времени|
 |**Длительность** |30-50 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="472631602" class="episodes" hashtag="it.career.ua">300 (<font color="red">-8</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="472631602" class="release-date">27.11.2019 21:33</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="472631602" class="episodes" hashtag="it.career.ua">308 (<font color="green">+8</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="472631602" class="release-date">27.11.2019 18:33</span>|
 
 ---
 
@@ -581,7 +581,7 @@
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |80-100 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1207585393" class="episodes" hashtag="slava.pasha">50 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1207585393" class="release-date">25.07.2020 14:59</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1207585393" class="release-date">25.07.2020 11:59</span>|
 
 ---
 
@@ -594,7 +594,7 @@
 |**Регулярность** |Время от времени|
 |**Длительность** |25-40 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="288705606" class="episodes" hashtag="pirates.radiot">15 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="288705606" class="release-date">03.05.2020 03:21</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="288705606" class="release-date">03.05.2020 00:21</span>|
 
 ---
 
@@ -607,7 +607,7 @@
 |**Регулярность** |Время от времени|
 |**Длительность** |45 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1500562035" class="episodes" hashtag="ИТМО">1 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1500562035" class="release-date">26.02.2020 13:10</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1500562035" class="release-date">26.02.2020 10:10</span>|
 
 ---
 
@@ -620,7 +620,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |5-10 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1497449532" class="episodes" hashtag="ilounge">60 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1497449532" class="release-date">27.07.2020 19:15</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1497449532" class="release-date">27.07.2020 16:15</span>|
 
 ---
 
@@ -633,7 +633,7 @@
 |**Регулярность** |Время от времени|
 |**Длительность** |20-40 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="271623368" class="episodes" hashtag="mobilereviewcom">1578 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="271623368" class="release-date">08.10.2020 06:00</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="271623368" class="release-date">08.10.2020 03:00</span>|
 
 ---
 
@@ -646,7 +646,7 @@
 |**Регулярность** |Несколько раз в неделю|
 |**Длительность** |20-80 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1178337792" class="episodes" hashtag="romanetua">105 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1178337792" class="release-date">20.10.2020 03:00</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1178337792" class="release-date">20.10.2020 00:00</span>|
 
 ---
 
@@ -659,7 +659,7 @@
 |**Регулярность** |Время от времени|
 |**Длительность** |60-90 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1494625132" class="episodes" hashtag="radioplatforma">8 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1494625132" class="release-date">20.08.2020 22:00</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1494625132" class="release-date">20.08.2020 19:00</span>|
 
 ---
 
@@ -672,7 +672,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |120-180 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="256504435" class="episodes" hashtag="radiot">21 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="256504435" class="release-date">25.10.2020 02:20</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="256504435" class="release-date">24.10.2020 23:20</span>|
 
 ---
 
@@ -685,7 +685,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |40-60 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="526797445" class="episodes" hashtag="radiomaorg">10 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="526797445" class="release-date">27.10.2020 20:16</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="526797445" class="release-date">18.10.2020 13:01</span>|
 
 ---
 
@@ -698,7 +698,7 @@
 |**Регулярность** |Время от времени|
 |**Длительность** |40-120 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="594292319" class="episodes" hashtag="razbor_poletov">50 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="594292319" class="release-date">22.09.2020 03:00</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="594292319" class="release-date">26.10.2020 00:00</span>|
 
 ---
 
@@ -711,7 +711,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |~10 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1524056283" class="episodes" hashtag="DataLine">8 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1524056283" class="release-date">23.10.2020 09:27</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1524056283" class="release-date">23.10.2020 06:27</span>|
 
 ---
 
@@ -723,8 +723,8 @@
 |**Ведущие**      |[Чернобаев Николай](http://nickchernobaev.com/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UC3Xbp3NcAtiq0XHOcU3QdOA)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |60-90 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1448936184" class="episodes" hashtag="madefromzero">50 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1448936184" class="release-date">27.10.2020 11:56</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1448936184" class="episodes" hashtag="madefromzero">49 (<font color="red">-1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1448936184" class="release-date">09.10.2020 13:17</span>|
 
 ---
 
@@ -737,7 +737,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |~30 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1095124477" class="episodes" hashtag="silikonovie">212 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1095124477" class="release-date">15.09.2020 14:33</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1095124477" class="release-date">15.09.2020 11:33</span>|
 
 ---
 
@@ -750,7 +750,7 @@
 |**Регулярность** |Впемя от времени|
 |**Длительность** |50-60 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1516488697" class="episodes" hashtag="moscoding">4 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1516488697" class="release-date">01.10.2020 16:21</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1516488697" class="release-date">01.10.2020 13:21</span>|
 
 ---
 
@@ -762,8 +762,8 @@
 |**Ведущие**      |Вахтанг Махарадзе|
 |**Регулярность** |Ежедневно|
 |**Длительность** |5-10 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="episodes" hashtag="strana_tranzistoriia">300 (<font color="red">-763</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="release-date">26.10.2020 14:30</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="episodes" hashtag="strana_tranzistoriia">1063 (<font color="green">+763</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="release-date">27.10.2020 11:30</span>|
 
 ---
 
@@ -776,7 +776,7 @@
 |**Регулярность** |Время от времени|
 |**Длительность** |80-90 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1466243923" class="episodes" hashtag="Сушите_вёсла">10 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1466243923" class="release-date">17.08.2020 13:06</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1466243923" class="release-date">17.08.2020 10:06</span>|
 
 ---
 
@@ -789,7 +789,7 @@
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |40-70 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1496543368" class="episodes" hashtag="sfierichieskoie_lidierstvo">13 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1496543368" class="release-date">12.10.2020 23:00</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1496543368" class="release-date">12.10.2020 20:00</span>|
 
 ---
 
@@ -802,7 +802,7 @@
 |**Регулярность** |Ежедневно|
 |**Длительность** |~10-15 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1502778082" class="episodes" hashtag="tvoydigital">15 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1502778082" class="release-date">03.06.2020 03:00</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1502778082" class="release-date">03.06.2020 00:00</span>|
 
 ---
 
@@ -815,7 +815,7 @@
 |**Регулярность** |Время от времени|
 |**Длительность** |20-60 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1013700516" class="episodes" hashtag="Технологии_и_жизнь">56 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1013700516" class="release-date">25.10.2020 08:12</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1013700516" class="release-date">25.10.2020 05:12</span>|
 
 ---
 
@@ -828,7 +828,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |~50 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="378499320" class="episodes" hashtag="tochka">21 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="378499320" class="release-date">25.10.2020 21:05</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="378499320" class="release-date">25.10.2020 18:05</span>|
 
 ---
 
@@ -841,7 +841,7 @@
 |**Регулярность** |Нескоько раз в месяц|
 |**Длительность** |20-50 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1491231589" class="episodes" hashtag="3.5">12 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1491231589" class="release-date">06.08.2020 16:19</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1491231589" class="release-date">06.08.2020 13:19</span>|
 
 ---
 
@@ -854,7 +854,7 @@
 |**Регулярность** |Раз в две недели|
 |**Длительность** |30-60 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1443781654" class="episodes" hashtag="khantflou_insight">43 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1443781654" class="release-date">07.10.2020 15:40</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1443781654" class="release-date">07.10.2020 12:40</span>|
 
 ---
 
@@ -867,7 +867,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |60-110 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1458311254" class="episodes" hashtag="znprod">83 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1458311254" class="release-date">24.10.2020 06:00</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1458311254" class="release-date">24.10.2020 03:00</span>|
 
 ---
 
@@ -880,7 +880,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |~3-4 минуты|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1459260705" class="episodes" hashtag="Цифра">145 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1459260705" class="release-date">01.07.2020 06:33</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1459260705" class="release-date">01.07.2020 03:33</span>|
 
 ---
 
@@ -893,7 +893,7 @@
 |**Регулярность** |Время от времени|
 |**Длительность** |30-70 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1473142814" class="episodes" hashtag="Циферкаст">22 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1473142814" class="release-date">09.07.2020 13:38</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1473142814" class="release-date">09.07.2020 10:38</span>|
 
 ---
 
@@ -906,7 +906,7 @@
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |50-70 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1358472061" class="episodes" hashtag="podcast38">6 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1358472061" class="release-date">29.04.2020 00:49</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1358472061" class="release-date">28.04.2020 21:49</span>|
 
 ---
 
@@ -919,7 +919,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |70-120 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="868222886" class="episodes" hashtag="beardycast">449 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="868222886" class="release-date">27.10.2020 08:00</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="868222886" class="release-date">27.10.2020 05:00</span>|
 
 ---
 
@@ -932,7 +932,7 @@
 |**Регулярность** |Не выпускается|
 |**Длительность** |40-80 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1318291521" class="episodes" hashtag="agilereactor">12 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1318291521" class="release-date">26.02.2019 23:29</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1318291521" class="release-date">26.02.2019 20:29</span>|
 
 ---
 
@@ -955,7 +955,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |5-30 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1435783387" class="episodes" hashtag="AxDigital">22 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1435783387" class="release-date">15.09.2020 20:50</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1435783387" class="release-date">15.09.2020 17:50</span>|
 
 ---
 
@@ -968,7 +968,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |30-60 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1095164631" class="episodes" hashtag="biweekly">100 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1095164631" class="release-date">12.10.2020 11:00</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1095164631" class="release-date">12.10.2020 08:00</span>|
 
 ---
 
@@ -981,7 +981,7 @@
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |~90 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1521832335" class="episodes" hashtag="caerusvoice">4 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1521832335" class="release-date">19.08.2020 21:36</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1521832335" class="release-date">19.08.2020 18:36</span>|
 
 ---
 
@@ -994,7 +994,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |20-80 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1484275234" class="episodes" hashtag="matematicxyz">50 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1484275234" class="release-date">22.10.2020 13:03</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1484275234" class="release-date">22.10.2020 10:03</span>|
 
 ---
 
@@ -1017,7 +1017,7 @@
 |**Регулярность** |Время от времени|
 |**Длительность** |40-60 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1446894920" class="episodes" hashtag="devleads">2 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1446894920" class="release-date">17.06.2019 14:33</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1446894920" class="release-date">17.06.2019 11:33</span>|
 
 ---
 
@@ -1030,7 +1030,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |120-180 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="903660317" class="episodes" hashtag="devzen_podcast">25 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="903660317" class="release-date">25.10.2020 14:49</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="903660317" class="release-date">25.10.2020 11:49</span>|
 
 ---
 
@@ -1043,7 +1043,7 @@
 |**Регулярность** |Время от времени|
 |**Длительность** |40-60 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1415692619" class="episodes" hashtag="newsroomaz">13 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1415692619" class="release-date">27.12.2019 14:49</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1415692619" class="release-date">27.12.2019 11:49</span>|
 
 ---
 
@@ -1066,7 +1066,7 @@
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |40-90 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1480344895" class="episodes" hashtag="EPICподкаст">19 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1480344895" class="release-date">31.08.2020 17:00</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1480344895" class="release-date">31.08.2020 14:00</span>|
 
 ---
 
@@ -1079,7 +1079,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |30-40 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1436711112" class="episodes" hashtag="forgeeks">61 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1436711112" class="release-date">24.10.2020 14:17</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1436711112" class="release-date">24.10.2020 11:17</span>|
 
 ---
 
@@ -1092,7 +1092,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |10-50 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1492129452" class="episodes" hashtag="futureinapps">7 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1492129452" class="release-date">10.07.2020 18:10</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1492129452" class="release-date">10.07.2020 15:10</span>|
 
 ---
 
@@ -1105,7 +1105,7 @@
 |**Регулярность** |Время от времени|
 |**Длительность** |30-80 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1489876173" class="episodes" hashtag="geekexport">9 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1489876173" class="release-date">16.09.2020 21:05</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1489876173" class="release-date">16.09.2020 18:05</span>|
 
 ---
 
@@ -1118,7 +1118,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |60-100 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1489980299" class="episodes" hashtag="generictalks">38 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1489980299" class="release-date">26.10.2020 00:26</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1489980299" class="release-date">25.10.2020 21:26</span>|
 
 ---
 
@@ -1131,7 +1131,7 @@
 |**Регулярность** |Время от времени|
 |**Длительность** |20-40 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1456143785" class="episodes" hashtag="gurovdigital">24 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1456143785" class="release-date">26.10.2020 15:14</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1456143785" class="release-date">26.10.2020 12:14</span>|
 
 ---
 
@@ -1144,7 +1144,7 @@
 |**Регулярность** |Время от времени|
 |**Длительность** |~50 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1471344454" class="episodes" hashtag="habrspecial">5 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1471344454" class="release-date">30.04.2020 16:45</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1471344454" class="release-date">30.04.2020 13:45</span>|
 
 ---
 
@@ -1157,7 +1157,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |30-50 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1464188474" class="episodes" hashtag="habrweekly">79 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1464188474" class="release-date">23.10.2020 21:39</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1464188474" class="release-date">23.10.2020 18:39</span>|
 
 ---
 
@@ -1170,7 +1170,7 @@
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |~10-30 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1469955287" class="episodes" hashtag="HiTech">15 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1469955287" class="release-date">07.07.2020 10:06</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1469955287" class="release-date">07.07.2020 07:06</span>|
 
 ---
 
@@ -1183,7 +1183,7 @@
 |**Регулярность** |Раз в две недели|
 |**Длительность** |50-80 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1484798318" class="episodes" hashtag="hottcast">11 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1484798318" class="release-date">03.09.2020 00:43</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1484798318" class="release-date">02.09.2020 21:43</span>|
 
 ---
 
@@ -1196,7 +1196,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |30-110 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1490305221" class="episodes" hashtag="itway">47 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1490305221" class="release-date">24.10.2020 15:42</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1490305221" class="release-date">24.10.2020 12:42</span>|
 
 ---
 
@@ -1209,7 +1209,7 @@
 |**Регулярность** |Время от времени|
 |**Длительность** |30-60 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1202582439" class="episodes" hashtag="itbizbroker">52 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1202582439" class="release-date">13.10.2020 12:40</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1202582439" class="release-date">13.10.2020 09:40</span>|
 
 ---
 
@@ -1232,7 +1232,7 @@
 |**Регулярность** |Раз в две недели|
 |**Длительность** |30-100 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1513329008" class="episodes" hashtag="itedu">17 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1513329008" class="release-date">24.10.2020 20:00</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1513329008" class="release-date">24.10.2020 17:00</span>|
 
 ---
 
@@ -1245,7 +1245,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |30-70 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="454929808" class="episodes" hashtag="Its_A_Good_Cast">123 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="454929808" class="release-date">23.10.2020 08:00</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="454929808" class="release-date">23.10.2020 05:00</span>|
 
 ---
 
@@ -1258,7 +1258,7 @@
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |50-90 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="567224504" class="episodes" hashtag="it_trend">108 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="567224504" class="release-date">19.10.2020 00:42</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="567224504" class="release-date">18.10.2020 21:42</span>|
 
 ---
 
@@ -1271,7 +1271,7 @@
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |30-60 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1497767124" class="episodes" hashtag="IT_cooler">14 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1497767124" class="release-date">25.10.2020 10:13</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1497767124" class="release-date">25.10.2020 07:13</span>|
 
 ---
 
@@ -1284,7 +1284,7 @@
 |**Регулярность** |Время от времени|
 |**Длительность** |30-70 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1514201729" class="episodes" hashtag="ITMO_Research">6 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1514201729" class="release-date">21.10.2020 16:58</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1514201729" class="release-date">21.10.2020 13:58</span>|
 
 ---
 
@@ -1297,7 +1297,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |50-100 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1471420521" class="episodes" hashtag="itstarts">46 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1471420521" class="release-date">06.05.2020 07:00</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1471420521" class="release-date">06.05.2020 04:00</span>|
 
 ---
 
@@ -1310,7 +1310,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |50-100 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="454929808" class="episodes" hashtag="keddr">123 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="454929808" class="release-date">23.10.2020 08:00</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="454929808" class="release-date">23.10.2020 05:00</span>|
 
 ---
 
@@ -1323,7 +1323,7 @@
 |**Регулярность** |Время от времени|
 |**Длительность** |20-40 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1449696831" class="episodes" hashtag="keybeard">17 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1449696831" class="release-date">16.01.2019 11:56</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1449696831" class="release-date">16.01.2019 08:56</span>|
 
 ---
 
@@ -1336,7 +1336,7 @@
 |**Регулярность** |Время от времени|
 |**Длительность** |20-80 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1313900856" class="episodes" hashtag="loftblog">192 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1313900856" class="release-date">26.10.2020 09:47</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1313900856" class="release-date">26.10.2020 06:47</span>|
 
 ---
 
@@ -1349,7 +1349,7 @@
 |**Регулярность** |Время от времени|
 |**Длительность** |50-90 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1478421220" class="episodes" hashtag="loving_it">7 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1478421220" class="release-date">23.06.2020 12:35</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1478421220" class="release-date">23.06.2020 09:35</span>|
 
 ---
 
@@ -1362,7 +1362,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |20-40 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1495052772" class="episodes" hashtag="Machine_Learning_Podcast">8 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1495052772" class="release-date">18.10.2020 16:56</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1495052772" class="release-date">18.10.2020 13:56</span>|
 
 ---
 
@@ -1375,7 +1375,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |40-60 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1417851966" class="episodes" hashtag="productsense">116 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1417851966" class="release-date">21.10.2020 23:59</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1417851966" class="release-date">21.10.2020 20:59</span>|
 
 ---
 
@@ -1388,7 +1388,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |40-60 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1488355094" class="episodes" hashtag="MIXR_Talks">23 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1488355094" class="release-date">25.08.2020 15:33</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1488355094" class="release-date">25.08.2020 12:33</span>|
 
 ---
 
@@ -1401,7 +1401,7 @@
 |**Регулярность** |Время от времени|
 |**Длительность** |~10 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1522737989" class="episodes" hashtag="NoCode">2 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1522737989" class="release-date">19.07.2020 09:01</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1522737989" class="release-date">19.07.2020 06:01</span>|
 
 ---
 
@@ -1414,7 +1414,7 @@
 |**Регулярность** |Ежемесячно|
 |**Длительность** |20-50 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1477741470" class="episodes" hashtag="oldhard_podcast">8 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1477741470" class="release-date">22.05.2020 03:00</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1477741470" class="release-date">22.05.2020 00:00</span>|
 
 ---
 
@@ -1427,7 +1427,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |~70 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1503693347" class="episodes" hashtag="optacast">24 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1503693347" class="release-date">23.10.2020 18:40</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1503693347" class="release-date">23.10.2020 15:40</span>|
 
 ---
 
@@ -1440,7 +1440,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |80-150 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1209828744" class="episodes" hashtag="podlodka">196 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1209828744" class="release-date">26.10.2020 14:21</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1209828744" class="release-date">26.10.2020 11:21</span>|
 
 ---
 
@@ -1453,7 +1453,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |60-100 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1455023466" class="episodes" hashtag="proconf">76 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1455023466" class="release-date">25.10.2020 15:26</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1455023466" class="release-date">25.10.2020 12:26</span>|
 
 ---
 
@@ -1466,7 +1466,7 @@
 |**Регулярность** |Раз в месяц|
 |**Длительность** |50-80 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1414821759" class="episodes" hashtag="remotetalk">19 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1414821759" class="release-date">26.10.2020 14:57</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1414821759" class="release-date">26.10.2020 11:57</span>|
 
 ---
 
@@ -1479,7 +1479,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |~10-15 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1455993703" class="episodes" hashtag="rococast">16 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1455993703" class="release-date">13.07.2020 19:05</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1455993703" class="release-date">13.07.2020 16:05</span>|
 
 ---
 
@@ -1492,7 +1492,7 @@
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |50-100 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="626208574" class="episodes" hashtag="rootcast">54 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="626208574" class="release-date">25.09.2020 14:45</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="626208574" class="release-date">25.09.2020 11:45</span>|
 
 ---
 
@@ -1505,7 +1505,7 @@
 |**Регулярность** |Время от времени|
 |**Длительность** |30-40 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1409669962" class="episodes" hashtag="runloop_podcast">18 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1409669962" class="release-date">05.09.2019 13:36</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1409669962" class="release-date">05.09.2019 10:36</span>|
 
 ---
 
@@ -1518,7 +1518,7 @@
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |~30 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1526097167" class="episodes" hashtag="RUSSKY.DIGITAL">4 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1526097167" class="release-date">28.08.2020 04:13</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1526097167" class="release-date">28.08.2020 01:13</span>|
 
 ---
 
@@ -1531,7 +1531,7 @@
 |**Регулярность** |Время от времени.|
 |**Длительность** |60-120 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="890468606" class="episodes" hashtag="sdcast">124 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="890468606" class="release-date">30.09.2020 11:07</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="890468606" class="release-date">30.09.2020 08:07</span>|
 
 ---
 
@@ -1544,7 +1544,7 @@
 |**Регулярность** |Время от времени|
 |**Длительность** |50-80 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1320623324" class="episodes" hashtag="sebrant">54 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1320623324" class="release-date">24.08.2020 02:11</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1320623324" class="release-date">23.08.2020 23:11</span>|
 
 ---
 
@@ -1557,7 +1557,7 @@
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |30-90 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1449716272" class="episodes" hashtag="SITCast">32 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1449716272" class="release-date">29.09.2020 12:57</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1449716272" class="release-date">29.09.2020 09:57</span>|
 
 ---
 
@@ -1570,7 +1570,7 @@
 |**Регулярность** |Время от времени|
 |**Длительность** |3-30 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1299464952" class="episodes" hashtag="shifuio">44 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1299464952" class="release-date">25.02.2020 16:14</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1299464952" class="release-date">25.02.2020 13:14</span>|
 
 ---
 
@@ -1593,7 +1593,7 @@
 |**Регулярность** |Несколько выпусков в месяц|
 |**Длительность** |40-120 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1046278525" class="episodes" hashtag="taoppodcast">168 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1046278525" class="release-date">23.10.2020 17:06</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1046278525" class="release-date">23.10.2020 14:06</span>|
 
 ---
 
@@ -1616,7 +1616,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |~60 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1532456326" class="episodes" hashtag="TypeSafeTalks">2 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1532456326" class="release-date">27.09.2020 20:09</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1532456326" class="release-date">27.09.2020 17:09</span>|
 
 ---
 
@@ -1629,7 +1629,7 @@
 |**Регулярность** |Время от времени|
 |**Длительность** |15-100 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1195781986" class="episodes" hashtag="wikitiles">7 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1195781986" class="release-date">27.10.2019 21:58</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1195781986" class="release-date">27.10.2019 18:58</span>|
 
 ---
 
@@ -1642,7 +1642,7 @@
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |120-150 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1068329384" class="episodes" hashtag="zavtracast">245 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1068329384" class="release-date">24.10.2020 19:19</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1068329384" class="release-date">24.10.2020 16:19</span>|
 
 </details>
 
@@ -1659,7 +1659,7 @@
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |80-100 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1491971308" class="episodes" hashtag="Герои_Digital">9 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1491971308" class="release-date">26.11.2019 18:54</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1491971308" class="release-date">26.11.2019 15:54</span>|
 
 ---
 
@@ -1672,7 +1672,7 @@
 |**Регулярность** |Время от времени|
 |**Длительность** |40-60 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1445736032" class="episodes" hashtag="design_takoy">29 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1445736032" class="release-date">13.10.2020 20:31</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1445736032" class="release-date">13.10.2020 17:31</span>|
 
 </details>
 
@@ -1689,7 +1689,7 @@
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |50-60 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1512015984" class="episodes" hashtag="javahut">7 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1512015984" class="release-date">22.10.2020 13:56</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1512015984" class="release-date">22.10.2020 10:56</span>|
 
 ---
 
@@ -1702,7 +1702,7 @@
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |30-120 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1498075914" class="episodes" hashtag="javaswag">15 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1498075914" class="release-date">15.10.2020 18:55</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1498075914" class="release-date">15.10.2020 15:55</span>|
 
 ---
 
@@ -1715,7 +1715,7 @@
 |**Регулярность** |Время от времени|
 |**Длительность** |90-140 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1501041559" class="episodes" hashtag="z_namespace">10 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1501041559" class="release-date">25.10.2020 21:29</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1501041559" class="release-date">25.10.2020 18:29</span>|
 
 <details open="open"><summary><a name="podcasts-development-dotnet"></a><b>&nbsp;&nbsp;&nbsp;&nbsp;.NET</b></summary><br>
 
@@ -1740,7 +1740,7 @@
 |**Регулярность** |1-4 раза в месяц|
 |**Длительность** |40-120 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1448111173" class="episodes" hashtag="dotnetmore">40 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1448111173" class="release-date">15.10.2020 22:26</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1448111173" class="release-date">15.10.2020 19:26</span>|
 
 ---
 
@@ -1753,7 +1753,7 @@
 |**Регулярность** |Время от времени|
 |**Длительность** |50-80 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1484348948" class="episodes" hashtag="radiodotnet">16 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1484348948" class="release-date">20.10.2020 10:10</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1484348948" class="release-date">20.10.2020 07:10</span>|
 
 ---
 
@@ -1766,7 +1766,7 @@
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |30-70 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="730081104" class="episodes" hashtag="soloonnet">63 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="730081104" class="release-date">17.12.2019 14:31</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="730081104" class="release-date">17.12.2019 11:31</span>|
 
 </details>
 
@@ -1783,7 +1783,7 @@
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |~50 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1501691253" class="episodes" hashtag="Между_Скобок">11 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1501691253" class="release-date">30.09.2020 11:47</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1501691253" class="release-date">30.09.2020 08:47</span>|
 
 ---
 
@@ -1796,7 +1796,7 @@
 |**Регулярность** |Время от времени|
 |**Длительность** |5-70 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="996423650" class="episodes" hashtag="5minphp">84 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="996423650" class="release-date">07.08.2020 03:00</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="996423650" class="release-date">07.08.2020 00:00</span>|
 
 </details>
 
@@ -1813,7 +1813,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |30-60 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1429543935" class="episodes" hashtag="moscowpython">89 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1429543935" class="release-date">20.10.2020 10:16</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1429543935" class="release-date">20.10.2020 07:16</span>|
 
 </details>
 
@@ -1830,7 +1830,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |20-60 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="597248066" class="episodes" hashtag="rwpod">50 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="597248066" class="release-date">19.10.2020 00:00</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="597248066" class="release-date">25.10.2020 22:00</span>|
 
 </details>
 
@@ -1847,7 +1847,7 @@
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** ||
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1156356598" class="episodes" hashtag="ScalalazPodcast">91 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1156356598" class="release-date">29.09.2020 03:00</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1156356598" class="release-date">29.09.2020 00:00</span>|
 
 </details>
 
@@ -1864,7 +1864,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |40-90 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1080500016" class="episodes" hashtag="webstandards_ru">253 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1080500016" class="release-date">27.10.2020 03:00</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1080500016" class="release-date">27.10.2020 00:00</span>|
 
 ---
 
@@ -1877,7 +1877,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |20-50 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1226773343" class="episodes" hashtag="devschacht">125 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1226773343" class="release-date">24.03.2020 14:44</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1226773343" class="release-date">24.03.2020 11:44</span>|
 
 ---
 
@@ -1890,7 +1890,7 @@
 |**Регулярность** |Время от времени|
 |**Длительность** |5-40 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1178897992" class="episodes" hashtag="5minreact">65 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1178897992" class="release-date">31.05.2020 03:00</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1178897992" class="release-date">31.05.2020 00:00</span>|
 
 ---
 
@@ -1903,7 +1903,7 @@
 |**Регулярность** |Ежемесячно|
 |**Длительность** |20-60 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1454000225" class="episodes" hashtag="itcase_pro">4 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1454000225" class="release-date">15.04.2020 12:29</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1454000225" class="release-date">15.04.2020 09:29</span>|
 
 ---
 
@@ -1916,7 +1916,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |45-80 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1447645563" class="episodes" hashtag="frontsexy">43 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1447645563" class="release-date">25.10.2020 15:07</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1447645563" class="release-date">25.10.2020 12:07</span>|
 
 ---
 
@@ -1929,7 +1929,7 @@
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |80-150 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="923355344" class="episodes" hashtag="uwebdesign">232 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="923355344" class="release-date">17.10.2020 20:04</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="923355344" class="release-date">17.10.2020 17:04</span>|
 
 ---
 
@@ -1942,7 +1942,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |60-120 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1247192730" class="episodes" hashtag="frontend_u">172 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1247192730" class="release-date">20.10.2020 16:07</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1247192730" class="release-date">20.10.2020 13:07</span>|
 
 ---
 
@@ -1954,7 +1954,7 @@
 |**Ведущие**      |Андрей Смирнов [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/sandark7/)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |40-70 минут|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1233996390" class="release-date">18.03.2020 20:05</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1233996390" class="release-date">18.03.2020 17:05</span>|
 
 ---
 
@@ -1977,7 +1977,7 @@
 |**Регулярность** |Время от времени|
 |**Длительность** |50-80 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1269128794" class="episodes" hashtag="spb_frontend">32 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1269128794" class="release-date">15.11.2019 03:00</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1269128794" class="release-date">15.11.2019 00:00</span>|
 
 ---
 
@@ -1990,7 +1990,7 @@
 |**Регулярность** |Время от времени|
 |**Длительность** |~10 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1499128651" class="episodes" hashtag="undefinedpodcast">21 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1499128651" class="release-date">21.10.2020 12:00</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1499128651" class="release-date">21.10.2020 09:00</span>|
 
 ---
 
@@ -2003,7 +2003,7 @@
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |40-70 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1475405773" class="episodes" hashtag="underjs">26 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1475405773" class="release-date">01.10.2020 10:00</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1475405773" class="release-date">01.10.2020 07:00</span>|
 
 </details>
 
@@ -2020,7 +2020,7 @@
 |**Регулярность** |Время от времени|
 |**Длительность** |~60 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1481440666" class="episodes" hashtag="appbooster">8 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1481440666" class="release-date">04.08.2020 03:00</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1481440666" class="release-date">04.08.2020 00:00</span>|
 
 ---
 
@@ -2043,7 +2043,7 @@
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |~60 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1454777453" class="episodes" hashtag="appscast">23 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1454777453" class="release-date">10.08.2020 11:29</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1454777453" class="release-date">10.08.2020 08:29</span>|
 
 ---
 
@@ -2056,7 +2056,7 @@
 |**Регулярность** |Время от времени|
 |**Длительность** |40-50 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="908041901" class="episodes" hashtag="apptractor">58 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="908041901" class="release-date">25.06.2018 10:44</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="908041901" class="release-date">25.06.2018 07:44</span>|
 
 ---
 
@@ -2068,8 +2068,8 @@
 |**Ведущие**      |Евгений Сатуров [![GitHub](img/favicons/github.com.png)](https://github.com/saturov)<br>Артём Зайцев|
 |**Регулярность** |Ежемесячно|
 |**Длительность** |40-80 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1451068853" class="episodes" hashtag="flutterdevpodcast">22 (<font color="green">+1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1451068853" class="release-date">27.10.2020 22:55</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1451068853" class="episodes" hashtag="flutterdevpodcast">21 (<font color="red">-1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1451068853" class="release-date">20.09.2020 13:31</span>|
 
 ---
 
@@ -2082,7 +2082,7 @@
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |40-60 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1457942497" class="episodes" hashtag="mobilepeopletalks">28 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1457942497" class="release-date">12.10.2020 10:28</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1457942497" class="release-date">12.10.2020 07:28</span>|
 
 <details open="open"><summary><a name="podcasts-development-mobile-android"></a><b>&nbsp;&nbsp;&nbsp;&nbsp;Android</b></summary><br>
 
@@ -2097,7 +2097,7 @@
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |50-80 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1492425305" class="episodes" hashtag="andro_broadcast">32 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1492425305" class="release-date">10.10.2020 09:06</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1492425305" class="release-date">10.10.2020 06:06</span>|
 
 ---
 
@@ -2110,7 +2110,7 @@
 |**Регулярность** |Время от времени|
 |**Длительность** |50-140 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1076856310" class="episodes" hashtag="androiddevpodcast">112 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1076856310" class="release-date">14.08.2020 10:14</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1076856310" class="release-date">14.08.2020 07:14</span>|
 
 ---
 
@@ -2123,7 +2123,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |~20 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1057019371" class="episodes" hashtag="droidercast">99 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1057019371" class="release-date">26.10.2020 13:03</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1057019371" class="release-date">26.10.2020 10:03</span>|
 
 </details>
 
@@ -2142,7 +2142,7 @@
 |**Регулярность** |Несколько раз в неделю|
 |**Длительность** |20-40 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1501014784" class="episodes" hashtag="biggames">17 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1501014784" class="release-date">02.06.2020 17:13</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1501014784" class="release-date">02.06.2020 14:13</span>|
 
 ---
 
@@ -2155,7 +2155,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |20-50 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1521240754" class="episodes" hashtag="Геймдев_без_сахара">17 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1521240754" class="release-date">22.10.2020 12:30</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1521240754" class="release-date">22.10.2020 09:30</span>|
 
 ---
 
@@ -2168,7 +2168,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |40-60 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1512641542" class="episodes" hashtag="gamedev_konura">15 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1512641542" class="release-date">18.10.2020 08:20</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1512641542" class="release-date">18.10.2020 05:20</span>|
 
 ---
 
@@ -2181,7 +2181,7 @@
 |**Регулярность** |Раз в две недели|
 |**Длительность** |40-60 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1413689117" class="episodes" hashtag="zhiza_gd">57 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1413689117" class="release-date">19.10.2020 13:39</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1413689117" class="release-date">19.10.2020 10:39</span>|
 
 ---
 
@@ -2194,7 +2194,7 @@
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |30-60 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1438708331" class="episodes" hashtag="grzhr">61 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1438708331" class="release-date">15.10.2020 19:53</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1438708331" class="release-date">15.10.2020 16:53</span>|
 
 ---
 
@@ -2207,7 +2207,7 @@
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |80-120 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="560881209" class="episodes" hashtag="kdicast">298 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="560881209" class="release-date">25.10.2020 17:33</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="560881209" class="release-date">25.10.2020 14:33</span>|
 
 ---
 
@@ -2220,7 +2220,7 @@
 |**Регулярность** |Время от времени|
 |**Длительность** |40-80 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1271152416" class="episodes" hashtag="indiekitchen">36 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1271152416" class="release-date">18.07.2020 18:00</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1271152416" class="release-date">18.07.2020 15:00</span>|
 
 ---
 
@@ -2233,7 +2233,7 @@
 |**Регулярность** |Время от времени|
 |**Длительность** |50-110 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1501746913" class="episodes" hashtag="nasha_igra">8 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1501746913" class="release-date">14.05.2020 14:21</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1501746913" class="release-date">14.05.2020 11:21</span>|
 
 ---
 
@@ -2246,7 +2246,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |60-100 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1488527416" class="episodes" hashtag="pilimtrem">40 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1488527416" class="release-date">24.10.2020 18:01</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1488527416" class="release-date">24.10.2020 15:01</span>|
 
 ---
 
@@ -2259,7 +2259,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |80-120 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1506185868" class="episodes" hashtag="xyz">26 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1506185868" class="release-date">26.10.2020 15:26</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1506185868" class="release-date">26.10.2020 12:26</span>|
 
 ---
 
@@ -2272,7 +2272,7 @@
 |**Регулярность** |Не выпускается|
 |**Длительность** |80-100 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1008699731" class="episodes" hashtag="Подпольный_геймдизайн">13 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1008699731" class="release-date">22.09.2016 15:44</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1008699731" class="release-date">22.09.2016 12:44</span>|
 
 ---
 
@@ -2285,7 +2285,7 @@
 |**Регулярность** |Время от времени|
 |**Длительность** |60-80 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1456769476" class="episodes" hashtag="GamesPsychology">6 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1456769476" class="release-date">01.05.2020 12:09</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1456769476" class="release-date">01.05.2020 09:09</span>|
 
 ---
 
@@ -2308,7 +2308,7 @@
 |**Регулярность** |Раз в три недели (по средам)|
 |**Длительность** |40-50 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1490959979" class="episodes" hashtag="hvgamedev">15 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1490959979" class="release-date">07.10.2020 17:23</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1490959979" class="release-date">07.10.2020 14:23</span>|
 
 ---
 
@@ -2321,7 +2321,7 @@
 |**Регулярность** |Периодически|
 |**Длительность** |20-60 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1473930288" class="episodes" hashtag="dtf">18 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1473930288" class="release-date">15.08.2019 00:30</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1473930288" class="release-date">14.08.2019 21:30</span>|
 
 ---
 
@@ -2344,7 +2344,7 @@
 |**Регулярность** |Не выпускается|
 |**Длительность** |~60 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1400069457" class="episodes" hashtag="radiogd">2 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1400069457" class="release-date">16.06.2019 17:48</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1400069457" class="release-date">16.06.2019 14:48</span>|
 
 ---
 
@@ -2357,7 +2357,7 @@
 |**Регулярность** |Ежемесячно|
 |**Длительность** |30-60 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1457864181" class="episodes" hashtag="thebatya_talk">36 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1457864181" class="release-date">19.10.2020 18:50</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1457864181" class="release-date">19.10.2020 15:50</span>|
 
 </details>
 
@@ -2376,7 +2376,7 @@
 |**Регулярность** |Время от времени|
 |**Длительность** |50-120 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1021236121" class="episodes" hashtag="radio_qa">72 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1021236121" class="release-date">04.08.2020 00:38</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1021236121" class="release-date">03.08.2020 21:38</span>|
 
 ---
 
@@ -2389,7 +2389,7 @@
 |**Регулярность** |Время от времени|
 |**Длительность** |80-110 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1350668092" class="episodes" hashtag="qaguild">55 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1350668092" class="release-date">12.10.2020 08:07</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1350668092" class="release-date">12.10.2020 05:07</span>|
 
 </details>
 
@@ -2406,7 +2406,7 @@
 |**Регулярность** |Время от времени|
 |**Длительность** |~30 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1492565320" class="episodes" hashtag="Большая_Дата">11 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1492565320" class="release-date">28.09.2020 16:33</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1492565320" class="release-date">28.09.2020 13:33</span>|
 
 </details>
 
@@ -2423,7 +2423,7 @@
 |**Регулярность** |Время от времени|
 |**Длительность** |50-90 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="670175970" class="episodes" hashtag="devops_deflope">53 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="670175970" class="release-date">02.06.2020 16:45</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="670175970" class="release-date">02.06.2020 13:45</span>|
 
 ---
 
@@ -2436,7 +2436,7 @@
 |**Регулярность** |Раз в две недели|
 |**Длительность** |80-120 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1502639464" class="episodes" hashtag="devopskitchentalks">14 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1502639464" class="release-date">20.10.2020 17:50</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1502639464" class="release-date">20.10.2020 14:50</span>|
 
 </details>
 
