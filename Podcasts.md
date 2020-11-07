@@ -35,7 +35,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">06.11.2020 20:03</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">07.11.2020 08:03</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -395,7 +395,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |~90 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="363311940" class="episodes" hashtag="rcmp_podcast">10 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="363311940" class="release-date">31.10.2020 04:30</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="363311940" class="release-date">07.11.2020 04:26</span>|
 
 ---
 
@@ -710,7 +710,7 @@
 |**Ведущие**      |Кирилл Шадский|
 |**Регулярность** |Еженедельно|
 |**Длительность** |~10 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1524056283" class="episodes" hashtag="DataLine">9 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1524056283" class="episodes" hashtag="DataLine">9 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1524056283" class="release-date">06.11.2020 13:16</span>|
 
 ---
@@ -1915,8 +1915,8 @@
 |**Ведущие**      |[Денис Бугарчев](https://begebot.livejournal.com/)<br>Михаил Коцийевский [![GitHub](img/favicons/github.com.png)](https://github.com/maxvektor)<br>[Пётр Ермишкин](https://quasiyoke.me) [![GitHub](img/favicons/github.com.png)](https://github.com/quasiyoke)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |45-80 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1447645563" class="episodes" hashtag="frontsexy">44 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1447645563" class="release-date">01.11.2020 19:35</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1447645563" class="episodes" hashtag="frontsexy">45 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1447645563" class="release-date">07.11.2020 01:09</span>|
 
 ---
 
