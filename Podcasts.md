@@ -1356,7 +1356,7 @@
 |Название         |Machine Learning Podcast|
 |:----------------|:-----------------------|
 |**Логотип**      |<span itunes-id="1495052772" class="itunes-img"><img height="100" width="100" src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/d8/65/24/d865241b-aa6a-c249-c1e8-266549f68cdb/mza_9437427861064767076.jpg/600x600bb.jpg"></span>|
-|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/machine-learning-podcast/id1495052772) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/9781458)|
+|**Ссылки**       |[![Anchor](img/favicons/anchor.fm.png)](https://anchor.fm/kmsrus) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/machine-learning-podcast/id1495052772) • [![Telegram](img/favicons/t.me.png)](https://t.me/toBeAnMLspecialist) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/9781458)|
 |**Описание**     |Это подкаст о машинном обучении от неспециалиста для неспециалистов. Буду рассказывать о развитии индустрии, проводить ликбез, объяснять терминологию и профессиональные жаргонизмы. Я сам не так давно начал погружаться в эту тему и по мере своего развития буду делиться своим пониманием этой интересной и перспективной области знаний.|
 |**Ведущие**      |Михаил|
 |**Регулярность** |Еженедельно|
