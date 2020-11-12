@@ -35,7 +35,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">12.11.2020 12:03</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">12.11.2020 16:03</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -231,8 +231,8 @@
 |**Ведущие**      |Сергей Козырев [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/taksebe/)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |~70 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1399902281" class="episodes" hashtag="toinfinity_podcast">58 (<font color="red">-1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1399902281" class="release-date">29.10.2020 07:51</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1399902281" class="episodes" hashtag="toinfinity_podcast">59 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1399902281" class="release-date">11.11.2020 10:54</span>|
 
 ---
 
@@ -395,7 +395,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |~90 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="363311940" class="episodes" hashtag="rcmp_podcast">10 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="363311940" class="release-date">11.11.2020 12:44</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="363311940" class="release-date">12.11.2020 12:22</span>|
 
 ---
 
@@ -645,7 +645,7 @@
 |**Ведущие**      |Роман Рыбальченко|
 |**Регулярность** |Несколько раз в неделю|
 |**Длительность** |20-80 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1178337792" class="episodes" hashtag="romanetua">106 (<font color="green">+2</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1178337792" class="episodes" hashtag="romanetua">106 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1178337792" class="release-date">03.11.2020 03:00</span>|
 
 ---
@@ -762,8 +762,8 @@
 |**Ведущие**      |Вахтанг Махарадзе|
 |**Регулярность** |Ежедневно|
 |**Длительность** |5-10 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="episodes" hashtag="strana_tranzistoriia">1070 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="release-date">10.11.2020 14:30</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="episodes" hashtag="strana_tranzistoriia">1071 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="release-date">12.11.2020 14:30</span>|
 
 ---
 
@@ -918,8 +918,8 @@
 |**Ведущие**      |Андрей Барышников [![GitHub](img/favicons/github.com.png)](https://github.com/BilberryMuffin)<br>Сергей Епихин<br>Антон Поздняков|
 |**Регулярность** |Еженедельно|
 |**Длительность** |70-120 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="868222886" class="episodes" hashtag="beardycast">451 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="868222886" class="release-date">06.11.2020 12:00</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="868222886" class="episodes" hashtag="beardycast">452 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="868222886" class="release-date">11.11.2020 01:15</span>|
 
 ---
 
@@ -993,8 +993,8 @@
 |**Ведущие**      ||
 |**Регулярность** |Еженедельно|
 |**Длительность** |20-80 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1484275234" class="episodes" hashtag="matematicxyz">52 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1484275234" class="release-date">05.11.2020 12:01</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1484275234" class="episodes" hashtag="matematicxyz">53 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1484275234" class="release-date">12.11.2020 13:49</span>|
 
 ---
 
@@ -1169,7 +1169,7 @@
 |**Ведущие**      ||
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |~10-30 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1469955287" class="episodes" hashtag="HiTech">16 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1469955287" class="episodes" hashtag="HiTech">16 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1469955287" class="release-date">11.11.2020 15:10</span>|
 
 ---
@@ -1231,8 +1231,8 @@
 |**Ведущие**      |Старинин Андрей [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/AnSt/)|
 |**Регулярность** |Раз в две недели|
 |**Длительность** |30-100 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1513329008" class="episodes" hashtag="itedu">17 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1513329008" class="release-date">24.10.2020 20:00</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1513329008" class="episodes" hashtag="itedu">18 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1513329008" class="release-date">31.10.2020 20:00</span>|
 
 ---
 
@@ -1244,7 +1244,7 @@
 |**Ведущие**      |Александр Ляпота|
 |**Регулярность** |Еженедельно|
 |**Длительность** |30-70 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="454929808" class="episodes" hashtag="Its_A_Good_Cast">125 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="454929808" class="episodes" hashtag="Its_A_Good_Cast">125 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="454929808" class="release-date">11.11.2020 10:00</span>|
 
 ---
@@ -1309,7 +1309,7 @@
 |**Ведущие**      ||
 |**Регулярность** |Еженедельно|
 |**Длительность** |50-100 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="454929808" class="episodes" hashtag="keddr">125 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="454929808" class="episodes" hashtag="keddr">125 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="454929808" class="release-date">11.11.2020 10:00</span>|
 
 ---
@@ -1426,7 +1426,7 @@
 |**Ведущие**      |Андрей Радионов|
 |**Регулярность** |Еженедельно|
 |**Длительность** |~70 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1503693347" class="episodes" hashtag="optacast">27 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1503693347" class="episodes" hashtag="optacast">27 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1503693347" class="release-date">12.11.2020 00:43</span>|
 
 ---
@@ -1941,7 +1941,7 @@
 |**Ведущие**      ||
 |**Регулярность** |Еженедельно|
 |**Длительность** |60-120 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1247192730" class="episodes" hashtag="frontend_u">174 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1247192730" class="episodes" hashtag="frontend_u">174 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1247192730" class="release-date">12.11.2020 00:13</span>|
 
 ---
@@ -1989,7 +1989,7 @@
 |**Ведущие**      |Елена<br>Филипп|
 |**Регулярность** |Время от времени|
 |**Длительность** |~10 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1499128651" class="episodes" hashtag="undefinedpodcast">22 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1499128651" class="episodes" hashtag="undefinedpodcast">22 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1499128651" class="release-date">11.11.2020 12:00</span>|
 
 ---
