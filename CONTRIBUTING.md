@@ -52,8 +52,8 @@ http://favicon.yandex.net/favicon/<ссылка_на_ресурс>
 
 * В файле `README.md` при добавлении **Блога** необходимо придерживаться тех же правил, что и для **Подкастов**. В качестве шаблона заполняемой таблицы можно взять:
 
-|Название|Описание|Автор/Создатель|
-|:-------|:-------|:--------------|
+|Название|Описание|Автор/Создатель/Ссылки|
+|:-------|:-------|:---------------------|
 |**[]()**<br>[![RSS](img/favicons/rss.png)]()||<Имя_Фамилия_или_никнейм> [![MVP](img/favicons/mvp.microsoft.com.png)]() [![GitHub](img/favicons/github.com.png)]() [![Habr](img/favicons/habr.com.png)]() [![Medium](img/favicons/medium.com.png)]() [![dev.to](img/favicons/dev.to.png)]() [![YouTube](img/favicons/youtube.com.png)]()|
 
 ---
