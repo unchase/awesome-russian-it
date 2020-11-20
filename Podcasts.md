@@ -35,7 +35,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">20.11.2020 08:03</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">20.11.2020 12:03</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -166,8 +166,8 @@
 |**Ведущие**      |Лекс АйТиБорода [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/lex_kar/)|
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |20-120 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1449804780" class="episodes" hashtag="itbeard">123 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1449804780" class="release-date">05.11.2020 13:57</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1449804780" class="episodes" hashtag="itbeard">124 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1449804780" class="release-date">20.11.2020 10:00</span>|
 
 ---
 
@@ -330,7 +330,7 @@
 |**Регулярность** |Ежедневно|
 |**Длительность** |10-20 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1492900770" class="episodes" hashtag="dsuhovarov">165 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1492900770" class="release-date">18.11.2020 11:00</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1492900770" class="release-date">20.11.2020 11:00</span>|
 
 ---
 
@@ -814,7 +814,7 @@
 |**Ведущие**      |Дмитрий Здоров<br>Василий Мязин|
 |**Регулярность** |Время от времени|
 |**Длительность** |20-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1013700516" class="episodes" hashtag="Технологии_и_жизнь">60 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1013700516" class="episodes" hashtag="Технологии_и_жизнь">60 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1013700516" class="release-date">19.11.2020 08:12</span>|
 
 ---
@@ -1042,8 +1042,8 @@
 |**Ведущие**      |Анастасия Жбанова|
 |**Регулярность** |Время от времени|
 |**Длительность** |40-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1415692619" class="episodes" hashtag="newsroomaz">14 (<font color="green">+1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1415692619" class="release-date">19.11.2020 19:23</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1415692619" class="episodes" hashtag="newsroomaz">13 (<font color="red">-1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1415692619" class="release-date">27.12.2019 14:49</span>|
 
 ---
 
@@ -1283,7 +1283,7 @@
 |**Ведущие**      |Дмитрий Кабанов|
 |**Регулярность** |Время от времени|
 |**Длительность** |30-70 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1514201729" class="episodes" hashtag="ITMO_Research">7 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1514201729" class="episodes" hashtag="ITMO_Research">7 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1514201729" class="release-date">19.11.2020 16:15</span>|
 
 ---
