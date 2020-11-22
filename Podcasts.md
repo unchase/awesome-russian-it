@@ -35,7 +35,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">22.11.2020 08:03</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">22.11.2020 12:04</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -528,8 +528,8 @@
 |**Ведущие**      |Паша Финкельштейн [![GitHub](img/favicons/github.com.png)](https://github.com/asm0dey)<br>Слава Артемьев [![GitHub](img/favicons/github.com.png)](https://github.com/viartemev)<br>Барух Садогурский [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/jbaruch/) [![Medium](img/favicons/medium.com.png)](https://medium.com/@jbaruch) [![dev.to](img/favicons/dev.to.png)](https://dev.to/jbaruch) [![GitHub](img/favicons/github.com.png)](https://github.com/jbaruch)<br>Игорь Мосягин [![GitHub](img/favicons/github.com.png)](https://github.com/shrimpsizemoose)<br>Саша Коэн [![GitHub](img/favicons/github.com.png)](https://github.com/alvcohen)<br>Владимир Иванов [![GitHub](img/favicons/github.com.png)](https://github.com/vlivanov)<br>Виктор Вербицкий [![GitHub](img/favicons/github.com.png)](https://github.com/vektory79)<br>Дарья Пронина [![GitHub](img/favicons/github.com.png)](https://github.com/Daryaggg)<br>Ольга Макасоева [![GitHub](img/favicons/github.com.png)](https://github.com/oli-kitty)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |80-90 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1524851032" class="episodes" hashtag="final.doc">17 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1524851032" class="release-date">13.11.2020 22:25</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1524851032" class="episodes" hashtag="final.doc">18 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1524851032" class="release-date">21.11.2020 22:25</span>|
 
 ---
 
@@ -954,7 +954,7 @@
 |**Ведущие**      |[Алексей Махметхажиев](https://ax.digital/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/user/alekseyleonidovich/)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |5-30 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1435783387" class="episodes" hashtag="AxDigital">24 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1435783387" class="episodes" hashtag="AxDigital">24 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1435783387" class="release-date">21.11.2020 23:34</span>|
 
 ---
@@ -1915,7 +1915,7 @@
 |**Ведущие**      |[Денис Бугарчев](https://begebot.livejournal.com/)<br>Михаил Коцийевский [![GitHub](img/favicons/github.com.png)](https://github.com/maxvektor)<br>[Пётр Ермишкин](https://quasiyoke.me) [![GitHub](img/favicons/github.com.png)](https://github.com/quasiyoke)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |45-80 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1447645563" class="episodes" hashtag="frontsexy">47 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1447645563" class="episodes" hashtag="frontsexy">47 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1447645563" class="release-date">21.11.2020 16:24</span>|
 
 ---
@@ -2258,7 +2258,7 @@
 |**Ведущие**      |Дмитрий Борисов<br>Артемий Леонов|
 |**Регулярность** |Еженедельно|
 |**Длительность** |80-120 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1506185868" class="episodes" hashtag="xyz">30 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1506185868" class="episodes" hashtag="xyz">30 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1506185868" class="release-date">21.11.2020 14:41</span>|
 
 ---
