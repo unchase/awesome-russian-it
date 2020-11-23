@@ -35,7 +35,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">23.11.2020 16:03</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">23.11.2020 20:03</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -762,8 +762,8 @@
 |**Ведущие**      |Вахтанг Махарадзе|
 |**Регулярность** |Ежедневно|
 |**Длительность** |5-10 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="episodes" hashtag="strana_tranzistoriia">1075 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="release-date">19.11.2020 14:30</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="episodes" hashtag="strana_tranzistoriia">1076 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="release-date">23.11.2020 14:30</span>|
 
 ---
 
@@ -1117,8 +1117,8 @@
 |**Ведущие**      |[Олег Ковалев](https://olegk.dev/) [![GitHub](img/favicons/github.com.png)](https://github.com/cristaloleg)<br>Богдан Сторожук [![GitHub](img/favicons/github.com.png)](https://github.com/storozhukBM)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |60-100 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1489980299" class="episodes" hashtag="generictalks">41 (<font color="red">-1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1489980299" class="release-date">16.11.2020 00:20</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1489980299" class="episodes" hashtag="generictalks">42 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1489980299" class="release-date">23.11.2020 02:14</span>|
 
 ---
 
@@ -1270,8 +1270,8 @@
 |**Ведущие**      |Ксюша Галайда<br>Миша Серова|
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |30-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1497767124" class="episodes" hashtag="IT_cooler">15 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1497767124" class="release-date">08.11.2020 22:54</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1497767124" class="episodes" hashtag="IT_cooler">16 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1497767124" class="release-date">23.11.2020 16:41</span>|
 
 ---
 
@@ -1941,8 +1941,8 @@
 |**Ведущие**      ||
 |**Регулярность** |Еженедельно|
 |**Длительность** |60-120 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1247192730" class="episodes" hashtag="frontend_u">175 (<font color="red">-1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1247192730" class="release-date">16.11.2020 11:02</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1247192730" class="episodes" hashtag="frontend_u">176 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1247192730" class="release-date">22.11.2020 19:53</span>|
 
 ---
 
@@ -2068,8 +2068,8 @@
 |**Ведущие**      |Евгений Сатуров [![GitHub](img/favicons/github.com.png)](https://github.com/saturov)<br>Артём Зайцев|
 |**Регулярность** |Ежемесячно|
 |**Длительность** |40-80 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1451068853" class="episodes" hashtag="flutterdevpodcast">22 (<font color="red">-1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1451068853" class="release-date">27.10.2020 22:55</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1451068853" class="episodes" hashtag="flutterdevpodcast">23 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1451068853" class="release-date">22.11.2020 12:23</span>|
 
 ---
 
@@ -2180,8 +2180,8 @@
 |**Ведущие**      |Владимир Красильников<br>Анатолий Шестов<br>Никита Гук [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/azazelis/)|
 |**Регулярность** |Раз в две недели|
 |**Длительность** |40-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1413689117" class="episodes" hashtag="zhiza_gd">60 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1413689117" class="release-date">16.11.2020 10:33</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1413689117" class="episodes" hashtag="zhiza_gd">61 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1413689117" class="release-date">23.11.2020 11:46</span>|
 
 ---
 
@@ -2206,7 +2206,7 @@
 |**Ведущие**      |[Сергей Галёнкин](http://galyonkin.com/) [![Medium](img/favicons/medium.com.png)](http://medium.com/@galyonkin)<br>[Михаил Кузьмин](http://kuzmitch.ru/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UChwapc7GYZZ3k4zTxp6B66Q)|
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |80-120 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="560881209" class="episodes" hashtag="kdicast">302 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="560881209" class="episodes" hashtag="kdicast">302 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="560881209" class="release-date">20.11.2020 15:36</span>|
 
 ---
