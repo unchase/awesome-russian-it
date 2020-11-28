@@ -1881,6 +1881,19 @@
 
 ---
 
+|Название         |[ПроUI5](https://proui5.ru/)|
+|:----------------|:---------------------------|
+|**Логотип**      |<span itunes-id="1531586151" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/проui5/id1531586151) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cDovL3Jzcy5jYXN0Ym94LmZtL2V2ZXJlc3QvMWJjYzI5ZjdjYTkwNDI4Yzg3NmUzZDc1NTAwMTg0YzEueG1s) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/proui5/) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/id3284055?country=ru) • [![Telegram](img/favicons/t.me.png)](https://t.me/proui5_chan) • [![GitHub](img/favicons/github.com.png)](https://github.com/oisee/proui5) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/12115451) • [![RSS](img/favicons/rss.png)](http://rss.castbox.fm/everest/1bcc29f7ca90428c876e3d75500184c1.xml)|
+|**Описание**     |Первый русскоязычный подкаст о UI5 и фронтенд-разработке в мире SAP.|
+|**Ведущие**      |Илья Виноградов [![GitHub](img/favicons/github.com.png)](https://github.com/oisee)<br>Ефим Паршин<br>Сергей Никитин [![GitHub](img/favicons/github.com.png)](https://github.com/snikitin-me)|
+|**Регулярность** |Ежемесячно|
+|**Длительность** |70-100 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1531586151" class="episodes" hashtag="UI5"></span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1531586151" class="release-date"></span>|
+
+---
+
 |Название         |[Пятиминутка React](https://5minreact.ru/)|
 |:----------------|:-----------------------------------------|
 |**Логотип**      |<span itunes-id="1178897992" class="itunes-img"><img height="100" width="100" src="https://is2-ssl.mzstatic.com/image/thumb/Podcasts123/v4/a3/d6/1f/a3d61fbd-2474-0f8e-6da6-1d749f501605/mza_226133001040497620.jpg/600x600bb.jpg"></span>|
