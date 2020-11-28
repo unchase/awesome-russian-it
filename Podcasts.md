@@ -923,6 +923,19 @@
 
 ---
 
+|Название         |About IT — Новости высоких технологий без воды|
+|:----------------|:---------------------------------------------|
+|**Логотип**      |<span itunes-id="1523465698" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/about-it-новости-высоких-технологий-без-воды/id1523465698) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCKAzNmCQQKAn5uKoTi7sfrQ) • [![VK](img/favicons/vk.com.png)](https://vk.com/podogreykin)|
+|**Описание**     |About IT (Эбаут АйТи) — это еженедельный новостной подкаст о высоких технологиях, где обо всех важных событиях вы узнаете за 5 минут, но иногда бывает на пару минут больше, признаемся. НОВЫЕ ВЫПУСКИ КАЖДУЮ СУББОТУ!|
+|**Ведущие**      |Василий Подогрейкин|
+|**Регулярность** |Еженедельно|
+|**Длительность** |5-10 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1523465698" class="episodes" hashtag="AboutIT"></span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1523465698" class="release-date"></span>|
+
+---
+
 |Название         |Agile Reactor Podcast|
 |:----------------|:--------------------|
 |**Логотип**      |<span itunes-id="1318291521" class="itunes-img"><img height="100" width="100" src="https://is5-ssl.mzstatic.com/image/thumb/Podcasts113/v4/18/da/43/18da438e-ce20-c813-4c16-9023f6d447c6/mza_9222185775966916969.jpg/600x600bb.jpg"></span>|
