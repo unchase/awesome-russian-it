@@ -1496,6 +1496,19 @@
 
 ---
 
+|Название         |[Rotam](https://dnative.ru/rotam/)|
+|:----------------|:---------------------------------|
+|**Логотип**      |<span itunes-id="1494018535" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Ссылки**       |[![Anchor](img/favicons/anchor.fm.png)](https://anchor.fm/rotam) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/rotam/id1494018535) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8xMjUxODZjMC9wb2RjYXN0L3Jzcw==) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/rotam) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/playlist?list=PL4k8_JGPFEST3-_gdH4ueRmiXBXmBvpUx) • [![Telegram](img/favicons/t.me.png)](https://t.me/rotam_podcast) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/9704623) • [![RSS](img/favicons/rss.png)](https://anchor.fm/s/125186c0/podcast/rss)|
+|**Описание**     |Ежедневный подкаст с новостями Digital-маркетинга и SMM.|
+|**Ведущие**      |Алексей Ткачук|
+|**Регулярность** |Ежедневно|
+|**Длительность** |20-25 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1494018535" class="episodes" hashtag="rotam"></span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1494018535" class="release-date"></span>|
+
+---
+
 |Название         |Run Loop Podcast|
 |:----------------|:---------------|
 |**Логотип**      |<span itunes-id="1409669962" class="itunes-img"><img height="100" width="100" src="https://is5-ssl.mzstatic.com/image/thumb/Podcasts113/v4/0c/91/57/0c915739-4c00-4329-1432-0bddbbade880/mza_5069675142513395748.jpg/600x600bb.jpg"></span>|
