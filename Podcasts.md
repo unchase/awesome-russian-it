@@ -1073,7 +1073,7 @@
 |Название         |Epic подкаст|
 |:----------------|:-----------|
 |**Логотип**      |<span itunes-id="1480344895" class="itunes-img"><img height="100" width="100" src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/29/e4/28/29e4283e-f9ec-0494-6a1d-a578ae81c85c/mza_6044865720143149648.jpg/600x600bb.jpg"></span>|
-|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/epic_podcast) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/epic-подкаст/id1480344895) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/epic-podkast) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/8941906)|
+|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/epic_podcast) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/epic-подкаст/id1480344895) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cDovL2ZlZWRzLnNvdW5kY2xvdWQuY29tL3VzZXJzL3NvdW5kY2xvdWQ6dXNlcnM6NjgzNTMzMTE4L3NvdW5kcy5yc3M) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/epic-podkast) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/8941906)|
 |**Описание**     |Секреты роста продуктов.|
 |**Ведущие**      |Денис Мартынцев<br>Кирилл Гурбанов|
 |**Регулярность** |Несколько раз в месяц|
