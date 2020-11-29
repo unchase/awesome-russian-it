@@ -35,7 +35,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">29.11.2020 16:03</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">29.11.2020 20:03</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -77,14 +77,14 @@
 
 |Название         |Покриптим|
 |:----------------|:--------|
-|**Логотип**      |<span itunes-id="1514510437" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Логотип**      |<span itunes-id="1514510437" class="itunes-img"><img height="100" width="100" src="https://is5-ssl.mzstatic.com/image/thumb/Podcasts113/v4/3b/20/ab/3b20ab3d-7a14-2783-5585-3962a6e2e0f0/mza_12093718107294470212.png/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/покриптим/id1514510437) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/10812494)|
 |**Описание**     |Обсуждаем Bitcoin, Ethereum, прочие блокчейны, криптовалюты и связанные c ними технологии. История создания, идеи, идеология, реализация, последствия, конфликты, различные взгляды и модели управления - всё, чтобы ПОНЯТЬ что, зачем, кем, когда, почему и куда.|
 |**Ведущие**      |Андрей Щербович<br>Варя Беловешкина<br>Павел Шаповалов|
 |**Регулярность** |Время от времени|
 |**Длительность** |40-90 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1514510437" class="episodes" hashtag="Покриптим"></span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1514510437" class="release-date"></span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1514510437" class="episodes" hashtag="Покриптим">8</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1514510437" class="release-date">29.09.2020 14:34</span>|
 
 ---
 
@@ -303,14 +303,14 @@
 
 |Название         |[Выхожу с понедельника](https://vyhozhu-s-ponedelnika.simplecast.com/)|
 |:----------------|:---------------------------------------------------------------------|
-|**Логотип**      |<span itunes-id="1527806130" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Логотип**      |<span itunes-id="1527806130" class="itunes-img"><img height="100" width="100" src="https://is2-ssl.mzstatic.com/image/thumb/Podcasts114/v4/01/d1/54/01d154ee-b957-5c4e-9bfa-3ae27a6c53f0/mza_14722387796271420074.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/выхожу-с-понедельника/id1527806130) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/vykhozhu-s-poniedielnika) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/11801101) • [![RSS](img/favicons/rss.png)](https://feeds.simplecast.com/43W8iSPx)|
 |**Описание**     |Подкаст образовательной экосистемы GeekBrains, где мы обсуждаем карьерные возможности и профессиональные вопросы, чтобы помочь людям развиваться в диджитал-среде.|
 |**Ведущие**      ||
 |**Регулярность** |Еженедельно|
 |**Длительность** |30-80 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1527806130" class="episodes" hashtag="Выхожу_с_понедельника"></span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1527806130" class="release-date"></span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1527806130" class="episodes" hashtag="Выхожу_с_понедельника">15</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1527806130" class="release-date">23.11.2020 12:00</span>|
 
 ---
 
@@ -626,14 +626,14 @@
 
 |Название         |Подводные камни|
 |:----------------|:--------------|
-|**Логотип**      |<span itunes-id="1524345361" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Логотип**      |<span itunes-id="1524345361" class="itunes-img"><img height="100" width="100" src="https://is5-ssl.mzstatic.com/image/thumb/Podcasts124/v4/7d/41/08/7d410859-14f0-0692-b35b-9c7a1982f4b5/mza_3713227575764306788.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Anchor](img/favicons/anchor.fm.png)](https://anchor.fm/under-water-rocks) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/подводные-камни/id1524345361) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8yY2I4YjNmOC9wb2RjYXN0L3Jzcw==) • [![VK](img/favicons/vk.com.png)](https://vk.com/itpodcast) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/11620625) • [![RSS](img/favicons/rss.png)](https://anchor.fm/s/2cb8b3f8/podcast/rss)|
 |**Описание**     |Вместе с гостями обсуждаем и рассказываем о профессиях, популярных темах, проблемах и последних новостях в IT.|
 |**Ведущие**      |Илья Букин<br>Влад|
 |**Регулярность** |Время от времени|
 |**Длительность** |60-80 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1524345361" class="episodes" hashtag="Подводные_камни"></span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1524345361" class="release-date"></span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1524345361" class="episodes" hashtag="Подводные_камни">3</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1524345361" class="release-date">23.08.2020 01:01</span>|
 
 ---
 
@@ -691,14 +691,14 @@
 
 |Название         |Радио Нарния|
 |:----------------|:-----------|
-|**Логотип**      |<span itunes-id="1516536908" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Логотип**      |<span itunes-id="1516536908" class="itunes-img"><img height="100" width="100" src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/16/d4/65/16d4656d-9d59-3c9a-5326-b82b71139a48/mza_16938167680357352860.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/радио-нарния/id1516536908) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cDovL3Jzcy5jYXN0Ym94LmZtL2V2ZXJlc3QvODcxZGJmNTIyN2IwNGYxZGJiYWMwY2Y2YjY4NjBkY2UueG1s?hl=ru) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/radio-narniia) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/radio-narniya) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/10943721)|
 |**Описание**     |Радио Нарния: чудеса технологий, гаджеты, тесты, IT и другие новости из шкафа.|
 |**Ведущие**      ||
 |**Регулярность** |Еженедельно|
 |**Длительность** |10-20 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1516536908" class="episodes" hashtag="Радио_Нарния"></span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1516536908" class="release-date"></span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1516536908" class="episodes" hashtag="Радио_Нарния">26</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1516536908" class="release-date">24.11.2020 08:00</span>|
 
 ---
 
@@ -866,7 +866,7 @@
 |**Ведущие**      |Дмитрий Здоров<br>Василий Мязин|
 |**Регулярность** |Время от времени|
 |**Длительность** |20-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1013700516" class="episodes" hashtag="Технологии_и_жизнь">60 (<font color="red">-1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1013700516" class="episodes" hashtag="Технологии_и_жизнь">60 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1013700516" class="release-date">19.11.2020 08:12</span>|
 
 ---
@@ -951,14 +951,14 @@
 
 |Название         |[Цифранутый подкаст](https://opensmm.libsyn.com/)|
 |:----------------|:------------------------------------------------|
-|**Логотип**      |<span itunes-id="1508892224" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Логотип**      |<span itunes-id="1508892224" class="itunes-img"><img height="100" width="100" src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts124/v4/a3/9e/57/a39e572e-0a43-ddc2-7e5c-65fd0de5e62b/mza_8209115527822752536.png/600x600bb.jpg"></span>|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/user-684423322) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/цифранутый-подкаст/id1508892224) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cDovL29wZW5zbW0ubGlic3luLmNvbS9yc3M) • [![VK](img/favicons/vk.com.png)](https://vk.com/tsifranuty) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/tsifranuty/) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/10489434) • [![RSS](img/favicons/rss.png)](http://podcast.opensmm.asia/rss)|
 |**Описание**     |Это цифранутый подкаст, место где мы изучаем цифровой мир и то, как он меняет современное общество.|
 |**Ведущие**      |Геннадий Захаров|
 |**Регулярность** |Время от времени|
 |**Длительность** |10-35 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1508892224" class="episodes" hashtag="Цифранутый_подкаст"></span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1508892224" class="release-date"></span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1508892224" class="episodes" hashtag="Цифранутый_подкаст">6</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1508892224" class="release-date">01.08.2020 16:24</span>|
 
 ---
 
@@ -1267,14 +1267,14 @@
 
 |Название         |IaaS без прикрас|
 |:----------------|:---------------|
-|**Логотип**      |<span itunes-id="1534029220" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Логотип**      |<span itunes-id="1534029220" class="itunes-img"><img height="100" width="100" src="https://is5-ssl.mzstatic.com/image/thumb/Podcasts114/v4/0d/7e/9b/0d7e9b0f-43b9-7f9b-ac48-77ac5d8adcc7/mza_5728378926420808403.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/iaas-без-прикрас/id1534029220) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8zOTFkYWQ5Yy9wb2RjYXN0L3Jzcw==) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/IaaS-без-прикрас-id3409071?country=ru) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/watch?v=sQem5CXd6L4&list=PLduBwe0rcB79k7bSXU6wVPqLWkt2RBgsN) • [![VK](img/favicons/vk.com.png)](https://vk.com/music/playlist/-38818370_1) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/12296510)|
 |**Описание**     |Рассказываем про облачные технологии, ЦОДы, серверы и ИТ-инфраструктуру, внедрение и примеры кейсов.<br>Это подкаст компании «ИТ-ГРАД» и #CloudMTS – крупнейшего облачного провайдера в России и СНГ по версии CNews Analytics.|
 |**Ведущие**      |Екатерина Юдина<br>Антон Карасёв|
 |**Регулярность** |Ежемесячно|
 |**Длительность** |20-40 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1534029220" class="episodes" hashtag="IaaS_без_прикрас"></span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1534029220" class="release-date"></span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1534029220" class="episodes" hashtag="IaaS_без_прикрас">5</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1534029220" class="release-date">23.10.2020 14:32</span>|
 
 ---
 
@@ -1293,14 +1293,14 @@
 
 |Название         |IT бизнес-анализ|
 |:----------------|:---------------|
-|**Логотип**      |<span itunes-id="1495705776" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Логотип**      |<span itunes-id="1495705776" class="itunes-img"><img height="100" width="100" src="https://is4-ssl.mzstatic.com/image/thumb/Podcasts123/v4/dc/d2/a7/dcd2a7a2-a473-de69-7539-d824c4dc30ac/mza_9628556651381655559.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Anchor](img/favicons/anchor.fm.png)](https://anchor.fm/it-ba) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/it-бизнес-анализ/id1495705776) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8xMmQ4NDczYy9wb2RjYXN0L3Jzcw==) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/it-biznies-analiz) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/id2584380?country=ru) • [![RSS](img/favicons/rss.png)](https://anchor.fm/s/12d8473c/podcast/rss)|
 |**Описание**     |Подкаст об IT бизнес-анализе с нуля. Слушайте, узнавайте, становитесь!|
 |**Ведущие**      |Анна|
 |**Регулярность** |Еженедельно|
 |**Длительность** |30-40 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1495705776" class="episodes" hashtag="IT_бизнес_анализ"></span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1495705776" class="release-date"></span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1495705776" class="episodes" hashtag="IT_бизнес_анализ">33</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1495705776" class="release-date">23.11.2020 19:12</span>|
 
 ---
 
@@ -1563,14 +1563,14 @@
 
 |Название         |[Project Talks](https://taplink.cc/maria_popova)|
 |:----------------|:-----------------------------------------------|
-|**Логотип**      |<span itunes-id="1527860527" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Логотип**      |<span itunes-id="1527860527" class="itunes-img"><img height="100" width="100" src="https://is4-ssl.mzstatic.com/image/thumb/Podcasts114/v4/40/16/f2/4016f296-2b75-b214-d7f6-94296d652c8e/mza_5624244783414516441.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/popova-masha) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/us/podcast/project-talks/id1527860527) • [![Telegram](img/favicons/t.me.png)](https://t.me/project_talks) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/11801153) • [![RSS](img/favicons/rss.png)](https://feeds.soundcloud.com/users/soundcloud:users:866610733/sounds.rss)|
 |**Описание**     |Привет, меня зовут Маша Попова. Я запускаю IT проекты в Skyeng.|
 |**Ведущие**      |Мария Попова|
 |**Регулярность** |Еженедельно|
 |**Длительность** |30-70 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1527860527" class="episodes" hashtag="ProjectTalks"></span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1527860527" class="release-date"></span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1527860527" class="episodes" hashtag="ProjectTalks">7</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1527860527" class="release-date">27.11.2020 16:25</span>|
 
 ---
 
@@ -1654,14 +1654,14 @@
 
 |Название         |S++|
 |:----------------|:--|
-|**Логотип**      |<span itunes-id="1510587217" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Логотип**      |<span itunes-id="1510587217" class="itunes-img"><img height="100" width="100" src="https://is5-ssl.mzstatic.com/image/thumb/Podcasts124/v4/9e/92/83/9e9283b8-a372-ec50-e4aa-40b72005e157/mza_773383705879088482.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/podcast_s) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/s/id1510587217) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/s-2680991) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/playlist?list=PLxF_rYtB5vBDolmhcxh_oX59ilc_TaGVz) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/10577320) • [![RSS](img/favicons/rss.png)](https://feeds.soundcloud.com/users/soundcloud:users:812934481/sounds.rss)|
 |**Описание**     |Специалисты из сфер IT и Data Science делятся своим опытом и рассказывают интересные истории о технологиях и не только.|
 |**Ведущие**      |Алексей Обровец|
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |40-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1510587217" class="episodes" hashtag="S++"></span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1510587217" class="release-date"></span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1510587217" class="episodes" hashtag="S++">14</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1510587217" class="release-date">27.11.2020 15:18</span>|
 
 ---
 
@@ -1719,14 +1719,14 @@
 
 |Название         |Sprut.AI - разговоры об умном доме|
 |:----------------|:---------------------------------|
-|**Логотип**      |<span itunes-id="1524886570" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Логотип**      |<span itunes-id="1524886570" class="itunes-img"><img height="100" width="100" src="https://is4-ssl.mzstatic.com/image/thumb/Podcasts114/v4/9a/5f/ce/9a5fce5e-b718-487f-262e-c9c9271e610e/mza_3847809567394181858.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/sprut-ai-разговоры-об-умном-доме/id1524886570) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cHM6Ly9zcHJ1dC5haS9yc3MvcG9kY2FzdHMueG1s?sa=X&ved=0CAMQ4aUDahcKEwjwkKLujqjtAhUAAAAAHQAAAAAQAg) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/Sprut.AI---разговоры-об-умном-доме-id3145719?country=ru) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/11575772) • [![RSS](img/favicons/rss.png)](https://sprut.ai/rss/podcasts.xml)|
 |**Описание**     |Sprut.AI - разговоры об умном доме. Еженедельный подкаст. Новости, обзоры и статьи.|
 |**Ведущие**      ||
 |**Регулярность** |Еженедельно|
 |**Длительность** |~60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1524886570" class="episodes" hashtag="Sprut.AI"></span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1524886570" class="release-date"></span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1524886570" class="episodes" hashtag="Sprut.AI">14</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1524886570" class="release-date">23.11.2020 08:00</span>|
 
 ---
 
@@ -1748,7 +1748,7 @@
 |**Ведущие**      |[Антон Черноусов (golodnyj)](https://blog.golodnyj.ru/) [![GitHub](img/favicons/github.com.png)](https://github.com/golodnyj) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/golodnyj/)|
 |**Регулярность** |Несколько выпусков в месяц|
 |**Длительность** |40-120 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1046278525" class="episodes" hashtag="taoppodcast">171 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1046278525" class="episodes" hashtag="taoppodcast">170 (<font color="red">-1</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1046278525" class="release-date">29.11.2020 11:04</span>|
 
 ---
@@ -1834,14 +1834,14 @@
 
 |Название         |USABILITYLAB|
 |:----------------|:-----------|
-|**Логотип**      |<span itunes-id="1524320760" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Логотип**      |<span itunes-id="1524320760" class="itunes-img"><img height="100" width="100" src="https://is2-ssl.mzstatic.com/image/thumb/Podcasts114/v4/cc/f4/0e/ccf40e1f-894f-fb96-2c52-1e8af062ace4/mza_13797744497333132151.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Anchor](img/favicons/anchor.fm.png)](https://anchor.fm/usabilitylab) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/usabilitylab/id1524320760) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8yY2FmZWRlMC9wb2RjYXN0L3Jzcw) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/11499537) • [![RSS](img/favicons/rss.png)](https://anchor.fm/s/2cafede0/podcast/rss)|
 |**Описание**     |Клиентский и пользовательский опыт (UX/UI) цифровых продуктов. Мы говорим с UX-специалистами и для UX-специалистов о нашей профессии, трендах, проблемах и точках развития.|
 |**Ведущие**      |Дмитрий Сатин|
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |60-100 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1524320760" class="episodes" hashtag="USABILITYLAB"></span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1524320760" class="release-date"></span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1524320760" class="episodes" hashtag="USABILITYLAB">14</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1524320760" class="release-date">22.10.2020 18:17</span>|
 
 </details>
 
@@ -1851,27 +1851,27 @@
 
 |Название         |Сам напишу|
 |:----------------|:---------|
-|**Логотип**      |<span itunes-id="1520459193" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Логотип**      |<span itunes-id="1520459193" class="itunes-img"><img height="100" width="100" src="https://is4-ssl.mzstatic.com/image/thumb/Podcasts123/v4/dd/49/4b/dd494bb4-3378-1d53-af72-47a0a9ab9362/mza_14987015120202249372.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Anchor](img/favicons/anchor.fm.png)](https://anchor.fm/willwritemyself) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/сам-напишу/id1520459193) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8yODY3Yjk1Yy9wb2RjYXN0L3Jzcw) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/11220946) • [![RSS](img/favicons/rss.png)](https://anchor.fm/s/2867b95c/podcast/rss)|
 |**Описание**     |Здесь я рассказываю о том, как устроены разные открытые библиотеки, фреймворки и приложения и делаю это так, чтобы после прослушивания становилось понятно, как написать то же самое самому.|
 |**Ведущие**      |Алексей Милеев|
 |**Регулярность** |Время от времени|
 |**Длительность** |10-30 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1520459193" class="episodes" hashtag="willwritemyself"></span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1520459193" class="release-date"></span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1520459193" class="episodes" hashtag="willwritemyself">4</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1520459193" class="release-date">01.08.2020 22:58</span>|
 
 ---
 
 |Название         |DevBurger|
 |:----------------|:--------|
-|**Логотип**      |<span itunes-id="1526363789" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Логотип**      |<span itunes-id="1526363789" class="itunes-img"><img height="100" width="100" src="https://is3-ssl.mzstatic.com/image/thumb/Podcasts114/v4/74/b7/c0/74b7c07d-b29d-1140-5d02-b425e1649df5/mza_11890309144630387898.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/devburger/id1526363789) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/DevBurger-id3182383?country=ru) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/11685685)|
 |**Описание**     |«DevBurger» — три разработчика: Евгений Холухоев (Java Backend), Евгений Шишко (iOS developer) и Эмиль Фаталиев (Java Backend) обсуждают разработку.|
 |**Ведущие**      |Евгений Шишко<br>Евгений Холухоев<br>Фаталиев Эмиль|
 |**Регулярность** |Раз в месяц|
 |**Длительность** |40-80 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1526363789" class="episodes" hashtag="DevBurger"></span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1526363789" class="release-date"></span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1526363789" class="episodes" hashtag="DevBurger">3</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1526363789" class="release-date">27.11.2020 21:15</span>|
 
 ---
 
