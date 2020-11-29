@@ -2588,6 +2588,18 @@
 
 ---
 
+|Название         |SQA Training|
+|:----------------|:-----------|
+|**Ссылки**       |[![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/SQA-Training-id2831960?country=ru) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/sqa-training) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/c/SQATraining) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/10653727) • [![RSS](img/favicons/rss.png)](http://rss.castbox.fm/everest/ee3480cfdfac42ee880d06b2f69e1e41.xml)|
+|**Описание**     |Расскажем всё о тестировании от А до Я.<br>Профессия специалист по тестированию программного обеспечения (тестировщик) в наше время востребована. Однако кто-то о ней ничего не знает, а те, кто работают в данной сфере не знают многих нюансов и правил данной профессии.<br>На нашем канале мы обсуждаем вопросы, которые новичкам в данной сфере приоткрывают завесу в мир неизведанного, а специалистам, работающим в данной сфере, помогают правильно выстраивать свою работу и дают полезные знания, которые они могут применять на практике.|
+|**Ведущие**      |Алёна|
+|**Регулярность** |Несколько раз в месяц|
+|**Длительность** |5-10 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="" class="episodes" hashtag="SQATraining"></span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="" class="release-date"></span>|
+
+---
+
 |Название         |[QA Guild Podcast](http://automation-remarks.com/)|
 |:----------------|:-------------------------------------------------|
 |**Логотип**      |<span itunes-id="1350668092" class="itunes-img"><img height="100" width="100" src="https://is4-ssl.mzstatic.com/image/thumb/Podcasts114/v4/74/43/45/744345c5-bf2a-d62f-9de0-b308da5e4fd2/mza_17413248913597041879.jpg/600x600bb.jpg"></span>|
