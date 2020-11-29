@@ -2575,6 +2575,16 @@
 
 <sup>[Содержание](#содержание)</sup>
 
+|Название         |[Heisenbug Show](https://meetup-heisenbug.jugru.org/)|
+|:----------------|:----------------------------------------------------|
+|**Ссылки**       |[![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8zODI5N2IyOC9wb2RjYXN0L3Jzcw==) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/watch?v=EpWM6ahHXmM&list=PLsVTVVvrKX9s6yagxdAAMztHH1hWW3Roj) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/12232198) • [![RSS](img/favicons/rss.png)](https://anchor.fm/s/38297b28/podcast/rss)|
+|**Описание**     |Шоу от команды конференции Heisenbug. Ведущие и гости выпусков обсуждают новости QA-индустрии, говорят о технологиях, жизни и конференциях.|
+|**Ведущие**      ||
+|**Регулярность** |Время от времени|
+|**Длительность** |30-70 минут|
+
+---
+
 |Название         |[Radio QA](http://radio-qa.com/)|
 |:----------------|:-------------------------------|
 |**Логотип**      |<span itunes-id="1021236121" class="itunes-img"><img height="100" width="100" src="https://is4-ssl.mzstatic.com/image/thumb/Podcasts123/v4/67/65/4e/67654e7d-bda2-2c60-e1b1-e4a9ced9ff1b/mza_1889666142143307975.jpg/600x600bb.jpg"></span>|
@@ -2595,8 +2605,6 @@
 |**Ведущие**      |Алёна|
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |5-10 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="" class="episodes" hashtag="SQATraining"></span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="" class="release-date"></span>|
 
 ---
 
