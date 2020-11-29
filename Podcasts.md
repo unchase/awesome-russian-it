@@ -1431,6 +1431,19 @@
 
 ---
 
+|Название         |kamyshev.talk|
+|:----------------|:------------|
+|**Логотип**      |<span itunes-id="1528193634" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Ссылки**       |[![Anchor](img/favicons/anchor.fm.png)](https://anchor.fm/igorkamyshev) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/kamyshev-talk/id1528193634) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8yYjFhZDkxOC9wb2RjYXN0L3Jzcw==) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/kamyshevtalk) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/kamyshev.talk-id3226424?country=ru) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/11893440) • [![RSS](img/favicons/rss.png)](https://anchor.fm/s/2b1ad918/podcast/rss)|
+|**Описание**     |Архитектура, код, софт-скиллы и всё остальное. Разговариваю с людьми из индустрии чтобы разобраться, как правильно делать крутые вещи.|
+|**Ведущие**      |[Игорь Камышев](https://kamyshev.me/) [![GitHub](img/favicons/github.com.png)](https://github.com/igorkamyshev)|
+|**Регулярность** |Один раз в месяц|
+|**Длительность** |~50 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1528193634" class="episodes" hashtag="kamyshev.talk"></span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1528193634" class="release-date"></span>|
+
+---
+
 |Название         |[KeddroCast](https://keddrocast.fireside.fm/)|
 |:----------------|:--------------------------------------------|
 |**Логотип**      |<span itunes-id="454929808" class="itunes-img"><img height="100" width="100" src="https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/67/b8/4d/67b84d5b-b86b-4e72-b453-2b4df43fe787/mza_8822337951728815610.jpg/600x600bb.jpg"></span>|
@@ -1606,7 +1619,7 @@
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/csssr/sets/remote-talk) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/remote-talk/id1414821759) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/remote-talk/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/remote-talk) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/Remote-Talk-id1382046?country=ru) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/remote-talk) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/9050141?from=serp)|
 |**Описание**     |Подкаст о разработчиках из регионов и местных IT-сообществах.|
 |**Ведущие**      |Сергей Головин [![GitHub](img/favicons/github.com.png)](https://github.com/daynin)|
-|**Регулярность** |Раз в месяц|
+|**Регулярность** |Один раз в месяц|
 |**Длительность** |50-80 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1414821759" class="episodes" hashtag="remotetalk">20 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1414821759" class="release-date">23.11.2020 19:07</span>|
@@ -1894,7 +1907,7 @@
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/devburger/id1526363789) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/DevBurger-id3182383?country=ru) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/11685685)|
 |**Описание**     |«DevBurger» — три разработчика: Евгений Холухоев (Java Backend), Евгений Шишко (iOS developer) и Эмиль Фаталиев (Java Backend) обсуждают разработку.|
 |**Ведущие**      |Евгений Шишко<br>Евгений Холухоев<br>Фаталиев Эмиль|
-|**Регулярность** |Раз в месяц|
+|**Регулярность** |Один раз в месяц|
 |**Длительность** |40-80 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1526363789" class="episodes" hashtag="DevBurger">3</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1526363789" class="release-date">27.11.2020 21:15</span>|
