@@ -1665,6 +1665,19 @@
 
 ---
 
+|Название         |Sprut.AI - разговоры об умном доме|
+|:----------------|:---------------------------------|
+|**Логотип**      |<span itunes-id="1524886570" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/sprut-ai-разговоры-об-умном-доме/id1524886570) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cHM6Ly9zcHJ1dC5haS9yc3MvcG9kY2FzdHMueG1s?sa=X&ved=0CAMQ4aUDahcKEwjwkKLujqjtAhUAAAAAHQAAAAAQAg) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/Sprut.AI---разговоры-об-умном-доме-id3145719?country=ru) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/11575772) • [![RSS](img/favicons/rss.png)](https://sprut.ai/rss/podcasts.xml)|
+|**Описание**     |Sprut.AI - разговоры об умном доме. Еженедельный подкаст. Новости, обзоры и статьи.|
+|**Ведущие**      ||
+|**Регулярность** |Еженедельно|
+|**Длительность** |~60 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1524886570" class="episodes" hashtag="Sprut.AI"></span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1524886570" class="release-date"></span>|
+
+---
+
 |Название         |TerraLink Digital|
 |:----------------|:----------------|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/user-65005812) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/10351342)|
@@ -1787,7 +1800,7 @@
 |Название         |DevBurger|
 |:----------------|:--------|
 |**Логотип**      |<span itunes-id="1526363789" class="itunes-img"><img height=100 width=100 src=""></img></span>|
-|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/devburger/id1526363789) • [![Player](img/favicons/player.fm.png)]() • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/DevBurger-id3182383?country=ru) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/11685685)|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/devburger/id1526363789) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/DevBurger-id3182383?country=ru) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/11685685)|
 |**Описание**     |«DevBurger» — три разработчика: Евгений Холухоев (Java Backend), Евгений Шишко (iOS developer) и Эмиль Фаталиев (Java Backend) обсуждают разработку.|
 |**Ведущие**      |Евгений Шишко<br>Евгений Холухоев<br>Фаталиев Эмиль|
 |**Регулярность** |Раз в месяц|
