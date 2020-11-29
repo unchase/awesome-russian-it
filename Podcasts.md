@@ -1112,6 +1112,19 @@
 
 ---
 
+|Название         |Daily Dev|
+|:----------------|:--------|
+|**Логотип**      |<span itunes-id="1508419417" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/us/podcast/daily-dev/id1508419417) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/daily-dev) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/10143987)|
+|**Описание**     |Еженедельный подкаст о разработке web сервисов.|
+|**Ведущие**      |Артём Острецов|
+|**Регулярность** |Время от времени|
+|**Длительность** |30-40 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1508419417" class="episodes" hashtag="DailyDev"></span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1508419417" class="release-date"></span>|
+
+---
+
 |Название         |devleads podcast|
 |:----------------|:---------------|
 |**Логотип**      |<span itunes-id="1446894920" class="itunes-img"><img height="100" width="100" src="https://is3-ssl.mzstatic.com/image/thumb/Podcasts123/v4/55/0b/39/550b3987-95a7-01de-2bb1-6fef2643ad81/mza_7475949990485445368.jpg/600x600bb.jpg"></span>|
