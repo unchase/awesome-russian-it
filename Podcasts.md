@@ -676,6 +676,19 @@
 
 ---
 
+|Название         |Полезные Chip'сы|
+|:----------------|:---------------|
+|**Логотип**      |<span itunes-id="1471538022" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/полезные-chipсы/id1471538022) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9fSVFLOXBkTA==) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/Полезные-Chip'сы-id2194277?country=ru) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/8063034) • [![RSS](img/favicons/rss.png)](https://feeds.simplecast.com/_IQK9pdL)|
+|**Описание**     |Отвечаем на главные вопросы о технике и технологиях просто и по делу.|
+|**Ведущие**      |Леонид Воробьёв|
+|**Регулярность** |Еженедельно|
+|**Длительность** |~5 минут, ~60 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1471538022" class="episodes" hashtag="Полезные_Chipсы"></span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1471538022" class="release-date"></span>|
+
+---
+
 |Название         |[Продуктивный Роман](https://roman.ua/category/podcast/)|
 |:----------------|:-------------------------------------------------------|
 |**Логотип**      |<span itunes-id="1178337792" class="itunes-img"><img height="100" width="100" src="https://is3-ssl.mzstatic.com/image/thumb/Podcasts123/v4/14/bb/ff/14bbffdc-7b1d-c397-db1e-9b2625b8d721/mza_4251027814159066052.jpg/600x600bb.jpg"></span>|
