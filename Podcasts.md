@@ -663,6 +663,19 @@
 
 ---
 
+|Название         |Радио Нарния|
+|:----------------|:-----------|
+|**Логотип**      |<span itunes-id="1516536908" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/радио-нарния/id1516536908) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cDovL3Jzcy5jYXN0Ym94LmZtL2V2ZXJlc3QvODcxZGJmNTIyN2IwNGYxZGJiYWMwY2Y2YjY4NjBkY2UueG1s?hl=ru) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/radio-narniia) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/radio-narniya) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/10943721) • [![RSS](img/favicons/rss.png)]()|
+|**Описание**     |Радио Нарния: чудеса технологий, гаджеты, тесты, IT и другие новости из шкафа.|
+|**Ведущие**      ||
+|**Регулярность** |Еженедельно|
+|**Длительность** |10-20 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1516536908" class="episodes" hashtag="Радио_Нарния"></span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1516536908" class="release-date"></span>|
+
+---
+
 |Название         |[Радио Платформа](https://radioplatforma.com/)|
 |:----------------|:---------------------------------------------|
 |**Логотип**      |<span itunes-id="1494625132" class="itunes-img"><img height="100" width="100" src="https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/4e/e9/ea/4ee9ea34-0592-e1de-67e2-169125c12d9a/mza_15190596076534864665.jpg/600x600bb.jpg"></span>|
