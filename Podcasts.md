@@ -1548,6 +1548,19 @@
 
 ---
 
+|Название         |[Project Talks](https://taplink.cc/maria_popova)|
+|:----------------|:-----------------------------------------------|
+|**Логотип**      |<span itunes-id="1527860527" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/popova-masha) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/us/podcast/project-talks/id1527860527) • [![Telegram](img/favicons/t.me.png)](https://t.me/project_talks) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/11801153) • [![RSS](img/favicons/rss.png)](https://feeds.soundcloud.com/users/soundcloud:users:866610733/sounds.rss)|
+|**Описание**     |Привет, меня зовут Маша Попова. Я запускаю IT проекты в Skyeng.|
+|**Ведущие**      |Мария Попова|
+|**Регулярность** |Еженедельно|
+|**Длительность** |30-70 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1527860527" class="episodes" hashtag="ProjectTalks"></span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1527860527" class="release-date"></span>|
+
+---
+
 |Название         |Remote Talk|
 |:----------------|:----------|
 |**Логотип**      |<span itunes-id="1414821759" class="itunes-img"><img height="100" width="100" src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/2c/db/f1/2cdbf18d-4e66-8969-5827-14d3e1c87d8a/mza_2274254638194681006.jpg/600x600bb.jpg"></span>|
