@@ -1239,6 +1239,19 @@
 
 ---
 
+|Название         |IaaS без прикрас|
+|:----------------|:---------------|
+|**Логотип**      |<span itunes-id="1534029220" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/iaas-без-прикрас/id1534029220) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8zOTFkYWQ5Yy9wb2RjYXN0L3Jzcw==) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/IaaS-без-прикрас-id3409071?country=ru) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/watch?v=sQem5CXd6L4&list=PLduBwe0rcB79k7bSXU6wVPqLWkt2RBgsN) • [![VK](img/favicons/vk.com.png)](https://vk.com/music/playlist/-38818370_1) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/12296510)|
+|**Описание**     |Рассказываем про облачные технологии, ЦОДы, серверы и ИТ-инфраструктуру, внедрение и примеры кейсов.<br>Это подкаст компании «ИТ-ГРАД» и #CloudMTS – крупнейшего облачного провайдера в России и СНГ по версии CNews Analytics.|
+|**Ведущие**      |Екатерина Юдина<br>Антон Карасёв|
+|**Регулярность** |Ежемесячно|
+|**Длительность** |20-40 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1534029220" class="episodes" hashtag="IaaS_без_прикрас"></span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1534029220" class="release-date"></span>|
+
+---
+
 |Название         |IT Way|
 |:----------------|:-----|
 |**Логотип**      |<span itunes-id="1490305221" class="itunes-img"><img height="100" width="100" src="https://is4-ssl.mzstatic.com/image/thumb/Podcasts114/v4/07/b5/8b/07b58b54-4037-b24a-96d3-05070dfc45d8/mza_4329049669226288396.jpg/600x600bb.jpg"></span>|
