@@ -988,6 +988,19 @@
 
 ---
 
+|Название         |Шорткод|
+|:----------------|:------|
+|**Логотип**      |<span itunes-id="1517632257" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Ссылки**       |[![Anchor](img/favicons/anchor.fm.png)](https://anchor.fm/shortcode) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/шорткод/id1517632257) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8yNDdhMTY2NC9wb2RjYXN0L3Jzcw==) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/Шорткод-id2986227?country=us) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/11022487) • [![RSS](img/favicons/rss.png)](https://anchor.fm/s/247a1664/podcast/rss)|
+|**Описание**     |Новости технологий: коротко, душевно, каждый день.|
+|**Ведущие**      ||
+|**Регулярность** |Ежедневно|
+|**Длительность** |~5 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="episodes" hashtag="shortcode"></span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="release-date"></span>|
+
+---
+
 |Название         |[38 попугаев](https://spbpython.dev/podcast38)|
 |:----------------|:---------------------------------------------|
 |**Логотип**      |<span itunes-id="1358472061" class="itunes-img"><img height="100" width="100" src="https://is5-ssl.mzstatic.com/image/thumb/Podcasts113/v4/95/e3/55/95e3552c-c984-43c7-1233-0f954c7eed58/mza_8175379717990454747.png/600x600bb.jpg"></span>|
