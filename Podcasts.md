@@ -897,6 +897,19 @@
 
 ---
 
+|Название         |Тут лучше об IT|
+|:----------------|:--------------|
+|**Логотип**      |<span itunes-id="1531388050" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Ссылки**       |[![Anchor](img/favicons/anchor.fm.png)](https://anchor.fm/mefendieva) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/тут-лучше-об-it/id1531388050) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8zNWY2ZjEwMC9wb2RjYXN0L3Jzcw==) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCRCWa8hSJhlkmtpERwtb75A) • [![VK](img/favicons/vk.com.png)](https://vk.com/public198624840) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/12096571) • [![RSS](img/favicons/rss.png)](https://anchor.fm/s/35f6f100/podcast/rss)|
+|**Описание**     |Разговоры о жизни и технологиях с гостями из IT-сферы.|
+|**Ведущие**      |Марина Эфендиева|
+|**Регулярность** |Раз в месяц|
+|**Длительность** |50-80 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1531388050" class="episodes" hashtag="Тут_лучше_об_IT"></span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1531388050" class="release-date"></span>|
+
+---
+
 |Название         |Хантфлоу Insight|
 |:----------------|:---------------|
 |**Логотип**      |<span itunes-id="1443781654" class="itunes-img"><img height="100" width="100" src="https://is4-ssl.mzstatic.com/image/thumb/Podcasts123/v4/32/fd/5f/32fd5fd4-ae54-0138-c8aa-5acdd9c4f450/mza_5352792684755328592.jpg/600x600bb.jpg"></span>|
