@@ -611,6 +611,19 @@
 
 ---
 
+|Название         |Подводные камни|
+|:----------------|:--------------|
+|**Логотип**      |<span itunes-id="1524345361" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Ссылки**       |[![Anchor](img/favicons/anchor.fm.png)](https://anchor.fm/under-water-rocks) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/подводные-камни/id1524345361) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8yY2I4YjNmOC9wb2RjYXN0L3Jzcw==) • [![VK](img/favicons/vk.com.png)](https://vk.com/itpodcast) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/11620625) • [![RSS](img/favicons/rss.png)](https://anchor.fm/s/2cb8b3f8/podcast/rss)|
+|**Описание**     |Вместе с гостями обсуждаем и рассказываем о профессиях, популярных темах, проблемах и последних новостях в IT.|
+|**Ведущие**      |Илья Букин<br>Влад|
+|**Регулярность** |Время от времени|
+|**Длительность** |60-80 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1524345361" class="episodes" hashtag="Подводные_камни"></span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1524345361" class="release-date"></span>|
+
+---
+
 |Название         |Подкаст Университета ИТМО|
 |:----------------|:------------------------|
 |**Логотип**      |<span itunes-id="1500562035" class="itunes-img"><img height="100" width="100" src="https://is4-ssl.mzstatic.com/image/thumb/Podcasts114/v4/49/80/8d/49808db2-98f0-5d97-a720-df2794f663a1/mza_16698141029057641650.png/600x600bb.jpg"></span>|
@@ -666,7 +679,7 @@
 |Название         |Радио Нарния|
 |:----------------|:-----------|
 |**Логотип**      |<span itunes-id="1516536908" class="itunes-img"><img height=100 width=100 src=""></img></span>|
-|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/радио-нарния/id1516536908) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cDovL3Jzcy5jYXN0Ym94LmZtL2V2ZXJlc3QvODcxZGJmNTIyN2IwNGYxZGJiYWMwY2Y2YjY4NjBkY2UueG1s?hl=ru) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/radio-narniia) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/radio-narniya) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/10943721) • [![RSS](img/favicons/rss.png)]()|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/радио-нарния/id1516536908) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cDovL3Jzcy5jYXN0Ym94LmZtL2V2ZXJlc3QvODcxZGJmNTIyN2IwNGYxZGJiYWMwY2Y2YjY4NjBkY2UueG1s?hl=ru) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/radio-narniia) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/radio-narniya) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/10943721)|
 |**Описание**     |Радио Нарния: чудеса технологий, гаджеты, тесты, IT и другие новости из шкафа.|
 |**Ведущие**      ||
 |**Регулярность** |Еженедельно|
