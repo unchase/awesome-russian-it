@@ -936,6 +936,19 @@
 
 ---
 
+|Название         |[Цифранутый подкаст](https://opensmm.libsyn.com/)|
+|:----------------|:------------------------------------------------|
+|**Логотип**      |<span itunes-id="1508892224" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/user-684423322) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/цифранутый-подкаст/id1508892224) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cDovL29wZW5zbW0ubGlic3luLmNvbS9yc3M) • [![VK](img/favicons/vk.com.png)](https://vk.com/tsifranuty) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/tsifranuty/) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/10489434) • [![RSS](img/favicons/rss.png)](http://podcast.opensmm.asia/rss)|
+|**Описание**     |Это цифранутый подкаст, место где мы изучаем цифровой мир и то, как он меняет современное общество.|
+|**Ведущие**      |Геннадий Захаров|
+|**Регулярность** |Время от времени|
+|**Длительность** |10-35 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1508892224" class="episodes" hashtag="Цифранутый_подкаст"></span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1508892224" class="release-date"></span>|
+
+---
+
 |Название         |[38 попугаев](https://spbpython.dev/podcast38)|
 |:----------------|:---------------------------------------------|
 |**Логотип**      |<span itunes-id="1358472061" class="itunes-img"><img height="100" width="100" src="https://is5-ssl.mzstatic.com/image/thumb/Podcasts113/v4/95/e3/55/95e3552c-c984-43c7-1233-0f954c7eed58/mza_8175379717990454747.png/600x600bb.jpg"></span>|
