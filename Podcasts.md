@@ -1771,6 +1771,19 @@
 
 <sup>[Содержание](#содержание)</sup>
 
+|Название         |Сам напишу|
+|:----------------|:---------|
+|**Логотип**      |<span itunes-id="1520459193" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Ссылки**       |[![Anchor](img/favicons/anchor.fm.png)](https://anchor.fm/willwritemyself) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/сам-напишу/id1520459193) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8yODY3Yjk1Yy9wb2RjYXN0L3Jzcw) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/11220946) • [![RSS](img/favicons/rss.png)](https://anchor.fm/s/2867b95c/podcast/rss)|
+|**Описание**     |Здесь я рассказываю о том, как устроены разные открытые библиотеки, фреймворки и приложения и делаю это так, чтобы после прослушивания становилось понятно, как написать то же самое самому.|
+|**Ведущие**      |Алексей Милеев|
+|**Регулярность** |Время от времени|
+|**Длительность** |10-30 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1520459193" class="episodes" hashtag="willwritemyself"></span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1520459193" class="release-date"></span>|
+
+---
+
 |Название         |DevBurger|
 |:----------------|:--------|
 |**Логотип**      |<span itunes-id="1526363789" class="itunes-img"><img height=100 width=100 src=""></img></span>|
