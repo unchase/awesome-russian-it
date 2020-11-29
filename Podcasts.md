@@ -1089,6 +1089,19 @@
 
 ---
 
+|Название         |CGMGZN|
+|:----------------|:-----|
+|**Логотип**      |<span itunes-id="1504236627" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/cgmgzn/id1504236627) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/c/CGMGZN) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcasts-68902331) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/10167525) • [![Email](img/favicons/email.png)](mailto:cgmgzn@gmail.com)|
+|**Описание**     |Подкасты о событиях российской CG-индустрии, обзоры на проекты и инструменты, а также очень...очень много рассуждений на тему творчества и работы.|
+|**Ведущие**      |Андрей Стифеев<br>Максим Гордиенко|
+|**Регулярность** |Время от времени|
+|**Длительность** |70-90 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1504236627" class="episodes" hashtag="CGMGZN"></span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1504236627" class="release-date"></span>|
+
+---
+
 |Название         |[CSSSR (Новости 512)](https://csssr.com/ru)|
 |:----------------|:------------------------------------------|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/csssr) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/novosti-512/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/novosti-512) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCdkZ6ckHOJ3DjAYxoGeMG0w) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcasts-185290073) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/csssr_dev) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/csssr/) • [![LinkedIn](img/favicons/linkedin.cn.png)](https://www.linkedin.com/company/csssr) • [![GitHub](img/favicons/github.com.png)](https://github.com/CSSSR)|
