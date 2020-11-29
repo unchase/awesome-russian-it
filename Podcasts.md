@@ -1613,6 +1613,19 @@
 
 ---
 
+|Название         |S++|
+|:----------------|:--|
+|**Логотип**      |<span itunes-id="1510587217" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/podcast_s) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/s/id1510587217) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/s-2680991) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/playlist?list=PLxF_rYtB5vBDolmhcxh_oX59ilc_TaGVz) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/10577320) • [![RSS](img/favicons/rss.png)](https://feeds.soundcloud.com/users/soundcloud:users:812934481/sounds.rss)|
+|**Описание**     |Специалисты из сфер IT и Data Science делятся своим опытом и рассказывают интересные истории о технологиях и не только.|
+|**Ведущие**      |Алексей Обровец|
+|**Регулярность** |Несколько раз в месяц|
+|**Длительность** |40-60 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1510587217" class="episodes" hashtag="S++"></span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1510587217" class="release-date"></span>|
+
+---
+
 |Название         |[SDCast](https://sdcast.ksdaemon.ru/)|
 |:----------------|:------------------------------------|
 |**Логотип**      |<span itunes-id="890468606" class="itunes-img"><img height="100" width="100" src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/1e/ea/11/1eea110f-308a-098a-69d7-f091c9dcad64/mza_5481152072159566067.png/600x600bb.jpg"></span>|
