@@ -288,6 +288,19 @@
 
 ---
 
+|Название         |[Выхожу с понедельника](https://vyhozhu-s-ponedelnika.simplecast.com/)|
+|:----------------|:---------------------------------------------------------------------|
+|**Логотип**      |<span itunes-id="1527806130" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/выхожу-с-понедельника/id1527806130) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/vykhozhu-s-poniedielnika) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/11801101) • [![RSS](img/favicons/rss.png)](https://feeds.simplecast.com/43W8iSPx)|
+|**Описание**     |Подкаст образовательной экосистемы GeekBrains, где мы обсуждаем карьерные возможности и профессиональные вопросы, чтобы помочь людям развиваться в диджитал-среде.|
+|**Ведущие**      ||
+|**Регулярность** |Еженедельно|
+|**Длительность** |30-80 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1527806130" class="episodes" hashtag="Выхожу_с_понедельника"></span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1527806130" class="release-date"></span>|
+
+---
+
 |Название         |Горячий #tceh|
 |:----------------|:------------|
 |**Логотип**      |<span itunes-id="1492765073" class="itunes-img"><img height="100" width="100" src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts114/v4/7e/35/8b/7e358b04-28f3-38bd-8aaa-56c863e894b4/mza_13996922669791313045.jpg/600x600bb.jpg"></span>|
