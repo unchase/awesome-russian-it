@@ -663,6 +663,19 @@
 
 ---
 
+|Название         |Подкасты от PTCodding|
+|:----------------|:--------------------|
+|**Логотип**      |<span itunes-id="1455382034" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Ссылки**       |[![Anchor](img/favicons/anchor.fm.png)](https://anchor.fm/ptcodding) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/подкасты-от-ptcodding/id1455382034) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy85OTAyYWRjL3BvZGNhc3QvcnNz) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/Подкасты-от-PTCodding-id2037557) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcasts-132868814) • [![Telegram](img/favicons/t.me.png)](https://t.me/ptcodding) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/8434331) • [![RSS](img/favicons/rss.png)](https://anchor.fm/s/9902adc/podcast/rss)|
+|**Описание**     |Информационно-медийное сообщество о программировании и IT.<br>Еженедельные подкасты, видео с IT-конференций, митапов и мероприятий в медиа-формате и лонгридах, обзоры гаджетов.<br>В нашем распоряжении команда программистов во главе с Павлом, которая пишет востребованные проекты на Python.|
+|**Ведущие**      ||
+|**Регулярность** |Еженедельно|
+|**Длительность** |~10-15 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1455382034" class="episodes" hashtag="ptcodding"></span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1455382034" class="release-date"></span>|
+
+---
+
 |Название         |[Подкасты Mobile-review.com](https://mobile-review.com/articles/2006/new-mr-podcasts.shtml)|
 |:----------------|:------------------------------------------------------------------------------------------|
 |**Логотип**      |<span itunes-id="271623368" class="itunes-img"><img height="100" width="100" src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/0f/6e/05/0f6e0510-dc2e-627a-8531-49358d5f2be1/mza_8912238331422481668.jpg/600x600bb.jpg"></span>|
@@ -1857,7 +1870,7 @@
 |Название         |WikiTiles - энциклопедия Microsoft|
 |:----------------|:---------------------------------|
 |**Логотип**      |<span itunes-id="1195781986" class="itunes-img"><img height="100" width="100" src="https://is4-ssl.mzstatic.com/image/thumb/Features/v4/5f/88/96/5f8896e9-9be5-529a-af14-cc807367568a/mza_1382744875394257421.png/600x600bb.jpg"></span>|
-|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/wikitiles-энциклопедия-microsoft/id1195781986) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/wikitiles-microsoft) • [![Podster](img/favicons/podster.fm.png)](https://wikitiles.podster.fm/) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCuZkRpVSCiqFpxoh7ICnn-A) • [![VK](img/favicons/vk.com.png)](https://vk.com/wikitiles) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/8968890)|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/wikitiles-энциклопедия-microsoft/id1195781986) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/wikitiles-microsoft) • [![Podster](img/favicons/podster.fm.png)](https://wikitiles.podster.fm/) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCuZkRpVSCiqFpxoh7ICnn-A) • [![VK](img/favicons/vk.com.png)](https://vk.com/wikitiles) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/8968890) • [![RSS](img/favicons/rss.png)](https://podster.fm/rss.xml?pid=41419)|
 |**Описание**     |Добро пожаловать на подкаст-страничку канала WikiTIles - энциклопедии Microsoft!<br>Здесь я буду делиться с вами мыслями о последних событиях из Редмонда, а также последними новостями из мира высоких технологий.|
 |**Ведущие**      |Александр Старцев|
 |**Регулярность** |Время от времени|
