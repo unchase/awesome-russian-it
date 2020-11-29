@@ -35,7 +35,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">28.11.2020 20:03</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">29.11.2020 08:04</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -206,7 +206,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |~60 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1497722428" class="episodes" hashtag="bitcask">10 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1497722428" class="release-date">09.11.2020 01:15</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1497722428" class="release-date">28.11.2020 16:22</span>|
 
 ---
 
@@ -925,14 +925,14 @@
 
 |Название         |About IT — Новости высоких технологий без воды|
 |:----------------|:---------------------------------------------|
-|**Логотип**      |<span itunes-id="1523465698" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Логотип**      |<span itunes-id="1523465698" class="itunes-img"><img height="100" width="100" src="https://is5-ssl.mzstatic.com/image/thumb/Podcasts124/v4/65/77/bf/6577bf9b-6424-7305-e9f1-ec8ca7fd309f/mza_17713747875087013876.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/about-it-новости-высоких-технологий-без-воды/id1523465698) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCKAzNmCQQKAn5uKoTi7sfrQ) • [![VK](img/favicons/vk.com.png)](https://vk.com/podogreykin)|
 |**Описание**     |About IT (Эбаут АйТи) — это еженедельный новостной подкаст о высоких технологиях, где обо всех важных событиях вы узнаете за 5 минут, но иногда бывает на пару минут больше, признаемся. НОВЫЕ ВЫПУСКИ КАЖДУЮ СУББОТУ!|
 |**Ведущие**      |Василий Подогрейкин|
 |**Регулярность** |Еженедельно|
 |**Длительность** |5-10 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1523465698" class="episodes" hashtag="AboutIT"></span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1523465698" class="release-date"></span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1523465698" class="episodes" hashtag="AboutIT">7</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1523465698" class="release-date">08.11.2020 18:15</span>|
 
 ---
 
@@ -1511,14 +1511,14 @@
 
 |Название         |[Rotam](https://dnative.ru/rotam/)|
 |:----------------|:---------------------------------|
-|**Логотип**      |<span itunes-id="1494018535" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Логотип**      |<span itunes-id="1494018535" class="itunes-img"><img height="100" width="100" src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts114/v4/2b/97/bf/2b97bf15-58c8-4d43-53fb-f54a28822741/mza_1554033069068808097.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Anchor](img/favicons/anchor.fm.png)](https://anchor.fm/rotam) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/rotam/id1494018535) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8xMjUxODZjMC9wb2RjYXN0L3Jzcw==) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/rotam) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/playlist?list=PL4k8_JGPFEST3-_gdH4ueRmiXBXmBvpUx) • [![Telegram](img/favicons/t.me.png)](https://t.me/rotam_podcast) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/9704623) • [![RSS](img/favicons/rss.png)](https://anchor.fm/s/125186c0/podcast/rss)|
 |**Описание**     |Ежедневный подкаст с новостями Digital-маркетинга и SMM.|
 |**Ведущие**      |Алексей Ткачук|
 |**Регулярность** |Ежедневно|
 |**Длительность** |20-25 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1494018535" class="episodes" hashtag="rotam"></span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1494018535" class="release-date"></span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1494018535" class="episodes" hashtag="rotam">310</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1494018535" class="release-date">27.11.2020 03:51</span>|
 
 ---
 
@@ -1909,14 +1909,14 @@
 
 |Название         |[ПроUI5](https://proui5.ru/)|
 |:----------------|:---------------------------|
-|**Логотип**      |<span itunes-id="1531586151" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Логотип**      |<span itunes-id="1531586151" class="itunes-img"><img height="100" width="100" src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts124/v4/80/84/9b/80849ba8-8208-6597-3569-e299cd6392ae/mza_1291154442525910266.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/проui5/id1531586151) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cDovL3Jzcy5jYXN0Ym94LmZtL2V2ZXJlc3QvMWJjYzI5ZjdjYTkwNDI4Yzg3NmUzZDc1NTAwMTg0YzEueG1s) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/proui5/) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/id3284055?country=ru) • [![Telegram](img/favicons/t.me.png)](https://t.me/proui5_chan) • [![GitHub](img/favicons/github.com.png)](https://github.com/oisee/proui5) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/12115451) • [![RSS](img/favicons/rss.png)](http://rss.castbox.fm/everest/1bcc29f7ca90428c876e3d75500184c1.xml)|
 |**Описание**     |Первый русскоязычный подкаст о UI5 и фронтенд-разработке в мире SAP.|
 |**Ведущие**      |Илья Виноградов [![GitHub](img/favicons/github.com.png)](https://github.com/oisee)<br>Ефим Паршин<br>Сергей Никитин [![GitHub](img/favicons/github.com.png)](https://github.com/snikitin-me)|
 |**Регулярность** |Ежемесячно|
 |**Длительность** |70-100 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1531586151" class="episodes" hashtag="UI5"></span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1531586151" class="release-date"></span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1531586151" class="episodes" hashtag="UI5">3</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1531586151" class="release-date">29.11.2020 03:03</span>|
 
 ---
 
