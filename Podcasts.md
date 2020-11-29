@@ -438,6 +438,20 @@
 
 ---
 
+|Название         |Код|
+|:----------------|:--|
+|**Логотип**      |<span itunes-id="1517634826" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/код/id1517634826) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/11022255)|
+|**Описание**     |Слушайте подкаст «Кода» о том, как технологии спасут человечество.|
+|**Ведущие**      ||
+|**Регулярность** |Еженедельно|
+|**Длительность** |15-20 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1517634826" class="episodes" hashtag="Код"></span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1517634826" class="release-date"></span>|
+
+
+---
+
 |Название         |[Космос-Веб](https://www.cosmos-web.ru/)|
 |:----------------|:---------------------------------------|
 |**Ссылки**       |[![VK](img/favicons/vk.com.png)](https://vk.com/cosmosweb) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/cosmos_web) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/cosmosweb/posts/1474524369376604) • [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/cosmosweb/) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/9629980/track/61630236)|
