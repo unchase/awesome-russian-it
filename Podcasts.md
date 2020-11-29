@@ -1830,6 +1830,19 @@
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1445736032" class="episodes" hashtag="design_takoy">31 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1445736032" class="release-date">15.11.2020 21:28</span>|
 
+---
+
+|Название         |USABILITYLAB|
+|:----------------|:-----------|
+|**Логотип**      |<span itunes-id="1524320760" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Ссылки**       |[![Anchor](img/favicons/anchor.fm.png)](https://anchor.fm/usabilitylab) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/usabilitylab/id1524320760) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8yY2FmZWRlMC9wb2RjYXN0L3Jzcw) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/11499537) • [![RSS](img/favicons/rss.png)](https://anchor.fm/s/2cafede0/podcast/rss)|
+|**Описание**     |Клиентский и пользовательский опыт (UX/UI) цифровых продуктов. Мы говорим с UX-специалистами и для UX-специалистов о нашей профессии, трендах, проблемах и точках развития.|
+|**Ведущие**      |Дмитрий Сатин|
+|**Регулярность** |Несколько раз в месяц|
+|**Длительность** |60-100 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1524320760" class="episodes" hashtag="USABILITYLAB"></span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1524320760" class="release-date"></span>|
+
 </details>
 
 <details open="open"><summary><a name="podcasts-development"></a><b>Разработка</b></summary><br>
