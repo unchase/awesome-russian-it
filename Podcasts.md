@@ -75,6 +75,19 @@
 
 ---
 
+|Название         |Покриптим|
+|:----------------|:--------|
+|**Логотип**      |<span itunes-id="1514510437" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/покриптим/id1514510437) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/10812494)|
+|**Описание**     |Обсуждаем Bitcoin, Ethereum, прочие блокчейны, криптовалюты и связанные c ними технологии. История создания, идеи, идеология, реализация, последствия, конфликты, различные взгляды и модели управления - всё, чтобы ПОНЯТЬ что, зачем, кем, когда, почему и куда.|
+|**Ведущие**      |Андрей Щербович<br>Варя Беловешкина<br>Павел Шаповалов|
+|**Регулярность** |Время от времени|
+|**Длительность** |40-90 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1514510437" class="episodes" hashtag="Покриптим"></span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1514510437" class="release-date"></span>|
+
+---
+
 |Название         |Радио ForkLog|
 |:----------------|:------------|
 |**Логотип**      |<span itunes-id="1485575312" class="itunes-img"><img height="100" width="100" src="https://is3-ssl.mzstatic.com/image/thumb/Podcasts113/v4/5d/0e/66/5d0e66c0-d2cc-8063-8b79-8127faf0b345/mza_13285940128035665434.jpg/600x600bb.jpg"></span>|
