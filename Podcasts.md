@@ -1239,6 +1239,19 @@
 
 ---
 
+|Название         |IT бизнес-анализ|
+|:----------------|:---------------|
+|**Логотип**      |<span itunes-id="1495705776" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Ссылки**       |[![Anchor](img/favicons/anchor.fm.png)](https://anchor.fm/it-ba) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/it-бизнес-анализ/id1495705776) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8xMmQ4NDczYy9wb2RjYXN0L3Jzcw==) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/it-biznies-analiz) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/id2584380?country=ru) • [![RSS](img/favicons/rss.png)](https://anchor.fm/s/12d8473c/podcast/rss)|
+|**Описание**     |Подкаст об IT бизнес-анализе с нуля. Слушайте, узнавайте, становитесь!|
+|**Ведущие**      |Анна|
+|**Регулярность** |Еженедельно|
+|**Длительность** |30-40 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1495705776" class="episodes" hashtag="IT_бизнес_анализ"></span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1495705776" class="release-date"></span>|
+
+---
+
 |Название         |[IT Бизнес Брокер](https://itbb.ru/podcast)|
 |:----------------|:------------------------------------------|
 |**Логотип**      |<span itunes-id="1202582439" class="itunes-img"><img height="100" width="100" src="https://is3-ssl.mzstatic.com/image/thumb/Podcasts123/v4/4a/aa/49/4aaa497b-d59c-bbbd-746c-4330e597b7cb/mza_1577397874012836099.png/600x600bb.jpg"></span>|
