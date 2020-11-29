@@ -1758,6 +1758,19 @@
 
 <sup>[Содержание](#содержание)</sup>
 
+|Название         |DevBurger|
+|:----------------|:--------|
+|**Логотип**      |<span itunes-id="1526363789" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/devburger/id1526363789) • [![Player](img/favicons/player.fm.png)]() • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/DevBurger-id3182383?country=ru) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/11685685)|
+|**Описание**     |«DevBurger» — три разработчика: Евгений Холухоев (Java Backend), Евгений Шишко (iOS developer) и Эмиль Фаталиев (Java Backend) обсуждают разработку.|
+|**Ведущие**      |Евгений Шишко<br>Евгений Холухоев<br>Фаталиев Эмиль|
+|**Регулярность** |Раз в месяц|
+|**Длительность** |40-80 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1526363789" class="episodes" hashtag="DevBurger"></span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1526363789" class="release-date"></span>|
+
+---
+
 |Название         |JavaHut|
 |:----------------|:------|
 |**Логотип**      |<span itunes-id="1512015984" class="itunes-img"><img height="100" width="100" src="https://is3-ssl.mzstatic.com/image/thumb/Podcasts113/v4/97/34/f9/9734f973-7e4e-4ebe-c6be-885ae6654f00/mza_5938081357754737370.jpg/600x600bb.jpg"></span>|
