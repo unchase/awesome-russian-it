@@ -35,7 +35,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">30.11.2020 16:03</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">30.11.2020 20:12</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -309,8 +309,8 @@
 |**Ведущие**      ||
 |**Регулярность** |Еженедельно|
 |**Длительность** |30-80 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1527806130" class="episodes" hashtag="Выхожу_с_понедельника">15 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1527806130" class="release-date">23.11.2020 12:00</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1527806130" class="episodes" hashtag="Выхожу_с_понедельника">16 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1527806130" class="release-date">30.11.2020 15:10</span>|
 
 ---
 
@@ -369,7 +369,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |40-60 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="77546991" class="episodes" hashtag="uwp_podcast">21 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="77546991" class="release-date">19.10.2020 03:12</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="77546991" class="release-date">30.11.2020 03:57</span>|
 
 ---
 
@@ -446,7 +446,7 @@
 |**Ведущие**      ||
 |**Регулярность** |Еженедельно|
 |**Длительность** |15-20 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1517634826" class="episodes" hashtag="Код">25 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1517634826" class="episodes" hashtag="Код">25 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1517634826" class="release-date">30.11.2020 10:55</span>|
 
 
@@ -841,7 +841,7 @@
 |**Ведущие**      |Надежда Королева|
 |**Регулярность** |Впемя от времени|
 |**Длительность** |50-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1516488697" class="episodes" hashtag="moscoding">5 (<font color="green">+2</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1516488697" class="episodes" hashtag="moscoding">5 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1516488697" class="release-date">13.11.2020 12:44</span>|
 
 ---
@@ -854,8 +854,8 @@
 |**Ведущие**      |Вахтанг Махарадзе|
 |**Регулярность** |Ежедневно|
 |**Длительность** |5-10 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="episodes" hashtag="strana_tranzistoriia">1079 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="release-date">26.11.2020 14:30</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="episodes" hashtag="strana_tranzistoriia">1080 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="release-date">30.11.2020 14:30</span>|
 
 ---
 
@@ -1453,8 +1453,8 @@
 |**Ведущие**      ||
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |50-90 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="567224504" class="episodes" hashtag="it_trend">110 (<font color="red">-1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="567224504" class="release-date">18.11.2020 02:47</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="567224504" class="episodes" hashtag="it_trend">111 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="567224504" class="release-date">30.11.2020 03:19</span>|
 
 ---
 
@@ -1778,8 +1778,8 @@
 |**Ведущие**      |[Константин Буркалёв](http://blog.ksdaemon.ru/) [![GitHub](img/favicons/github.com.png)](https://github.com/KSDaemon) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/ksdaemon/) [![RSS](img/favicons/rss.png)](https://blog.ksdaemon.ru/feed/)|
 |**Регулярность** |Время от времени.|
 |**Длительность** |60-120 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="890468606" class="episodes" hashtag="sdcast">125 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="890468606" class="release-date">28.10.2020 12:58</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="890468606" class="episodes" hashtag="sdcast">126 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="890468606" class="release-date">30.11.2020 14:49</span>|
 
 ---
 
@@ -1824,14 +1824,14 @@
 
 |Название         |Sprut.AI - разговоры об умном доме|
 |:----------------|:---------------------------------|
-|**Логотип**      |<span itunes-id="1524886570" class="itunes-img"><img height="100" width="100" src="https://is4-ssl.mzstatic.com/image/thumb/Podcasts114/v4/9a/5f/ce/9a5fce5e-b718-487f-262e-c9c9271e610e/mza_3847809567394181858.jpg/600x600bb.jpg"></span>|
+|**Логотип**      |<span itunes-id="1524886570" class="itunes-img"><img height="100" width="100" src="https://is2-ssl.mzstatic.com/image/thumb/Podcasts124/v4/27/76/24/277624ef-cc35-3800-b442-58a18ace2c5d/mza_10529493917213926429.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/sprut-ai-разговоры-об-умном-доме/id1524886570) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cHM6Ly9zcHJ1dC5haS9yc3MvcG9kY2FzdHMueG1s?sa=X&ved=0CAMQ4aUDahcKEwjwkKLujqjtAhUAAAAAHQAAAAAQAg) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/Sprut.AI---разговоры-об-умном-доме-id3145719?country=ru) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/11575772) • [![RSS](img/favicons/rss.png)](https://sprut.ai/rss/podcasts.xml)|
 |**Описание**     |Sprut.AI - разговоры об умном доме. Еженедельный подкаст. Новости, обзоры и статьи.|
 |**Ведущие**      ||
 |**Регулярность** |Еженедельно|
 |**Длительность** |~60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1524886570" class="episodes" hashtag="Sprut.AI">14 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1524886570" class="release-date">23.11.2020 08:00</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1524886570" class="episodes" hashtag="Sprut.AI">15 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1524886570" class="release-date">30.11.2020 08:00</span>|
 
 ---
 
@@ -1945,8 +1945,8 @@
 |**Ведущие**      |Дмитрий Сатин|
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |60-100 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1524320760" class="episodes" hashtag="USABILITYLAB">14 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1524320760" class="release-date">22.10.2020 18:17</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1524320760" class="episodes" hashtag="USABILITYLAB">16 (<font color="green">+2</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1524320760" class="release-date">29.11.2020 17:20</span>|
 
 </details>
 
@@ -2052,8 +2052,8 @@
 |**Ведущие**      |[Анатолий Кулаков](https://github.com/AnatolyKulakov/SpbDotNet/wiki/Anatoly-Kulakov) [![GitHub](img/favicons/github.com.png)](https://github.com/AnatolyKulakov) [![DotNet.ru](img/favicons/dotnet.ru.png)](https://dotnet.ru)<br>[Игорь Лабутин](https://github.com/AnatolyKulakov/SpbDotNet/wiki/Igor-Labutin) [![GitHub](img/favicons/github.com.png)](https://github.com/ilabutin)|
 |**Регулярность** |Время от времени|
 |**Длительность** |50-80 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1484348948" class="episodes" hashtag="radiodotnet">18 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1484348948" class="release-date">13.11.2020 00:34</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1484348948" class="episodes" hashtag="radiodotnet">19 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1484348948" class="release-date">30.11.2020 01:55</span>|
 
 ---
 
@@ -2163,7 +2163,7 @@
 |**Ведущие**      |[Вадим Макеев](https://pepelsbey.net/) [![RSS](img/favicons/rss.png)](https://pepelsbey.net/feed/index.rss) [![GitHub](img/favicons/github.com.png)](https://github.com/pepelsbey) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/pepelsbey/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCaTfYudJUVA8cV_But8KZVQ) [![Medium](img/favicons/medium.com.png)](https://medium.com/@pepelsbey)<br>[Никита Дубко](https://mefody.github.io/) [![GitHub](img/favicons/github.com.png)](https://github.com/MeFoDy)<br>Мария Просвирнина<br>[Алексей Симоненко](http://simonenko.su) [![GitHub](img/favicons/github.com.png)](https://github.com/meritt) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/meritt/)<br>Ольга Алексашенко [![GitHub](img/favicons/github.com.png)](https://github.com/tachisis/)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |40-90 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1080500016" class="episodes" hashtag="webstandards_ru">258 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1080500016" class="episodes" hashtag="webstandards_ru">258 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1080500016" class="release-date">30.11.2020 03:00</span>|
 
 ---
@@ -2493,8 +2493,8 @@
 |**Ведущие**      |Владимир Красильников<br>Анатолий Шестов<br>Никита Гук [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/azazelis/)|
 |**Регулярность** |Раз в две недели|
 |**Длительность** |40-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1413689117" class="episodes" hashtag="zhiza_gd">61 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1413689117" class="release-date">23.11.2020 11:46</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1413689117" class="episodes" hashtag="zhiza_gd">62 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1413689117" class="release-date">30.11.2020 15:41</span>|
 
 ---
 
@@ -2558,8 +2558,8 @@
 |**Ведущие**      |Алексей Давыдов<br>Евгений Кистерев<br>Алексей Тестов|
 |**Регулярность** |Еженедельно|
 |**Длительность** |60-100 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1488527416" class="episodes" hashtag="pilimtrem">44 (<font color="red">-1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1488527416" class="release-date">20.11.2020 18:58</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1488527416" class="episodes" hashtag="pilimtrem">45 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1488527416" class="release-date">29.11.2020 17:55</span>|
 
 ---
 
