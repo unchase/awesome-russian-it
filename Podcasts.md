@@ -35,7 +35,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">06.12.2020 16:03</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">06.12.2020 20:06</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1150,8 +1150,8 @@
 |**Ведущие**      |Андрей Стифеев<br>Максим Гордиенко|
 |**Регулярность** |Время от времени|
 |**Длительность** |70-90 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1504236627" class="episodes" hashtag="CGMGZN">10 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1504236627" class="release-date">06.12.2020 00:26</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1504236627" class="episodes" hashtag="CGMGZN">4 (<font color="red">-6</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1504236627" class="release-date">16.11.2020 23:29</span>|
 
 ---
 
