@@ -1419,14 +1419,14 @@
 
 ---
 
-|Название         |[IT за Edu](https://it-edu.github.io/)|
+|Название         |[IT за Edu](https://it-za-edu.github.io/)|
 |:----------------|:-------------------------------------|
 |**Логотип**      |<span itunes-id="1513329008" class="itunes-img"><img height="100" width="100" src="https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/18/97/f4/1897f47c-790b-04cd-b21b-8cbc14fecc87/mza_12636367060036800707.jpg/600x600bb.jpg"></span>|
-|**Ссылки**       |[![Anchor](img/favicons/anchor.fm.png)](https://anchor.fm/it-za-edu) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/us/podcast/it-за-edu/id1513329008) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8xZmJkOTkyMC9wb2RjYXN0L3Jzcw%3D%3D) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UC8UfZgI5XR9Cgf2D9b1PKgw) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcasts-194944477) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/ITEdu2) • [![Telegram](img/favicons/t.me.png)](https://t.me/podcast_it_za_edu) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/10653753) • [![RSS](img/favicons/rss.png)](https://anchor.fm/s/1fbd9920/podcast/rss)|
+|**Ссылки**       |[![Anchor](img/favicons/anchor.fm.png)](https://anchor.fm/it-za-edu) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/us/podcast/it-за-edu/id1513329008) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8xZmJkOTkyMC9wb2RjYXN0L3Jzcw%3D%3D) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UC8UfZgI5XR9Cgf2D9b1PKgw) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcasts-194944477) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/ITEdu2) • [![Telegram](img/favicons/t.me.png)](https://t.me/podcast_it_za_edu) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/10653753) • [![RSS](img/favicons/rss.png)](https://anchor.fm/s/1fbd9920/podcast/rss) • [![GitHub](img/favicons/github.com.png)](https://github.com/IT-za-Edu)|
 |**Описание**     |Собираемся с различными IT-специалистами и беседуем на разные темы.|
-|**Ведущие**      |Старинин Андрей [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/AnSt/)|
-|**Регулярность** |Раз в две недели|
-|**Длительность** |30-100 минут|
+|**Ведущие**      |Старинин Андрей [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/AnSt/)[![GitHub](img/favicons/github.com.png)](https://github.com/anst-foto)[![Telegram](img/favicons/t.me.png)](https://t.me/anst_foto)<br>Пушкин Сергей[![GitHub](img/favicons/github.com.png)](https://github.com/pushkinser)|
+|**Регулярность** |Еженедельно, но бывают перерывы|
+|**Длительность** |~90 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1513329008" class="episodes" hashtag="itedu">18 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1513329008" class="release-date">31.10.2020 20:00</span>|
 
