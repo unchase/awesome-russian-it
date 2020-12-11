@@ -35,7 +35,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">11.12.2020 08:04</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">11.12.2020 12:04</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -355,8 +355,8 @@
 |**Ведущие**      |Дмитрий Суховаров|
 |**Регулярность** |Ежедневно|
 |**Длительность** |10-20 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1492900770" class="episodes" hashtag="dsuhovarov">175 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1492900770" class="release-date">09.12.2020 11:00</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1492900770" class="episodes" hashtag="dsuhovarov">176 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1492900770" class="release-date">11.12.2020 10:00</span>|
 
 ---
 
@@ -711,7 +711,7 @@
 |**Ведущие**      |Леонид Воробьёв|
 |**Регулярность** |Еженедельно|
 |**Длительность** |~5 минут, ~60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1471538022" class="episodes" hashtag="Полезные_Chipсы">29 (<font color="green">+2</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1471538022" class="episodes" hashtag="Полезные_Chipсы">29 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1471538022" class="release-date">10.12.2020 21:31</span>|
 
 ---
@@ -854,8 +854,8 @@
 |**Ведущие**      |Вахтанг Махарадзе|
 |**Регулярность** |Ежедневно|
 |**Длительность** |5-10 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="episodes" hashtag="strana_tranzistoriia">1086 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="release-date">09.12.2020 14:30</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="episodes" hashtag="strana_tranzistoriia">1087 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="release-date">10.12.2020 14:30</span>|
 
 ---
 
@@ -958,7 +958,7 @@
 |**Ведущие**      |[Лев Пикалёв](http://levpikalev.com/)|
 |**Регулярность** |Раз в две недели|
 |**Длительность** |30-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1443781654" class="episodes" hashtag="khantflou_insight">46 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1443781654" class="episodes" hashtag="khantflou_insight">46 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1443781654" class="release-date">10.12.2020 18:26</span>|
 
 ---
@@ -2467,8 +2467,8 @@
 |**Ведущие**      ||
 |**Регулярность** |Еженедельно|
 |**Длительность** |20-50 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1521240754" class="episodes" hashtag="Геймдев_без_сахара">23 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1521240754" class="release-date">03.12.2020 12:30</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1521240754" class="episodes" hashtag="Геймдев_без_сахара">24 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1521240754" class="release-date">10.12.2020 12:30</span>|
 
 ---
 
@@ -2571,7 +2571,7 @@
 |**Ведущие**      |Дмитрий Борисов<br>Артемий Леонов|
 |**Регулярность** |Еженедельно|
 |**Длительность** |80-120 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1506185868" class="episodes" hashtag="xyz">31 (<font color="red">0</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1506185868" class="episodes" hashtag="xyz">32 (<font color="green">+1</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1506185868" class="release-date">10.12.2020 21:09</span>|
 
 ---
