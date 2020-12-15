@@ -35,7 +35,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">14.12.2020 20:14</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">15.12.2020 08:05</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -309,8 +309,8 @@
 |**Ведущие**      ||
 |**Регулярность** |Еженедельно|
 |**Длительность** |30-80 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1527806130" class="episodes" hashtag="Выхожу_с_понедельника">17 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1527806130" class="release-date">07.12.2020 12:00</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1527806130" class="episodes" hashtag="Выхожу_с_понедельника">18 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1527806130" class="release-date">14.12.2020 16:03</span>|
 
 ---
 
@@ -828,8 +828,8 @@
 |**Ведущие**      |Владимир Смеркис|
 |**Регулярность** |Еженедельно|
 |**Длительность** |~30 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1095124477" class="episodes" hashtag="silikonovie">212 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1095124477" class="release-date">15.09.2020 14:33</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1095124477" class="episodes" hashtag="silikonovie">221 (<font color="green">+9</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1095124477" class="release-date">14.12.2020 13:37</span>|
 
 ---
 
@@ -1242,14 +1242,14 @@
 
 |Название         |[ForGeeks Podcast](https://anchor.fm/forgeeks)|
 |:----------------|:---------------------------------------------|
-|**Логотип**      |<span itunes-id="1436711112" class="itunes-img"><img height="100" width="100" src="https://is2-ssl.mzstatic.com/image/thumb/Podcasts114/v4/d0/ca/3d/d0ca3d1a-1093-9fa4-a318-13809a386700/mza_15214664940448135910.jpg/600x600bb.jpg"></span>|
+|**Логотип**      |<span itunes-id="1436711112" class="itunes-img"><img height="100" width="100" src="https://is4-ssl.mzstatic.com/image/thumb/Podcasts114/v4/be/cf/76/becf760d-1c03-0c91-1835-07a07bc63cf9/mza_14110078908863022732.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/forgeeks-podcast/id1436711112) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/?feed=aHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL2ZnZWVrcw) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/forgeeks-podcast/) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/forgeeks-podcast-2578747) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/forgeeks-podcast) • [![Podster](img/favicons/podster.fm.png)](https://forgeeks.podster.fm/) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcasts-121593523) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/7560675) • [![RSS](img/favicons/rss.png)](https://anchor.fm/s/b4fb914/podcast/rss)|
 |**Описание**     |Всё про технологии и около того. Гаджеты, инновации, медицина, космос и пр. Каждую неделю рассказываем о новом и интересном в мире IT.|
 |**Ведущие**      |Сергей Кузнецов<br>Вахтанг Махарадзе|
 |**Регулярность** |Еженедельно|
 |**Длительность** |30-40 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1436711112" class="episodes" hashtag="forgeeks">64 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1436711112" class="release-date">23.11.2020 19:25</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1436711112" class="episodes" hashtag="forgeeks">65 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1436711112" class="release-date">14.12.2020 19:22</span>|
 
 ---
 
@@ -1326,7 +1326,7 @@
 |**Ведущие**      |[Далер Алиёров](https://aliyorov.com/) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/daleraliyorov/)<br>Иван Звягин [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/baragol/) <br>Адель Мубаракшин [![GitHub](img/favicons/github.com.png)](https://github.com/ExarGD)<br>Николай Землянский<br>Анна Линская|
 |**Регулярность** |Еженедельно|
 |**Длительность** |30-50 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1464188474" class="episodes" hashtag="habrweekly">87 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1464188474" class="episodes" hashtag="habrweekly">87 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1464188474" class="release-date">14.12.2020 17:48</span>|
 
 ---
@@ -1648,8 +1648,8 @@
 |**Ведущие**      |Стас Цыганов [![GitHub](img/favicons/github.com.png)](https://github.com/DevAlloy)<br>[Егор Толстой](http://etolstoy.com/) [![Medium](img/favicons/medium.com.png)](https://medium.com/@etolstoy) [![GitHub](img/favicons/github.com.png)](https://github.com/etolstoy)<br>Екатерина Петрова<br>Евгений Кателла|
 |**Регулярность** |Еженедельно|
 |**Длительность** |80-150 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1209828744" class="episodes" hashtag="podlodka">202 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1209828744" class="release-date">07.12.2020 12:14</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1209828744" class="episodes" hashtag="podlodka">203 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1209828744" class="release-date">14.12.2020 16:26</span>|
 
 ---
 
@@ -2558,7 +2558,7 @@
 |**Ведущие**      |Алексей Давыдов<br>Евгений Кистерев<br>Алексей Тестов|
 |**Регулярность** |Еженедельно|
 |**Длительность** |60-100 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1488527416" class="episodes" hashtag="pilimtrem">47 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1488527416" class="episodes" hashtag="pilimtrem">47 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1488527416" class="release-date">14.12.2020 15:00</span>|
 
 ---
