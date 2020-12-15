@@ -35,7 +35,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">15.12.2020 16:06</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">15.12.2020 20:17</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -737,8 +737,8 @@
 |**Ведущие**      ||
 |**Регулярность** |Еженедельно|
 |**Длительность** |10-20 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1516536908" class="episodes" hashtag="Радио_Нарния">29 (<font color="green">+1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1516536908" class="release-date">15.12.2020 09:00</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1516536908" class="episodes" hashtag="Радио_Нарния">28 (<font color="red">-1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1516536908" class="release-date">08.12.2020 09:00</span>|
 
 ---
 
@@ -854,7 +854,7 @@
 |**Ведущие**      |Вахтанг Махарадзе|
 |**Регулярность** |Ежедневно|
 |**Длительность** |5-10 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="episodes" hashtag="strana_tranzistoriia">1087 (<font color="red">-1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="episodes" hashtag="strana_tranzistoriia">1087 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="release-date">10.12.2020 14:30</span>|
 
 ---
@@ -1206,14 +1206,14 @@
 
 |Название         |Digital Newsroom|
 |:----------------|:---------------|
-|**Логотип**      |<span itunes-id="1415692619" class="itunes-img"><img height="100" width="100" src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts114/v4/11/93/dc/1193dc8f-6134-7246-1686-384b1aed9e4e/mza_7006790066363303932.jpg/600x600bb.jpg"></span>|
+|**Логотип**      |<span itunes-id="1415692619" class="itunes-img"><img height="100" width="100" src="https://is5-ssl.mzstatic.com/image/thumb/Podcasts114/v4/ea/3e/3e/ea3e3e3b-3a4e-b760-e2e9-5467cc9dbac1/mza_15030456045984146977.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/zhbanova/tracks) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/podcast/digital-newsroom/id1415692619) • [![Telegram](img/favicons/t.me.png)](https://telega.one/newsroomaz) • [![RSS](img/favicons/rss.png)](http://feeds.soundcloud.com/users/soundcloud:users:480761115/sounds.rss)|
 |**Описание**     |Подкаст про медиа, технологии и ключевых игроков рынка. Обсуждаем с гостями последние новости и говорим о том, как это повлияет на медиа в России, и что можно применить прямо сейчас.|
 |**Ведущие**      |Анастасия Жбанова|
 |**Регулярность** |Время от времени|
 |**Длительность** |40-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1415692619" class="episodes" hashtag="newsroomaz">16 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1415692619" class="release-date">15.12.2020 10:50</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1415692619" class="episodes" hashtag="newsroomaz">15 (<font color="red">-1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1415692619" class="release-date">27.11.2020 15:57</span>|
 
 ---
 
