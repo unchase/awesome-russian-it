@@ -35,7 +35,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">17.12.2020 08:04</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">17.12.2020 12:05</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -53,8 +53,8 @@
 |**Ведущие**      |[Марат Сибгатулин (eucariot)](https://eucariot.livejournal.com/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCi8Dw_Kc5hKyK83xCW0jVfQ) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/eucariot/)<br>Александр Фатин (Лохматый Мамонт) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/loxmatiymamont/)<br>Антон Клочков<br>[Алексей Учакин (Snake)](https://nixman.info/) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/night_snake/) [![GitHub](img/favicons/github.com.png)](https://github.com/nightsnake) [![RSS](img/favicons/rss.png)](http://feeds.feedburner.com/khd/rss?format=xml)<br>Антон Литвинов (Dr_Wut) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/dr_wut/)<br>Роман Козлов [![GitHub](img/favicons/github.com.png)](https://github.com/soriel)<br>Роман Горшунов|
 |**Регулярность** |Еженедельно|
 |**Длительность** |30-130 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1065445951" class="episodes" hashtag="linkmeup">218 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1065445951" class="release-date">11.12.2020 12:58</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1065445951" class="episodes" hashtag="linkmeup">219 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1065445951" class="release-date">17.12.2020 06:02</span>|
 
 </details>
 
@@ -271,7 +271,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |40-100 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="523996227" class="episodes" hashtag="tpair_podcast">10 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="523996227" class="release-date">09.12.2020 18:04</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="523996227" class="release-date">17.12.2020 07:03</span>|
 
 ---
 
@@ -394,8 +394,8 @@
 |**Ведущие**      |[Самат Галимов](https://samat.me/) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/samat/) [![Medium](img/favicons/medium.com.png)](https://medium.com/@samat)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |15-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1488945593" class="episodes" hashtag="ctodaily">40 (<font color="green">+1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1488945593" class="release-date">17.12.2020 02:33</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1488945593" class="episodes" hashtag="ctodaily">39 (<font color="red">-1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1488945593" class="release-date">10.12.2020 05:00</span>|
 
 ---
 
@@ -581,7 +581,7 @@
 |**Ведущие**      |Ира Сергеева<br>Леонид Сергеев|
 |**Регулярность** |Время от времени|
 |**Длительность** |30-40 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1451758558" class="episodes" hashtag="oh.dad.podcast">40 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1451758558" class="episodes" hashtag="oh.dad.podcast">40 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1451758558" class="release-date">17.12.2020 01:09</span>|
 
 ---
@@ -777,7 +777,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |40-60 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="526797445" class="episodes" hashtag="radiomaorg">10 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="526797445" class="release-date">26.11.2020 20:24</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="526797445" class="release-date">16.12.2020 20:11</span>|
 
 ---
 
@@ -1023,7 +1023,7 @@
 |**Ведущие**      ||
 |**Регулярность** |Ежедневно|
 |**Длительность** |~5 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="episodes" hashtag="shortcode">134 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="episodes" hashtag="shortcode">134 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="release-date">17.12.2020 03:00</span>|
 
 ---
@@ -1137,8 +1137,8 @@
 |**Ведущие**      ||
 |**Регулярность** |Еженедельно|
 |**Длительность** |20-80 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1484275234" class="episodes" hashtag="matematicxyz">57 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1484275234" class="release-date">10.12.2020 10:14</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1484275234" class="episodes" hashtag="matematicxyz">58 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1484275234" class="release-date">17.12.2020 10:28</span>|
 
 ---
 
@@ -1404,8 +1404,8 @@
 |**Ведущие**      |[Алексей Комаров](https://komarov.bz/)|
 |**Регулярность** |Время от времени|
 |**Длительность** |30-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1202582439" class="episodes" hashtag="itbizbroker">54 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1202582439" class="release-date">05.11.2020 14:49</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1202582439" class="episodes" hashtag="itbizbroker">55 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1202582439" class="release-date">16.12.2020 14:33</span>|
 
 ---
 
@@ -1440,8 +1440,8 @@
 |**Ведущие**      |Александр Ляпота|
 |**Регулярность** |Еженедельно|
 |**Длительность** |30-70 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="454929808" class="episodes" hashtag="Its_A_Good_Cast">127 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="454929808" class="release-date">26.11.2020 10:00</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="454929808" class="episodes" hashtag="Its_A_Good_Cast">128 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="454929808" class="release-date">16.12.2020 10:00</span>|
 
 ---
 
@@ -1518,8 +1518,8 @@
 |**Ведущие**      ||
 |**Регулярность** |Еженедельно|
 |**Длительность** |50-100 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="454929808" class="episodes" hashtag="keddr">127 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="454929808" class="release-date">26.11.2020 10:00</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="454929808" class="episodes" hashtag="keddr">128 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="454929808" class="release-date">16.12.2020 10:00</span>|
 
 ---
 
@@ -1583,8 +1583,8 @@
 |**Ведущие**      |Юрий Агеев|
 |**Регулярность** |Еженедельно|
 |**Длительность** |40-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1417851966" class="episodes" hashtag="productsense">123 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1417851966" class="release-date">09.12.2020 23:59</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1417851966" class="episodes" hashtag="productsense">124 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1417851966" class="release-date">16.12.2020 23:59</span>|
 
 ---
 
@@ -2112,8 +2112,8 @@
 |**Ведущие**      |Григорий Петров [![GitHub](img/favicons/github.com.png)](https://github.com/grigoryvp) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/eyeofhell/)<br>Илья Лебедев [![GitHub](img/favicons/github.com.png)](https://github.com/Melevir)<br>[Валентин Домбровский](http://dombrovsky.me/)<br>Михаил Корнеев [![GitHub](img/favicons/github.com.png)](https://github.com/korneevm) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/voldar/)<br>Злата Обуховская<br>Алексей Штырняев|
 |**Регулярность** |Еженедельно|
 |**Длительность** |30-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1429543935" class="episodes" hashtag="moscowpython">95 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1429543935" class="release-date">09.12.2020 18:01</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1429543935" class="episodes" hashtag="moscowpython">96 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1429543935" class="release-date">16.12.2020 19:10</span>|
 
 </details>
 
@@ -2571,8 +2571,8 @@
 |**Ведущие**      |Дмитрий Борисов<br>Артемий Леонов|
 |**Регулярность** |Еженедельно|
 |**Длительность** |80-120 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1506185868" class="episodes" hashtag="xyz">32 (<font color="red">-1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1506185868" class="release-date">10.12.2020 21:09</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1506185868" class="episodes" hashtag="xyz">33 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1506185868" class="release-date">16.12.2020 17:33</span>|
 
 ---
 
