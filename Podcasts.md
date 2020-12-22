@@ -35,7 +35,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">22.12.2020 16:19</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">22.12.2020 20:35</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -446,8 +446,8 @@
 |**Ведущие**      ||
 |**Регулярность** |Еженедельно|
 |**Длительность** |15-20 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1517634826" class="episodes" hashtag="Код">27 (<font color="red">-1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1517634826" class="release-date">15.12.2020 15:29</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1517634826" class="episodes" hashtag="Код">28 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1517634826" class="release-date">22.12.2020 03:00</span>|
 
 
 ---
@@ -685,8 +685,8 @@
 |**Ведущие**      ||
 |**Регулярность** |Еженедельно|
 |**Длительность** |~10-15 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1455382034" class="episodes" hashtag="ptcodding">59 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1455382034" class="release-date">01.12.2020 14:08</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1455382034" class="episodes" hashtag="ptcodding">60 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1455382034" class="release-date">22.12.2020 12:47</span>|
 
 ---
 
@@ -711,8 +711,8 @@
 |**Ведущие**      |Леонид Воробьёв|
 |**Регулярность** |Еженедельно|
 |**Длительность** |~5 минут, ~60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1471538022" class="episodes" hashtag="Полезные_Chipсы">29 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1471538022" class="release-date">10.12.2020 21:31</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1471538022" class="episodes" hashtag="Полезные_Chipсы">30 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1471538022" class="release-date">22.12.2020 14:10</span>|
 
 ---
 
@@ -737,8 +737,8 @@
 |**Ведущие**      ||
 |**Регулярность** |Еженедельно|
 |**Длительность** |10-20 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1516536908" class="episodes" hashtag="Радио_Нарния">29 (<font color="red">-1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1516536908" class="release-date">15.12.2020 09:00</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1516536908" class="episodes" hashtag="Радио_Нарния">30 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1516536908" class="release-date">22.12.2020 09:00</span>|
 
 ---
 
@@ -854,8 +854,8 @@
 |**Ведущие**      |Вахтанг Махарадзе|
 |**Регулярность** |Ежедневно|
 |**Длительность** |5-10 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="episodes" hashtag="strana_tranzistoriia">1091 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="release-date">21.12.2020 14:30</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="episodes" hashtag="strana_tranzistoriia">1092 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="release-date">22.12.2020 14:30</span>|
 
 ---
 
@@ -1206,14 +1206,14 @@
 
 |Название         |Digital Newsroom|
 |:----------------|:---------------|
-|**Логотип**      |<span itunes-id="1415692619" class="itunes-img"><img height="100" width="100" src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts114/v4/11/93/dc/1193dc8f-6134-7246-1686-384b1aed9e4e/mza_7006790066363303932.jpg/600x600bb.jpg"></span>|
+|**Логотип**      |<span itunes-id="1415692619" class="itunes-img"><img height="100" width="100" src="https://is5-ssl.mzstatic.com/image/thumb/Podcasts114/v4/92/e8/e5/92e8e580-e2ce-42e0-937d-46c870571111/mza_10178725153722044392.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/zhbanova/tracks) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/podcast/digital-newsroom/id1415692619) • [![Telegram](img/favicons/t.me.png)](https://telega.one/newsroomaz) • [![RSS](img/favicons/rss.png)](http://feeds.soundcloud.com/users/soundcloud:users:480761115/sounds.rss)|
 |**Описание**     |Подкаст про медиа, технологии и ключевых игроков рынка. Обсуждаем с гостями последние новости и говорим о том, как это повлияет на медиа в России, и что можно применить прямо сейчас.|
 |**Ведущие**      |Анастасия Жбанова|
 |**Регулярность** |Время от времени|
 |**Длительность** |40-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1415692619" class="episodes" hashtag="newsroomaz">16 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1415692619" class="release-date">15.12.2020 10:50</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1415692619" class="episodes" hashtag="newsroomaz">17 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1415692619" class="release-date">22.12.2020 15:06</span>|
 
 ---
 
@@ -2052,8 +2052,8 @@
 |**Ведущие**      |[Анатолий Кулаков](https://github.com/AnatolyKulakov/SpbDotNet/wiki/Anatoly-Kulakov) [![GitHub](img/favicons/github.com.png)](https://github.com/AnatolyKulakov) [![DotNet.ru](img/favicons/dotnet.ru.png)](https://dotnet.ru)<br>[Игорь Лабутин](https://github.com/AnatolyKulakov/SpbDotNet/wiki/Igor-Labutin) [![GitHub](img/favicons/github.com.png)](https://github.com/ilabutin)|
 |**Регулярность** |Время от времени|
 |**Длительность** |50-80 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1484348948" class="episodes" hashtag="radiodotnet">19 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1484348948" class="release-date">30.11.2020 01:55</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1484348948" class="episodes" hashtag="radiodotnet">20 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1484348948" class="release-date">22.12.2020 10:51</span>|
 
 ---
 
@@ -2163,8 +2163,8 @@
 |**Ведущие**      |[Вадим Макеев](https://pepelsbey.net/) [![RSS](img/favicons/rss.png)](https://pepelsbey.net/feed/index.rss) [![GitHub](img/favicons/github.com.png)](https://github.com/pepelsbey) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/pepelsbey/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCaTfYudJUVA8cV_But8KZVQ) [![Medium](img/favicons/medium.com.png)](https://medium.com/@pepelsbey)<br>[Никита Дубко](https://mefody.github.io/) [![GitHub](img/favicons/github.com.png)](https://github.com/MeFoDy)<br>Мария Просвирнина<br>[Алексей Симоненко](http://simonenko.su) [![GitHub](img/favicons/github.com.png)](https://github.com/meritt) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/meritt/)<br>Ольга Алексашенко [![GitHub](img/favicons/github.com.png)](https://github.com/tachisis/)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |40-90 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1080500016" class="episodes" hashtag="webstandards_ru">261 (<font color="green">+1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1080500016" class="release-date">22.12.2020 03:00</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1080500016" class="episodes" hashtag="webstandards_ru">260 (<font color="red">-1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1080500016" class="release-date">15.12.2020 03:00</span>|
 
 ---
 
@@ -2721,8 +2721,8 @@
 |**Ведущие**      |Сергей Пирогов|
 |**Регулярность** |Время от времени|
 |**Длительность** |80-110 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1350668092" class="episodes" hashtag="qaguild">56 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1350668092" class="release-date">24.11.2020 11:06</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1350668092" class="episodes" hashtag="qaguild">57 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1350668092" class="release-date">21.12.2020 18:52</span>|
 
 </details>
 
