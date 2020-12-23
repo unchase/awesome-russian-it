@@ -1165,6 +1165,16 @@
 
 ---
 
+|Название         |[Cyberian](https://anchor.fm/cyberian)|
+|:----------------|:-------------------------------------|
+|**Ссылки**       |[![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy85MTQwZWZjL3BvZGNhc3QvcnNz) • [![RSS](img/favicons/rss.png)](https://anchor.fm/s/9140efc/podcast/rss)|
+|**Описание**     |Айти, крипта, финансы и история.|
+|**Ведущие**      ||
+|**Регулярность** |Время от времени|
+|**Длительность** |~200 минут|
+
+---
+
 |Название         |Daily Dev|
 |:----------------|:--------|
 |**Логотип**      |<span itunes-id="1508419417" class="itunes-img"><img height="100" width="100" src="https://is2-ssl.mzstatic.com/image/thumb/Podcasts113/v4/a3/27/36/a3273626-3366-4b6d-6240-24dfbcc6ae38/mza_12991006425224196084.jpg/600x600bb.jpg"></span>|
