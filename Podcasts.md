@@ -35,7 +35,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">24.12.2020 12:13</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">24.12.2020 16:20</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -179,8 +179,8 @@
 |**Ведущие**      |Лекс АйТиБорода [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/lex_kar/)|
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |20-120 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1449804780" class="episodes" hashtag="itbeard">126 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1449804780" class="release-date">10.12.2020 18:00</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1449804780" class="episodes" hashtag="itbeard">127 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1449804780" class="release-date">24.12.2020 10:00</span>|
 
 ---
 
@@ -1137,8 +1137,8 @@
 |**Ведущие**      ||
 |**Регулярность** |Еженедельно|
 |**Длительность** |20-80 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1484275234" class="episodes" hashtag="matematicxyz">58 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1484275234" class="release-date">17.12.2020 10:28</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1484275234" class="episodes" hashtag="matematicxyz">59 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1484275234" class="release-date">24.12.2020 11:50</span>|
 
 ---
 
@@ -2199,7 +2199,7 @@
 |**Ведущие**      |Илья Виноградов [![GitHub](img/favicons/github.com.png)](https://github.com/oisee)<br>Ефим Паршин<br>Сергей Никитин [![GitHub](img/favicons/github.com.png)](https://github.com/snikitin-me)|
 |**Регулярность** |Ежемесячно|
 |**Длительность** |70-100 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1531586151" class="episodes" hashtag="UI5">4 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1531586151" class="episodes" hashtag="UI5">4 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1531586151" class="release-date">23.12.2020 18:33</span>|
 
 ---
