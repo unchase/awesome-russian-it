@@ -35,7 +35,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">28.12.2020 16:17</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">28.12.2020 20:38</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -309,7 +309,7 @@
 |**Ведущие**      ||
 |**Регулярность** |Еженедельно|
 |**Длительность** |30-80 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1527806130" class="episodes" hashtag="Выхожу_с_понедельника">20 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1527806130" class="episodes" hashtag="Выхожу_с_понедельника">20 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1527806130" class="release-date">28.12.2020 12:00</span>|
 
 ---
@@ -355,7 +355,7 @@
 |**Ведущие**      |Дмитрий Суховаров|
 |**Регулярность** |Ежедневно|
 |**Длительность** |10-20 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1492900770" class="episodes" hashtag="dsuhovarov">185 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1492900770" class="episodes" hashtag="dsuhovarov">185 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1492900770" class="release-date">28.12.2020 13:00</span>|
 
 ---
@@ -1580,8 +1580,8 @@
 |**Ведущие**      |Михаил|
 |**Регулярность** |Еженедельно|
 |**Длительность** |20-40 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1495052772" class="episodes" hashtag="Machine_Learning_Podcast">17 (<font color="green">+1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1495052772" class="release-date">28.12.2020 07:00</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1495052772" class="episodes" hashtag="Machine_Learning_Podcast">16 (<font color="red">-1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1495052772" class="release-date">20.12.2020 09:00</span>|
 
 ---
 
@@ -1671,7 +1671,7 @@
 |**Ведущие**      ||
 |**Регулярность** |Еженедельно|
 |**Длительность** |60-100 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1455023466" class="episodes" hashtag="proconf">83 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1455023466" class="episodes" hashtag="proconf">83 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1455023466" class="release-date">28.12.2020 12:08</span>|
 
 ---
@@ -2264,8 +2264,8 @@
 |**Ведущие**      ||
 |**Регулярность** |Еженедельно|
 |**Длительность** |60-120 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1247192730" class="episodes" hashtag="frontend_u">179 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1247192730" class="release-date">18.12.2020 18:42</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1247192730" class="episodes" hashtag="frontend_u">180 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1247192730" class="release-date">28.12.2020 13:08</span>|
 
 ---
 
@@ -2432,8 +2432,8 @@
 |**Ведущие**      |Денис Неклюдов [![GitHub](img/favicons/github.com.png)](https://github.com/nekdenis) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCj_j_lkgl-d2AMIMJiTZxzg) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/nekdenis/)<br>Александр Ефременков [![GitHub](img/favicons/github.com.png)](https://github.com/iamironz)<br>Дмитрий Полищук [![GitHub](img/favicons/github.com.png)](https://github.com/dpolishuk)<br>Даниил Сердюков [![GitHub](img/favicons/github.com.png)](https://github.com/DanielSerdyukov/)<br>и др.|
 |**Регулярность** |Время от времени|
 |**Длительность** |50-140 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1076856310" class="episodes" hashtag="androiddevpodcast">112 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1076856310" class="release-date">14.08.2020 10:14</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1076856310" class="episodes" hashtag="androiddevpodcast">113 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1076856310" class="release-date">28.12.2020 10:17</span>|
 
 ---
 
@@ -2503,8 +2503,8 @@
 |**Ведущие**      |Владимир Красильников<br>Анатолий Шестов<br>Никита Гук [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/azazelis/)|
 |**Регулярность** |Раз в две недели|
 |**Длительность** |40-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1413689117" class="episodes" hashtag="zhiza_gd">65 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1413689117" class="release-date">21.12.2020 10:57</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1413689117" class="episodes" hashtag="zhiza_gd">66 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1413689117" class="release-date">28.12.2020 12:03</span>|
 
 ---
 
@@ -2568,8 +2568,8 @@
 |**Ведущие**      |Алексей Давыдов<br>Евгений Кистерев<br>Алексей Тестов|
 |**Регулярность** |Еженедельно|
 |**Длительность** |60-100 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1488527416" class="episodes" hashtag="pilimtrem">48 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1488527416" class="release-date">21.12.2020 19:22</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1488527416" class="episodes" hashtag="pilimtrem">49 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1488527416" class="release-date">28.12.2020 18:18</span>|
 
 ---
 
@@ -2748,7 +2748,7 @@
 |**Ведущие**      |Константин Романов|
 |**Регулярность** |Время от времени|
 |**Длительность** |~30 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1492565320" class="episodes" hashtag="Большая_Дата">14 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1492565320" class="episodes" hashtag="Большая_Дата">14 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1492565320" class="release-date">28.12.2020 13:05</span>|
 
 </details>
