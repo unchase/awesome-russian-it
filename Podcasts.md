@@ -976,6 +976,19 @@
 
 ---
 
+|Название         |Хоба!|
+|:----------------|:----|
+|**Логотип**      |<span itunes-id="1542090813" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/хоба/id1542090813) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/khoba) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/Хоба!-id3562584) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/12947890)|
+|**Описание**     |«Хоба!» — приятный повод собраться дружеской компанией и поговорить часок о новостях недели. Нас шестеро — маркетологиня, редактор, продюсер, менеджер, тестировщик и дизайнер. У нас разные интересы, поэтому и темы всегда разные. Технологии, образование, книги, кино, музыка, наука, игры — нужное подчеркнуть.|
+|**Ведущие**      |Николай<br>[Лев Пикалёв](http://levpikalev.com/) [![Medium](img/favicons/medium.com.png)](https://podcasts-prevail.medium.com/)<br>Анна [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/Shelsneg/)<br>Адель<br>Далер Алиёров [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/daleraliyorov/)<br>Иван Звягин [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/baragol/)|
+|**Регулярность** |Еженедельно|
+|**Длительность** |~60 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1542090813" class="episodes" hashtag="Хоба"></span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1542090813" class="release-date"></span>|
+
+---
+
 |Название         |Цинковый прод (18+)|
 |:----------------|:------------------|
 |**Логотип**      |<span itunes-id="1458311254" class="itunes-img"><img height="100" width="100" src="https://is4-ssl.mzstatic.com/image/thumb/Podcasts124/v4/38/0c/80/380c80b4-b8d4-d3c5-8d9b-df0356b901d2/mza_3559027935182007300.jpg/600x600bb.jpg"></span>|
