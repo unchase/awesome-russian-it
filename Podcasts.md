@@ -560,6 +560,19 @@
 
 ---
 
+|Название         |[Неопознанный Искусственный Интеллект (НИИ)](https://sysblok.ru/unknown_ai/)|
+|:----------------|:---------------------------------------------------------------------------|
+|**Логотип**      |<span itunes-id="1542538163" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/id1542538163) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8xMmRhMDE2Yy9wb2RjYXN0L3Jzcw==) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/nieopoznannyi-iskusstviennyi-intielliekt-nii) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/Неопознанный-Искусственный-Интеллект-(НИИ)-id3573746) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcasts-168717779) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/sysblok) • [![Telegram](img/favicons/t.me.png)](https://t.me/UnknownAI) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/12967722)|
+|**Описание**     |НИИ — подкаст про искусственный интеллект от издания «Системный Блокъ».<br>К нам в гости приходят ученые, программисты, лингвисты, математики и другие люди, причастные к разработке искусственного интеллекта. С ними мы обсуждаем, что называют искусственным интеллектом сегодня, во что он превратится завтра и когда машины научатся нас понимать по-настоящему.|
+|**Ведущие**      |Даниил Скоринкин<br>Анатолий Старостин|
+|**Регулярность** |Еженедельно|
+|**Длительность** |30-60 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1542538163" class="episodes" hashtag="НИИ"></span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1542538163" class="release-date"></span>|
+
+---
+
 |Название         |Ничего такого|
 |:----------------|:------------|
 |**Логотип**      |<span itunes-id="1498922167" class="itunes-img"><img height="100" width="100" src="https://is4-ssl.mzstatic.com/image/thumb/Podcasts124/v4/28/d5/12/28d51206-2acc-fe6b-5146-b6dcda088dbf/mza_1340325875633444502.jpg/600x600bb.jpg"></span>|
