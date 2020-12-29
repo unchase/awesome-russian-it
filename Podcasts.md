@@ -2343,6 +2343,19 @@
 
 ---
 
+|Название         |[FrontoWeek](https://frontoweek.ru/)|
+|:----------------|:-----------------------------------------|
+|**Логотип**      |<span itunes-id="1511253284" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Ссылки**       |[![Anchor](img/favicons/anchor.fm.png)](https://anchor.fm/frontoweek) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/frontoweek/id1511253284) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8xZTlhZTQwOC9wb2RjYXN0L3Jzcw==) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/frontoweek) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/id2857189) • [![Telegram](img/favicons/t.me.png)](https://t.me/frontoweek) • [![RSS](img/favicons/rss.png)](https://anchor.fm/s/1e9ae408/podcast/rss)|
+|**Описание**     |Важнейшие события фронтенда за неделю.|
+|**Ведущие**      |Павел Франков|
+|**Регулярность** |Еженедельно|
+|**Длительность** |~3 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1511253284" class="episodes" hashtag="frontoweek"></span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1511253284" class="release-date"></span>|
+
+---
+
 |Название         |[SPB Frontend Drinkcast](https://spb-frontend.ru/podcast/)|
 |:----------------|:---------------------------------------------------------|
 |**Логотип**      |<span itunes-id="1269128794" class="itunes-img"><img height="100" width="100" src="https://is5-ssl.mzstatic.com/image/thumb/Podcasts128/v4/1e/88/da/1e88da20-0110-7beb-27f6-625d4ba73137/mza_1417913722372046900.png/600x600bb.jpg"></span>|
