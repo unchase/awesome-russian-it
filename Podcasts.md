@@ -35,7 +35,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">29.12.2020 12:13</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">29.12.2020 16:20</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -854,7 +854,7 @@
 |**Ведущие**      |Вахтанг Махарадзе|
 |**Регулярность** |Ежедневно|
 |**Длительность** |5-10 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="episodes" hashtag="strana_tranzistoriia">1095 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="episodes" hashtag="strana_tranzistoriia">1095 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="release-date">28.12.2020 14:30</span>|
 
 ---
@@ -1658,7 +1658,7 @@
 |**Ведущие**      |Стас Цыганов [![GitHub](img/favicons/github.com.png)](https://github.com/DevAlloy)<br>[Егор Толстой](http://etolstoy.com/) [![Medium](img/favicons/medium.com.png)](https://medium.com/@etolstoy) [![GitHub](img/favicons/github.com.png)](https://github.com/etolstoy)<br>Екатерина Петрова<br>Евгений Кателла|
 |**Регулярность** |Еженедельно|
 |**Длительность** |80-150 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1209828744" class="episodes" hashtag="podlodka">204 (<font color="red">-1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1209828744" class="episodes" hashtag="podlodka">204 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1209828744" class="release-date">21.12.2020 15:52</span>|
 
 ---
@@ -1736,7 +1736,7 @@
 |**Ведущие**      |Алексей Ткачук|
 |**Регулярность** |Ежедневно|
 |**Длительность** |20-25 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1494018535" class="episodes" hashtag="rotam">323 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1494018535" class="episodes" hashtag="rotam">323 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1494018535" class="release-date">29.12.2020 00:44</span>|
 
 ---
@@ -1998,8 +1998,8 @@
 |**Ведущие**      |Роман Мирсон [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/Homich1991)<br>Евгений Никифоров [![GitHub](img/favicons/github.com.png)](https://github.com/nikita-nikiforov)|
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |50-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1512015984" class="episodes" hashtag="javahut">8 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1512015984" class="release-date">08.12.2020 15:54</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1512015984" class="episodes" hashtag="javahut">9 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1512015984" class="release-date">29.12.2020 14:42</span>|
 
 ---
 
@@ -2173,7 +2173,7 @@
 |**Ведущие**      |[Вадим Макеев](https://pepelsbey.net/) [![RSS](img/favicons/rss.png)](https://pepelsbey.net/feed/index.rss) [![GitHub](img/favicons/github.com.png)](https://github.com/pepelsbey) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/pepelsbey/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCaTfYudJUVA8cV_But8KZVQ) [![Medium](img/favicons/medium.com.png)](https://medium.com/@pepelsbey)<br>[Никита Дубко](https://mefody.github.io/) [![GitHub](img/favicons/github.com.png)](https://github.com/MeFoDy)<br>Мария Просвирнина<br>[Алексей Симоненко](http://simonenko.su) [![GitHub](img/favicons/github.com.png)](https://github.com/meritt) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/meritt/)<br>Ольга Алексашенко [![GitHub](img/favicons/github.com.png)](https://github.com/tachisis/)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |40-90 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1080500016" class="episodes" hashtag="webstandards_ru">262 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1080500016" class="episodes" hashtag="webstandards_ru">262 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1080500016" class="release-date">28.12.2020 03:00</span>|
 
 ---
@@ -2708,7 +2708,7 @@
 |**Ведущие**      |[Алексей Виноградов](http://qa-blog.alexei-vinogradov.de/) [![GitHub](img/favicons/github.com.png)](https://github.com/vinogradoff)<br>[Андрей Мясников](http://lazy-tester.blogspot.com/)<br>[Сергей Атрощенков](http://barbaricqa.com/blog/) [![RSS](img/favicons/rss.png)](http://feeds.feedburner.com/Barbaricqacom)<br>Алексей Федоров|
 |**Регулярность** |Время от времени|
 |**Длительность** |50-120 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1021236121" class="episodes" hashtag="radio_qa">75 (<font color="red">-1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1021236121" class="episodes" hashtag="radio_qa">75 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1021236121" class="release-date">25.12.2020 20:02</span>|
 
 ---
