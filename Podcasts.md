@@ -236,6 +236,19 @@
 
 ---
 
+|Название         |Будущее здесь|
+|:----------------|:------------|
+|**Логотип**      |<span itunes-id="1498433584" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/будущее-здесь/id1498433584) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/budushchieie-zdies) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/Будущее-здесь-id2640425) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/9956862)|
+|**Описание**     |Подкаст о технологиях и мире будущего.|
+|**Ведущие**      |Олег Хохлов<br>Лера Позычанюк|
+|**Регулярность** |Ежемесячно|
+|**Длительность** |30-40 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1498433584" class="episodes" hashtag="Будущее_здесь"></span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1498433584" class="release-date"></span>|
+
+---
+
 |Название         |[В бесконечность и далее](https://www.toinfinity.org/)|
 |:----------------|:-----------------------------------------------------|
 |**Логотип**      |<span itunes-id="1399902281" class="itunes-img"><img height="100" width="100" src="https://is5-ssl.mzstatic.com/image/thumb/Podcasts113/v4/22/c3/15/22c31598-c9fb-d7c9-8da9-ac6ba6b41648/mza_8117957990385156452.jpg/600x600bb.jpg"></span>|
