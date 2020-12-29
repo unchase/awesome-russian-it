@@ -937,6 +937,19 @@
 
 ---
 
+|Название         |Техноподкаст|
+|:----------------|:-----------|
+|**Логотип**      |<span itunes-id="1492911394" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/техноподкаст/id1492911394) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cDovL3RlY2hub3BvZGNhc3QucnUvZmVlZC8) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/tiekhnopodkast) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/Техноподкаст-id2528697) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/9920795)|
+|**Описание**     |ФИРМАЧ РОССИЙСКОГО ПОДКАСТИНГА.|
+|**Ведущие**      |Стас|
+|**Регулярность** |Время от времени|
+|**Длительность** |20-50 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1492911394" class="episodes" hashtag="Техноподкаст"></span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1492911394" class="release-date"></span>|
+
+---
+
 |Название         |[Точка](https://echo.msk.ru/programs/tochka/)|
 |:----------------|:--------------------------------------------|
 |**Логотип**      |<span itunes-id="378499320" class="itunes-img"><img height="100" width="100" src="https://is5-ssl.mzstatic.com/image/thumb/Podcasts/v4/ae/0f/93/ae0f938f-a73c-d960-aa33-192ab4c62dbc/mza_1666346607556109073.jpg/600x600bb.jpg"></span>|
