@@ -35,7 +35,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">29.12.2020 20:43</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">30.12.2020 08:18</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -238,14 +238,14 @@
 
 |Название         |Будущее здесь|
 |:----------------|:------------|
-|**Логотип**      |<span itunes-id="1498433584" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Логотип**      |<span itunes-id="1498433584" class="itunes-img"><img height="100" width="100" src="https://is4-ssl.mzstatic.com/image/thumb/Podcasts123/v4/4e/08/27/4e082752-455e-6970-0015-dbf3a0a26ad9/mza_1931923182490537730.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/будущее-здесь/id1498433584) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/budushchieie-zdies) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/Будущее-здесь-id2640425) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/9956862)|
 |**Описание**     |Подкаст о технологиях и мире будущего.|
 |**Ведущие**      |Олег Хохлов<br>Лера Позычанюк|
 |**Регулярность** |Ежемесячно|
 |**Длительность** |30-40 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1498433584" class="episodes" hashtag="Будущее_здесь"></span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1498433584" class="release-date"></span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1498433584" class="episodes" hashtag="Будущее_здесь">9</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1498433584" class="release-date">03.12.2020 16:42</span>|
 
 ---
 
@@ -303,14 +303,14 @@
 
 |Название         |Вы находитесь здесь|
 |:----------------|:------------------|
-|**Логотип**      |<span itunes-id="1545565949" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Логотип**      |<span itunes-id="1545565949" class="itunes-img"><img height="100" width="100" src="https://is2-ssl.mzstatic.com/image/thumb/Podcasts114/v4/58/5d/2a/585d2a4f-5d6b-f2a1-d4c2-55f1ad748bf8/mza_1431201184305522096.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/вы-находитесь-здесь/id1545565949) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/13204840)|
 |**Описание**     |Подкаст о том, как человек учит машину всему, что умеет сам: постигать, творить, общаться и нервничать.<br>Что о нас думает умная колонка? Зачем давать роботам цифровые эмоции? Может ли нейросеть действительно понять человека?<br>О том, куда нас ведет развитие искусственного интеллекта и как долго нам еще идти по дороге прогресса, — слушайте в подкасте «Вы находитесь здесь».|
 |**Ведущие**      ||
 |**Регулярность** |Еженедельно|
 |**Длительность** |~30 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1545565949" class="episodes" hashtag="Вы_находитесь_здесь"></span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1545565949" class="release-date"></span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1545565949" class="episodes" hashtag="Вы_находитесь_здесь">2</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1545565949" class="release-date">24.12.2020 05:00</span>|
 
 ---
 
@@ -575,14 +575,14 @@
 
 |Название         |[Неопознанный Искусственный Интеллект (НИИ)](https://sysblok.ru/unknown_ai/)|
 |:----------------|:---------------------------------------------------------------------------|
-|**Логотип**      |<span itunes-id="1542538163" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Логотип**      |<span itunes-id="1542538163" class="itunes-img"><img height="100" width="100" src="https://is5-ssl.mzstatic.com/image/thumb/Podcasts114/v4/26/1a/17/261a1779-9642-eded-475a-282bb2a30953/mza_1172468763294126726.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/id1542538163) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8xMmRhMDE2Yy9wb2RjYXN0L3Jzcw==) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/nieopoznannyi-iskusstviennyi-intielliekt-nii) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/Неопознанный-Искусственный-Интеллект-(НИИ)-id3573746) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcasts-168717779) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/sysblok) • [![Telegram](img/favicons/t.me.png)](https://t.me/UnknownAI) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/12967722)|
 |**Описание**     |НИИ — подкаст про искусственный интеллект от издания «Системный Блокъ».<br>К нам в гости приходят ученые, программисты, лингвисты, математики и другие люди, причастные к разработке искусственного интеллекта. С ними мы обсуждаем, что называют искусственным интеллектом сегодня, во что он превратится завтра и когда машины научатся нас понимать по-настоящему.|
 |**Ведущие**      |Даниил Скоринкин<br>Анатолий Старостин|
 |**Регулярность** |Еженедельно|
 |**Длительность** |30-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1542538163" class="episodes" hashtag="НИИ"></span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1542538163" class="release-date"></span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1542538163" class="episodes" hashtag="НИИ">5</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1542538163" class="release-date">28.12.2020 16:24</span>|
 
 ---
 
@@ -763,7 +763,7 @@
 |**Ведущие**      |Роман Рыбальченко|
 |**Регулярность** |Несколько раз в неделю|
 |**Длительность** |20-80 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1178337792" class="episodes" hashtag="romanetua">110 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1178337792" class="episodes" hashtag="romanetua">110 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1178337792" class="release-date">29.12.2020 03:00</span>|
 
 ---
@@ -816,7 +816,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |40-60 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="526797445" class="episodes" hashtag="radiomaorg">10 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="526797445" class="release-date">16.12.2020 20:11</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="526797445" class="release-date">29.12.2020 20:04</span>|
 
 ---
 
@@ -893,7 +893,7 @@
 |**Ведущие**      |Вахтанг Махарадзе|
 |**Регулярность** |Ежедневно|
 |**Длительность** |5-10 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="episodes" hashtag="strana_tranzistoriia">1096 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="episodes" hashtag="strana_tranzistoriia">1096 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="release-date">29.12.2020 14:30</span>|
 
 ---
@@ -952,14 +952,14 @@
 
 |Название         |Техноподкаст|
 |:----------------|:-----------|
-|**Логотип**      |<span itunes-id="1492911394" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Логотип**      |<span itunes-id="1492911394" class="itunes-img"><img height="100" width="100" src="https://is3-ssl.mzstatic.com/image/thumb/Podcasts114/v4/a0/3c/1c/a03c1c8b-aad7-f336-d66a-9f6c2a6dd512/mza_4856035430060545013.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/техноподкаст/id1492911394) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cDovL3RlY2hub3BvZGNhc3QucnUvZmVlZC8) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/tiekhnopodkast) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/Техноподкаст-id2528697) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/9920795)|
 |**Описание**     |ФИРМАЧ РОССИЙСКОГО ПОДКАСТИНГА.|
 |**Ведущие**      |Стас|
 |**Регулярность** |Время от времени|
 |**Длительность** |20-50 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1492911394" class="episodes" hashtag="Техноподкаст"></span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1492911394" class="release-date"></span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1492911394" class="episodes" hashtag="Техноподкаст">10</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1492911394" class="release-date">05.12.2020 16:39</span>|
 
 ---
 
@@ -1017,14 +1017,14 @@
 
 |Название         |Хоба!|
 |:----------------|:----|
-|**Логотип**      |<span itunes-id="1542090813" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Логотип**      |<span itunes-id="1542090813" class="itunes-img"><img height="100" width="100" src="https://is2-ssl.mzstatic.com/image/thumb/Podcasts124/v4/31/08/6e/31086eed-2a3c-f144-0bd8-d3e5f5354330/mza_15399212593444668047.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/хоба/id1542090813) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/khoba) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/Хоба!-id3562584) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/12947890)|
 |**Описание**     |«Хоба!» — приятный повод собраться дружеской компанией и поговорить часок о новостях недели. Нас шестеро — маркетологиня, редактор, продюсер, менеджер, тестировщик и дизайнер. У нас разные интересы, поэтому и темы всегда разные. Технологии, образование, книги, кино, музыка, наука, игры — нужное подчеркнуть.|
 |**Ведущие**      |Николай<br>[Лев Пикалёв](http://levpikalev.com/) [![Medium](img/favicons/medium.com.png)](https://podcasts-prevail.medium.com/)<br>Анна [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/Shelsneg/)<br>Адель<br>Далер Алиёров [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/daleraliyorov/)<br>Иван Звягин [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/baragol/)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |~60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1542090813" class="episodes" hashtag="Хоба"></span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1542090813" class="release-date"></span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1542090813" class="episodes" hashtag="Хоба">6</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1542090813" class="release-date">28.12.2020 01:00</span>|
 
 ---
 
@@ -1528,8 +1528,8 @@
 |**Ведущие**      ||
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |50-90 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="567224504" class="episodes" hashtag="it_trend">112 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="567224504" class="release-date">09.12.2020 13:19</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="567224504" class="episodes" hashtag="it_trend">113 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="567224504" class="release-date">30.12.2020 02:39</span>|
 
 ---
 
@@ -1723,7 +1723,7 @@
 |**Ведущие**      |Стас Цыганов [![GitHub](img/favicons/github.com.png)](https://github.com/DevAlloy)<br>[Егор Толстой](http://etolstoy.com/) [![Medium](img/favicons/medium.com.png)](https://medium.com/@etolstoy) [![GitHub](img/favicons/github.com.png)](https://github.com/etolstoy)<br>Екатерина Петрова<br>Евгений Кателла|
 |**Регулярность** |Еженедельно|
 |**Длительность** |80-150 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1209828744" class="episodes" hashtag="podlodka">205 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1209828744" class="episodes" hashtag="podlodka">205 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1209828744" class="release-date">28.12.2020 21:14</span>|
 
 ---
@@ -2358,14 +2358,14 @@
 
 |Название         |[FrontoWeek](https://frontoweek.ru/)|
 |:----------------|:-----------------------------------------|
-|**Логотип**      |<span itunes-id="1511253284" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Логотип**      |<span itunes-id="1511253284" class="itunes-img"><img height="100" width="100" src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts124/v4/e8/25/d8/e825d858-c7c7-388e-095d-e7017a3b83b3/mza_4228028734166662768.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Anchor](img/favicons/anchor.fm.png)](https://anchor.fm/frontoweek) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/frontoweek/id1511253284) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8xZTlhZTQwOC9wb2RjYXN0L3Jzcw==) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/frontoweek) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/id2857189) • [![Telegram](img/favicons/t.me.png)](https://t.me/frontoweek) • [![RSS](img/favicons/rss.png)](https://anchor.fm/s/1e9ae408/podcast/rss)|
 |**Описание**     |Важнейшие события фронтенда за неделю.|
 |**Ведущие**      |Павел Франков|
 |**Регулярность** |Еженедельно|
 |**Длительность** |~3 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1511253284" class="episodes" hashtag="frontoweek"></span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1511253284" class="release-date"></span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1511253284" class="episodes" hashtag="frontoweek">35</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1511253284" class="release-date">28.12.2020 08:00</span>|
 
 ---
 
@@ -2469,8 +2469,8 @@
 |**Ведущие**      |Евгений Сатуров [![GitHub](img/favicons/github.com.png)](https://github.com/saturov)<br>Артём Зайцев|
 |**Регулярность** |Ежемесячно|
 |**Длительность** |40-80 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1451068853" class="episodes" hashtag="flutterdevpodcast">23 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1451068853" class="release-date">22.11.2020 12:23</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1451068853" class="episodes" hashtag="flutterdevpodcast">24 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1451068853" class="release-date">29.12.2020 22:12</span>|
 
 ---
 
@@ -2786,7 +2786,7 @@
 |**Ведущие**      |[Алексей Виноградов](http://qa-blog.alexei-vinogradov.de/) [![GitHub](img/favicons/github.com.png)](https://github.com/vinogradoff)<br>[Андрей Мясников](http://lazy-tester.blogspot.com/)<br>[Сергей Атрощенков](http://barbaricqa.com/blog/) [![RSS](img/favicons/rss.png)](http://feeds.feedburner.com/Barbaricqacom)<br>Алексей Федоров|
 |**Регулярность** |Время от времени|
 |**Длительность** |50-120 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1021236121" class="episodes" hashtag="radio_qa">76 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1021236121" class="episodes" hashtag="radio_qa">76 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1021236121" class="release-date">28.12.2020 21:13</span>|
 
 ---
