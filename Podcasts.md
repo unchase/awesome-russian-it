@@ -35,7 +35,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">01.01.2021 16:21</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">01.01.2021 20:42</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -2089,8 +2089,8 @@
 |**Ведущие**      |Илья Казначеев [![GitHub](img/favicons/github.com.png)](https://github.com/ilyakaznacheev)<br>Илья Виноградов [![GitHub](img/favicons/github.com.png)](https://github.com/oisee)<br>Иван Тюменьев [![GitHub](img/favicons/github.com.png)](https://github.com/ivantyumenyev)|
 |**Регулярность** |Время от времени|
 |**Длительность** |90-140 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1501041559" class="episodes" hashtag="z_namespace">11 (<font color="red">-1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1501041559" class="release-date">07.12.2020 14:08</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1501041559" class="episodes" hashtag="z_namespace">12 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1501041559" class="release-date">31.12.2020 19:57</span>|
 
 <details open="open"><summary><a name="podcasts-development-dotnet"></a><b>&nbsp;&nbsp;&nbsp;&nbsp;.NET</b></summary><br>
 
@@ -2114,7 +2114,7 @@
 |**Ведущие**      |Станислав Александров<br>Александр Кугушев [![GitHub](img/favicons/github.com.png)](https://github.com/kugushev) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/KAW/)<br>Наталья|
 |**Регулярность** |1-4 раза в месяц|
 |**Длительность** |40-120 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1448111173" class="episodes" hashtag="dotnetmore">43 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1448111173" class="episodes" hashtag="dotnetmore">43 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1448111173" class="release-date">31.12.2020 19:00</span>|
 
 ---
@@ -2581,7 +2581,7 @@
 |**Ведущие**      |Владимир Красильников<br>Анатолий Шестов<br>Никита Гук [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/azazelis/)|
 |**Регулярность** |Раз в две недели|
 |**Длительность** |40-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1413689117" class="episodes" hashtag="zhiza_gd">67 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1413689117" class="episodes" hashtag="zhiza_gd">67 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1413689117" class="release-date">31.12.2020 10:02</span>|
 
 ---
