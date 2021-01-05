@@ -35,7 +35,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">05.01.2021 16:23</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">05.01.2021 20:53</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -381,8 +381,8 @@
 |**Ведущие**      |Дмитрий Суховаров|
 |**Регулярность** |Ежедневно|
 |**Длительность** |10-20 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1492900770" class="episodes" hashtag="dsuhovarov">187 (<font color="red">-1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1492900770" class="release-date">02.01.2021 10:00</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1492900770" class="episodes" hashtag="dsuhovarov">188 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1492900770" class="release-date">04.01.2021 10:00</span>|
 
 ---
 
@@ -646,7 +646,7 @@
 |**Ведущие**      |Михаил Марченко<br>Ольга Давыдова|
 |**Регулярность** |Время от времени|
 |**Длительность** |30-50 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="472631602" class="episodes" hashtag="it.career.ua">313 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="472631602" class="episodes" hashtag="it.career.ua">313 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="472631602" class="release-date">05.01.2021 12:19</span>|
 
 ---
@@ -1382,7 +1382,7 @@
 
 |Название         |[Habr Special](https://habr-podcast.com/special/)|
 |:----------------|:------------------------------------------------|
-|**Логотип**      |<span itunes-id="1471344454" class="itunes-img"><img height="100" width="100" src="https://is٣-ssl.mzstatic.com/image/thumb/Podcasts123/v4/13/6b/7d/136b7da2-b694-72f8-310a-48bf101beddf/mza_3557075816022514793.jpg/600x600bb.jpg"></span>|
+|**Логотип**      |<span itunes-id="1471344454" class="itunes-img"><img height="100" width="100" src="https://is3-ssl.mzstatic.com/image/thumb/Podcasts123/v4/13/6b/7d/136b7da2-b694-72f8-310a-48bf101beddf/mza_3557075816022514793.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/habr-special) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/habr-special/id1471344454) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/habr-special) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/2416669?country=us) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/playlist?list=PLiBYz3OQubLoQhkYe-IcZiRgK_a4x8mq_) • [![VK](img/favicons/vk.com.png)](https://vk.com/habr?z=podcast-20629724_456239017) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/8063050?from=serp) • [![Email](img/favicons/email.png)](mailto:hello@habr-podcast.com)|
 |**Описание**     |Habr Special — нерегулярный подкаст, в который мы приглашаем гостей, связанных с IT, наукой, бизнесом и образованием. Будем знакомить вас с программистами, журналистами, учеными, изобретателями, писателями, основателями стартапов.|
 |**Ведущие**      |Иван Звягин [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/baragol/)|
