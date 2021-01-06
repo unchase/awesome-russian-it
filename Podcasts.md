@@ -35,7 +35,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">06.01.2021 12:18</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">06.01.2021 16:24</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -381,7 +381,7 @@
 |**Ведущие**      |Дмитрий Суховаров|
 |**Регулярность** |Ежедневно|
 |**Длительность** |10-20 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1492900770" class="episodes" hashtag="dsuhovarov">189 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1492900770" class="episodes" hashtag="dsuhovarov">189 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1492900770" class="release-date">06.01.2021 10:00</span>|
 
 ---
@@ -796,7 +796,7 @@
 
 |Название         |[Радио-Т](https://radio-t.com)|
 |:----------------|:-----------------------------|
-|**Логотип**      |<span itunes-id="256504435" class="itunes-img"><img height="100" width="100" src="https://is١-ssl.mzstatic.com/image/thumb/Podcasts123/v4/24/cd/6a/24cd6a39-3dfb-8b68-8b42-cd2d4bbc54a5/mza_6804679474951140273.jpg/600x600bb.jpg"></span>|
+|**Логотип**      |<span itunes-id="256504435" class="itunes-img"><img height="100" width="100" src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/24/cd/6a/24cd6a39-3dfb-8b68-8b42-cd2d4bbc54a5/mza_6804679474951140273.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/podcast/%D1%80%D0%B0%D0%B4%D0%B8%D0%BE-%D1%82/id256504435) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/11441) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/id1572?country=ru) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCBl1ML1jnlhRxHlCjSKTyeA) • [![VK](img/favicons/vk.com.png)](https://vk.com/radio_t) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/radio_t) • [![Telegram](img/favicons/t.me.png)](https://t.me/radio_t_podcast) • [![Email](img/favicons/email.png)](mailto:podcast@radio-t.com) • [![RSS](img/favicons/rss.png)](http://feeds.rucast.net/radio-t)|
 |**Описание**     |Радио-Т — это еженедельный HiTech подкаст на русском языке. Авторы и приглашенные гости импровизируют на околокомпьютерные темы. Как правило, не залезая в глубокие дебри, однако иногда нас заносит ;)|
 |**Ведущие**      |Ксения (ksenks) [![GitHub](img/favicons/github.com.png)](https://github.com/ksenks)<br>Григорий Бакунов (Bobuk) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/bobuk/) [![GitHub](img/favicons/github.com.png)](https://github.com/bobuk)<br>[Евгений Борт (umputun)](http://www.umputun.com/) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/umputun/) [![GitHub](img/favicons/github.com.png)](https://github.com/umputun) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/user/umputun) <br>[Сергей Петренко](https://blognot.co/) [![GitHub](img/favicons/github.com.png)](https://github.com/grayru) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/c/grayru) [![RSS](img/favicons/rss.png)](https://blognot.co/feed)<br>Алексей Нестеров (alek-sys) [![GitHub](img/favicons/github.com.png)](https://github.com/alek-sys)|
@@ -1382,7 +1382,7 @@
 
 |Название         |[Habr Special](https://habr-podcast.com/special/)|
 |:----------------|:------------------------------------------------|
-|**Логотип**      |<span itunes-id="1471344454" class="itunes-img"><img height="100" width="100" src="https://is٣-ssl.mzstatic.com/image/thumb/Podcasts123/v4/13/6b/7d/136b7da2-b694-72f8-310a-48bf101beddf/mza_3557075816022514793.jpg/600x600bb.jpg"></span>|
+|**Логотип**      |<span itunes-id="1471344454" class="itunes-img"><img height="100" width="100" src="https://is3-ssl.mzstatic.com/image/thumb/Podcasts123/v4/13/6b/7d/136b7da2-b694-72f8-310a-48bf101beddf/mza_3557075816022514793.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/habr-special) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/habr-special/id1471344454) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/habr-special) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/2416669?country=us) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/playlist?list=PLiBYz3OQubLoQhkYe-IcZiRgK_a4x8mq_) • [![VK](img/favicons/vk.com.png)](https://vk.com/habr?z=podcast-20629724_456239017) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/8063050?from=serp) • [![Email](img/favicons/email.png)](mailto:hello@habr-podcast.com)|
 |**Описание**     |Habr Special — нерегулярный подкаст, в который мы приглашаем гостей, связанных с IT, наукой, бизнесом и образованием. Будем знакомить вас с программистами, журналистами, учеными, изобретателями, писателями, основателями стартапов.|
 |**Ведущие**      |Иван Звягин [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/baragol/)|
