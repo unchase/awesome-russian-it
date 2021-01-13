@@ -35,7 +35,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">12.01.2021 21:06</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">13.01.2021 08:35</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -212,13 +212,13 @@
 
 |Название         |[Битовая каска](https://bitcask.live/)|
 |:----------------|:-------------------------------------|
-|**Логотип**      |<span itunes-id="1497722428" class="itunes-img"><img height="100" width="100" src="https://is2-ssl.mzstatic.com/image/thumb/Podcasts123/v4/43/8f/a3/438fa393-7296-1195-ca4e-86bbd06e39d5/mza_16996447728818910038.jpg/600x600bb.jpg"></span>|
+|**Логотип**      |<span itunes-id="1497722428" class="itunes-img"><img height="100" width="100" src="https://is2-ssl.mzstatic.com/image/thumb/Podcasts124/v4/a0/d7/7f/a0d77fe1-01fb-56b9-130d-601461f21c2a/mza_6556167578037375903.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/bitcask) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/битовая-каска-bitcask/id1497722428) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/bitovaia-kaska-bitcask)  • [![VK](img/favicons/vk.com.png)](https://vk.com/bitcask) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/bitcaskpodcast) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/bitcask/)|
 |**Описание**     |Подкаст про ИТ, технологии, Java, конференции и всё в таком духе.|
 |**Ведущие**      |Андрей Дмитриев<br>Олег Чирухин [![GitHub](img/favicons/github.com.png)](https://github.com/olegchir) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/olegchir/)<br>Анатолий Коровин<br>Всеволод Брекелов [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/vbrekelov/)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |~60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1497722428" class="episodes" hashtag="bitcask">10 (<font color="red">0</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1497722428" class="episodes" hashtag="bitcask">20 (<font color="green">+10</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1497722428" class="release-date">08.01.2021 13:02</span>|
 
 ---
@@ -763,8 +763,8 @@
 |**Ведущие**      |Роман Рыбальченко|
 |**Регулярность** |Несколько раз в неделю|
 |**Длительность** |20-80 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1178337792" class="episodes" hashtag="romanetua">110 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1178337792" class="release-date">29.12.2020 03:00</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1178337792" class="episodes" hashtag="romanetua">111 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1178337792" class="release-date">12.01.2021 16:12</span>|
 
 ---
 
@@ -1114,8 +1114,8 @@
 |**Ведущие**      |Андрей Барышников [![GitHub](img/favicons/github.com.png)](https://github.com/BilberryMuffin)<br>Сергей Епихин<br>Антон Поздняков|
 |**Регулярность** |Еженедельно|
 |**Длительность** |70-120 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="868222886" class="episodes" hashtag="beardycast">464 (<font color="green">+1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="868222886" class="release-date">12.01.2021 18:21</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="868222886" class="episodes" hashtag="beardycast">463 (<font color="red">-1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="868222886" class="release-date">05.01.2021 20:04</span>|
 
 ---
 
@@ -1362,8 +1362,8 @@
 |**Ведущие**      |[Олег Ковалев](https://olegk.dev/) [![GitHub](img/favicons/github.com.png)](https://github.com/cristaloleg)<br>Богдан Сторожук [![GitHub](img/favicons/github.com.png)](https://github.com/storozhukBM)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |60-100 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1489980299" class="episodes" hashtag="generictalks">44 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1489980299" class="release-date">13.12.2020 23:06</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1489980299" class="episodes" hashtag="generictalks">46 (<font color="green">+2</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1489980299" class="release-date">12.01.2021 23:40</span>|
 
 ---
 
@@ -1801,8 +1801,8 @@
 |**Ведущие**      |Алексей Ткачук|
 |**Регулярность** |Ежедневно|
 |**Длительность** |20-25 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1494018535" class="episodes" hashtag="rotam">326 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1494018535" class="release-date">11.01.2021 21:37</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1494018535" class="episodes" hashtag="rotam">327 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1494018535" class="release-date">13.01.2021 00:50</span>|
 
 ---
 
