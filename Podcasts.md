@@ -35,7 +35,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">23.01.2021 08:36</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">23.01.2021 12:32</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -433,8 +433,8 @@
 |**Ведущие**      |Илья Верязов|
 |**Регулярность** |Время от времени|
 |**Длительность** |25-45 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1120110650" class="episodes" hashtag="Ивент_Кухня">63 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1120110650" class="release-date">18.12.2020 16:35</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1120110650" class="episodes" hashtag="Ивент_Кухня">64 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1120110650" class="release-date">22.01.2021 11:54</span>|
 
 ---
 
@@ -1036,8 +1036,8 @@
 |**Ведущие**      |Антон Околелов [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/varanio/) <br>Никита Васильченко [![GitHub](img/favicons/github.com.png)](https://github.com/xenmayer) [![Medium](img/favicons/medium.com.png)](https://medium.com/@xenmayer)<br>Олег Грицак [![GitHub](img/favicons/github.com.png)](https://github.com/hack3p) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/hack3p/)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |60-110 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1458311254" class="episodes" hashtag="znprod">95 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1458311254" class="release-date">16.01.2021 05:59</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1458311254" class="episodes" hashtag="znprod">96 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1458311254" class="release-date">23.01.2021 05:59</span>|
 
 ---
 
@@ -1088,7 +1088,7 @@
 |**Ведущие**      ||
 |**Регулярность** |Ежедневно|
 |**Длительность** |~5 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="episodes" hashtag="shortcode">142 (<font color="red">-1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="episodes" hashtag="shortcode">142 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="release-date">18.01.2021 03:00</span>|
 
 ---
@@ -2523,8 +2523,8 @@
 |**Ведущие**      |Борис Веденский (cwe) [![Medium](img/favicons/medium.com.png)](https://medium.com/@vedensky) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/vedensky/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UC1a2rnuwCw6rEbAxclIHkng)<br>Валерий Истишев [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/istishev/)<br>Митя Иванов|
 |**Регулярность** |Еженедельно|
 |**Длительность** |~20 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1057019371" class="episodes" hashtag="droidercast">104 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1057019371" class="release-date">01.01.2021 17:58</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1057019371" class="episodes" hashtag="droidercast">105 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1057019371" class="release-date">23.01.2021 10:00</span>|
 
 </details>
 
@@ -2659,8 +2659,8 @@
 |**Ведущие**      |Дмитрий Борисов<br>Артемий Леонов|
 |**Регулярность** |Еженедельно|
 |**Длительность** |80-120 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1506185868" class="episodes" hashtag="xyz">35 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1506185868" class="release-date">15.01.2021 19:14</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1506185868" class="episodes" hashtag="xyz">36 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1506185868" class="release-date">22.01.2021 18:58</span>|
 
 ---
 
