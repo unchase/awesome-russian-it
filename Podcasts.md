@@ -35,7 +35,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">05.02.2021 20:17</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">06.02.2021 08:04</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -420,8 +420,8 @@
 |**Ведущие**      |[Самат Галимов](https://samat.me/) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/samat/) [![Medium](img/favicons/medium.com.png)](https://medium.com/@samat)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |15-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1488945593" class="episodes" hashtag="ctodaily">45 (<font color="red">-1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1488945593" class="release-date">28.01.2021 05:00</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1488945593" class="episodes" hashtag="ctodaily">46 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1488945593" class="release-date">04.02.2021 10:58</span>|
 
 ---
 
@@ -447,7 +447,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |~90 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="363311940" class="episodes" hashtag="rcmp_podcast">10 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="363311940" class="release-date">30.01.2021 02:30</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="363311940" class="release-date">05.02.2021 03:21</span>|
 
 ---
 
@@ -472,8 +472,8 @@
 |**Ведущие**      ||
 |**Регулярность** |Еженедельно|
 |**Длительность** |15-20 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1517634826" class="episodes" hashtag="Код">31 (<font color="red">-1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1517634826" class="release-date">29.01.2021 14:10</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1517634826" class="episodes" hashtag="Код">32 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1517634826" class="release-date">05.02.2021 14:09</span>|
 
 
 ---
@@ -620,8 +620,8 @@
 |**Ведущие**      |Ира Сергеева<br>Леонид Сергеев|
 |**Регулярность** |Время от времени|
 |**Длительность** |30-40 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1451758558" class="episodes" hashtag="oh.dad.podcast">41 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1451758558" class="release-date">31.12.2020 16:41</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1451758558" class="episodes" hashtag="oh.dad.podcast">42 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1451758558" class="release-date">05.02.2021 16:01</span>|
 
 ---
 
@@ -816,7 +816,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |40-60 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="526797445" class="episodes" hashtag="radiomaorg">10 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="526797445" class="release-date">23.01.2021 17:06</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="526797445" class="release-date">05.02.2021 20:47</span>|
 
 ---
 
@@ -945,7 +945,7 @@
 |**Ведущие**      |Дмитрий Здоров<br>Василий Мязин|
 |**Регулярность** |Время от времени|
 |**Длительность** |20-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1013700516" class="episodes" hashtag="Технологии_и_жизнь">67 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1013700516" class="episodes" hashtag="Технологии_и_жизнь">67 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1013700516" class="release-date">05.02.2021 08:12</span>|
 
 ---
@@ -1036,8 +1036,8 @@
 |**Ведущие**      |Антон Околелов [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/varanio/) <br>Никита Васильченко [![GitHub](img/favicons/github.com.png)](https://github.com/xenmayer) [![Medium](img/favicons/medium.com.png)](https://medium.com/@xenmayer)<br>Олег Грицак [![GitHub](img/favicons/github.com.png)](https://github.com/hack3p) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/hack3p/)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |60-110 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1458311254" class="episodes" hashtag="znprod">97 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1458311254" class="release-date">30.01.2021 06:00</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1458311254" class="episodes" hashtag="znprod">98 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1458311254" class="release-date">06.02.2021 06:00</span>|
 
 ---
 
@@ -1088,7 +1088,7 @@
 |**Ведущие**      ||
 |**Регулярность** |Ежедневно|
 |**Длительность** |~5 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="episodes" hashtag="shortcode">154 (<font color="red">-1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="episodes" hashtag="shortcode">154 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="release-date">04.02.2021 03:00</span>|
 
 ---
@@ -1281,14 +1281,14 @@
 
 |Название         |Digital Newsroom|
 |:----------------|:---------------|
-|**Логотип**      |<span itunes-id="1415692619" class="itunes-img"><img height="100" width="100" src="https://is3-ssl.mzstatic.com/image/thumb/Podcasts124/v4/0f/eb/70/0feb700c-0463-c375-81a5-0308fffc4223/mza_3364918116212944878.jpg/600x600bb.jpg"></span>|
+|**Логотип**      |<span itunes-id="1415692619" class="itunes-img"><img height="100" width="100" src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts124/v4/9b/46/91/9b469184-7d26-efcc-8cff-5e5c92661280/mza_12221209959415020588.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/zhbanova/tracks) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/podcast/digital-newsroom/id1415692619) • [![Telegram](img/favicons/t.me.png)](https://telega.one/newsroomaz) • [![RSS](img/favicons/rss.png)](http://feeds.soundcloud.com/users/soundcloud:users:480761115/sounds.rss)|
 |**Описание**     |Подкаст про медиа, технологии и ключевых игроков рынка. Обсуждаем с гостями последние новости и говорим о том, как это повлияет на медиа в России, и что можно применить прямо сейчас.|
 |**Ведущие**      |Анастасия Жбанова|
 |**Регулярность** |Время от времени|
 |**Длительность** |40-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1415692619" class="episodes" hashtag="newsroomaz">18 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1415692619" class="release-date">18.01.2021 11:41</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1415692619" class="episodes" hashtag="newsroomaz">19 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1415692619" class="release-date">05.02.2021 21:54</span>|
 
 ---
 
@@ -1528,8 +1528,8 @@
 |**Ведущие**      ||
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |50-90 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="567224504" class="episodes" hashtag="it_trend">114 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="567224504" class="release-date">29.01.2021 04:33</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="567224504" class="episodes" hashtag="it_trend">115 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="567224504" class="release-date">06.02.2021 03:01</span>|
 
 ---
 
@@ -1645,8 +1645,8 @@
 |**Ведущие**      |Михаил|
 |**Регулярность** |Еженедельно|
 |**Длительность** |20-40 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1495052772" class="episodes" hashtag="Machine_Learning_Podcast">21 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1495052772" class="release-date">22.01.2021 10:34</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1495052772" class="episodes" hashtag="Machine_Learning_Podcast">22 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1495052772" class="release-date">05.02.2021 16:31</span>|
 
 ---
 
@@ -1801,8 +1801,8 @@
 |**Ведущие**      |Алексей Ткачук|
 |**Регулярность** |Ежедневно|
 |**Длительность** |20-25 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1494018535" class="episodes" hashtag="rotam">343 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1494018535" class="release-date">04.02.2021 14:18</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1494018535" class="episodes" hashtag="rotam">344 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1494018535" class="release-date">05.02.2021 11:30</span>|
 
 ---
 
@@ -1977,8 +1977,8 @@
 |**Ведущие**      |Тимур Сейфельмлюков<br>Дмитрий Зомбак [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/zombak) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCGygd95WaTLPcrRSB1OIB3g)<br>Максим Зарецкий<br>Иногда:<br>[Валентин Петухов (Wylsacom)](https://wylsa.com/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCt7sv-NKh44rHAEb-qCCxvA)<br>Григорий Бакунов (Bobuk) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/bobuk/) [![GitHub](img/favicons/github.com.png)](https://github.com/bobuk)|
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |120-150 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1068329384" class="episodes" hashtag="zavtracast">254 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1068329384" class="release-date">29.01.2021 17:15</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1068329384" class="episodes" hashtag="zavtracast">255 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1068329384" class="release-date">05.02.2021 19:09</span>|
 
 </details>
 
@@ -2523,8 +2523,8 @@
 |**Ведущие**      |Борис Веденский (cwe) [![Medium](img/favicons/medium.com.png)](https://medium.com/@vedensky) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/vedensky/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UC1a2rnuwCw6rEbAxclIHkng)<br>Валерий Истишев [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/istishev/)<br>Митя Иванов|
 |**Регулярность** |Еженедельно|
 |**Длительность** |~20 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1057019371" class="episodes" hashtag="droidercast">105 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1057019371" class="release-date">23.01.2021 10:00</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1057019371" class="episodes" hashtag="droidercast">106 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1057019371" class="release-date">05.02.2021 14:28</span>|
 
 </details>
 
@@ -2594,8 +2594,8 @@
 |**Ведущие**      |Андрей Захаров|
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |30-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1438708331" class="episodes" hashtag="grzhr">63 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1438708331" class="release-date">22.01.2021 19:57</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1438708331" class="episodes" hashtag="grzhr">64 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1438708331" class="release-date">05.02.2021 16:50</span>|
 
 ---
 
