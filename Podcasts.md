@@ -1845,6 +1845,19 @@
 
 ---
 
+|Название         |Sbergile Talks. Подкас‪т‬|
+|:----------------|:----------------------|
+|**Логотип**      |<span itunes-id="1552186929" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/sbergile) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/sbergile-talks-подкаст/id1552186929) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCH7fycMuzyVWlCUtlp7fiJA) • [![Telegram](img/favicons/t.me.png)](https://t.me/sbergiletalks) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/13759843) • [![Email](img/favicons/email.png)](mailto:sbergile@sberbank.ru)|
+|**Описание**     |Sbergile Talks – это подкаст о том, как живет Agile в Сбере.<br>Ведущий подкаста, Agile-коуч Сбера Никита Щербаков, общается с гостями об особенностях трансформаций разных компаний, выясняет, почему в Agile-сообществе существует такая жаркая полемика вокруг Agile и вместе с участниками вспоминает смешные и интересные рабочие истории.|
+|**Ведущие**      |Никита Щербаков|
+|**Регулярность** ||
+|**Длительность** |~45 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1552186929" class="episodes" hashtag="SbergileTalks"></span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1552186929" class="release-date"></span>|
+
+---
+
 |Название         |[SDCast](https://sdcast.ksdaemon.ru/)|
 |:----------------|:------------------------------------|
 |**Логотип**      |<span itunes-id="890468606" class="itunes-img"><img height="100" width="100" src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/1e/ea/11/1eea110f-308a-098a-69d7-f091c9dcad64/mza_5481152072159566067.png/600x600bb.jpg"></span>|
