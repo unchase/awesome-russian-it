@@ -35,7 +35,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">14.02.2021 12:04</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">14.02.2021 16:04</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -803,7 +803,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |120-180 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="256504435" class="episodes" hashtag="radiot">21 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="256504435" class="release-date">07.02.2021 03:15</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="256504435" class="release-date">14.02.2021 01:02</span>|
 
 ---
 
@@ -1275,7 +1275,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |120-180 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="903660317" class="episodes" hashtag="devzen_podcast">25 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="903660317" class="release-date">07.02.2021 13:45</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="903660317" class="release-date">14.02.2021 14:53</span>|
 
 ---
 
@@ -2685,7 +2685,7 @@
 |**Ведущие**      |[Святослав (Торик)](https://torick.ru/)|
 |**Регулярность** |Не выпускается|
 |**Длительность** |80-100 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1008699731" class="episodes" hashtag="Подпольный_геймдизайн">16 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1008699731" class="episodes" hashtag="Подпольный_геймдизайн">16 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1008699731" class="release-date">13.02.2021 02:30</span>|
 
 ---
