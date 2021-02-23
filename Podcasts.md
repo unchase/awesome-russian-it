@@ -35,7 +35,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">23.02.2021 08:03</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">23.02.2021 12:04</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -284,7 +284,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |40-100 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="523996227" class="episodes" hashtag="tpair_podcast">10 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="523996227" class="release-date">08.02.2021 15:06</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="523996227" class="release-date">22.02.2021 16:04</span>|
 
 ---
 
@@ -1723,8 +1723,8 @@
 |**Ведущие**      |Стас Цыганов [![GitHub](img/favicons/github.com.png)](https://github.com/DevAlloy)<br>[Егор Толстой](http://etolstoy.com/) [![Medium](img/favicons/medium.com.png)](https://medium.com/@etolstoy) [![GitHub](img/favicons/github.com.png)](https://github.com/etolstoy)<br>Екатерина Петрова<br>Евгений Кателла|
 |**Регулярность** |Еженедельно|
 |**Длительность** |80-150 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1209828744" class="episodes" hashtag="podlodka">213 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1209828744" class="release-date">22.02.2021 16:03</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1209828744" class="episodes" hashtag="podlodka">212 (<font color="red">-1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1209828744" class="release-date">15.02.2021 19:46</span>|
 
 ---
 
@@ -1782,7 +1782,7 @@
 
 |Название         |[RootCast](https://root-nation.com/tag/rootcast/)|
 |:----------------|:------------------------------------------------|
-|**Логотип**      |<span itunes-id="626208574" class="itunes-img"><img height="100" width="100" src="https://is2-ssl.mzstatic.com/image/thumb/Podcasts123/v4/68/42/b8/6842b876-5efd-1dba-3d99-e016f2b1f4ed/mza_8551845858059447875.jpg/600x600bb.jpg"></span>|
+|**Логотип**      |<span itunes-id="626208574" class="itunes-img"><img height="100" width="100" src="https://is4-ssl.mzstatic.com/image/thumb/Podcasts114/v4/00/2f/9b/002f9bc0-5669-9528-7d4f-4ab0c9425a6c/mza_17616076055737445754.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/us/podcast/rootcast/id626208574) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/rootcast-1402624) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/id492387?country=ru) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/rootcast) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/6914323?from=serp)|
 |**Описание**     |Свежая порция диванной аналитики.|
 |**Ведущие**      ||
@@ -1866,8 +1866,8 @@
 |**Ведущие**      |[Константин Буркалёв](http://blog.ksdaemon.ru/) [![GitHub](img/favicons/github.com.png)](https://github.com/KSDaemon) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/ksdaemon/) [![RSS](img/favicons/rss.png)](https://blog.ksdaemon.ru/feed/)|
 |**Регулярность** |Время от времени.|
 |**Длительность** |60-120 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="890468606" class="episodes" hashtag="sdcast">129 (<font color="red">-1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="890468606" class="release-date">02.02.2021 19:07</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="890468606" class="episodes" hashtag="sdcast">130 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="890468606" class="release-date">22.02.2021 16:11</span>|
 
 ---
 
@@ -2536,7 +2536,7 @@
 |**Ведущие**      |Борис Веденский (cwe) [![Medium](img/favicons/medium.com.png)](https://medium.com/@vedensky) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/vedensky/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UC1a2rnuwCw6rEbAxclIHkng)<br>Валерий Истишев [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/istishev/)<br>Митя Иванов|
 |**Регулярность** |Еженедельно|
 |**Длительность** |~20 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1057019371" class="episodes" hashtag="droidercast">107 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1057019371" class="episodes" hashtag="droidercast">107 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1057019371" class="release-date">22.02.2021 14:27</span>|
 
 </details>
