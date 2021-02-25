@@ -478,6 +478,19 @@
 
 ---
 
+|Название         |КОДА КОД‪А|
+|:----------------|:--------|
+|**Логотип**      |<span itunes-id="1551786898" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/podcast/id1551786898) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy80YWM2NzcxOC9wb2RjYXN0L3Jzcw==) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/id3789845) • [![VK](img/favicons/vk.com.png)](https://vk.com/kodakodacast) • [![Telegram](img/favicons/t.me.png)](https://t.me/kodakodacast) • [![Instagram](img/favicons/instagram.com.png)](https://instagram.com/kodakodacast) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/13732143) • [![RSS](img/favicons/rss.png)](https://anchor.fm/s/4ac67718/podcast/rss)|
+|**Описание**     |Подкаст о жизни в IT. Без обсуждения хардкорных технологий и успешного успеха в стартапах.<br>Поговорим о том, что интересует программистов и менеджеров, но сложно обсудить с коллегами и начальством.<br>Мы слушаем реальные истории айтишников и обсуждаем их. Ищем свежий взгляд на старые вопросы.|
+|**Ведущие**      |Виктор Корейша|
+|**Регулярность** |Раз в две недели|
+|**Длительность** |~40 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1551786898" class="episodes" hashtag="kodakoda"></span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1551786898" class="release-date"></span>|
+
+---
+
 |Название         |[Космос-Веб](https://www.cosmos-web.ru/)|
 |:----------------|:---------------------------------------|
 |**Ссылки**       |[![VK](img/favicons/vk.com.png)](https://vk.com/cosmosweb) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/cosmos_web) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/cosmosweb/posts/1474524369376604) • [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/cosmosweb/) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/9629980/track/61630236)|
