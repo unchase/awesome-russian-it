@@ -1,4 +1,4 @@
-Мб<p align="center">
+<p align="center">
   <a href="https://github.com/unchase/awesome-russian-it">
     <img src="img/arit-logo.png" alt="Awesome Russian IT Logo">
   </a>
