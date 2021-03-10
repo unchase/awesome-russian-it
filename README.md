@@ -279,6 +279,7 @@
 |Название|Описание|Места проведения мероприятий|Связанные ссылки|
 |:------:|:-------|:--------------------------:|:--------------:|
 |[![ArchDays](img/favicons/archdays.ru.png)](https://archdays.ru/)<br>[ArchDays](https://archdays.ru/)|Конференция по микросервисам и архитектуре, на которой не только делятся опытом, но и создают новые знания.<br>Мы определяем цель конференции как «распространение имеющихся и создание новых знаний о микросервисах и эволюционной архитектуре».<br>Мы решили пойти дальше принятого формата и в дополнение к докладам, преследующим своей целью распространение знаний, попытаться найти решения еще не решенных проблем в архитектуре.|Москва|[![VK](img/favicons/vk.com.png)](https://vk.com/archdaysconference) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/ArchDaysConference/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UC3d7WPEIIcnorj1ZTyxVa7w)|
+|[![SYSTEMSxDESIGN](http://favicon.yandex.net/favicon/systemsdesign.online)](https://systemsdesign.online/)<br>[SYSTEMSxDESIGN](https://systemsdesign.online/)|Проектирование успешных ИТ-систем.|Онлайн|[![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/system.education) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCu9pVuw75Aj_BAZ867cS9mg) [![Telegram](img/favicons/t.me.png)](https://t.me/itsysdes_events)|
 
 </details>
 
