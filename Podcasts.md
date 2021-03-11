@@ -1995,6 +1995,16 @@
 
 ---
 
+|Название         |WebPurple Speech|
+|:----------------|:---------------|
+|**Ссылки**       |[![Anchor](img/favicons/anchor.fm.png)](https://anchor.fm/webpurple) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8zZjU4YTQ4Yy9wb2RjYXN0L3Jzcw==) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCFOQWgbqJbU8sVuWHGln2aA) • [![VK](img/favicons/vk.com.png)](https://vk.com/webpurple) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/WebPurple/)• [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/webpurple/) • [![RSS](img/favicons/rss.png)](https://anchor.fm/s/3f58a48c/podcast/rss)|
+|**Описание**     |Подкаст рязанского сообщества WebPurple. Про айти, разработку и людей.|
+|**Ведущие**      |Игорь Федюкин|
+|**Регулярность** |-|
+|**Длительность** |~45 минут|
+
+---
+
 |Название         |WikiTiles - энциклопедия Microsoft|
 |:----------------|:---------------------------------|
 |**Логотип**      |<span itunes-id="1195781986" class="itunes-img"><img height="100" width="100" src="https://is4-ssl.mzstatic.com/image/thumb/Features/v4/5f/88/96/5f8896e9-9be5-529a-af14-cc807367568a/mza_1382744875394257421.png/600x600bb.jpg"></span>|
