@@ -872,6 +872,19 @@
 
 ---
 
+|Название         |[Серебряная чпул‪я‬](https://www.agileverse.ru/podcast)|
+|:----------------|:----------------------------------------------------|
+|**Логотип**      |<span itunes-id="1446456479" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/chpulya) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/серебряная-чпуля/id1446456479) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/sieriebrianaia-chpulia) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/serebryanaya-chpulya) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/playlist?list=PLj32dnP2J3fE7MkracOWefQBxOiOW6u1e) • [![VK](img/favicons/vk.com.png)](https://vk.com/chpulya)|
+|**Описание**     |Серебряная Чпуля это подкаст Вязанкина Михаила и Гончарова Левона об Agile, насколько это полезно топ-менеджменту, стоит ли в это ввязываться. Хочется сделать так, чтобы Agile перестал быть самым охраняемым секретом в мире менеджмента!|
+|**Ведущие**      |Вязанкин Михаил<br>Гончаров Левон|
+|**Регулярность** |Время от времени|
+|**Длительность** |10-70 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1446456479" class="episodes" hashtag="chpulya"></span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1446456479" class="release-date"></span>|
+
+---
+
 |Название         |Силиконовые дали|
 |:----------------|:---------------|
 |**Логотип**      |<span itunes-id="1095124477" class="itunes-img"><img height="100" width="100" src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/9e/e4/58/9ee45808-2c9a-ebc7-c850-90958fb4433f/mza_4976127524586820747.jpg/600x600bb.jpg"></span>|
