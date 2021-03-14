@@ -35,7 +35,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">14.03.2021 12:04</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">14.03.2021 16:08</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -653,7 +653,7 @@
 
 |Название         |Откровенно про IT-карьеризм|
 |:----------------|:--------------------------|
-|**Логотип**      |<span itunes-id="472631602" class="itunes-img"><img height="100" width="100" src="https://is4-ssl.mzstatic.com/image/thumb/Podcasts114/v4/fe/42/6b/fe426b9a-a88b-7b8b-8a2a-55af5c1a3fe8/mza_11494191973851961420.jpg/600x600bb.jpg"></span>|
+|**Логотип**      |<span itunes-id="472631602" class="itunes-img"><img height="100" width="100" src="https://is3-ssl.mzstatic.com/image/thumb/Podcasts/v4/72/34/ba/7234bace-f4a5-e297-e38b-bee385252a6b/mza_2904388590257044361.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/us/podcast/%D0%BE%D1%82%D0%BA%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE-%D0%BF%D1%80%D0%BE-it-%D0%BA%D0%B0%D1%80%D1%8C%D0%B5%D1%80%D0%B8%D0%B7%D0%BC/id472631602) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/it-19398) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/otkrovenno-pro-it-kar-yerizm) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/it.career.ua/)|
 |**Описание**     |"Откровенно про IT-карьеризм" — программа, посвященная резюме, собеседованиям, построению карьеры и просто беседах о разных IT-сферах. Программу ведут Михаил Марченко — программист, начинающий Scrum master и просто веселый человек, и его соведущая — HR-manager, бизнес-тренер, специалист по оценке и мотивации персонала Ольга Давыдова.|
 |**Ведущие**      |Михаил Марченко<br>Ольга Давыдова|
@@ -816,7 +816,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |120-180 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="256504435" class="episodes" hashtag="radiot">21 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="256504435" class="release-date">07.03.2021 00:57</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="256504435" class="release-date">14.03.2021 01:46</span>|
 
 ---
 
@@ -2378,8 +2378,8 @@
 |**Ведущие**      ||
 |**Регулярность** |Еженедельно|
 |**Длительность** |60-120 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1247192730" class="episodes" hashtag="frontend_u">188 (<font color="red">-1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1247192730" class="release-date">09.03.2021 22:30</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1247192730" class="episodes" hashtag="frontend_u">189 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1247192730" class="release-date">13.03.2021 13:51</span>|
 
 ---
 
