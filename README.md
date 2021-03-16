@@ -541,6 +541,7 @@
 
 |Название|Описание|Места проведения мероприятий|Связанные ссылки|
 |:------:|:-------|:--------------------------:|:--------------:|
+|[![Belarus Ruby User Group](http://favicon.yandex.net/favicon/brug.by)](http://brug.by/)<br>[Belarus Ruby User Group](http://brug.by/)|Ruby User Group - сообщество Ruby/Rails-разработчиков Беларуси, созданное для обмена идеями и опытом.|Беларусь|[![VK](img/favicons/vk.com.png)](https://vk.com/belarusrubyusergroup) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/ByRoR/) [![Telegram](img/favicons/t.me.png)](https://t.me/theBRUG)|
 |[![RubyRussia.club](img/favicons/rubyrussia.club.png)](https://rubyrussia.club/)<br>[RubyRussia.club](https://rubyrussia.club/)|Главная российская конференция о Ruby. Конференция RubyRussia — это уникальное место, где можно пообщаться с коллегами, поделиться живым опытом, встретить старых друзей и узнать о чем-то новом.||[![Twitter](img/favicons/twitter.com.png)](https://twitter.com/railsclub_ru) [![VK](img/favicons/vk.com.png)](https://vk.com/railsclub_ru) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/railsclub/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/user/railsclub)|
 
 </details>
