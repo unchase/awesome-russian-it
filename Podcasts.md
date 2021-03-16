@@ -1318,6 +1318,19 @@
 
 ---
 
+|Название         |[DOU Podcas‪t‬](http://podcast.dou.ua/)|
+|:----------------|:------------------------------------|
+|**Логотип**      |<span itunes-id="1539756031" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/doupodcast) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/dou-podcast/id1539756031) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cDovL3BvZGNhc3QuZG91LnVhL3Jzcw) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/playlist?list=PLwj_3ikgO3CK7mV-cgtj7AXkkFFp3wDl9) • [![RSS](img/favicons/rss.png)](http://podcast.dou.ua/rss) • [![Email](img/favicons/email.png)](mailto:vlada@dou.ua)|
+|**Описание**     |Ежемесячно мы обсуждаем самое интересное из мира украинского ИТ, а еще общаемся с представителями нашего сообщества.|
+|**Ведущие**      |Олександр Майстренко, Юрий Федоренко, Владислава Зацаринная|
+|**Регулярность** |Несколько раз в месяц|
+|**Длительность** |70-90 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1539756031" class="episodes" hashtag="DOU"></span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1539756031" class="release-date"></span>|
+
+---
+
 |Название         |EPAM PODCAST|
 |:----------------|:-----------|
 |**Ссылки**       |[![VK](img/favicons/vk.com.png)](https://vk.com/podcasts-58536976) • [![Telegram](img/favicons/t.me.png)](https://t.me/epamlab)|
