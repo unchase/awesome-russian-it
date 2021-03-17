@@ -35,7 +35,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">17.03.2021 16:14</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">17.03.2021 20:29</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -607,7 +607,7 @@
 |**Ведущие**      |Борис<br>Елизавета Швец [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/Schvepsss/)<br>Антон<br>Евгений Пешков [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/gradea/)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |~35 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1498922167" class="episodes" hashtag="Ничего_такого">17 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1498922167" class="episodes" hashtag="Ничего_такого">17 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1498922167" class="release-date">17.03.2021 12:00</span>|
 
 ---
@@ -1114,8 +1114,8 @@
 |**Ведущие**      ||
 |**Регулярность** |Ежедневно|
 |**Длительность** |~5 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="episodes" hashtag="shortcode">176 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="release-date">16.03.2021 03:00</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="episodes" hashtag="shortcode">177 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="release-date">17.03.2021 03:00</span>|
 
 ---
 
@@ -1671,8 +1671,8 @@
 |**Ведущие**      |Дмитрий Чебанов<br>Лиля Лучик|
 |**Регулярность** |Время от времени|
 |**Длительность** |50-90 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1478421220" class="episodes" hashtag="loving_it">8 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1478421220" class="release-date">16.03.2021 16:30</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1478421220" class="episodes" hashtag="loving_it">7 (<font color="red">-1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1478421220" class="release-date">23.06.2020 12:35</span>|
 
 ---
 
