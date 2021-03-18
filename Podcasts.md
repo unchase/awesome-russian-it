@@ -35,7 +35,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">18.03.2021 12:08</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">18.03.2021 16:13</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -414,7 +414,7 @@
 
 |Название         |[Запуск завтра](https://libolibo.ru/zapuskzavtra)|
 |:----------------|:------------------------------------------------|
-|**Логотип**      |<span itunes-id="1488945593" class="itunes-img"><img height="100" width="100" src="https://is5-ssl.mzstatic.com/image/thumb/Podcasts114/v4/ba/42/84/ba428492-bc88-e00f-6e44-6a471ba40c9d/mza_2693256799804115671.jpg/600x600bb.jpg"></span>|
+|**Логотип**      |<span itunes-id="1488945593" class="itunes-img"><img height="100" width="100" src="https://is4-ssl.mzstatic.com/image/thumb/Podcasts124/v4/09/34/a7/0934a73c-0f9f-60af-5925-8944fb5c5b39/mza_4395064693845334370.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/%D0%B7%D0%B0%D0%BF%D1%83%D1%81%D0%BA-%D0%B7%D0%B0%D0%B2%D1%82%D1%80%D0%B0/id1488945593) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/zapusk-zavtra-2577418) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/%D0%97%D0%B0%D0%BF%D1%83%D1%81%D0%BA-%D0%B7%D0%B0%D0%B2%D1%82%D1%80%D0%B0-id2476243?country=ru) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/zapusk-zavtra) • [![Telegram](img/favicons/t.me.png)](https://t.me/ctodaily) [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/9294155?from=serp)|
 |**Описание**     |Подкаст о технологиях, которые меняют нашу жизнь. Самат Галимов — человек, который решает проблемы. Он работает техническим директором и все время должен находить общий язык с людьми самых разных профессий и помогать им понять друг друга. Хакеры рассказывают ему про безопасность, дата-сайентисты — про машинное обучение и системы распознавания лиц, разработчики — про то, как сделать сервис, которым будут пользоваться миллионы, и не облажаться. Слушайте их разговоры в новом подкасте студии Либо/Либо.|
 |**Ведущие**      |[Самат Галимов](https://samat.me/) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/samat/) [![Medium](img/favicons/medium.com.png)](https://medium.com/@samat)|
@@ -607,8 +607,8 @@
 |**Ведущие**      |Борис<br>Елизавета Швец [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/Schvepsss/)<br>Антон<br>Евгений Пешков [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/gradea/)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |~35 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1498922167" class="episodes" hashtag="Ничего_такого">17 (<font color="green">+1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1498922167" class="release-date">17.03.2021 12:00</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1498922167" class="episodes" hashtag="Ничего_такого">16 (<font color="red">-1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1498922167" class="release-date">11.03.2021 14:00</span>|
 
 ---
 
@@ -893,7 +893,7 @@
 |**Ведущие**      |Владимир Смеркис|
 |**Регулярность** |Еженедельно|
 |**Длительность** |~30 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1095124477" class="episodes" hashtag="silikonovie">222 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1095124477" class="episodes" hashtag="silikonovie">222 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1095124477" class="release-date">17.03.2021 03:00</span>|
 
 ---
@@ -1114,7 +1114,7 @@
 |**Ведущие**      ||
 |**Регулярность** |Ежедневно|
 |**Длительность** |~5 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="episodes" hashtag="shortcode">176 (<font color="red">-1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="episodes" hashtag="shortcode">176 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="release-date">16.03.2021 03:00</span>|
 
 ---
@@ -1671,8 +1671,8 @@
 |**Ведущие**      |Дмитрий Чебанов<br>Лиля Лучик|
 |**Регулярность** |Время от времени|
 |**Длительность** |50-90 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1478421220" class="episodes" hashtag="loving_it">7 (<font color="red">-1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1478421220" class="release-date">23.06.2020 12:35</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1478421220" class="episodes" hashtag="loving_it">8 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1478421220" class="release-date">16.03.2021 16:30</span>|
 
 ---
 
