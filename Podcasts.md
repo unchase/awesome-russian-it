@@ -35,7 +35,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">21.03.2021 12:08</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">21.03.2021 16:14</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -53,8 +53,8 @@
 |**Ведущие**      |[Марат Сибгатулин (eucariot)](https://eucariot.livejournal.com/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCi8Dw_Kc5hKyK83xCW0jVfQ) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/eucariot/)<br>Александр Фатин (Лохматый Мамонт) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/loxmatiymamont/)<br>Антон Клочков<br>[Алексей Учакин (Snake)](https://nixman.info/) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/night_snake/) [![GitHub](img/favicons/github.com.png)](https://github.com/nightsnake) [![RSS](img/favicons/rss.png)](http://feeds.feedburner.com/khd/rss?format=xml)<br>Антон Литвинов (Dr_Wut) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/dr_wut/)<br>Роман Козлов [![GitHub](img/favicons/github.com.png)](https://github.com/soriel)<br>Роман Горшунов|
 |**Регулярность** |Еженедельно|
 |**Длительность** |30-130 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1065445951" class="episodes" hashtag="linkmeup">227 (<font color="red">-1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1065445951" class="release-date">25.02.2021 07:59</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1065445951" class="episodes" hashtag="linkmeup">228 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1065445951" class="release-date">20.03.2021 18:44</span>|
 
 </details>
 
@@ -816,7 +816,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |120-180 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="256504435" class="episodes" hashtag="radiot">21 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="256504435" class="release-date">14.03.2021 01:46</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="256504435" class="release-date">21.03.2021 02:44</span>|
 
 ---
 
@@ -1115,7 +1115,7 @@
 |**Регулярность** |Ежедневно|
 |**Длительность** |~5 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="episodes" hashtag="shortcode">179 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="release-date">20.03.2021 03:00</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="release-date">21.03.2021 03:00</span>|
 
 ---
 
@@ -1307,14 +1307,14 @@
 
 |Название         |Digital Newsroom|
 |:----------------|:---------------|
-|**Логотип**      |<span itunes-id="1415692619" class="itunes-img"><img height="100" width="100" src="https://is4-ssl.mzstatic.com/image/thumb/Podcasts124/v4/4d/e8/f2/4de8f229-0bc2-aef2-eb60-16e25126eaa7/mza_1853820867525152907.jpg/600x600bb.jpg"></span>|
+|**Логотип**      |<span itunes-id="1415692619" class="itunes-img"><img height="100" width="100" src="https://is3-ssl.mzstatic.com/image/thumb/Podcasts124/v4/1f/2f/51/1f2f51ad-ce19-b660-8f6a-36f5a8e434bb/mza_3671059796429145.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/zhbanova/tracks) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/podcast/digital-newsroom/id1415692619) • [![Telegram](img/favicons/t.me.png)](https://telega.one/newsroomaz) • [![RSS](img/favicons/rss.png)](http://feeds.soundcloud.com/users/soundcloud:users:480761115/sounds.rss)|
 |**Описание**     |Подкаст про медиа, технологии и ключевых игроков рынка. Обсуждаем с гостями последние новости и говорим о том, как это повлияет на медиа в России, и что можно применить прямо сейчас.|
 |**Ведущие**      |Анастасия Жбанова|
 |**Регулярность** |Время от времени|
 |**Длительность** |40-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1415692619" class="episodes" hashtag="newsroomaz">22 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1415692619" class="release-date">16.03.2021 10:58</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1415692619" class="episodes" hashtag="newsroomaz">23 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1415692619" class="release-date">21.03.2021 13:30</span>|
 
 ---
 
