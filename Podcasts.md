@@ -353,6 +353,19 @@
 
 ---
 
+|Название         |Да как так-то‪?‬|
+|:----------------|:--------------------------------------|
+|**Логотип**      |<span itunes-id="1559540600" class="itunes-img"><img height=100 width=100 src="https://is2-ssl.mzstatic.com/image/thumb/Podcasts114/v4/ac/5e/27/ac5e2710-5f44-0513-5127-28ec284895de/mza_5099161724859662393.jpg/313x0w.jpg"></img></span>|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/podcast/id1559540600) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://www.google.com/podcasts?feed=aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS8xNzM2MDc4LnJzcw==) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/vic/1559540600) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/watch?v=0poz8e8A5WY&list=PLQJNT2fdCJnhENwMZ3g4VYbNv7hlJOc6h) • [![VK](img/favicons/vk.com.png)](https://vk.com/htmlacademy) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/htmlacademy_ru) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/htmlacademy) • [![Telegram](img/favicons/t.me.png)](https://t.me/htmlacademy) • [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/htmlacademy/) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/14524107) • [![RSS](img/favicons/rss.png)](https://feeds.buzzsprout.com/1736078.rss)|
+|**Описание**     |Подкаст для тех, кто хочет сменить профессию и попасть в IT. Вместе с гостями обсуждаем, где брать мотивацию, какие навыки развивать, с какими трудностями сталкиваются новички и как их решать, и главное — как найти ту самую новую работу. Подкаст выходит при поддержке образовательной среды HTML Academy. Для связи: astepanova@htmlacademy.ru Наш комьюнити-чат: https://t.me/htmlacademycomm|
+|**Ведущие**      |Лёша Симоненко [![VK](img/favicons/vk.com.png)](https://vk.com/alexeysimonenko) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/simonenko) [![GitHub](img/favicons/github.com.png)](https://github.com/meritt)<br>Женя Шкляр [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/evil_me/)|
+|**Регулярность** |Время от времени|
+|**Длительность** |~45 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1559540600" class="episodes" hashtag="html_academy"></span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1559540600" class="release-date"></span>|
+
+---
+
 |Название         |[Две столицы](http://www.2capitals.space)|
 |:----------------|:----------------------------------------|
 |**Ссылки**       |[![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/dve-stolicy-ujutnyj-podkast-it-pankov/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/series-1297185) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/2491598?country=ru) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/dve-stolitsy-uyutnyy-podkast-it-pankov) • [![Podster](img/favicons/podster.fm.png)](https://2capitals.podster.fm/) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCVyA6ONMsbIB-TSLZO8HNmQ) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcast2capitals) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/2capitals/) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/6880541?from=serp)|
