@@ -35,7 +35,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">01.04.2021 20:41</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">02.04.2021 08:18</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -355,14 +355,14 @@
 
 |Название         |Да как так-то‪?‬|
 |:----------------|:--------------------------------------|
-|**Логотип**      |<span itunes-id="1559540600" class="itunes-img"><img height=100 width=100 src="https://is2-ssl.mzstatic.com/image/thumb/Podcasts114/v4/ac/5e/27/ac5e2710-5f44-0513-5127-28ec284895de/mza_5099161724859662393.jpg/313x0w.jpg"></img></span>|
+|**Логотип**      |<span itunes-id="1559540600" class="itunes-img"><img height="100" width="100" src="https://is3-ssl.mzstatic.com/image/thumb/Podcasts114/v4/ac/5e/27/ac5e2710-5f44-0513-5127-28ec284895de/mza_5099161724859662393.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/podcast/id1559540600) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://www.google.com/podcasts?feed=aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS8xNzM2MDc4LnJzcw==) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/vic/1559540600) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/watch?v=0poz8e8A5WY&list=PLQJNT2fdCJnhENwMZ3g4VYbNv7hlJOc6h) • [![VK](img/favicons/vk.com.png)](https://vk.com/htmlacademy) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/htmlacademy_ru) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/htmlacademy) • [![Telegram](img/favicons/t.me.png)](https://t.me/htmlacademy) • [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/htmlacademy/) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/14524107) • [![RSS](img/favicons/rss.png)](https://feeds.buzzsprout.com/1736078.rss)|
 |**Описание**     |Подкаст для тех, кто хочет сменить профессию и попасть в IT. Вместе с гостями обсуждаем, где брать мотивацию, какие навыки развивать, с какими трудностями сталкиваются новички и как их решать, и главное — как найти ту самую новую работу. Подкаст выходит при поддержке образовательной среды HTML Academy. Для связи: astepanova@htmlacademy.ru Наш комьюнити-чат: https://t.me/htmlacademycomm|
 |**Ведущие**      |Лёша Симоненко [![VK](img/favicons/vk.com.png)](https://vk.com/alexeysimonenko) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/simonenko) [![GitHub](img/favicons/github.com.png)](https://github.com/meritt)<br>Женя Шкляр [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/evil_me/)|
 |**Регулярность** |Время от времени|
 |**Длительность** |~45 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1559540600" class="episodes" hashtag="html_academy"></span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1559540600" class="release-date"></span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1559540600" class="episodes" hashtag="html_academy">2</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1559540600" class="release-date">30.03.2021 08:00</span>|
 
 ---
 
@@ -433,7 +433,7 @@
 |**Ведущие**      |[Самат Галимов](https://samat.me/) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/samat/) [![Medium](img/favicons/medium.com.png)](https://medium.com/@samat)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |15-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1488945593" class="episodes" hashtag="ctodaily">51 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1488945593" class="episodes" hashtag="ctodaily">51 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1488945593" class="release-date">01.04.2021 05:00</span>|
 
 ---
@@ -842,7 +842,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |40-60 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="526797445" class="episodes" hashtag="radiomaorg">10 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="526797445" class="release-date">24.03.2021 21:50</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="526797445" class="release-date">01.04.2021 18:59</span>|
 
 ---
 
@@ -932,8 +932,8 @@
 |**Ведущие**      |Вахтанг Махарадзе|
 |**Регулярность** |Ежедневно|
 |**Длительность** |5-10 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="episodes" hashtag="strana_tranzistoriia">1132 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="release-date">31.03.2021 14:30</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="episodes" hashtag="strana_tranzistoriia">1133 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="release-date">01.04.2021 14:30</span>|
 
 ---
 
@@ -1241,8 +1241,8 @@
 |**Ведущие**      ||
 |**Регулярность** |Еженедельно|
 |**Длительность** |20-80 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1484275234" class="episodes" hashtag="matematicxyz">71 (<font color="green">+1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1484275234" class="release-date">01.04.2021 19:09</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1484275234" class="episodes" hashtag="matematicxyz">70 (<font color="red">-1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1484275234" class="release-date">25.03.2021 16:21</span>|
 
 ---
 
@@ -1710,7 +1710,7 @@
 |**Ведущие**      |Юрий Агеев|
 |**Регулярность** |Еженедельно|
 |**Длительность** |40-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1417851966" class="episodes" hashtag="productsense">139 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1417851966" class="episodes" hashtag="productsense">139 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1417851966" class="release-date">31.03.2021 23:59</span>|
 
 ---
@@ -2630,8 +2630,8 @@
 |**Ведущие**      ||
 |**Регулярность** |Еженедельно|
 |**Длительность** |20-50 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1521240754" class="episodes" hashtag="Геймдев_без_сахара">40 (<font color="green">+1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1521240754" class="release-date">01.04.2021 12:30</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1521240754" class="episodes" hashtag="Геймдев_без_сахара">39 (<font color="red">-1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1521240754" class="release-date">25.03.2021 12:30</span>|
 
 ---
 
