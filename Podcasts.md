@@ -1292,6 +1292,19 @@
 
 ---
 
+|Название         |DesignSpot Podcas‪t‬|
+|:----------------|:-----------------|
+|**Логотип**      |<span itunes-id="1521026340" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/designspot_community) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/designspot-podcast/id1521026340) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjg0MjgzMzc0Ny9zb3VuZHMucnNz) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/watch?v=VF-rgKp4yWg&list=PLHnl7rKdsqAuN2tvWQKmtIyC8dKfNbWTY) • [![Telegram](img/favicons/t.me.png)](https://t.me/design_spot) • [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/designspot_community/) • [![RSS](img/favicons/rss.png)](https://feeds.soundcloud.com/users/soundcloud:users:842833747/sounds.rss)|
+|**Описание**     |Подкаст про дизайн от сообщества дизайнеров DesignSpot. Будем крутиться вокруг, щупая психологию, социологию, искусствоведение, но будем и нырять вглубь, открывая непознанное в недрах профессии проектировщика интерфейсов. Запрыгивайте и погнали! Чух-чух!|
+|**Ведущие**      ||
+|**Регулярность** |Время от времени|
+|**Длительность** |20-60 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1521026340" class="episodes" hashtag="designspot_community"></span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1521026340" class="release-date"></span>|
+
+---
+
 |Название         |devleads podcast|
 |:----------------|:---------------|
 |**Логотип**      |<span itunes-id="1446894920" class="itunes-img"><img height="100" width="100" src="https://is3-ssl.mzstatic.com/image/thumb/Podcasts123/v4/55/0b/39/550b3987-95a7-01de-2bb1-6fef2643ad81/mza_7475949990485445368.jpg/600x600bb.jpg"></span>|
