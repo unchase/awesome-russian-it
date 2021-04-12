@@ -35,7 +35,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">11.04.2021 20:33</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">12.04.2021 08:18</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -96,7 +96,7 @@
 |**Ведущие**      ||
 |**Регулярность** |Еженедельно|
 |**Длительность** |40-50 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1485575312" class="episodes" hashtag="forklog">4 (<font color="red">-148</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1485575312" class="episodes" hashtag="forklog">4 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1485575312" class="release-date">21.04.2020 10:35</span>|
 
 </details>
@@ -958,7 +958,7 @@
 |**Ведущие**      ||
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |40-70 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1496543368" class="episodes" hashtag="sfierichieskoie_lidierstvo">18 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1496543368" class="episodes" hashtag="sfierichieskoie_lidierstvo">18 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1496543368" class="release-date">10.04.2021 17:00</span>|
 
 ---
@@ -2404,8 +2404,8 @@
 |**Ведущие**      |[Александр Гончаров](https://websanya.ru/) [![GitHub](img/favicons/github.com.png)](https://github.com/websanya)|
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |80-150 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="923355344" class="episodes" hashtag="uwebdesign">238 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="923355344" class="release-date">04.04.2021 18:55</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="923355344" class="episodes" hashtag="uwebdesign">239 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="923355344" class="release-date">11.04.2021 16:20</span>|
 
 ---
 
@@ -2417,8 +2417,8 @@
 |**Ведущие**      ||
 |**Регулярность** |Еженедельно|
 |**Длительность** |60-120 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1247192730" class="episodes" hashtag="frontend_u">192 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1247192730" class="release-date">31.03.2021 18:09</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1247192730" class="episodes" hashtag="frontend_u">193 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1247192730" class="release-date">11.04.2021 20:08</span>|
 
 ---
 
@@ -2695,8 +2695,8 @@
 |**Ведущие**      |[Сергей Галёнкин](http://galyonkin.com/) [![Medium](img/favicons/medium.com.png)](http://medium.com/@galyonkin)<br>[Михаил Кузьмин](http://kuzmitch.ru/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UChwapc7GYZZ3k4zTxp6B66Q)|
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |80-120 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="560881209" class="episodes" hashtag="kdicast">318 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="560881209" class="release-date">05.04.2021 01:56</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="560881209" class="episodes" hashtag="kdicast">319 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="560881209" class="release-date">12.04.2021 00:41</span>|
 
 ---
 
