@@ -35,7 +35,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">15.04.2021 12:09</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">15.04.2021 16:18</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -394,8 +394,8 @@
 |**Ведущие**      |Дмитрий Суховаров|
 |**Регулярность** |Ежедневно|
 |**Длительность** |10-20 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1492900770" class="episodes" hashtag="dsuhovarov">221 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1492900770" class="release-date">10.04.2021 11:00</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1492900770" class="episodes" hashtag="dsuhovarov">222 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1492900770" class="release-date">15.04.2021 13:00</span>|
 
 ---
 
@@ -433,8 +433,8 @@
 |**Ведущие**      |[Самат Галимов](https://samat.me/) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/samat/) [![Medium](img/favicons/medium.com.png)](https://medium.com/@samat)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |15-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1488945593" class="episodes" hashtag="ctodaily">52 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1488945593" class="release-date">08.04.2021 09:59</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1488945593" class="episodes" hashtag="ctodaily">53 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1488945593" class="release-date">15.04.2021 12:48</span>|
 
 ---
 
@@ -1049,8 +1049,8 @@
 |**Ведущие**      |[Лев Пикалёв](http://levpikalev.com/)|
 |**Регулярность** |Раз в две недели|
 |**Длительность** |30-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1443781654" class="episodes" hashtag="khantflou_insight">50 (<font color="red">-1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1443781654" class="release-date">25.03.2021 10:32</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1443781654" class="episodes" hashtag="khantflou_insight">51 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1443781654" class="release-date">14.04.2021 15:03</span>|
 
 ---
 
@@ -1127,7 +1127,7 @@
 |**Ведущие**      ||
 |**Регулярность** |Ежедневно|
 |**Длительность** |~5 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="episodes" hashtag="shortcode">200 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="episodes" hashtag="shortcode">200 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="release-date">15.04.2021 03:00</span>|
 
 ---
@@ -1153,8 +1153,8 @@
 |**Ведущие**      |Андрей Барышников [![GitHub](img/favicons/github.com.png)](https://github.com/BilberryMuffin)<br>Сергей Епихин<br>Антон Поздняков|
 |**Регулярность** |Еженедельно|
 |**Длительность** |70-120 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="868222886" class="episodes" hashtag="beardycast">477 (<font color="red">-1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="868222886" class="release-date">06.04.2021 17:07</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="868222886" class="episodes" hashtag="beardycast">478 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="868222886" class="release-date">13.04.2021 16:47</span>|
 
 ---
 
@@ -1723,8 +1723,8 @@
 |**Ведущие**      |Юрий Агеев|
 |**Регулярность** |Еженедельно|
 |**Длительность** |40-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1417851966" class="episodes" hashtag="productsense">140 (<font color="red">-1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1417851966" class="release-date">07.04.2021 23:59</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1417851966" class="episodes" hashtag="productsense">141 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1417851966" class="release-date">14.04.2021 23:55</span>|
 
 ---
 
@@ -1775,8 +1775,8 @@
 |**Ведущие**      |Андрей Радионов|
 |**Регулярность** |Еженедельно|
 |**Длительность** |~70 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1503693347" class="episodes" hashtag="optacast">48 (<font color="red">-1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1503693347" class="release-date">07.04.2021 23:40</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1503693347" class="episodes" hashtag="optacast">49 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1503693347" class="release-date">14.04.2021 22:03</span>|
 
 ---
 
@@ -1866,8 +1866,8 @@
 |**Ведущие**      |Алексей Ткачук|
 |**Регулярность** |Ежедневно|
 |**Длительность** |20-25 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1494018535" class="episodes" hashtag="rotam">387 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1494018535" class="release-date">14.04.2021 00:33</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1494018535" class="episodes" hashtag="rotam">388 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1494018535" class="release-date">15.04.2021 01:07</span>|
 
 ---
 
@@ -1892,7 +1892,7 @@
 |**Ведущие**      ||
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |~30 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1526097167" class="episodes" hashtag="RUSSKY.DIGITAL">8 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1526097167" class="episodes" hashtag="RUSSKY.DIGITAL">8 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1526097167" class="release-date">14.04.2021 05:41</span>|
 
 ---
@@ -2339,7 +2339,7 @@
 |**Ведущие**      |Андрей Мелихов [![Medium](img/favicons/medium.com.png)](https://medium.com/@amel_true) [![GitHub](img/favicons/github.com.png)](https://github.com/amel-true)<br>Вадим Яловенко [![GitHub](img/favicons/github.com.png)](https://github.com/yalovek)<br>Роман Понаморев [![GitHub](img/favicons/github.com.png)](https://github.com/maksugr) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/maksugr/) [![Medium](img/favicons/medium.com.png)](https://medium.com/@maksugr)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |20-50 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1226773343" class="episodes" hashtag="devschacht">125 (<font color="green">+120</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1226773343" class="episodes" hashtag="devschacht">5 (<font color="red">-120</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1226773343" class="release-date">24.03.2020 14:44</span>|
 
 ---
@@ -2796,8 +2796,8 @@
 |**Ведущие**      |Олег Доброштан [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCc6DRZVioHF1m-ZWXqXNAYg)<br>Вячеслав Уточкин<br>Александр Мураш|
 |**Регулярность** |Раз в три недели (по средам)|
 |**Длительность** |40-50 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1490959979" class="episodes" hashtag="hvgamedev">23 (<font color="red">-1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1490959979" class="release-date">24.03.2021 15:19</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1490959979" class="episodes" hashtag="hvgamedev">24 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1490959979" class="release-date">14.04.2021 14:29</span>|
 
 ---
 
