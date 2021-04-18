@@ -1207,6 +1207,16 @@
 
 ---
 
+|Название         |BeAmazing|
+|:----------------|:--------|
+|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/be-amazing) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCHel5wPsuhAPg6WYETj-zZQ) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/BeAmazingCommunity/) • [![Telegram](img/favicons/t.me.png)](https://t.me/BeAmazingCommunity) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/11521674)|
+|**Описание**     |Содержательные беседы о бизнес-анализе, лидерстве, технологиях и тенденциях в сфере ИТ с приглашёнными экспертами-практиками.|
+|**Ведущие**      ||
+|**Регулярность** |Время от времени|
+|**Длительность** |30-70 минут|
+
+---
+
 |Название         |[Biweekly](https://sonar.one/podcasts/biweekly)|
 |:----------------|:----------------------------------------------|
 |**Логотип**      |<span itunes-id="1095164631" class="itunes-img"><img height="100" width="100" src="https://is2-ssl.mzstatic.com/image/thumb/Podcasts123/v4/2e/9d/4a/2e9d4a59-2cfb-c883-5a33-eb16245b5719/mza_1390026125361100243.png/600x600bb.jpg"></span>|
