@@ -35,7 +35,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">19.04.2021 08:17</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">19.04.2021 12:09</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -53,8 +53,8 @@
 |**Ведущие**      |[Марат Сибгатулин (eucariot)](https://eucariot.livejournal.com/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCi8Dw_Kc5hKyK83xCW0jVfQ) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/eucariot/)<br>Александр Фатин (Лохматый Мамонт) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/loxmatiymamont/)<br>Антон Клочков<br>[Алексей Учакин (Snake)](https://nixman.info/) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/night_snake/) [![GitHub](img/favicons/github.com.png)](https://github.com/nightsnake) [![RSS](img/favicons/rss.png)](http://feeds.feedburner.com/khd/rss?format=xml)<br>Антон Литвинов (Dr_Wut) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/dr_wut/)<br>Роман Козлов [![GitHub](img/favicons/github.com.png)](https://github.com/soriel)<br>Роман Горшунов|
 |**Регулярность** |Еженедельно|
 |**Длительность** |30-130 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1065445951" class="episodes" hashtag="linkmeup">231 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1065445951" class="release-date">09.04.2021 16:58</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1065445951" class="episodes" hashtag="linkmeup">232 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1065445951" class="release-date">19.04.2021 10:43</span>|
 
 </details>
 
@@ -1011,7 +1011,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |~50 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="378499320" class="episodes" hashtag="tochka">21 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="378499320" class="release-date">11.04.2021 21:05</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="378499320" class="release-date">18.04.2021 21:05</span>|
 
 ---
 
@@ -1062,8 +1062,8 @@
 |**Ведущие**      |Николай<br>[Лев Пикалёв](http://levpikalev.com/) [![Medium](img/favicons/medium.com.png)](https://podcasts-prevail.medium.com/)<br>Анна [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/Shelsneg/)<br>Адель<br>Далер Алиёров [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/daleraliyorov/)<br>Иван Звягин [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/baragol/)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |~60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1542090813" class="episodes" hashtag="Хоба">21 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1542090813" class="release-date">12.04.2021 01:00</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1542090813" class="episodes" hashtag="Хоба">22 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1542090813" class="release-date">19.04.2021 09:36</span>|
 
 ---
 
@@ -1127,7 +1127,7 @@
 |**Ведущие**      ||
 |**Регулярность** |Ежедневно|
 |**Длительность** |~5 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="episodes" hashtag="shortcode">204 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="episodes" hashtag="shortcode">204 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="release-date">19.04.2021 03:00</span>|
 
 ---
@@ -1226,7 +1226,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |30-60 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1095164631" class="episodes" hashtag="biweekly">100 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1095164631" class="release-date">09.04.2021 11:28</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1095164631" class="release-date">19.04.2021 07:00</span>|
 
 ---
 
@@ -1337,7 +1337,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |120-180 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="903660317" class="episodes" hashtag="devzen_podcast">25 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="903660317" class="release-date">11.04.2021 14:27</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="903660317" class="release-date">18.04.2021 23:40</span>|
 
 ---
 
@@ -2337,7 +2337,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |40-90 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1080500016" class="episodes" hashtag="webstandards_ru">277 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1080500016" class="release-date">12.04.2021 03:00</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1080500016" class="release-date">19.04.2021 03:00</span>|
 
 ---
 
@@ -2414,7 +2414,7 @@
 |**Ведущие**      |[Александр Гончаров](https://websanya.ru/) [![GitHub](img/favicons/github.com.png)](https://github.com/websanya)|
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |80-150 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="923355344" class="episodes" hashtag="uwebdesign">240 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="923355344" class="episodes" hashtag="uwebdesign">240 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="923355344" class="release-date">17.04.2021 22:09</span>|
 
 ---
@@ -2462,8 +2462,8 @@
 |**Ведущие**      |Павел Франков|
 |**Регулярность** |Еженедельно|
 |**Длительность** |~3 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1511253284" class="episodes" hashtag="frontoweek">49 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1511253284" class="release-date">12.04.2021 09:00</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1511253284" class="episodes" hashtag="frontoweek">50 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1511253284" class="release-date">19.04.2021 08:00</span>|
 
 ---
 
@@ -2679,8 +2679,8 @@
 |**Ведущие**      |Владимир Красильников<br>Анатолий Шестов<br>Никита Гук [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/azazelis/)|
 |**Регулярность** |Раз в две недели|
 |**Длительность** |40-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1413689117" class="episodes" hashtag="zhiza_gd">76 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1413689117" class="release-date">05.04.2021 10:13</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1413689117" class="episodes" hashtag="zhiza_gd">77 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1413689117" class="release-date">19.04.2021 09:52</span>|
 
 ---
 
