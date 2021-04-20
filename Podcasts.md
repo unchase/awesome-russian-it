@@ -35,7 +35,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">20.04.2021 16:19</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">20.04.2021 20:34</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -70,8 +70,8 @@
 |**Ведущие**      |[Сергей Тихомиров](https://sergei.substack.com) [![RSS](img/favicons/rss.png)](https://sergei.substack.com/feed)<br>Иван Иваницкий [![Medium](img/favicons/medium.com.png)](https://medium.com/@ivanitskiy.ivan) [![GitHub](img/favicons/github.com.png)](https://github.com/Ivan-Ivanitskiy)<br>Сергей Павлин<br>Александр Селезнев|
 |**Регулярность** |Еженедельно|
 |**Длительность** |50-110 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1289965366" class="episodes" hashtag="basicblockradio">142 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1289965366" class="release-date">13.04.2021 18:40</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1289965366" class="episodes" hashtag="basicblockradio">143 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1289965366" class="release-date">20.04.2021 10:11</span>|
 
 ---
 
@@ -672,7 +672,7 @@
 |**Ведущие**      |Михаил Марченко<br>Ольга Давыдова|
 |**Регулярность** |Время от времени|
 |**Длительность** |30-50 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="472631602" class="episodes" hashtag="it.career.ua">326 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="472631602" class="episodes" hashtag="it.career.ua">326 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="472631602" class="release-date">19.04.2021 11:02</span>|
 
 ---
@@ -789,8 +789,8 @@
 |**Ведущие**      |Роман Рыбальченко|
 |**Регулярность** |Несколько раз в неделю|
 |**Длительность** |20-80 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1178337792" class="episodes" hashtag="romanetua">118 (<font color="green">+1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1178337792" class="release-date">20.04.2021 14:22</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1178337792" class="episodes" hashtag="romanetua">117 (<font color="red">-1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1178337792" class="release-date">06.04.2021 14:26</span>|
 
 ---
 
@@ -828,7 +828,7 @@
 |**Ведущие**      |Ксения (ksenks) [![GitHub](img/favicons/github.com.png)](https://github.com/ksenks)<br>Григорий Бакунов (Bobuk) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/bobuk/) [![GitHub](img/favicons/github.com.png)](https://github.com/bobuk)<br>[Евгений Борт (umputun)](http://www.umputun.com/) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/umputun/) [![GitHub](img/favicons/github.com.png)](https://github.com/umputun) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/user/umputun) <br>[Сергей Петренко](https://blognot.co/) [![GitHub](img/favicons/github.com.png)](https://github.com/grayru) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/c/grayru) [![RSS](img/favicons/rss.png)](https://blognot.co/feed)<br>Алексей Нестеров (alek-sys) [![GitHub](img/favicons/github.com.png)](https://github.com/alek-sys)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |120-180 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="256504435" class="episodes" hashtag="radiot">21 (<font color="red">0</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="256504435" class="episodes" hashtag="radiot">220 (<font color="green">+199</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="256504435" class="release-date">18.04.2021 03:05</span>|
 
 ---
@@ -1127,7 +1127,7 @@
 |**Ведущие**      ||
 |**Регулярность** |Ежедневно|
 |**Длительность** |~5 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="episodes" hashtag="shortcode">204 (<font color="red">-1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="episodes" hashtag="shortcode">204 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="release-date">19.04.2021 03:00</span>|
 
 ---
@@ -1398,8 +1398,8 @@
 |**Ведущие**      |Сергей Кузнецов<br>Вахтанг Махарадзе|
 |**Регулярность** |Еженедельно|
 |**Длительность** |30-40 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1436711112" class="episodes" hashtag="forgeeks">77 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1436711112" class="release-date">06.04.2021 19:52</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1436711112" class="episodes" hashtag="forgeeks">78 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1436711112" class="release-date">20.04.2021 19:50</span>|
 
 ---
 
@@ -1707,8 +1707,8 @@
 |**Ведущие**      |Дмитрий Чебанов<br>Лиля Лучик|
 |**Регулярность** |Время от времени|
 |**Длительность** |50-90 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1478421220" class="episodes" hashtag="loving_it">9 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1478421220" class="release-date">26.03.2021 12:15</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1478421220" class="episodes" hashtag="loving_it">10 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1478421220" class="release-date">20.04.2021 15:37</span>|
 
 ---
 
@@ -1876,7 +1876,7 @@
 |**Ведущие**      |Алексей Ткачук|
 |**Регулярность** |Ежедневно|
 |**Длительность** |20-25 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1494018535" class="episodes" hashtag="rotam">391 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1494018535" class="episodes" hashtag="rotam">391 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1494018535" class="release-date">20.04.2021 01:39</span>|
 
 ---
@@ -2954,8 +2954,8 @@
 |**Ведущие**      |Виктор<br>Максим|
 |**Регулярность** |Раз в две недели|
 |**Длительность** |80-120 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1502639464" class="episodes" hashtag="devopskitchentalks">20 (<font color="red">-1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1502639464" class="release-date">06.04.2021 18:09</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1502639464" class="episodes" hashtag="devopskitchentalks">21 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1502639464" class="release-date">20.04.2021 10:33</span>|
 
 </details>
 
