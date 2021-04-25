@@ -35,7 +35,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">25.04.2021 12:09</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">25.04.2021 16:18</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -53,8 +53,8 @@
 |**Ведущие**      |[Марат Сибгатулин (eucariot)](https://eucariot.livejournal.com/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCi8Dw_Kc5hKyK83xCW0jVfQ) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/eucariot/)<br>Александр Фатин (Лохматый Мамонт) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/loxmatiymamont/)<br>Антон Клочков<br>[Алексей Учакин (Snake)](https://nixman.info/) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/night_snake/) [![GitHub](img/favicons/github.com.png)](https://github.com/nightsnake) [![RSS](img/favicons/rss.png)](http://feeds.feedburner.com/khd/rss?format=xml)<br>Антон Литвинов (Dr_Wut) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/dr_wut/)<br>Роман Козлов [![GitHub](img/favicons/github.com.png)](https://github.com/soriel)<br>Роман Горшунов|
 |**Регулярность** |Еженедельно|
 |**Длительность** |30-130 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1065445951" class="episodes" hashtag="linkmeup">232 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1065445951" class="release-date">19.04.2021 10:43</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1065445951" class="episodes" hashtag="linkmeup">233 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1065445951" class="release-date">25.04.2021 10:06</span>|
 
 </details>
 
@@ -2099,13 +2099,13 @@
 
 |Название         |Дизайн Такой|
 |:----------------|:-----------|
-|**Логотип**      |<span itunes-id="1445736032" class="itunes-img"><img height="100" width="100" src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts114/v4/a8/73/4d/a8734d73-1d19-b950-7b82-24fd791af230/mza_14829992791261993686.jpeg/600x600bb.jpg"></span>|
+|**Логотип**      |<span itunes-id="1445736032" class="itunes-img"><img height="100" width="100" src="https://is4-ssl.mzstatic.com/image/thumb/Podcasts125/v4/cb/ba/ea/cbbaea64-0556-635b-9841-66481d17be7f/mza_618600368882379904.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/design_takoy) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/%D0%B4%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD-%D1%82%D0%B0%D0%BA%D0%BE%D0%B9/id1445736032) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/dizajn-takoj/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/2490832) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD-%D0%A2%D0%B0%D0%BA%D0%BE%D0%B9-id1642994?country=ru) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/dizayn-takoy) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcastdesigntakoy) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/designtakoy/) • [![Telegram](img/favicons/t.me.png)](https://t.me/design_takoy)|
 |**Описание**     |Подкаст о продуктовом дизайне, вебе, интерфейсах и софте. Medium пишет о дизайне, мы о нём говорим.|
 |**Ведущие**      |[Никита Лакеев](https://lakeevnikita.tilda.ws/) [![Medium](img/favicons/medium.com.png)](https://medium.com/@lakeisheee)<br>Роман Нургалиев [![Medium](img/favicons/medium.com.png)](http://medium.com/@romannurgaliev)|
 |**Регулярность** |Время от времени|
 |**Длительность** |40-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1445736032" class="episodes" hashtag="design_takoy">37 (<font color="red">0</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1445736032" class="episodes" hashtag="design_takoy">38 (<font color="green">+1</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1445736032" class="release-date">15.02.2021 07:55</span>|
 
 ---
