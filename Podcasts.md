@@ -35,7 +35,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">29.04.2021 16:18</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">29.04.2021 20:34</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -257,7 +257,7 @@
 |**Ведущие**      |Сергей Козырев [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/taksebe/)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |~70 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1399902281" class="episodes" hashtag="toinfinity_podcast">69 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1399902281" class="episodes" hashtag="toinfinity_podcast">69 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1399902281" class="release-date">28.04.2021 07:44</span>|
 
 ---
@@ -446,7 +446,7 @@
 |**Ведущие**      |Илья Верязов|
 |**Регулярность** |Время от времени|
 |**Длительность** |25-45 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1120110650" class="episodes" hashtag="Ивент_Кухня">69 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1120110650" class="episodes" hashtag="Ивент_Кухня">69 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1120110650" class="release-date">29.04.2021 06:00</span>|
 
 ---
@@ -607,7 +607,7 @@
 |**Ведущие**      |Даниил Скоринкин<br>Анатолий Старостин|
 |**Регулярность** |Еженедельно|
 |**Длительность** |30-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1542538163" class="episodes" hashtag="НИИ">9 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1542538163" class="episodes" hashtag="НИИ">9 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1542538163" class="release-date">28.04.2021 12:59</span>|
 
 ---
@@ -906,8 +906,8 @@
 |**Ведущие**      |Владимир Смеркис|
 |**Регулярность** |Еженедельно|
 |**Длительность** |~30 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1095124477" class="episodes" hashtag="silikonovie">227 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1095124477" class="release-date">23.04.2021 17:04</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1095124477" class="episodes" hashtag="silikonovie">228 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1095124477" class="release-date">28.04.2021 20:59</span>|
 
 ---
 
@@ -932,7 +932,7 @@
 |**Ведущие**      |Вахтанг Махарадзе|
 |**Регулярность** |Ежедневно|
 |**Длительность** |5-10 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="episodes" hashtag="strana_tranzistoriia">1147 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="episodes" hashtag="strana_tranzistoriia">1148 (<font color="green">+1</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="release-date">29.04.2021 14:30</span>|
 
 ---
@@ -1049,8 +1049,8 @@
 |**Ведущие**      |[Лев Пикалёв](http://levpikalev.com/)|
 |**Регулярность** |Раз в две недели|
 |**Длительность** |30-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1443781654" class="episodes" hashtag="khantflou_insight">51 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1443781654" class="release-date">14.04.2021 15:03</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1443781654" class="episodes" hashtag="khantflou_insight">52 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1443781654" class="release-date">28.04.2021 17:47</span>|
 
 ---
 
@@ -1127,8 +1127,8 @@
 |**Ведущие**      ||
 |**Регулярность** |Ежедневно|
 |**Длительность** |~5 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="episodes" hashtag="shortcode">209 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="release-date">28.04.2021 03:00</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="episodes" hashtag="shortcode">211 (<font color="green">+2</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="release-date">29.04.2021 03:00</span>|
 
 ---
 
@@ -1226,7 +1226,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |30-60 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1095164631" class="episodes" hashtag="biweekly">100 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1095164631" class="release-date">23.04.2021 07:00</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1095164631" class="release-date">29.04.2021 07:00</span>|
 
 ---
 
@@ -1450,7 +1450,7 @@
 |**Ведущие**      |[Павел Гуров](https://gurov.github.io) [![GitHub](img/favicons/github.com.png)](https://github.com/gurov) [![Medium](img/favicons/medium.com.png)](https://medium.com/@gurovdigital) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/lucius/) [![RSS](img/favicons/rss.png)](https://gurov.github.io/feed.xml)|
 |**Регулярность** |Время от времени|
 |**Длительность** |20-40 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1456143785" class="episodes" hashtag="gurovdigital">33 (<font color="red">0</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1456143785" class="episodes" hashtag="gurovdigital">34 (<font color="green">+1</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1456143785" class="release-date">12.04.2021 15:38</span>|
 
 ---
@@ -1694,7 +1694,7 @@
 |**Ведущие**      ||
 |**Регулярность** |Время от времени|
 |**Длительность** |20-80 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1313900856" class="episodes" hashtag="loftblog">202 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1313900856" class="episodes" hashtag="loftblog">202 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1313900856" class="release-date">28.04.2021 10:32</span>|
 
 ---
@@ -1733,7 +1733,7 @@
 |**Ведущие**      |Юрий Агеев|
 |**Регулярность** |Еженедельно|
 |**Длительность** |40-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1417851966" class="episodes" hashtag="productsense">143 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1417851966" class="episodes" hashtag="productsense">143 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1417851966" class="release-date">28.04.2021 23:59</span>|
 
 ---
@@ -1941,7 +1941,7 @@
 |**Ведущие**      |[Константин Буркалёв](http://blog.ksdaemon.ru/) [![GitHub](img/favicons/github.com.png)](https://github.com/KSDaemon) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/ksdaemon/) [![RSS](img/favicons/rss.png)](https://blog.ksdaemon.ru/feed/)|
 |**Регулярность** |Время от времени.|
 |**Длительность** |60-120 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="890468606" class="episodes" hashtag="sdcast">133 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="890468606" class="episodes" hashtag="sdcast">133 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="890468606" class="release-date">28.04.2021 12:01</span>|
 
 ---
@@ -2501,7 +2501,7 @@
 |**Ведущие**      |[Дмитрий Пацура](https://resume.dmtry.me/) [![GitHub](img/favicons/github.com.png)](https://github.com/ovr)<br>Артём Кобзарь [![GitHub](img/favicons/github.com.png)](https://github.com/jsmonk)|
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |40-70 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1475405773" class="episodes" hashtag="underjs">31 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1475405773" class="episodes" hashtag="underjs">31 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1475405773" class="release-date">28.04.2021 10:00</span>|
 
 </details>
