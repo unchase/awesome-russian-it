@@ -1119,6 +1119,19 @@
 
 ---
 
+|Название         |[Читаем вместе](https://www.reading-together.dev/)|
+|:----------------|:-------------------------------------------------|
+|**Логотип**      |<span itunes-id="1563444550" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/читаем-вместе/id1563444550) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS8xNzUwMjEzLnJzcw==) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/chitaiem-vmiestie) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/id4059624) • [![Telegram](img/favicons/t.me.png)](https://t.me/readingtogetherdev) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/14948662)|
+|**Описание**     |Подкаст, в котором мы обсуждаем книги о разработке и ищем ответы на самые главные вопросы. В каждом сезоне новая книга.|
+|**Ведущие**      ||
+|**Регулярность** |Еженедельно|
+|**Длительность** |40-60 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1563444550" class="episodes" hashtag="reading-together"></span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1563444550" class="release-date"></span>|
+
+---
+
 |Название         |Шорткод|
 |:----------------|:------|
 |**Логотип**      |<span itunes-id="1517632257" class="itunes-img"><img height="100" width="100" src="https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/49/b2/f3/49b2f328-8f45-fcde-40b2-d96aa858ce9f/mza_16289974168297667005.jpg/600x600bb.jpg"></span>|
