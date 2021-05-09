@@ -50,7 +50,7 @@
 
 > Здесь собрано множество YouTube-каналов, связанных с ИТ и около-ИТшной тематикой.
 
-<details open="open"><summary><a name="youtube-ai-ml-datascience"></a><b>AI, ML и DataScience</b></summary><br>
+### **AI, ML и DataScience** <a name="youtube-ai-ml-datascience"></a>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -69,9 +69,7 @@
 |<a href="https://www.youtube.com/channel/UCeq6ZIlvC9SVsfhfKnSvM9w"><img width="30" src="https://yt3.ggpht.com/a/AATXAJxSYOVIHZnKxl1y1hR1BCWOa0lwnGw5TZx1KRlr=s100-c-k-c0xffffffff-no-rj-mo"></a><br>[ML Trainings](https://www.youtube.com/channel/UCeq6ZIlvC9SVsfhfKnSvM9w)|Тренировки по машинному обучению (ML). Собираемся по субботам и разбираем различные соревнования с Кaggle и других платформ.|<span id="UCeq6ZIlvC9SVsfhfKnSvM9w" class="youtube-count" hashtag="AI_ML_DataScience">493 (<font color="red">0</font>)</span>|<span id="UCeq6ZIlvC9SVsfhfKnSvM9w" class="youtube-subscribers">14000 (<font color="red">0</font>)</span>|<span id="UCeq6ZIlvC9SVsfhfKnSvM9w" class="last-video-date">03/18/2021</span>|
 |<a href="https://www.youtube.com/c/OpenDataScienceVideo"><img width="30" src="https://yt3.ggpht.com/a/AATXAJzhQkTXB3joESOVg5JlFjKxLo82qp3fdLMNq7lu=s100-c-k-c0xffffffff-no-rj-mo"></a><br>[Open Data Science Video](https://www.youtube.com/c/OpenDataScienceVideo)|Видео-канал сообщества Open Data Science.|<span id="OpenDataScienceVideo" class="youtube-count" hashtag="AI_ML_DataScience"></span>|<span id="OpenDataScienceVideo" class="youtube-subscribers"></span>|<span id="OpenDataScienceVideo" class="last-video-date"></span>|
 
-</details>
-
-<details open="open"><summary><a name="youtube-ar-vr"></a><b>AR, VR</b></summary><br>
+### **AR, VR** <a name="youtube-ar-vr"></a>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -80,9 +78,7 @@
 |<a href="https://www.youtube.com/channel/UCpEiWhfSNHhrI8I-DgZOoDg"><img width="30" src="https://yt3.ggpht.com/a/AGF-l7_zbAbQlur05qwEpmaADadUAIYXuKbaKjZqxg=s288-c-k-c0xffffffff-no-rj-mo"></a><br>[AR Conference](https://www.youtube.com/channel/UCpEiWhfSNHhrI8I-DgZOoDg)|AR Conference — это международная инновационная конференция по дополненной и виртуальной реальности.<br>Ежегодную конференцию посещают сотни специалистов, экспертов и лидеров индустрии, а также огромное количество журналистов и представителей IT-сферы, маркетинга и многих других сфер бизнеса.|<span id="UCpEiWhfSNHhrI8I-DgZOoDg" class="youtube-count" hashtag="AR_VR">121 (<font color="red">0</font>)</span>|<span id="UCpEiWhfSNHhrI8I-DgZOoDg" class="youtube-subscribers">303 (<font color="red">0</font>)</span>|<span id="UCpEiWhfSNHhrI8I-DgZOoDg" class="last-video-date">07/19/2017</span>|
 |<a href="https://www.youtube.com/channel/UCtfKT_4RvLXxuOKGxjvN7xQ"><img width="30" src="https://yt3.ggpht.com/a/AGF-l7_0Es1A8BQNqdyvyuKlS0UkN6h2wznhFrCPxw=s288-c-k-c0xffffffff-no-rj-mo"></a><br>[AVRA Ассоциация AR-VR](https://www.youtube.com/channel/UCtfKT_4RvLXxuOKGxjvN7xQ)|Официальный YouTube-канал российской Ассоциации дополненной и виртуальной реальности.|<span id="UCtfKT_4RvLXxuOKGxjvN7xQ" class="youtube-count" hashtag="AR_VR">98 (<font color="red">0</font>)</span>|<span id="UCtfKT_4RvLXxuOKGxjvN7xQ" class="youtube-subscribers">295 (<font color="red">0</font>)</span>|<span id="UCtfKT_4RvLXxuOKGxjvN7xQ" class="last-video-date">12/31/2020</span>|
 
-</details>
-
-<details open="open"><summary><a name="youtube-blockchain"></a><b>BlockChain</b></summary><br>
+### **BlockChain** <a name="youtube-blockchain"></a>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -96,9 +92,7 @@
 |<a href="https://www.youtube.com/channel/UCC9FnXTC8_ENzaNSO5cHQ6g"><img width="30" src="https://yt3.ggpht.com/a/AATXAJweqN5Xvcp8nrQIT-HUBlxxdW3N9kOypVOBVQ=s176-c-k-c0x00ffffff-no-rj"></a><br>[forklog](https://www.youtube.com/channel/UCC9FnXTC8_ENzaNSO5cHQ6g)|ForkLog — это культовый русскоязычный информационный ресурс о блокчейне, биткоине и других криптовалютах.<br>Мы предоставляем актуальные новости криптовалют и крипторынка, освещаем события биткоин- и блокчейн-индустрии, наши гости - известные криптотрейдеры и майнеры. Мы также рассказываем о криптобезопасности и хранении криптовалют на кошельках и биржах, анонсируем и посещаем конференции и другие мероприятия, а также делаем интервью с главными представителями криптосообщества.|<span id="UCC9FnXTC8_ENzaNSO5cHQ6g" class="youtube-count" hashtag="BlockChain">760 (<font color="red">0</font>)</span>|<span id="UCC9FnXTC8_ENzaNSO5cHQ6g" class="youtube-subscribers">43300 (<font color="red">0</font>)</span>|<span id="UCC9FnXTC8_ENzaNSO5cHQ6g" class="last-video-date">05/07/2021</span>|
 |<a href="https://www.youtube.com/channel/UCtXaDBBFq30kv7dlBO0xD9w"><img width="30" src="https://yt3.ggpht.com/a/AATXAJyEm0uVrD4CAqvp03hyvjJ6rNsqDn2N0YU7CtRR=s100-c-k-c0xffffffff-no-rj-mo"></a><br>[Waves Enterprise](https://www.youtube.com/channel/UCtXaDBBFq30kv7dlBO0xD9w)|Waves Enterprise является универсальной платформой гибридного блокчейна для корпоративных клиентов и организаций государственного сектора, предлагающей конфиденциальность данных, настраиваемое шифрование и универсальные интеллектуальные контракты, не зависящие от языка.|<span id="UCtXaDBBFq30kv7dlBO0xD9w" class="youtube-count" hashtag="BlockChain">53 (<font color="red">0</font>)</span>|<span id="UCtXaDBBFq30kv7dlBO0xD9w" class="youtube-subscribers">472 (<font color="red">0</font>)</span>|<span id="UCtXaDBBFq30kv7dlBO0xD9w" class="last-video-date">04/15/2021</span>|
 
-</details>
-
-<details open="open"><summary><a name="youtube-development"></a><b>Development</b></summary><br>
+### **Development** <a name="youtube-development"></a>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -122,7 +116,7 @@
 |<a href="https://www.youtube.com/channel/UCc2_EprBYT7O6iPIdwkjL_w"><img width="30" src="https://yt3.ggpht.com/a/AGF-l79jSwXi4bhKn3qdsKCC-4MNn4lATSp3HyKFPw=s288-c-k-c0xffffffff-no-rj-mo"></a><br>[Tarantool](https://www.youtube.com/channel/UCc2_EprBYT7O6iPIdwkjL_w)|Tarantool Enterprise - используется компаниями для быстрой модернизации устаревших приложений и создания высокопроизводительных новых приложений. Он гармонизирует существующие источники данных, включая Oracle, Postgres, SAP, MySQL и DB2. Преимущества включают согласованность, экономию затрат на интеграцию и обслуживание и упрощенную разработку.|<span id="UCc2_EprBYT7O6iPIdwkjL_w" class="youtube-count" hashtag="Development">34 (<font color="red">0</font>)</span>|<span id="UCc2_EprBYT7O6iPIdwkjL_w" class="youtube-subscribers">290 (<font color="red">0</font>)</span>|<span id="UCc2_EprBYT7O6iPIdwkjL_w" class="last-video-date">01/18/2021</span>|
 |<a href="https://www.youtube.com/channel/UCkufieG4LoGkHNOGrgMx3Vg"><img width="30" src="https://yt3.ggpht.com/a/AATXAJybTBVAXNV2yShENdLIRcNzrTf33C1-TP1XmQ=s288-c-k-c0xffffffff-no-rj-mo"></a><br>[Системное администрирование, безопасность, сети](https://www.youtube.com/channel/UCkufieG4LoGkHNOGrgMx3Vg)|Видео по системному администрированию, безопасности, сетям.|<span id="UCkufieG4LoGkHNOGrgMx3Vg" class="youtube-count" hashtag="Development">115 (<font color="red">0</font>)</span>|<span id="UCkufieG4LoGkHNOGrgMx3Vg" class="youtube-subscribers">29300 (<font color="red">0</font>)</span>|<span id="UCkufieG4LoGkHNOGrgMx3Vg" class="last-video-date">09/25/2019</span>|
 
-<details open="open"><summary><a name="youtube-development-1c"></a><b>&nbsp;&nbsp;1C</b></summary><br>
+#### **1C** <a name="youtube-development-1c"></a>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -130,9 +124,7 @@
 |:------:|:-------|:---------:|:---------:|:-------------------:|
 |<a href="https://www.youtube.com/channel/UC8C9c4GFLs6cNqBVWSM9jLw"><img width="30" src="https://yt3.ggpht.com/a/AGF-l78dpzqVG8pAdEGzRc43oTRIfua7rNrFsL5tow=s288-c-k-c0xffffffff-no-rj-mo"></a><br>[1C Platform](https://www.youtube.com/channel/UC8C9c4GFLs6cNqBVWSM9jLw)|Новости от платформы 1С:Предприятие, обучающие материалы.|<span id="UC8C9c4GFLs6cNqBVWSM9jLw" class="youtube-count" hashtag="1C">16 (<font color="red">0</font>)</span>|<span id="UC8C9c4GFLs6cNqBVWSM9jLw" class="youtube-subscribers">870 (<font color="green">+2</font>)</span>|<span id="UC8C9c4GFLs6cNqBVWSM9jLw" class="last-video-date">04/30/2020</span>|
 
-</details>
-
-<details open="open"><summary><a name="youtube-development-dotnet"></a><b>&nbsp;&nbsp;.NET</b></summary><br>
+#### **.NET** <a name="youtube-development-dotnet"></a>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -152,9 +144,7 @@
 |<a href="https://www.youtube.com/channel/UCJIlkaXVl-6vU3ghQkr51nQ"><img width="30" src="https://yt3.ggpht.com/a/AGF-l7-SLtFq824vefM2R3UUTGnjt5A30Ol3L_YZKQ=s288-c-k-c0xffffffff-no-rj-mo"></a><br>[Дмитрий Нестерук](https://www.youtube.com/channel/UCJIlkaXVl-6vU3ghQkr51nQ)|Канал с моими русскоязычными видео. Вся выложенная информация является частным мнением участников соответствующих видеозаписей и не отражает мнение сторонних юридических и физических лиц.|<span id="UCJIlkaXVl-6vU3ghQkr51nQ" class="youtube-count" hashtag="DotNet">122 (<font color="green">+1</font>)</span>|<span id="UCJIlkaXVl-6vU3ghQkr51nQ" class="youtube-subscribers">3550 (<font color="red">0</font>)</span>|<span id="UCJIlkaXVl-6vU3ghQkr51nQ" class="last-video-date">05/09/2021</span>|
 |<a href="https://www.youtube.com/channel/UCG1q-u4WKoL0QVi47b-sWqA"><img width="30" src="https://yt3.ggpht.com/a/AGF-l79IlCf7Mu0bc0wnxvXzy5_mDyy365fU9ODfwQ=s288-c-k-c0xffffffff-no-rj-mo"></a><br>[Мини-конференции CLRium](https://www.youtube.com/channel/UCG1q-u4WKoL0QVi47b-sWqA)|Конференция по технологиям .NET.|<span id="UCG1q-u4WKoL0QVi47b-sWqA" class="youtube-count" hashtag="DotNet">44 (<font color="red">0</font>)</span>|<span id="UCG1q-u4WKoL0QVi47b-sWqA" class="youtube-subscribers">1460 (<font color="red">0</font>)</span>|<span id="UCG1q-u4WKoL0QVi47b-sWqA" class="last-video-date">01/18/2020</span>|
 
-</details>
-
-<details open="open"><summary><a name="youtube-development-cpp"></a><b>&nbsp;&nbsp;C++</b></summary><br>
+#### **C++** <a name="youtube-development-cpp"></a>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -163,9 +153,7 @@
 |<a href="https://www.youtube.com/channel/UCJ9v015sPgEi0jJXe_zanjA"><img width="30" src="https://yt3.ggpht.com/a/AGF-l7-UdL6XtC8tZV7VU03jHBIsfckNhMdwj5pxzQ=s288-c-k-c0xffffffff-no-rj-mo"></a><br>[C++ User Group](https://www.youtube.com/channel/UCJ9v015sPgEi0jJXe_zanjA)|Основная идея C++ User Group это обмен опытом, знакомство с коллегами, живое профессиональное общение. Предполагается, что C++ User Group должна объединять C++ программистов не в одном городе, быть мобильной. Поэтому встречи проходят в разных городах.|<span id="UCJ9v015sPgEi0jJXe_zanjA" class="youtube-count" hashtag="Cpp">260 (<font color="red">0</font>)</span>|<span id="UCJ9v015sPgEi0jJXe_zanjA" class="youtube-subscribers">8940 (<font color="green">+10</font>)</span>|<span id="UCJ9v015sPgEi0jJXe_zanjA" class="last-video-date">05/07/2021</span>|
 |<a href="https://www.youtube.com/channel/UCifgOu6ARWbZ_dV29gss8xw"><img width="30" src="https://yt3.ggpht.com/a/AGF-l7-FKlrfHPGx98noY_O7auxtu6cSshfIyar37Q=s288-c-k-c0xffffffff-no-rj-mo"></a><br>[corehard](https://www.youtube.com/channel/UCifgOu6ARWbZ_dV29gss8xw)|CoreHard - C ++ сообщество родом из Минска, Беларусь.|<span id="UCifgOu6ARWbZ_dV29gss8xw" class="youtube-count" hashtag="Cpp">155 (<font color="red">0</font>)</span>|<span id="UCifgOu6ARWbZ_dV29gss8xw" class="youtube-subscribers">2140 (<font color="red">0</font>)</span>|<span id="UCifgOu6ARWbZ_dV29gss8xw" class="last-video-date">05/07/2020</span>|
 
-</details>
-
-<details open="open"><summary><a name="youtube-development-go"></a><b>&nbsp;&nbsp;Go</b></summary><br>
+#### **Go** <a name="youtube-development-go"></a>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -174,9 +162,7 @@
 |<a href="https://www.youtube.com/channel/UCGq2P6UDaP1cHMxOIkF0jqg"><img width="30" src="https://yt3.ggpht.com/a/AGF-l782fE6G0GGSehSEU8hEyJu-AgRUBciF4mkCNg=s288-c-k-c0xffffffff-no-rj-mo"></a><br>[Golang Piter](https://www.youtube.com/channel/UCGq2P6UDaP1cHMxOIkF0jqg)|Международная техническая конференция о языке программирования Go.|<span id="UCGq2P6UDaP1cHMxOIkF0jqg" class="youtube-count" hashtag="Go">18 (<font color="red">0</font>)</span>|<span id="UCGq2P6UDaP1cHMxOIkF0jqg" class="youtube-subscribers">180 (<font color="red">0</font>)</span>|<span id="UCGq2P6UDaP1cHMxOIkF0jqg" class="last-video-date">05/25/2020</span>|
 |<a href="https://www.youtube.com/channel/UCq-OB01F8YnS-FJpeJRCvMQ"><img width="30" src="https://yt3.ggpht.com/a/AGF-l79-lY62L5OHwS_WtGqbOu4T_qcGJ9ZgpKfN9w=s288-c-k-c0xffffffff-no-rj-mo"></a><br>[GopherCon Russia](https://www.youtube.com/channel/UCq-OB01F8YnS-FJpeJRCvMQ)|Видеозаписи конференции GopherCon Russia, посвященной разработке на Go.|<span id="UCq-OB01F8YnS-FJpeJRCvMQ" class="youtube-count" hashtag="Go">81 (<font color="red">0</font>)</span>|<span id="UCq-OB01F8YnS-FJpeJRCvMQ" class="youtube-subscribers">3090 (<font color="green">+10</font>)</span>|<span id="UCq-OB01F8YnS-FJpeJRCvMQ" class="last-video-date">04/30/2021</span>|
 
-</details>
-
-<details open="open"><summary><a name="youtube-development-java"></a><b>&nbsp;&nbsp;Java</b></summary><br>
+#### **Java** <a name="youtube-development-java"></a>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -188,9 +174,7 @@
 |<a href="https://www.youtube.com/channel/UCUFaGUhKgAECPuMZJxXwdbg"><img width="30" src="https://yt3.ggpht.com/a/AGF-l7_ghETZjFOaI1_XrkqRTXTPYaKauyFEDqP65A=s288-c-k-c0xffffffff-no-rj-mo"></a><br>[Minsk Java Community](https://www.youtube.com/channel/UCUFaGUhKgAECPuMZJxXwdbg)|Мы — инженеры. Мы — Java-разработчики. Как сообщество, мы общаемся, делимся знаниями и развиваем дисциплину.|<span id="UCUFaGUhKgAECPuMZJxXwdbg" class="youtube-count" hashtag="Java">52 (<font color="red">0</font>)</span>|<span id="UCUFaGUhKgAECPuMZJxXwdbg" class="youtube-subscribers">1660 (<font color="red">0</font>)</span>|<span id="UCUFaGUhKgAECPuMZJxXwdbg" class="last-video-date">04/19/2021</span>|
 |<a href="https://www.youtube.com/user/thinkjavakharkiv"><img width="30" src="https://yt3.ggpht.com/a/AGF-l78KAildVUGHOVsZm39uY1C3yojdhIVoemkkIA=s288-c-k-c0xffffffff-no-rj-mo"></a><br>[ThinkJava](https://www.youtube.com/user/thinkjavakharkiv)|Мы собираем джавистов Харькова (и не только), чтобы обсудить актуальные темы за чашкой чая, поделиться ценным опытом с коллегами и вместе найти решение сложных проблем. Следи за нами в соц. сетях и будь в курсе событий.|<span id="thinkjavakharkiv" class="youtube-count" hashtag="Java">32 (<font color="red">0</font>)</span>|<span id="thinkjavakharkiv" class="youtube-subscribers">845 (<font color="red">0</font>)</span>|<span id="thinkjavakharkiv" class="last-video-date">06/05/2020</span>|
 
-</details>
-
-<details open="open"><summary><a name="youtube-development-kotlin"></a><b>&nbsp;&nbsp;Kotlin</b></summary><br>
+#### **Kotlin** <a name="youtube-development-kotlin"></a>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -198,9 +182,7 @@
 |:------:|:-------|:---------:|:---------:|:-------------------:|
 |<a href="https://www.youtube.com/channel/UCj38YQRHsZ-idApaCIf_wSQ"><img width="30" src="https://yt3.ggpht.com/a/AGF-l78hQwwTuH4TDgh50J46zR09J5tePvPg9VdLNw=s288-c-k-c0xffffffff-no-rj-mo"></a><br>[Belarus Kotlin User Group](https://www.youtube.com/channel/UCj38YQRHsZ-idApaCIf_wSQ)|Канал сообщества [Belarus Kotlin User Group](https://bkug.by/).|<span id="UCj38YQRHsZ-idApaCIf_wSQ" class="youtube-count" hashtag="Kotlin">24 (<font color="red">0</font>)</span>|<span id="UCj38YQRHsZ-idApaCIf_wSQ" class="youtube-subscribers">561 (<font color="red">0</font>)</span>|<span id="UCj38YQRHsZ-idApaCIf_wSQ" class="last-video-date">06/04/2019</span>|
 
-</details>
-
-<details open="open"><summary><a name="youtube-development-mobile"></a><b>&nbsp;&nbsp;Mobile</b></summary><br>
+#### **Mobile** <a name="youtube-development-mobile"></a>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -215,7 +197,7 @@
 |<a href="https://www.youtube.com/c/MadBrains"><img width="30" src="https://yt3.ggpht.com/ytc/AAUvwniJHq68PJkpr61tD0h_TfJ8HCIARsOrO6Wy0Hc3=s88-c-k-c0x00ffffff-no-rj"></a><br>[Mad Brains](https://www.youtube.com/c/MadBrains)|Канал студии мобильной разработки Mad Brains.|<span id="MadBrains" class="youtube-count" hashtag="Mobile"></span>|<span id="MadBrains" class="youtube-subscribers"></span>|<span id="MadBrains" class="last-video-date"></span>|
 |<a href="https://www.youtube.com/channel/UCP8MtCo2ZcrJc7_Zhcjym9g"><img width="30" src="https://yt3.ggpht.com/a/AGF-l7-0JBbl36sjwpum9Nr1EuEKDXwH-6pHcFwRNQ=s288-c-k-c0xffffffff-no-rj-mo"></a><br>[Mobile Channel](https://www.youtube.com/channel/UCP8MtCo2ZcrJc7_Zhcjym9g)|Контент Mobile Channel посвящен разработке мобильных приложений: технологиям Android и iOS, кросс-платформенной разработке, архитектуре мобильных приложений, клиент-серверному взаимодействию и процессам разработки и тестирования.<br>Здесь мы публикуем материалы с профессиональной конференции для мобильных разработчиков [AppsConf](http://appsconf.ru/).|<span id="UCP8MtCo2ZcrJc7_Zhcjym9g" class="youtube-count" hashtag="Mobile">231 (<font color="red">0</font>)</span>|<span id="UCP8MtCo2ZcrJc7_Zhcjym9g" class="youtube-subscribers">3900 (<font color="red">0</font>)</span>|<span id="UCP8MtCo2ZcrJc7_Zhcjym9g" class="last-video-date">10/20/2020</span>|
 
-<details open="open"><summary><a name="youtube-development-mobile-android"></a><b>&nbsp;&nbsp;&nbsp;&nbsp;Android</b></summary><br>
+##### **Android** <a name="youtube-development-mobile-android"></a>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -224,11 +206,7 @@
 |<a href="https://www.youtube.com/channel/UCW6lJMRd66erX8bwnfortrA"><img width="30" src="https://yt3.ggpht.com/a/AGF-l781IfSbpiyEwNSgGHtIstphhG_QAVRrFtmibA=s288-c-k-c0xffffffff-no-rj-mo"></a><br>[Alexander Smirnov](https://www.youtube.com/channel/UCW6lJMRd66erX8bwnfortrA)|Android в Лицах – видеоблог об Android разработке во всех её проявлениях.|<span id="UCW6lJMRd66erX8bwnfortrA" class="youtube-count" hashtag="Android">36 (<font color="red">0</font>)</span>|<span id="UCW6lJMRd66erX8bwnfortrA" class="youtube-subscribers">751 (<font color="red">0</font>)</span>|<span id="UCW6lJMRd66erX8bwnfortrA" class="last-video-date">06/02/2020</span>|
 |<a href="https://www.youtube.com/channel/UCyYHyGOGPDGkjIGszavFF_A"><img width="30" src="https://yt3.ggpht.com/a/AGF-l79UxtqSqKRINNqmxB-TqQwhuTlXLNSXfxXMeg=s288-c-k-c0xffffffff-no-rj-mo"></a><br>[ThinkAndroid](https://www.youtube.com/channel/UCyYHyGOGPDGkjIGszavFF_A)|Конференция Android-разработчиков.|<span id="UCyYHyGOGPDGkjIGszavFF_A" class="youtube-count" hashtag="Android">10 (<font color="red">0</font>)</span>|<span id="UCyYHyGOGPDGkjIGszavFF_A" class="youtube-subscribers">80 (<font color="red">0</font>)</span>|<span id="UCyYHyGOGPDGkjIGszavFF_A" class="last-video-date">01/27/2021</span>|
 
-</details>
-
-</details>
-
-<details open="open"><summary><a name="youtube-development-php"></a><b>&nbsp;&nbsp;PHP</b></summary><br>
+#### **PHP** <a name="youtube-development-php"></a>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -246,9 +224,7 @@
 |<a href="https://www.youtube.com/c/КириллНесмеянов"><img width="30" src="https://yt3.ggpht.com/ytc/AAUvwnhYVlBi-6iYSKSmZxIZUTsqYm16m3NHelsRSxi_VQ=s88-c-k-c0x00ffffff-no-rj"></a><br>[Кирилл Несмеянов](https://www.youtube.com/c/КириллНесмеянов)|Кирилл 10+ лет в экосистеме PHP.<br>На канале записи его докладов и стримов по PHP и Laravel.|<span id="КириллНесмеянов" class="youtube-count" hashtag="PHP"></span>|<span id="КириллНесмеянов" class="youtube-subscribers"></span>|<span id="КириллНесмеянов" class="last-video-date"></span>|
 |<a href="https://www.youtube.com/channel/UCkqGd3xwk9LqNYXVTjAe3ww"><img width="30" src="https://yt3.ggpht.com/a/AATXAJxP1bjJvbtrVyiGYk0uzJ0addJMdAwYPzQkCg=s288-c-k-c0xffffffff-no-rj-mo"></a><br>[Пятиминутка PHP](https://www.youtube.com/channel/UCkqGd3xwk9LqNYXVTjAe3ww)|Подкаст о PHP, DBA, архитектуре, DevOps. Авторское мнение о современных трендах в веб-разработке и интересные беседы с гостями. Помимо PHP поднимаем темы про инфраструктуру, администрирование Linux и DevOps подходы, сравниваем PHP с другими языками программирования, например с Go, Rust и даже Erlang.|<span id="UCkqGd3xwk9LqNYXVTjAe3ww" class="youtube-count" hashtag="PHP">93 (<font color="red">0</font>)</span>|<span id="UCkqGd3xwk9LqNYXVTjAe3ww" class="youtube-subscribers">1490 (<font color="red">0</font>)</span>|<span id="UCkqGd3xwk9LqNYXVTjAe3ww" class="last-video-date">03/02/2021</span>|
 
-</details>
-
-<details open="open"><summary><a name="youtube-development-python"></a><b>&nbsp;&nbsp;Python</b></summary><br>
+#### **Python** <a name="youtube-development-python"></a>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -262,9 +238,7 @@
 |<a href="https://www.youtube.com/user/pythonMinsk"><img width="30" src="https://yt3.ggpht.com/a/AATXAJwuFDUufv6BLOHLqJhNTA3CkLi3If5Nd3cC3Q=s288-c-k-c0xffffffff-no-rj-mo"></a><br>[Python Meetup](https://www.youtube.com/user/pythonMinsk)|Сообщество Minsk Python Meetup создано разработчиками компании Wargaming на языке Python для разработчиков и студентов технических ВУЗов.<br>Здесь мы обмениваемся знаниями в неформальной обстановке.|<span id="pythonMinsk" class="youtube-count" hashtag="Python">88 (<font color="red">0</font>)</span>|<span id="pythonMinsk" class="youtube-subscribers">3700 (<font color="red">0</font>)</span>|<span id="pythonMinsk" class="last-video-date">05/04/2021</span>|
 |<a href="https://www.youtube.com/channel/UC6D__65vluj-8RQBazM2vfw"><img width="30" src="https://yt3.ggpht.com/a/AATXAJw1umZr0TnYhdobjN0Qwt8KQqflEkjR-_wWxA=s100-c-k-c0xffffffff-no-rj-mo"></a><br>[SPb Python](https://www.youtube.com/channel/UC6D__65vluj-8RQBazM2vfw)|Сообщество Python-программистов Санкт-Петербурга.|<span id="UC6D__65vluj-8RQBazM2vfw" class="youtube-count" hashtag="Python">11 (<font color="red">0</font>)</span>|<span id="UC6D__65vluj-8RQBazM2vfw" class="youtube-subscribers">219 (<font color="red">0</font>)</span>|<span id="UC6D__65vluj-8RQBazM2vfw" class="last-video-date">05/05/2020</span>|
 
-</details>
-
-<details open="open"><summary><a name="youtube-development-ruby"></a><b>&nbsp;&nbsp;Ruby</b></summary><br>
+#### **Ruby** <a name="youtube-development-ruby"></a>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -273,9 +247,7 @@
 |<a href="https://www.youtube.com/channel/UCpph4oLJ7uVz3udNFi4inEQ"><img width="30" src="https://yt3.ggpht.com/a/AGF-l78YsbQGLjIHzNWee4kLqN0KT4a8vIyrBpjOeA=s288-c-k-c0xffffffff-no-rj-mo"></a><br>[Ruby Roars](https://www.youtube.com/channel/UCpph4oLJ7uVz3udNFi4inEQ)|Уже шестое комьюнити в сокровищнице NIX Solutions для проведения душевных митапов за чашечкой кофе. Главная тематика митапов —  Ruby. Главная фишка митапов — душевность, открытость, experience sharing. Главный символ митапов — RubyDog (в народе Рубинчик).|<span id="UCpph4oLJ7uVz3udNFi4inEQ" class="youtube-count" hashtag="Ruby">10 (<font color="red">0</font>)</span>|<span id="UCpph4oLJ7uVz3udNFi4inEQ" class="youtube-subscribers">97 (<font color="red">0</font>)</span>|<span id="UCpph4oLJ7uVz3udNFi4inEQ" class="last-video-date">05/28/2020</span>|
 |<a href="https://www.youtube.com/user/railsclub"><img width="30" src="https://yt3.ggpht.com/a/AGF-l78_lDYAW3jSyY-zSWUFBIJ48GtzY5_gJivcnQ=s288-c-k-c0xffffffff-no-rj-mo"></a><br>[Ruby Russia club](https://www.youtube.com/user/railsclub)|Конференция RubyRussia — это уникальное место, где можно пообщаться с коллегами, поделиться живым опытом, встретить старых друзей и узнать о чем-то новом.|<span id="railsclub" class="youtube-count" hashtag="Ruby">195 (<font color="red">0</font>)</span>|<span id="railsclub" class="youtube-subscribers">2010 (<font color="red">0</font>)</span>|<span id="railsclub" class="last-video-date">03/11/2021</span>|
 
-</details>
-
-<details open="open"><summary><a name="youtube-development-web"></a><b>&nbsp;&nbsp;Web</b></summary><br>
+#### **Web** <a name="youtube-development-web"></a>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -311,11 +283,7 @@
 |<a href="https://www.youtube.com/channel/UCY35dlJe-V5J_IqzU-XksAg"><img width="30" src="https://yt3.ggpht.com/a/AGF-l7-9-ttdNZjlRfk3gONCIsK8z7X6l01zn9iOEg=s288-c-k-c0xffffffff-no-rj-mo"></a><br>[Веб-стандарты](https://www.youtube.com/channel/UCY35dlJe-V5J_IqzU-XksAg)|Сообщество разработчиков.|<span id="UCY35dlJe-V5J_IqzU-XksAg" class="youtube-count" hashtag="Web">423 (<font color="red">0</font>)</span>|<span id="UCY35dlJe-V5J_IqzU-XksAg" class="youtube-subscribers">23900 (<font color="red">0</font>)</span>|<span id="UCY35dlJe-V5J_IqzU-XksAg" class="last-video-date">05/04/2021</span>|
 |<a href="https://www.youtube.com/channel/UCn5wduCq2Mus0v85QZn9IaA"><img width="30" src="https://yt3.ggpht.com/a/AGF-l7-Ak2cwqqvixLmps1u4ZaGA3mMc0WVmROiEvw=s288-c-k-c0xffffffff-no-rj-mo"></a><br>[Типичный Верстальщик • Анна Блок](https://www.youtube.com/channel/UCn5wduCq2Mus0v85QZn9IaA)|Типичный верстальщик — это крупнейшее сообщество для верстальщиков и фронтендеров.|<span id="UCn5wduCq2Mus0v85QZn9IaA" class="youtube-count" hashtag="Web">144 (<font color="red">0</font>)</span>|<span id="UCn5wduCq2Mus0v85QZn9IaA" class="youtube-subscribers">57900 (<font color="red">0</font>)</span>|<span id="UCn5wduCq2Mus0v85QZn9IaA" class="last-video-date">04/30/2021</span>|
 
-</details>
-
-</details>
-
-<details open="open"><summary><a name="youtube-design"></a><b>Design</b></summary><br>
+### **Design** <a name="youtube-design"></a>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -325,9 +293,7 @@
 |<a href="https://www.youtube.com/c/MailRuDesign"><img width="30" src="https://yt3.ggpht.com/ytc/AAUvwnhGeCnFCjiArIkf9_u6S2CH7yX1Rc1_pybv4QkK=s88-c-k-c0x00ffffff-no-rj"></a><br>[Mail ru Design](https://www.youtube.com/c/MailRuDesign)|Дизайн-команда Mail.ru Group рассказывает о дизайн-системе, конференциях и митапах, свежих публикациях.|<span id="MailRuDesign" class="youtube-count" hashtag="Design"></span>|<span id="MailRuDesign" class="youtube-subscribers"></span>|<span id="MailRuDesign" class="last-video-date"></span>|
 |<a href="https://www.youtube.com/channel/UCd6bYYAKUuq1j5r5LEe0NuQ"><img width="30" src="https://yt3.ggpht.com/a/AGF-l7_18idJTH0iMPy6FlL7CSR9uOFoM2xqMLf5Og=s288-c-k-c0xffffffff-no-rj-mo"></a><br>[OnLive](https://www.youtube.com/channel/UCd6bYYAKUuq1j5r5LEe0NuQ)|Design StandUp «OnLive» — это встреча дизайнеров, которая не подразумевает лекций, тетрадок и презентаций. Известные дизайнеры делятся историями и отвечают на вопросы гостей со сцены бара. Именно благодаря открытому общению спикера с гостями и непринужденной атмосфере раскрываются знания, которые не услышишь на лекциях.|<span id="UCd6bYYAKUuq1j5r5LEe0NuQ" class="youtube-count" hashtag="Design">26 (<font color="red">0</font>)</span>|<span id="UCd6bYYAKUuq1j5r5LEe0NuQ" class="youtube-subscribers">2350 (<font color="red">0</font>)</span>|<span id="UCd6bYYAKUuq1j5r5LEe0NuQ" class="last-video-date">11/10/2016</span>|
 
-</details>
-
-<details open="open"><summary><a name="youtube-devops"></a><b>DevOps</b></summary><br>
+### **DevOps** <a name="youtube-devops"></a>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -346,9 +312,7 @@
 |<a href="https://www.youtube.com/channel/UCr5mwN4AKxiYxysr8PeQdaA"><img width="30" src="https://yt3.ggpht.com/a/AGF-l78jBj9nEQrGuAklncmV7AYQgsrsvYoamQaugQ=s288-c-k-c0xffffffff-no-rj-mo"></a><br>[HangOps_ru](https://www.youtube.com/channel/UCr5mwN4AKxiYxysr8PeQdaA)|Канал для DevOps и о DevOps.|<span id="UCr5mwN4AKxiYxysr8PeQdaA" class="youtube-count" hashtag="DevOps">52 (<font color="red">0</font>)</span>|<span id="UCr5mwN4AKxiYxysr8PeQdaA" class="youtube-subscribers">499 (<font color="red">0</font>)</span>|<span id="UCr5mwN4AKxiYxysr8PeQdaA" class="last-video-date">02/19/2019</span>|
 |<a href="https://www.youtube.com/channel/UCyQ9sLBi9F3Mo_LRQrJ6RNg"><img width="30" src="https://yt3.ggpht.com/a/AGF-l7-ri8xBZck8bJVTN41j9_9PLGCwwjXVJs4P1w=s288-c-k-c0xffffffff-no-rj-mo"></a><br>[MONHOUSE](https://www.youtube.com/channel/UCyQ9sLBi9F3Mo_LRQrJ6RNg)|Это место, где собираются люди и знания по вопросам мониторинга и автоматизированного управления.<br>На нашем канале вы найдете видео, посвященные инструментам мониторинга для ИТ и бизнеса. Все об использовании, настройке, реальных кейсах и многое другое, без привязки к конкретному производителю или платформе.|<span id="UCyQ9sLBi9F3Mo_LRQrJ6RNg" class="youtube-count" hashtag="DevOps">71 (<font color="red">0</font>)</span>|<span id="UCyQ9sLBi9F3Mo_LRQrJ6RNg" class="youtube-subscribers">786 (<font color="red">0</font>)</span>|<span id="UCyQ9sLBi9F3Mo_LRQrJ6RNg" class="last-video-date">04/15/2021</span>|
 
-</details>
-
-<details open="open"><summary><a name="youtube-gamedev"></a><b>Gamedev</b></summary><br>
+### **Gamedev** <a name="youtube-gamedev"></a>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -409,9 +373,7 @@
 |<a href="https://www.youtube.com/channel/UCue4slpfl55zxpKRJaSlbBQ"><img width="30" src="https://yt3.ggpht.com/a/AATXAJx5ztRAM_rRwGfdR7451T3iJsD5uAk33NG9B9C7=s88-c-k-c0x00ffffff-no-rj"></a><br>[Хочу сделать игру](https://www.youtube.com/channel/UCue4slpfl55zxpKRJaSlbBQ)|Канал с короткими видео по гейм-дизайну.|<span id="UCue4slpfl55zxpKRJaSlbBQ" class="youtube-count" hashtag="Gamedev">21 (<font color="red">0</font>)</span>|<span id="UCue4slpfl55zxpKRJaSlbBQ" class="youtube-subscribers">1430 (<font color="red">0</font>)</span>|<span id="UCue4slpfl55zxpKRJaSlbBQ" class="last-video-date">11/25/2020</span>|
 |<a href="https://www.youtube.com/channel/UCWeKWG1Y-Uv141A2KoVoORA"><img width="30" src="https://yt3.ggpht.com/a/AATXAJwcK9K-FT9n8g_umQdQYUeBAhYRF_q1uCpFHlBB=s88-c-k-c0x00ffffff-no-rj"></a><br>[ЯЮниор - Школа Разработки Игр](https://www.youtube.com/channel/UCWeKWG1Y-Uv141A2KoVoORA)|ЯЮниор - это топовая школа разработки игр и программирования. Наша ключевая особенность - программа стажировки на которой наши ученики работают над реальными проектами.|<span id="UCWeKWG1Y-Uv141A2KoVoORA" class="youtube-count" hashtag="Gamedev">14 (<font color="red">0</font>)</span>|<span id="UCWeKWG1Y-Uv141A2KoVoORA" class="youtube-subscribers">2650 (<font color="red">0</font>)</span>|<span id="UCWeKWG1Y-Uv141A2KoVoORA" class="last-video-date">12/17/2020</span>|
 
-</details>
-
-<details open="open"><summary><a name="youtube-iot"></a><b>IoT</b></summary><br>
+### **IoT** <a name="youtube-iot"></a>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -420,9 +382,7 @@
 |<a href="https://www.youtube.com/channel/UCeKQk9ER5NWfSfIszMX3QFg"><img width="30" src="https://yt3.ggpht.com/a/AGF-l7-9P106pRjKGcofVZ1vM1JjKPaLKfF34iaPAw=s288-c-k-c0xffffffff-no-rj-mo"></a><br>[IoT Channel](https://www.youtube.com/channel/UCeKQk9ER5NWfSfIszMX3QFg)|Контент IoT Channel охватывает все аспекты мира интернета вещей: разработку аппаратного и программного обеспечения устройств, безопасность для пользователей, способы передачи информации между устройствами и "сервером" и их тестирование, эксплуатацию и изменение бизнес-процессов под влиянием IoT-технологий.|<span id="UCeKQk9ER5NWfSfIszMX3QFg" class="youtube-count" hashtag="IoT">27 (<font color="red">0</font>)</span>|<span id="UCeKQk9ER5NWfSfIszMX3QFg" class="youtube-subscribers">1600 (<font color="red">0</font>)</span>|<span id="UCeKQk9ER5NWfSfIszMX3QFg" class="last-video-date">06/28/2019</span>|
 |<a href="https://www.youtube.com/channel/UCvsvTw5h3wE1qNMxI1XCr6Q"><img width="30" src="https://yt3.ggpht.com/a/AGF-l7-A_4U3F6SRlASPp0ObolwlCtWYySOQ4PD1uw=s288-c-k-c0xffffffff-no-rj-mo"></a><br>[Интернет Вещей](https://www.youtube.com/channel/UCvsvTw5h3wE1qNMxI1XCr6Q)|Интернет вещей – это интеллектуальная экосистема, в которой человек, вещи, машина, дом и даже город взаимодействуют друг с другом на инновационном уровне. Устройствам под силу обмениваться информацией, управлять технологическими процессами и контролировать результат.|<span id="UCvsvTw5h3wE1qNMxI1XCr6Q" class="youtube-count" hashtag="IoT">46 (<font color="red">0</font>)</span>|<span id="UCvsvTw5h3wE1qNMxI1XCr6Q" class="youtube-subscribers">182 (<font color="red">0</font>)</span>|<span id="UCvsvTw5h3wE1qNMxI1XCr6Q" class="last-video-date">10/11/2018</span>|
 
-</details>
-
-<details open="open"><summary><a name="youtube-it"></a><b>IT</b></summary><br>
+### **IT** <a name="youtube-it"></a>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -508,9 +468,7 @@
 |<a href="https://www.youtube.com/channel/UCu9pVuw75Aj_BAZ867cS9mg"><img width="30" src="https://yt3.ggpht.com/ytc/AAUvwniZtyXIompZZXBqrG-cOsJWgA2MK8SQ5A0FmT4NGg=s88-c-k-c0x00ffffff-no-rj"></a><br>[Школа ИТ-анализа и проектирования SystemsEducation](https://www.youtube.com/channel/UCu9pVuw75Aj_BAZ867cS9mg)|Вебинары и мастер-классы на темы бизнес-анализа, инженерии требований, системного анализа и проектирования систем в ИТ — мобильные приложения, веб-сервисы, корпоративные системы.|<span id="UCu9pVuw75Aj_BAZ867cS9mg" class="youtube-count" hashtag="IT">74 (<font color="red">0</font>)</span>|<span id="UCu9pVuw75Aj_BAZ867cS9mg" class="youtube-subscribers">3870 (<font color="green">+10</font>)</span>|<span id="UCu9pVuw75Aj_BAZ867cS9mg" class="last-video-date">04/23/2021</span>|
 |<a href="https://www.youtube.com/channel/UC6a0bQhUPlsRjvq-yufZF2A"><img width="30" src="https://yt3.ggpht.com/ytc/AAUvwngRobb_1OYAzKn9PDyXmHVl17a5LHFPFxLXMEEW=s88-c-k-c0x00ffffff-no-rj"></a><br>[ЮMoney](https://www.youtube.com/channel/UC6a0bQhUPlsRjvq-yufZF2A)|Это официальный видеоканал компании ЮMoney — здесь мы публикуем видео о наших продуктах и сервисах: быстрые и удобные платежи в интернете, мгновенный выпуск виртуальной VISA или MasterCard, универсальное решение для приёма платежей в интернете Касса, инструменты для сбора денег на хорошие дела — для благотворителей и краудфандеров.|<span id="UC6a0bQhUPlsRjvq-yufZF2A" class="youtube-count" hashtag="IT">46 (<font color="red">0</font>)</span>|<span id="UC6a0bQhUPlsRjvq-yufZF2A" class="youtube-subscribers">4660 (<font color="red">0</font>)</span>|<span id="UC6a0bQhUPlsRjvq-yufZF2A" class="last-video-date">04/16/2021</span>|
 
-</details>
-
-<details open="open"><summary><a name="youtube-management"></a><b>Management</b></summary><br>
+### **Management** <a name="youtube-management"></a><b></b></summary><br>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -531,9 +489,7 @@
 |<a href="https://www.youtube.com/channel/UC8IzTw0cKqQ19ZPAHnKcGVA"><img width="30" src="https://yt3.ggpht.com/a/AGF-l78eONq1c_nM88NDg6vL-NjwUvk7vF9lzdEdXg=s288-c-k-c0xffffffff-no-rj-mo"></a><br>[ThinkPM](https://www.youtube.com/channel/UC8IzTw0cKqQ19ZPAHnKcGVA)|Видео с конференции для PM'ов.|<span id="UC8IzTw0cKqQ19ZPAHnKcGVA" class="youtube-count" hashtag="Management">7 (<font color="red">0</font>)</span>|<span id="UC8IzTw0cKqQ19ZPAHnKcGVA" class="youtube-subscribers">110 (<font color="red">0</font>)</span>|<span id="UC8IzTw0cKqQ19ZPAHnKcGVA" class="last-video-date">10/19/2019</span>|
 |<a href="https://www.youtube.com/channel/UCOAmdYoL1D4XSTtk660i6Ag"><img width="30" src="https://yt3.ggpht.com/a/AGF-l7_4yyTqKu1mpxo-06ALUIwV_irJz3F-kgD8cw=s288-c-k-c0xffffffff-no-rj-mo"></a><br>[Алекс Трошин](https://www.youtube.com/channel/UCOAmdYoL1D4XSTtk660i6Ag)|Видео ИТ-мероприятий, связанных с продуктами Atlassian.|<span id="UCOAmdYoL1D4XSTtk660i6Ag" class="youtube-count" hashtag="Management">26 (<font color="red">0</font>)</span>|<span id="UCOAmdYoL1D4XSTtk660i6Ag" class="youtube-subscribers">57 (<font color="red">0</font>)</span>|<span id="UCOAmdYoL1D4XSTtk660i6Ag" class="last-video-date">11/08/2019</span>|
 
-</details>
-
-<details open="open"><summary><a name="youtube-testing-qa"></a><b>Testing и QA</b></summary><br>
+### **Testing и QA** <a name="youtube-testing-qa"></a>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -552,9 +508,7 @@
 |<a href="https://www.youtube.com/channel/UCl3sEFm0D7EywxYQbz5TItQ"><img width="30" src="https://yt3.ggpht.com/a/AGF-l7-xj9fLyhJXcHTlFSFNr_UY5fEmMsYzl9LS9A=s288-c-k-c0xffffffff-no-rj-mo"></a><br>[Think QA](https://www.youtube.com/channel/UCl3sEFm0D7EywxYQbz5TItQ)|Think QA - конференция по QA.|<span id="UCl3sEFm0D7EywxYQbz5TItQ" class="youtube-count" hashtag="QA">12 (<font color="red">0</font>)</span>|<span id="UCl3sEFm0D7EywxYQbz5TItQ" class="youtube-subscribers">271 (<font color="red">0</font>)</span>|<span id="UCl3sEFm0D7EywxYQbz5TItQ" class="last-video-date">06/03/2020</span>|
 |<a href="https://www.youtube.com/channel/UCuySDW7mS-tvxSgRV7E17Bg"><img width="30" src="https://yt3.ggpht.com/a/AGF-l78hx9WeAMKSN-XDjSkronDb3KGv5hWmH1ojsA=s288-c-k-c0xffffffff-no-rj-mo"></a><br>[Vladislav Orlikov](https://www.youtube.com/channel/UCuySDW7mS-tvxSgRV7E17Bg)|Конференции для профессионалов индустрии информационных технологий [www.it-conf.ru](www.it-conf.ru).|<span id="UCuySDW7mS-tvxSgRV7E17Bg" class="youtube-count" hashtag="QA">1690 (<font color="red">0</font>)</span>|<span id="UCuySDW7mS-tvxSgRV7E17Bg" class="youtube-subscribers">1880 (<font color="red">0</font>)</span>|<span id="UCuySDW7mS-tvxSgRV7E17Bg" class="last-video-date">04/19/2021</span>|
 
-</details>
-
-<details open="open"><summary><a name="youtube-db"></a><b>БД</b></summary><br>
+### **БД** <a name="youtube-db"></a>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -564,9 +518,7 @@
 |<a href="https://www.youtube.com/channel/UC6gJN4hEmnPHZ53HP2r7zhA"><img width="30" src="https://yt3.ggpht.com/a/AGF-l7_CaUyWeJiLghUK_VWXnTmXQqqE4detnDAFQg=s288-c-k-c0xffffffff-no-rj-mo"></a><br>[PGConf.Russia](https://www.youtube.com/channel/UC6gJN4hEmnPHZ53HP2r7zhA)|PGConf.Russia – международная техническая конференция по открытой СУБД PostgreSQL, ежегодно собирающая более 500 разработчиков, администраторов баз данных и IT-менеджеров для обмена опытом и профессионального общения. В программе – мастер-классы ведущих мировых экспертов, доклады в три тематических потока, примеры лучшего опыта и разбор ошибок, гостиная разработчиков и блиц-доклады из зала.|<span id="UC6gJN4hEmnPHZ53HP2r7zhA" class="youtube-count" hashtag="DB">261 (<font color="red">0</font>)</span>|<span id="UC6gJN4hEmnPHZ53HP2r7zhA" class="youtube-subscribers">1260 (<font color="red">0</font>)</span>|<span id="UC6gJN4hEmnPHZ53HP2r7zhA" class="last-video-date">03/27/2020</span>|
 |<a href="https://www.youtube.com/channel/UCawnwMqZ6JeoSiEhrS6X69A"><img width="30" src="https://yt3.ggpht.com/a/AGF-l79gLX24zjNxjzAyX6JU7_g7IMQoKPjZdJ-Ljw=s288-c-k-c0xffffffff-no-rj-mo"></a><br>[Postgres Professional](https://www.youtube.com/channel/UCawnwMqZ6JeoSiEhrS6X69A)|Компания Postgres Professional - российский вендор PostgreSQL, разработчик российской СУБД Postgres Pro.<br>Канал содержит материалы учебных курсов, разработанных в нашей компании, многочисленные видеозаписи выступлений наших экспертов на конференциях, семинарах, митапах, посвященных СУБД PostgreSQL и технологиям баз данных в целом.|<span id="UCawnwMqZ6JeoSiEhrS6X69A" class="youtube-count" hashtag="DB">158 (<font color="red">0</font>)</span>|<span id="UCawnwMqZ6JeoSiEhrS6X69A" class="youtube-subscribers">9850 (<font color="red">0</font>)</span>|<span id="UCawnwMqZ6JeoSiEhrS6X69A" class="last-video-date">03/23/2021</span>|
 
-</details>
-
-<details open="open"><summary><a name="youtube-security"></a><b>Безопасность</b></summary><br>
+### **Безопасность** <a name="youtube-security"></a>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -586,9 +538,7 @@
 |<a href="https://www.youtube.com/channel/UCkj1JM_O8HItOl3ZSx7JPvg"><img width="30" src="https://yt3.ggpht.com/a/AGF-l79H8T4ElhhyV4hSkvE-9TV5d3A5BUqpIxXEXw=s288-c-k-c0xffffffff-no-rj-mo"></a><br>[Полосатый ИНФОБЕЗ](https://www.youtube.com/channel/UCkj1JM_O8HItOl3ZSx7JPvg)|Канал проекта Код ИБ. АКАДЕМИЯ.|<span id="UCkj1JM_O8HItOl3ZSx7JPvg" class="youtube-count" hashtag="Security">659 (<font color="red">0</font>)</span>|<span id="UCkj1JM_O8HItOl3ZSx7JPvg" class="youtube-subscribers">1360 (<font color="red">0</font>)</span>|<span id="UCkj1JM_O8HItOl3ZSx7JPvg" class="last-video-date">05/07/2021</span>|
 |<a href="https://www.youtube.com/channel/UCg7OyAkRMnGQurEsCzMoRYw"><img width="30" src="https://yt3.ggpht.com/ytc/AAUvwnitbx40Ht-VJtB85rM9ivhgY80a8WWuXAr0Cvgd=s88-c-k-c0x00ffffff-no-rj"></a><br>[Хакердом](https://www.youtube.com/channel/UCg7OyAkRMnGQurEsCzMoRYw)|Хакердом — это клуб в Уральском федеральном университете, объединяющий людей, интересующихся компьютерной безопасностью.|<span id="UCg7OyAkRMnGQurEsCzMoRYw" class="youtube-count" hashtag="Security">36 (<font color="red">0</font>)</span>|<span id="UCg7OyAkRMnGQurEsCzMoRYw" class="youtube-subscribers">2260 (<font color="red">0</font>)</span>|<span id="UCg7OyAkRMnGQurEsCzMoRYw" class="last-video-date">05/01/2021</span>|
 
-</details>
-
-<details open="open"><summary><a name="youtube-documentation"></a><b>Документация</b></summary><br>
+### **Документация** <a name="youtube-documentation"></a>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -598,9 +548,7 @@
 |<a href="https://www.youtube.com/channel/UCRFw86YKyfE2G7zP9wvQrXA"><img width="30" src="https://yt3.ggpht.com/a/AATXAJxXo4Mf9cinYXm1MezchnSN0nlC2vI7YYYoR6Bb=s88-c-k-c0x00ffffff-no-rj"></a><br>[StiltSoft Tech](https://www.youtube.com/channel/UCRFw86YKyfE2G7zP9wvQrXA)|Это русскоязычный YouTube канал софтверной компании StiltSoft. Здесь мы будем делиться накопленными за 10 лет работы знаниями и публиковать видео онлайн-митапов, конференций, записи выступлений контент-, продакт-менеджеров и разработчиков.<br>Мы разрабатываем приложения для основных продуктов Atlassian: Confluence, Jira, Bitbucket. Являемся единственным партнером Atlassian в Беларуси и входим в число топ-вендоров Atlassian в мире.|<span id="UCRFw86YKyfE2G7zP9wvQrXA" class="youtube-count" hashtag="Docs">5 (<font color="red">0</font>)</span>|<span id="UCRFw86YKyfE2G7zP9wvQrXA" class="youtube-subscribers">54 (<font color="red">0</font>)</span>|<span id="UCRFw86YKyfE2G7zP9wvQrXA" class="last-video-date">07/10/2020</span>|
 |<a href="https://www.youtube.com/channel/UCLY4cASELis_WG6nQrK9Eog"><img width="30" src="https://yt3.ggpht.com/a/AGF-l7846jtsbgpyCgHKiKx5h8hWETzNePetCoM3Ag=s288-c-k-c0xffffffff-no-rj-mo"></a><br>[Write the Docs Russia](https://www.youtube.com/channel/UCLY4cASELis_WG6nQrK9Eog)|Видео выступлений сообщества технических писателей.|<span id="UCLY4cASELis_WG6nQrK9Eog" class="youtube-count" hashtag="Docs">6 (<font color="red">0</font>)</span>|<span id="UCLY4cASELis_WG6nQrK9Eog" class="youtube-subscribers">102 (<font color="red">0</font>)</span>|<span id="UCLY4cASELis_WG6nQrK9Eog" class="last-video-date">10/24/2018</span>|
 
-</details>
-
-<details open="open"><summary><a name="youtube-communities"></a><b>Компании, Организации, Сообщества, Конференции</b></summary><br>
+### **Компании, Организации, Сообщества, Конференции** <a name="youtube-communities"></a>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -713,9 +661,7 @@
 |<a href="https://www.youtube.com/channel/UCmqEpAsQMcsYaeef4qgECvQ"><img width="30" src="https://yt3.ggpht.com/a/AGF-l7_fCTdLsfnpDBlYcmg9rqJ2zI6KN9pk2GNCoA=s288-c-k-c0xffffffff-no-rj-mo"></a><br>[Технострим Mail.Ru Group](https://www.youtube.com/channel/UCmqEpAsQMcsYaeef4qgECvQ)|ТЕХНОСТРИМ – это образовательный канал для IT специалистов. Здесь можно найти курсы по программированию, узнать передовые IT технологии, перенять опыт проектов, которыми ежедневно пользуются миллионы людей.|<span id="UCmqEpAsQMcsYaeef4qgECvQ" class="youtube-count" hashtag="Communities">1345 (<font color="red">0</font>)</span>|<span id="UCmqEpAsQMcsYaeef4qgECvQ" class="youtube-subscribers">167000 (<font color="red">0</font>)</span>|<span id="UCmqEpAsQMcsYaeef4qgECvQ" class="last-video-date">05/05/2021</span>|
 |<a href="https://www.youtube.com/channel/UCunXJ7d2M0CVF-XKKJQcSKg"><img width="30" src="https://yt3.ggpht.com/a/AATXAJxsPULuMT1MsoAHE3GgdGaRzK_GG6UaxQt4lQ=s176-c-k-c0x00ffffff-no-rj"></a><br>[Человек Наук](https://www.youtube.com/channel/UCunXJ7d2M0CVF-XKKJQcSKg)|Видео со всех мероприятий, организованных Человеком Наук.|<span id="UCunXJ7d2M0CVF-XKKJQcSKg" class="youtube-count" hashtag="Communities">19 (<font color="red">0</font>)</span>|<span id="UCunXJ7d2M0CVF-XKKJQcSKg" class="youtube-subscribers">76 (<font color="red">0</font>)</span>|<span id="UCunXJ7d2M0CVF-XKKJQcSKg" class="last-video-date">02/17/2020</span>|
 
-</details>
-
-<details open="open"><summary><a name="youtube-education"></a><b>Образование</b></summary><br>
+### **Образование** <a name="youtube-education"></a>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -769,8 +715,6 @@
 |<a href="https://www.youtube.com/channel/UCcITtYwj2HMUjI4p02e-oEw"><img width="30" src="https://yt3.ggpht.com/a/AATXAJwgp3Qw_yuCpMspcIrbs5FdePDk5uCVT2EyfA=s288-c-k-c0xffffffff-no-rj-mo"></a><br>[Хантит](https://www.youtube.com/channel/UCcITtYwj2HMUjI4p02e-oEw)|О компаниях – для разработчиков.|<span id="UCcITtYwj2HMUjI4p02e-oEw" class="youtube-count" hashtag="Education">17 (<font color="red">0</font>)</span>|<span id="UCcITtYwj2HMUjI4p02e-oEw" class="youtube-subscribers">2570 (<font color="red">0</font>)</span>|<span id="UCcITtYwj2HMUjI4p02e-oEw" class="last-video-date">04/23/2021</span>|
 |<a href="https://www.youtube.com/channel/UCchRas7Nl2jFzaiYOguUIyQ"><img width="30" src="https://yt3.ggpht.com/a/AATXAJzHO5efp8yxquM0SN2KX7E67ufjfERUBTacFQ=s288-c-k-c0xffffffff-no-rj-mo"></a><br>[Школа Больших данных/ Учебный центр "Коммерсант"](https://www.youtube.com/channel/UCchRas7Nl2jFzaiYOguUIyQ)|Видео канал учебного центра «Школа Больших Данных».|<span id="UCchRas7Nl2jFzaiYOguUIyQ" class="youtube-count" hashtag="Education">84 (<font color="red">0</font>)</span>|<span id="UCchRas7Nl2jFzaiYOguUIyQ" class="youtube-subscribers">491 (<font color="green">+2</font>)</span>|<span id="UCchRas7Nl2jFzaiYOguUIyQ" class="last-video-date">04/29/2021</span>|
 |<a href="https://www.youtube.com/c/0qode"><img width="30" src="https://yt3.ggpht.com/ytc/AAUvwni9DkTZLQ1ldbZdkJcbTGwT9KL-83SbcwEhFmyv=s88-c-k-c0x00ffffff-no-rj"></a><br>[Я — зерокодер](https://www.youtube.com/c/0qode)|Nocode-решения, без кода и разработчиков.|<span id="0qode" class="youtube-count" hashtag="Education"></span>|<span id="0qode" class="youtube-subscribers"></span>|<span id="0qode" class="last-video-date"></span>|
-
-</details>
 
 ---
 
