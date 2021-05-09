@@ -9,7 +9,7 @@ google_analytics:
   - UA-124134438-2
   - auto
 nav:
-    - События: index.md
+    - События и блоги: index.md
     - Подкасты: Podcasts.md
     - YouTube-каналы: YouTube.md
     - Contributing: CONTRIBUTING.md
