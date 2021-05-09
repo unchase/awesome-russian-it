@@ -957,8 +957,8 @@
 
 ---
 
-|Название         |[Твой Digital](www.tvoydigital.ru)|
-|:----------------|:---------------------------------|
+|Название         |[Твой Digital](https://tvoydigital.ru)|
+|:----------------|:-------------------------------------|
 |**Логотип**      |<span itunes-id="1502778082" class="itunes-img"><img height="100" width="100" src="https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/7b/54/49/7b54494e-57b6-7a92-2533-2fc19671c65d/mza_9238670225735722525.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/tvoydigital) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/твой-digital/id1502778082) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcasts-191694122) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/tvoydigital) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/tvoydigital) • [![Telegram](img/favicons/t.me.png)](https://t.me/tvoydigital) • [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/tvoydigital/) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/10141776)|
 |**Описание**     |Твой Digital - Первый ежедневный подкаст о цифровых технологиях.<br>События и явления, которые имеют отношение к твоей жизни.<br>Информация и новости, которые имеют ясный и четкий ответ на вопрос "Что мне с этого?".|
@@ -2225,7 +2225,7 @@
 |**Логотип**      |<span itunes-id="1484348948" class="itunes-img"><img height="100" width="100" src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts114/v4/9b/7d/6c/9b7d6cff-c93a-d25d-e3ee-4cc5103b8395/mza_2856168317630302491.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Anchor](img/favicons/anchor.fm.png)](https://anchor.fm/radiodotnet) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/podcast/id1484348948) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy9mMGMwZWY0L3BvZGNhc3QvcnNz) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/radiodotnet) • [![Breaker](img/favicons/breaker.audio.png)](https://www.breaker.audio/radiodotnet) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/RadioDotNet-id2403086?country=ru) • [![Overcast](img/favicons/overcast.fm.png)](https://overcast.fm/itunes1484348948/radiodotnet) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/playlist?list=PLbxr_aGL4q3SpQ9GRn2jv-NEpvN23CUC5) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/12041961) • [![RSS](img/favicons/rss.png)](https://anchor.fm/s/f0c0ef4/podcast/rss)|
 |**Описание**     |Разговоры на тему .NET во всех его проявлениях, новости, статьи, библиотеки, конференции, личности и прочее интересное из мира IT.|
-|**Ведущие**      |[Анатолий Кулаков](https://github.com/DotNetRu/BrandBook/wiki/Anatoly-Kulakov) [![GitHub](img/favicons/github.com.png)](https://github.com/kulakovt) [![DotNet.ru](img/favicons/dotnet.ru.png)](https://dotnet.ru)<br>[Игорь Лабутин](https://github.com/DotNetRu/BrandBook/wiki/Igor-Labutin) [![GitHub](img/favicons/github.com.png)](https://github.com/ilabutin)|
+|**Ведущие**      |[Анатолий Кулаков](https://github.com/DotNetRu/BrandBook/wiki/Anatoly-Kulakov) [![GitHub](img/favicons/github.com.png)](https://github.com/kulakovt) [![DotNet.ru](http://favicon.yandex.net/favicon/dotnet.ru)](https://dotnet.ru)<br>[Игорь Лабутин](https://github.com/DotNetRu/BrandBook/wiki/Igor-Labutin) [![GitHub](img/favicons/github.com.png)](https://github.com/ilabutin)|
 |**Регулярность** |2 раза в месяц|
 |**Длительность** |50-80 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1484348948" class="episodes" hashtag="radiodotnet">29 (<font color="red">0</font>)</span>|
