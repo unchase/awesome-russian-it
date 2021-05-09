@@ -36,8 +36,11 @@ plugins:
 extra:
   generator: false
   social:
-    - icon: fontawesome/brands/opera
+    - icon: fontawesome/brands/chrome
       link: https://unchase.ru/
+      name: Основной сайт
+    - icon: fontawesome/brands/paypal
+      link: https://www.buymeacoffee.com/nikolaychebotov
       name: Основной сайт
     - icon: fontawesome/brands/github
       link: https://github.com/unchase
