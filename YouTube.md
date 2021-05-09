@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://github.com/unchase/awesome-russian-it">
-    <img src="img/arit-logo.png" alt="Awesome Russian IT Logo">
-  </a>
-</p>
-
 ---
 
 <h5 align="center">Здесь собран список полезных русскоязычных ресурсов YouTube-каналов, связанных с информационными технологиями (разработка, администрирование, митапы и конференции, интервью, новости ИТ и пр.).</h5>

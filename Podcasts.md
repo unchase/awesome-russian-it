@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://github.com/unchase/awesome-russian-it">
-    <img src="img/arit-logo.png" alt="Awesome Russian IT Logo">
-  </a>
-</p>
-
 ---
 
 <h5 align="center">Здесь собрана информация обо всех как наиболее популярных, так и почти неизвестных ИТ-подкастах, а также указаны ссылки для связи с их авторами.</h5>
