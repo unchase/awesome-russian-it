@@ -19,7 +19,7 @@
 
 ---
 
-## Содержание
+## Содержание <a name="содержание"></a>
 
 Также вы можете посмотреть [список русскоязычных Подкастов](Podcasts.md) и [список русскоязычных YouTube-каналов](YouTube.md), связанных с ИТ (расположены в отдельных файлах).
 
@@ -33,7 +33,7 @@
 
 > Здесь собраны агрегаторы всевозможных мероприятий (конференций, митапов, хакатонов и встреч), сообщества и компании, проводящие их, и связанные с ИТ тематикой.
 
-<details open="open"><summary><a name="meetups-aggregators"></a><b>Агрегаторы и Общие</b></summary><br>
+### **Агрегаторы и Общие** <a name="meetups-aggregators"></a>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -237,9 +237,7 @@
 |[![ЮMoney](http://favicon.yandex.net/favicon/events.yoomoney.ru)](https://events.yoomoney.ru/)<br>[ЮMoney](https://events.yoomoney.ru/)|IT-события в ЮMoney.|Онлайн|[![VK](img/favicons/vk.com.png)](https://vk.com/yoomoneywork) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/yoomoneywork/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UC6a0bQhUPlsRjvq-yufZF2A) [![Telegram](img/favicons/t.me.png)](https://t.me/YooMoneyITChannel) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/yoomoneywork/) [![Email](img/favicons/email.png)](mailto:meetup@yoomoney.ru)|
 |[![ЮКОН](img/favicons/youcon.ru.png)](http://youcon.ru/)<br>[ЮКОН](http://youcon.ru/)|Ежегодная бесплатная IT-конференция в Саратове.|Саратов|[![Twitter](img/favicons/twitter.com.png)](https://twitter.com/youconsaratov) [![VK](img/favicons/vk.com.png)](https://vk.com/youconsaratov) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/youconsaratov/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCdhqq1odGnZ9bsxuq2DLH1g) [![Telegram](img/favicons/t.me.png)](https://t.me/youcon) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/youconsaratov/) [![GitHub](img/favicons/github.com.png)](https://github.com/youcon)|
 
-</details>
-
-<details open="open"><summary><a name="meetups-analytics"></a><b>Аналитика</b></summary><br>
+### **Аналитика** <a name="meetups-analytics"></a>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -254,9 +252,7 @@
 |[![iMetrics](http://favicon.yandex.net/favicon/imetrics.ru)](http://imetrics.ru/)<br>[iMetrics](http://imetrics.ru/)|Ежегодная конференция по веб-аналитике.|Москва|[![Twitter](img/favicons/twitter.com.png)](https://twitter.com/i_metrics) [![Facebook](img/favicons/facebook.com.png)](https://ru-ru.facebook.com/iMetrics/) [![Email](img/favicons/email.png)](mailto:info@imetrics.ru)|
 |[![Точка сборки](img/favicons/tochkasborki.spbcoa.ru.png)](http://tochkasborki.spbcoa.ru/)<br>[Точка сборки](http://tochkasborki.spbcoa.ru/)|«Точка сборки» — площадка для обмена профессиональным опытом. Мы собираемся в едином пространстве, знакомимся и учимся друг у друга практически применимым вещам в сфере анализа, качества, программных продуктов с возможностью дальнейшего развития и полезных для бизнеса.|Санкт-Петербург|[![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/spbcoatochkasborki/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCKAToRr8AwzqJIlihWPk8RQ) [![Telegram](img/favicons/t.me.png)](https://t.me/t0chkasborki) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/t0chkasborki/)|
 
-</details>
-
-<details open="open"><summary><a name="meetups-db"></a><b>БД</b></summary><br>
+### **БД** <a name="meetups-db"></a>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -265,9 +261,7 @@
 |[![PG Day Russia](img/favicons/pgday.ru.png)](https://pgday.ru)<br>[PG Day Russia](https://pgday.ru)|PG Day Russia — первая российская конференция, которая имеет статус community-мероприятия, поддерживаемого официальным международным сообществом PostgreSQL! Основная цель конференции — продвижение PostgreSQL, поддержка ее пользователей и создание площадки для общения компаний, работающих с PostgreSQL и смежными технологиями.|Санкт-Петербург|[![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/groups/696052247100127/) [![Telegram](img/favicons/t.me.png)](https://t.me/pgday) [![Slack](img/favicons/slack.png)](http://slackin.pgday.ru/)|
 |[![PGConf.Russia](img/favicons/pgconf.ru.png)](https://pgconf.ru)<br>[PGConf.Russia](https://pgconf.ru)|PGConf.Russia – международная техническая конференция по открытой СУБД PostgreSQL, ежегодно собирающая более 700 разработчиков, администраторов баз данных и IT-менеджеров для обмена опытом и профессионального общения. В программе – мастер-классы ведущих мировых экспертов, доклады в три тематических потока, примеры лучшего опыта и разбор ошибок, блиц-доклады из зала.|Москва|[![Twitter](img/favicons/twitter.com.png)](https://twitter.com/pgconfru) [![VK](img/favicons/vk.com.png)](https://vk.com/pgconf.russia) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/groups/1590573034337877/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UC6gJN4hEmnPHZ53HP2r7zhA)|
 
-</details>
-
-<details open="open"><summary><a name="meetups-ai"></a><b>AI</b></summary><br>
+### **AI** <a name="meetups-ai"></a>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -281,9 +275,7 @@
 |[![RAIF](img/favicons/raif.jet.su.png)](https://raif.jet.su/)<br>[RAIF](https://raif.jet.su/)|RAIF — это первая масштабная площадка в России и СНГ для обмена ценным опытом, стратегиями и результатами кейсов в области Artificial Intelligence (AI), Machine Learning (ML) и Internet of Things (IoT).|Москва|[![Email](img/favicons/email.png)](mailto:forum-raif@jet.su)|
 |[![zebrains](http://favicon.yandex.net/favicon/meetup.zebrains.ru)](https://meetup.zebrains.ru/)<br>[zebrains](https://meetup.zebrains.ru/)|Календарь мероприятий ZeBrains. ZeBrains — это команда влюбленных в свое дело профессионалов. Компания занимается разработкой полезных мобильных приложений, сложных веб-сервисов, реализует проекты в сфере AI, AR, VR.|Онлайн|[![Twitter](img/favicons/twitter.com.png)](https://twitter.com/ZebrainsTeam) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/ZeBrains.team/) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/zebrains.team/) [![LinkedIn](img/favicons/linkedin.cn.png)](https://www.linkedin.com/company/zebrains/) [![Email](img/favicons/email.png)](mailto:info@zebrains.team)|
 
-</details>
-
-<details open="open"><summary><a name="meetups-architecture"></a><b>Architecture</b></summary><br>
+### **Architecture** <a name="meetups-architecture"></a>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -292,9 +284,7 @@
 |[![ArchDays](img/favicons/archdays.ru.png)](https://archdays.ru/)<br>[ArchDays](https://archdays.ru/)|Конференция по микросервисам и архитектуре, на которой не только делятся опытом, но и создают новые знания.<br>Мы определяем цель конференции как «распространение имеющихся и создание новых знаний о микросервисах и эволюционной архитектуре».<br>Мы решили пойти дальше принятого формата и в дополнение к докладам, преследующим своей целью распространение знаний, попытаться найти решения еще не решенных проблем в архитектуре.|Москва|[![VK](img/favicons/vk.com.png)](https://vk.com/archdaysconference) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/ArchDaysConference/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UC3d7WPEIIcnorj1ZTyxVa7w)|
 |[![SYSTEMSxDESIGN](http://favicon.yandex.net/favicon/systemsdesign.online)](https://systemsdesign.online/)<br>[SYSTEMSxDESIGN](https://systemsdesign.online/)|Проектирование успешных ИТ-систем.|Онлайн|[![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/system.education) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCu9pVuw75Aj_BAZ867cS9mg) [![Telegram](img/favicons/t.me.png)](https://t.me/itsysdes_events)|
 
-</details>
-
-<details open="open"><summary><a name="meetups-blockchain"></a><b>BlockChain</b></summary><br>
+### **BlockChain** <a name="meetups-blockchain"></a>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -304,9 +294,7 @@
 |[![Blockchain Life](img/favicons/blockchain-life.com.png)](https://blockchain-life.com/europe/ru/)<br>[Blockchain Life](https://blockchain-life.com/europe/ru/)|Каждый год Blockchain Life становится одним из самых посещаемых мероприятий в мире.<br>Форум объединяет мировых лидеров индустрии и тех, кто еще только начинает интересоваться сферой блокчейна и криптовалют. Blockchain Life - не просто важное международное событие - это профессиональный инструмент для личностного развития и развития Вашего бизнеса.|Москва|[![Twitter](img/favicons/twitter.com.png)](https://twitter.com/BlLife_Forum) [![VK](img/favicons/vk.com.png)](https://vk.com/blockchainlife) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/blockchainlife/) [![Telegram](img/favicons/t.me.png)](https://t-q.me/blockchainlife) [![Email](img/favicons/email.png)](mailto:support@blockchain-life.com)|
 |[![TokenConf](img/favicons/tokenconf.ru.png)](https://tokenconf.ru/)<br>[TokenConf](https://tokenconf.ru/)|Профессиональная конференция для блокчейн-разработчиков.<br>Программа конференции охватывает такие тематики, как архитектура и безопасность блокчейн-платформ, особенности разработки проектов с использованием блокчейн-технологии, государственное регулирование, легальность блокчейна, интеграция умных контрактов и физической реальности и другие направления, связанные с разработкой и внедрением блокчейна. Мы оставим за скобками майнинг, ICO и будем говорить только о том, как блокчейн может изменить ваши технические и бизнес-процессы!|Москва|[![Twitter](img/favicons/twitter.com.png)](https://twitter.com/TokenConf) [![VK](img/favicons/vk.com.png)](https://vk.com/tokenconf) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/TokenConf) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/c/BlockchainChannel) [![Telegram](img/favicons/t.me.png)](https://t.me/TokenConfTalks)|
 
-</details>
-
-<details open="open"><summary><a name="meetups-bigdata-datascience"></a><b>BigData и DataScience</b></summary><br>
+### **BigData и DataScience** <a name="meetups-bigdata-datascience"></a>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -322,9 +310,7 @@
 |[![X5 Retail Hero](http://favicon.yandex.net/favicon/retailhero.ai)](https://retailhero.ai)<br>[X5 Retail Hero](https://retailhero.ai)|Конференция X5 Retail Hero посвящена последним трендам в области Data Science и разработки в ритейле и смежных сегментах.|Москва||
 |[![Берза](http://favicon.yandex.net/favicon/berza.ru)](https://berza.ru/category/events/)<br>[Берза](https://berza.ru/category/events/)|Проект «Берза» — информационный портал про высокие технологии. На портале публикуются различные материалы на такие темы, как: искусственный интеллект и машинное обучение, чат-боты и голосовые ассистенты, роботы и дроны, виртуальная и дополненная реальность.|Онлайн|[![VK](img/favicons/vk.com.png)](https://vk.com/berzaru) [![Telegram](img/favicons/t.me.png)](https://t.me/berzaru) [![Email](img/favicons/email.png)](mailto:berzaru@mail.ru) [![RSS](img/favicons/rss.png)](https://berza.ru/feed/)|
 
-</details>
-
-<details open="open"><summary><a name="meetups-development"></a><b>Development</b></summary><br>
+### **Development** <a name="meetups-development"></a>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -346,7 +332,7 @@
 |[![TechTrain](img/favicons/techtrain.ru.png)](https://techtrain.ru/)<br>[TechTrain](https://techtrain.ru/)|TechTrain – большой фестиваль для разработчиков, инженеров и им сочувствующих. Фестиваль, который в одном месте собирает всех, кто любит разработку ПО так же, как мы. Неважно, есть у вас виртуальная машина или нет, топите вы за ООП или за функциональщину, за перформанс или за скорость разработки – на TechTrain вы найдете единомышленников, интересные проекты и технологические новинки (VR и AR, новые архитектуры и гаджеты, да кто знает, что еще).|Санкт-Петербург|[![Twitter](img/favicons/twitter.com.png)](https://twitter.com/techtrainfest) [![VK](img/favicons/vk.com.png)](https://vk.com/techtrain) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/techtrainfest/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCJoerW5eDOz5qu7I2CYi7xg) [![Telegram](img/favicons/t.me.png)](https://t.me/techtrainfest)|
 |[![UIC Dev](img/favicons/uic.dev.png)](https://www.uic.dev)<br>[UIC Dev](https://www.uic.dev)|UIC Dev — технологическая конференция и вечеринка в одном флаконе.<br>UIC Dev объединяет профессионалов в области интернет-технологий. Среди спикеров — ведущие российские дизайнеры, разработчики, тестировщики, креативщики и руководители проектов.<br>В расслабленном лаундж-формате мы говорим о трендах, инструментах и кейсах. Живые доклады, нескучные форматы, виски-брейки и сплочение сообщества через обмен практиками.<br>UIC Dev — отличное место для общения и прокачки. Собираемся там, где IT в фокусе.|Россия, Онлайн|[![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/user/PicomLtd) [![VK](img/favicons/vk.com.png)](https://vk.com/uicdev) [![Telegram](img/favicons/t.me.png)](https://t.me/uic_dev) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/uic_dev/) [![Email](img/favicons/email.png)](mailto:event@picom.ru)|
 
-<details open="open"><summary><a name="meetups-development-1c"></a><b>&nbsp;&nbsp;1C</b></summary><br>
+#### **1C** <a name="meetups-development-1c"></a>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -355,9 +341,7 @@
 |[![1crm.ru](img/favicons/1crm.ru.png)](https://1crm.ru/events/)<br>[1crm.ru](https://1crm.ru/events/)|Мероприятия для тех, кто ценит отношения с клиентами и свое время, а также стремится строить бизнес правильно с помощью современных инструментов, таких как 1C:CRM.|Москва|[![VK](img/favicons/vk.com.png)](https://vk.com/1crm_club) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/1C.CRM/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/c/1CCRM)|
 |[![Infostart](img/favicons/infostart.ru.png)](https://infostart.ru/events/)<br>[Infostart](https://infostart.ru/events/)|Мероприятия сообщества Инфостарт, которая собирает в себе самые актуальные вопросы управления и технологий 1С.|Россия|[![Twitter](img/favicons/twitter.com.png)](https://twitter.com/infostart) [![VK](img/favicons/vk.com.png)](https://vk.com/infostartru) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/INFOSTARTRU-1564122180531601/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCjuwXCXPZbTcQe4cLd_4CsA) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/infostart.ru/) [![Yandex Zen](img/favicons/zen.yandex.ru.png)](https://zen.yandex.ru/id/5b3dffc9cf892600a95fdac7)|
 
-</details>
-
-<details open="open"><summary><a name="meetups-development-dotnet"></a><b>&nbsp;&nbsp;.NET</b></summary><br>
+#### **.NET** <a name="meetups-development-dotnet"></a>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -376,9 +360,7 @@
 |[![Pro .NET Community](img/favicons/community-z.com.png)](https://community-z.com/communities/prodotnet)<br>[Pro .NET Community](https://community-z.com/communities/prodotnet)|Присоединяйтесь к нам и сотрудничайте с другими коллегами по .Net и другим связанным технологиям и языкам кодирования, связанным с реальным производственным опытом.|Минск|[![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/pronetby/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/c/pronetby)|
 |[![Sync.Net](img/favicons/sync.net.ua.png)](https://sync.net.ua/)<br>[Sync.Net](https://sync.net.ua/)|Cообщество .Net разработчиков Харькова!|Харьков (Украина)|[![Twitter](img/favicons/twitter.com.png)](https://twitter.com/Sync_NET) [![VK](img/favicons/vk.com.png)](https://vk.com/club103313712) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/SyncNETteam/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UC5X18_zJ0uE3X956dlvMgBQ)|
 
-</details>
-
-<details open="open"><summary><a name="meetups-development-cpp"></a><b>&nbsp;&nbsp;C++</b></summary><br>
+#### **C++** <a name="meetups-development-cpp"></a>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -388,9 +370,7 @@
 |[![С++ Russia](img/favicons/cppconf.ru.png)](https://cppconf.ru/)<br>[С++ Russia](https://cppconf.ru/)|Конференция С++ Russia — это два дня и несколько треков хардкорных технических докладов, посвященных C++: concurrency, производительность, архитектура и инфраструктурные решения — всё для того, чтобы ваш код выглядел лучше и делал больше. Конференция ориентирована на опытных разработчиков, никаких вводных докладов!|Москва, Санкт-Петербург|[![Twitter](img/favicons/twitter.com.png)](https://twitter.com/cpp_russia) [![VK](img/favicons/vk.com.png)](https://vk.com/cpp_russia) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/cppugrussia/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCJ9v015sPgEi0jJXe_zanjA) [![Telegram](img/favicons/t.me.png)](https://t.me/cpprussia)|
 |[![C++ SIBERIA](http://www.google.com/s2/favicons?domain=cppug.ru)](https://cppug.ru/)<br>[C++ SIBERIA](https://cppug.ru/)|Новосибирская конференция по C++.|Новосибирск|[![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCJ9v015sPgEi0jJXe_zanjA) [![Email](img/favicons/email.png)](mailto:conf@cpp-russia.ru)|
 
-</details>
-
-<details open="open"><summary><a name="meetups-development-elixir"></a><b>&nbsp;&nbsp;Elixir</b></summary><br>
+#### **Elixir** <a name="meetups-development-elixir"></a>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -398,9 +378,7 @@
 |:------:|:-------|:--------------------------:|:--------------:|
 |[![ElixirLangMoscow](img/favicons/elixir-lang.moscow.png)](http://elixir-lang.moscow/)<br>[ElixirLangMoscow](http://elixir-lang.moscow/)|Elixir сообщество Москвы.|Москва|[![Twitter](img/favicons/twitter.com.png)](https://twitter.com/elixir_lang_mos) [![Telegram](img/favicons/t.me.png)](https://t.me/wunsh)|
 
-</details>
-
-<details open="open"><summary><a name="meetups-development-gamedev"></a><b>&nbsp;&nbsp;GameDev</b></summary><br>
+#### **GameDev** <a name="meetups-development-gamedev"></a>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -432,9 +410,7 @@
 |[![ВШБИ - Лекционные вечера](img/favicons/hsbi.hse.ru.png)](https://hsbi.hse.ru/events/)<br>[ВШБИ - Лекционные вечера](https://hsbi.hse.ru/events/)|Лекционные вечера по геймдеву и дни открытых дверей Высшей школы бизнес-информатики.|Москва|[![VK](img/favicons/vk.com.png)](https://vk.com/hsbi_games) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UC0qd5cNGVxbu5t43InMWXgA) [![Telegram](img/favicons/t.me.png)](https://t.me/joinchat/C90XMkKWNlMLxEHpxrny4w)|
 |[![Индикатор](img/favicons/indikator.space.png)](http://indikator.space)<br>[Индикатор](http://indikator.space)|Индикатор — сообщество игровых разработчиков.|Россия|[![VK](img/favicons/vk.com.png)](https://vk.com/indieonline) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCuAhTR4_H-vNRFA4U3h0uGw) [![Telegram](img/favicons/t.me.png)](https://t.me/joinchat/GhZiklBh8HuFl_auLmGGLw)|
 
-</details>
-
-<details open="open"><summary><a name="meetups-development-go"></a><b>&nbsp;&nbsp;Go</b></summary><br>
+#### **Go** <a name="meetups-development-go"></a>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -445,9 +421,7 @@
 |[![GolangConf](img/favicons/golangconf.ru.png)](https://golangconf.ru/)<br>[GolangConf](https://golangconf.ru/)|Профессиональная конференция для Go-разработчиков.<br>Конференция для тех, кто использует Go в профессиональной разработке, и тех, кто рассматривает этот язык в качестве альтернативы.|Москва|[![Twitter](img/favicons/twitter.com.png)](https://twitter.com/GolangConf) [![VK](img/favicons/vk.com.png)](https://vk.com/golangconf) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/GolangConf) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCykb1JeHJvVHOL6XJCoWMdA) [![Telegram](img/favicons/t.me.png)](https://t.me/GolangConfTalks)|
 |[![GoWayFest](http://favicon.yandex.net/favicon/goway.io)](https://goway.io/)<br>[GoWayFest](https://goway.io/)|Интернациональная конференция, полностью посвященная Go.|Минск|[![Twitter](img/favicons/twitter.com.png)](https://twitter.com/GoWayFest) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/goway.io) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/gowayfest/)|
 
-</details>
-
-<details open="open"><summary><a name="meetups-development-iot"></a><b>&nbsp;&nbsp;IoT</b></summary><br>
+#### **IoT** <a name="meetups-development-iot"></a>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -456,9 +430,7 @@
 |[![InnoThingsConf](img/favicons/inothings.ru.png)](https://inothings.ru/)<br>[InnoThingsConf](https://inothings.ru/)|Конференция для профессионалов рынка интернета вещей.|Москва|[![Twitter](img/favicons/twitter.com.png)](https://twitter.com/InoThingsConf) [![VK](img/favicons/vk.com.png)](https://vk.com/inothingsconference) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/InoThingsConference) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/c/IoTChannel) [![Telegram](img/favicons/t.me.png)](https://t.me/InoThingsTalks)|
 |[![IoT Focus TechConf](img/favicons/iotfocusconf.com.png)](http://iotfocusconf.com/)<br>[IoT Focus TechConf](http://iotfocusconf.com/)|Международная инженерная конференция об IoT разработке и решениях для бизнеса на основе концепции Internet of Things.|Минск|[![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/iotfocus/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCkAyd2IWBoxCJl_e7LOrcPQ/videos) [![Telegram](img/favicons/t.me.png)](https://t.me/iotfocusminsk) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/iotfocus/) [![LinkedIn](img/favicons/linkedin.cn.png)](https://www.linkedin.com/groups/13678534/)|
 
-</details>
-
-<details open="open"><summary><a name="meetups-development-java"></a><b>&nbsp;&nbsp;Java</b></summary><br>
+#### **Java** <a name="meetups-development-java"></a>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -477,9 +449,7 @@
 |[![SnowOne](img/favicons/snowone.ru.png)](https://snowone.ru/ru)<br>[SnowOne](https://snowone.ru/ru)|Community-driven Java-конференция в Сибири.|Новосибирск|[![Telegram](img/favicons/t.me.png)](https://tlgg.ru/snowone_news) [![Telegram](img/favicons/t.me.png)](https://tlgg.ru/snowone_ru) [![Email](img/favicons/email.png)](mailto:org@snowone.ru)|
 |[![Think JAVA](http://favicon.yandex.net/favicon/thinkjava.io)](https://thinkjava.io/)<br>[Think JAVA](https://thinkjava.io/)|Мы собираем джавистов Харькова (и не только), чтобы обсудить актуальные темы за чашкой чая, поделиться ценным опытом с коллегами и вместе найти решение сложных проблем. Следи за нами в соц. сетях и будь в курсе событий.|Харьков|[![Twitter](img/favicons/twitter.com.png)](https://twitter.com/Think_Java) [![VK](img/favicons/vk.com.png)](https://vk.com/thinkjava) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/thinkjavaKharkiv) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/user/thinkjavakharkiv)|
 
-</details>
-
-<details open="open"><summary><a name="meetups-development-kotlin"></a><b>&nbsp;&nbsp;Kotlin</b></summary><br>
+#### **Kotlin** <a name="meetups-development-kotlin"></a>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -487,9 +457,7 @@
 |:------:|:-------|:--------------------------:|:--------------:|
 |[![Belarus Kotlin User Group](img/favicons/bkug.by.png)](https://bkug.by/)<br>[Belarus Kotlin User Group](https://bkug.by/)|Сообщество разработчиков на языке Kotlin.|Беларусь|[![Twitter](img/favicons/twitter.com.png)](https://twitter.com/BelarusKUG) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/c/BelarusKUG) [![Telegram](img/favicons/t.me.png)](https://t.me/kotlin_lang) [![GitHub](img/favicons/github.com.png)](https://github.com/BelarusKUG) [![Email](img/favicons/email.png)](mailto:team@bkug.by) [![RSS](img/favicons/rss.png)](https://bkug.by/feed/)|
 
-</details>
-
-<details open="open"><summary><a name="meetups-development-mobile"></a><b>&nbsp;&nbsp;Mobile</b></summary><br>
+#### **Mobile** <a name="meetups-development-mobile"></a>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -502,9 +470,7 @@
 |[![Mobile People](http://favicon.yandex.net/favicon/community-z.com)](https://community-z.com/communities/mobilepeople)<br>[Mobile People](https://community-z.com/communities/mobilepeople)|Сообщество Mobile People - это место для тех, кто любит разработку и тестирование мобильных приложений!|Беларусь|[![Twitter](img/favicons/twitter.com.png)](https://twitter.com/MobilePeopleZ) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/groups/mobilepeople/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCSzaLrrKbo8M2gJGulavIkA) [![Telegram](img/favicons/t.me.png)](https://t.me/mobile_people)|
 |[![Mobius](img/favicons/mobiusconf.com.png)](https://mobiusconf.com/)<br>[Mobius](https://mobiusconf.com/)|Mobius — это конференция для разработчиков мобильных приложений, которая регулярно проходит в Москве и Петербурге и собирает более 600 участников. Аудитория конференции: Middle и Senior-разработчики, тимлиды, руководители проектов и системные архитекторы.|Москва, Санкт-Петербург|[![Twitter](img/favicons/twitter.com.png)](https://twitter.com/MobiusConf) [![VK](img/favicons/vk.com.png)](https://vk.com/mobiusconf) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/mobiusconf/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCG70q1HRspLdd93HW94WS-A) [![Telegram](img/favicons/t.me.png)](https://t.me/mobiusconf)|
 
-</details>
-
-<details open="open"><summary><a name="meetups-development-mr-vr-ar"></a><b>&nbsp;&nbsp;MR VR AR</b></summary><br>
+#### **MR VR AR** <a name="meetups-development-mr-vr-ar"></a>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -514,9 +480,7 @@
 |[![AVRA Days](img/favicons/avradays.com.png)](https://avradays.com/)<br>[AVRA Days](https://avradays.com/)|Главное мероприятие года об AR/VR/AI/5G для бизнеса, созданное профессионалами и вобравшее максимум экспертизы.|Москва|[![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/avraassociation/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCtfKT_4RvLXxuOKGxjvN7xQ) [![Telegram](img/favicons/t.me.png)](https://t.me/avracommunity) |
 |[![MIXR](img/favicons/mixrconf.ru.png)](https://mixrconf.ru/)<br>[MIXR](https://mixrconf.ru/)|MIXR - это независимая конференция по MR, VR и AR. Технологии смешанной реальности являются продуктом будущего, который может быть конкурентным и продаваемым.<br>Это место для встречи профессионального сообщества, расширения и обновления контакт-листа и популяризации технологии.|Москва|[![VK](img/favicons/vk.com.png)](https://vk.com/mixr_conf) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/mixrconf/) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/mixr_conf/) [![Email](img/favicons/email.png)](mailto:about@mixrconf.ru)|
 
-</details>
-
-<details open="open"><summary><a name="meetups-development-php"></a><b>&nbsp;&nbsp;PHP</b></summary><br>
+#### **PHP** <a name="meetups-development-php"></a>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -529,9 +493,7 @@
 |[![phpcommunity.ru](http://favicon.yandex.net/favicon/phpcommunity.ru)](https://phpcommunity.ru/)<br>[phpcommunity.ru](https://phpcommunity.ru/)|Митапы и чаты по городам и фреймворкам. Ссылки на видео со встреч.|Россия, Беларусь, Украина, Онлайн||
 |[![SymCode](http://favicon.yandex.net/favicon/symcode.ru)](http://symcode.ru/)<br>[SymCode](http://symcode.ru/)|Сообщество инициативных разработчиков на PHP/Symfony. Все о разработке веб приложений и смежных технологиях.|Санкт-Петербург|[![VK](img/favicons/vk.com.png)](https://vk.com/symcode) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCIC3R2Vv0YYaSUnHJEK9__g) [![Telegram](img/favicons/t.me.png)](https://t.me/symfoniacs_spb)|
 
-</details>
-
-<details open="open"><summary><a name="meetups-development-python"></a><b>&nbsp;&nbsp;Python</b></summary><br>
+#### **Python** <a name="meetups-development-python"></a>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -544,9 +506,7 @@
 |[![PYCON RUSSIA](img/favicons/pycon.ru.png)](https://pycon.ru/)<br>[PYCON RUSSIA](https://pycon.ru/)|Самая большая и душевная конференция для python-разработчиков.|Россия|[![Twitter](img/favicons/twitter.com.png)](https://twitter.com/PyConRu) [![VK](img/favicons/vk.com.png)](https://vk.com/pyconru) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/ruPycon/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/playlist?list=PLRdS-n5seLRrFxA3PDP0JRz7wRLGJ-xu0) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/search/?q=%5Bpyconrussia%5D&target_type=posts) [![Telegram](img/favicons/t.me.png)](https://t.me/joinchat/BBbt9D-mNdb7mjkkQLe0eg)|
 |[![PyLadies SPb](http://favicon.yandex.net/favicon/spb.pyladies.com)](http://spb.pyladies.com/)<br>[PyLadies SPb](http://spb.pyladies.com/)|Мы — часть международного проекта PyLadies, который помогает женщинам вливаться в сообщество Python и становиться его активными участницами.<br>Наша миссия — поддерживать, развивать и обучать комьюнити Python-разработчиц с помощью образовательных мероприятий, конференций, митапов и других ивентов.<br>Мы создаём дружелюбную поддерживающую среду для женщин и прокладываем им дорогу в глобальный мир Python. Будем рады всем, кто захочет присоединиться к нам!|Санкт-Петербург, Онлайн|[![Twitter](img/favicons/twitter.com.png)](https://twitter.com/pyladies_spb) [![VK](img/favicons/vk.com.png)](https://vk.com/pyladies_spb) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/groups/pyladies.spb/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCVVHsoQmlM-SHY4bnEboQhA) [![Telegram](img/favicons/t.me.png)](https://t.me/pyladies_spb) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/pyladies_spb/) [![GitHub](img/favicons/github.com.png)](https://github.com/pyladies-spb) [![Email](img/favicons/email.png)](mailto:spb@pyladies.com)|
 
-</details>
-
-<details open="open"><summary><a name="meetups-development-ruby"></a><b>&nbsp;&nbsp;Ruby</b></summary><br>
+#### **Ruby** <a name="meetups-development-ruby"></a>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -555,9 +515,7 @@
 |[![Belarus Ruby User Group](http://favicon.yandex.net/favicon/brug.by)](http://brug.by/)<br>[Belarus Ruby User Group](http://brug.by/)|Ruby User Group - сообщество Ruby/Rails-разработчиков Беларуси, созданное для обмена идеями и опытом.|Беларусь|[![VK](img/favicons/vk.com.png)](https://vk.com/belarusrubyusergroup) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/ByRoR/) [![Telegram](img/favicons/t.me.png)](https://t.me/theBRUG)|
 |[![RubyRussia.club](img/favicons/rubyrussia.club.png)](https://rubyrussia.club/)<br>[RubyRussia.club](https://rubyrussia.club/)|Главная российская конференция о Ruby. Конференция RubyRussia — это уникальное место, где можно пообщаться с коллегами, поделиться живым опытом, встретить старых друзей и узнать о чем-то новом.||[![Twitter](img/favicons/twitter.com.png)](https://twitter.com/railsclub_ru) [![VK](img/favicons/vk.com.png)](https://vk.com/railsclub_ru) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/railsclub/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/user/railsclub)|
 
-</details>
-
-<details open="open"><summary><a name="meetups-development-scala"></a><b>&nbsp;&nbsp;Scala</b></summary><br>
+#### **Scala** <a name="meetups-development-scala"></a>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -565,9 +523,7 @@
 |:------:|:-------|:--------------------------:|:--------------:|
 |[![ScalaConf](img/favicons/scalaconf.ru.png)](https://scalaconf.ru/)<br>[ScalaConf](https://scalaconf.ru/)|Профессиональная конференция для Scala-разработчиков.|Москва|[![Twitter](img/favicons/twitter.com.png)](https://twitter.com/ScalaConfRu/) [![VK](img/favicons/vk.com.png)](https://vk.com/scalaconf) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/ScalaConf/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/user/profyclub) [![Telegram](img/favicons/t.me.png)](https://t.me/ScalaConfTalks)|
 
-</details>
-
-<details open="open"><summary><a name="meetups-development-web"></a><b>&nbsp;&nbsp;Web</b></summary><br>
+#### **Web** <a name="meetups-development-web"></a>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -598,11 +554,7 @@
 |[![WebPurple](http://favicon.yandex.net/favicon/webpurple.net)](https://www.webpurple.net/events/)<br>[WebPurple](https://www.webpurple.net/events/)|Рязанское сообщество веб-разработчиков и веб-дизайнеров.|Рязань, Онлайн|[![VK](img/favicons/vk.com.png)](https://vk.com/webpurple) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/WebPurple) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCFOQWgbqJbU8sVuWHGln2aA) [![Telegram](img/favicons/t.me.png)](https://t.me/WebPurple) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/webpurple/) [![Email](img/favicons/email.png)](mailto:info@webpurple.com)|
 |[![WebSyndicate](http://favicon.yandex.net/favicon/websyndicate.by)](https://websyndicate.by/)<br>[WebSyndicate](https://websyndicate.by/)|Проводим встречи веб-разработчиков в городе Гомеле.<br>Выступаем с докладами, а также в неформальной обстановке общаемся, делимся опытом, заводим новые знакомства и обсуждаем темы касающиеся веб-разработки и ИТ в целом.|Гомель|[![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/groups/websyndicate) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCGXsf8uC5Rm1grP_ZpY0UKw) [![Telegram](img/favicons/t.me.png)](https://t.me/websyndicate) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/web_syndicate/) [![Meetup.com](img/favicons/meetup.com.png)](https://www.meetup.com/ru-RU/websyndicate/)|
 
-</details>
-
-</details>
-
-<details open="open"><summary><a name="meetups-devops"></a><b>DevOps</b></summary><br>
+### **DevOps** <a name="meetups-devops"></a>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -618,9 +570,7 @@
 |[![SPb Reliability Meetup](http://favicon.yandex.net/favicon/spb.reliability.tilda.ws)](http://spb.reliability.tilda.ws/)<br>[SPb Reliability Meetup](http://spb.reliability.tilda.ws/)|SRE (Site Reliability Engineering) митапы в Петербурге.|Санкт-Петербург|[![Twitter](img/favicons/twitter.com.png)](https://twitter.com/spb_reliability) [![VK](img/favicons/vk.com.png)](https://vk.com/spb_reliability) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/pg/spb.reliability) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UC7Qw3EMVadPyzPTZ6i9aSGA) [![Telegram](img/favicons/t.me.png)](https://t.me/spb_reliability) [![GitHub](img/favicons/github.com.png)](https://github.com/spb-reliability)|
 |[![УКРOPS](http://favicon.yandex.net/favicon/ukrops.club)](https://ukrops.club)<br>[УКРOPS](https://ukrops.club)|Международное сообщество украинских девопсов. Или украинское сообщество международных девопсов. Читайте как вам удобнее.|Украина|[![Telegram](img/favicons/t.me.png)](https://t.me/UkropsDigest) [![Slack](img/favicons/slack.png)](https://ukrops.club/rooms.html)|
 
-</details>
-
-<details open="open"><summary><a name="meetups-management"></a><b>Management</b></summary><br>
+### **Management** <a name="meetups-management"></a>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -654,9 +604,7 @@
 |[![UseDataConf](img/favicons/usedata.ru.png)](http://usedata.ru)<br>[UseDataConf](http://usedata.ru)|Профессиональная конференция по управлению знаниями.|Москва|[![Twitter](img/favicons/twitter.com.png)](https://twitter.com/UseDataConf/) [![VK](img/favicons/vk.com.png)](https://vk.com/usedataconf) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/UseDataConf/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/user/profyclub) [![Telegram](img/favicons/t.me.png)](https://t.me/UseDataConfTalks)|
 |[![WhaleRider](img/favicons/whalerider.ru.png)](https://whalerider.ru/)<br>[WhaleRider](https://whalerider.ru/)|Конференция по управлению продуктами и предпринимательству в сфере Интернет. Построение команды, бизнес-процессы, управление разработкой, организация продаж, стратегия и риски, создание и управление продуктом, финансы и инвестиции.|Москва|[![Twitter](img/favicons/twitter.com.png)](https://twitter.com/WhaleRiderConf/) [![VK](img/favicons/vk.com.png)](https://vk.com/ritfest) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/RITFest/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/c/ManagementChannel) [![Telegram](img/favicons/t.me.png)](https://t.me/RITFestTalks)|
 
-</details>
-
-<details open="open"><summary><a name="meetups-security"></a><b>Security</b></summary><br>
+### **Security** <a name="meetups-security"></a>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -698,9 +646,7 @@
 |[![Код ИБ](img/favicons/conf.codeib.ru.png)](https://conf.codeib.ru/)<br>[Код ИБ](https://conf.codeib.ru/)|Самое масштабное событие в сфере ИБ.|Россия, Беларусь, Казахстан, Узбекистан|[![VK](img/favicons/vk.com.png)](https://vk.com/codeibacademy) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/codeibacademy) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/codeibacademy) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/expolinkevent/)|
 |[![РусКрипто](img/favicons/ruscrypto.ru.png)](https://www.ruscrypto.ru/)<br>[РусКрипто](https://www.ruscrypto.ru/)|Конференция для профессионалов ИБ.<br>C 1998 года Ассоциация «РусКрипто» собирает на одной площадке профессионалов рынка криптографии и информационной безопасности, лидеров мнений, представителей науки, образования и бизнеса!|Московская область|[![Twitter](img/favicons/twitter.com.png)](https://twitter.com/ruscrypto/) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/groups/ruscrypto/)|
 
-</details>
-
-<details open="open"><summary><a name="meetups-testing-qa"></a><b>Testing и QA</b></summary><br>
+### **Testing и QA** <a name="meetups-testing-qa"></a>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -715,9 +661,7 @@
 |[![QA Club Minsk](http://favicon.yandex.net/favicon/qaclub.by)](https://www.qaclub.by/blog/category/anonsy-vstrech/)<br>[QA Club Minsk](https://www.qaclub.by/blog/category/anonsy-vstrech/)|QA Club Minsk – это некоммерческая организация, целью которой является  повышение уровня знаний и навыков специалистов по контролю и обеспечению качества и увеличение авторитета и значимости их деятельности в глазах всех участников процесса разработки ПО.<br>Наша миссия — донести доброе, светлое, важное и правдивое о тестировании и QA каждому, кто имеет отношение к сфере IT, и помочь каждому участнику сообщества определить свою роль в мире тестирования поиском ответов на возникающие у него вопросы.<br>Наши принципы — это  открытость, независимость, честность, инициативность и взаимовыручка.|Минск|[![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/groups/qaclubminsk/) [![Telegram](img/favicons/t.me.png)](https://t.me/qaclub_minsk) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/qaclub.minsk/) [![RSS](img/favicons/rss.png)](http://www.qaclub.by/blog/feed/) [![Email](img/favicons/email.png)](mailto:qaclub.minsk@gmail.com)|
 |[![QAASP](http://favicon.yandex.net/favicon/qaasp.tech)](http://qaasp.tech/)<br>[QAASP](http://qaasp.tech/)|Конференция по тестированию.|Минск|[![Email](img/favicons/email.png)](mailto:info@qaasp.tech)|
 
-</details>
-
-<details open="open"><summary><a name="meetups-ux"></a><b>UX</b></summary><br>
+### **UX** <a name="meetups-ux"></a>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -729,8 +673,6 @@
 |[![UX SPb](http://favicon.yandex.net/favicon/ux-spb.ru)](http://ux-spb.ru/)<br>[UX SPb](http://ux-spb.ru/)|Санкт-Петербург|Группа питерских UX-профи - специалистов в области проектирования интерфейсов и юзабилити.|[![Twitter](img/favicons/twitter.com.png)](https://twitter.com/uxspb) [![VK](img/favicons/vk.com.png)](https://vk.com/club20953578) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/home.php?sk=group_100492516685854)|
 |[![UX-Марафон](http://favicon.yandex.net/favicon/ux-marafon.ru)](https://ux-marafon.ru/events)<br>[UX-Марафон](https://ux-marafon.ru/events)|Онлайн|UX-Марафон – онлайн-платформа для обмена опытом, вдохновения и развития в сфере UX. Станьте частью самого большого русскоговорящего сообщества UX-специалистов!|[![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/uxmarafon/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCunVxo_oEzZg5bZAKsrrpVA) [![Telegram](img/favicons/t.me.png)](https://t.me/uxmarafon) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/uxmarafon/)|
 
-</details>
-
 ---
 
 ## **Блоги**
@@ -739,7 +681,7 @@
 
 > Здесь представлены различные блоги и новостные агрегаторы, связанные с разработкой и со сферой ИТ в целом.
 
-<details open="open"><summary><a name="blogs-administrating"></a><b>Администрирование</b></summary><br>
+### **Администрирование** <a name="blogs-administrating"></a>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -748,9 +690,7 @@
 |**[Записки админа](https://sysadmin.pm/)**|Заметки сисадмина — это сборник записей системного администратора, который уже несколько лет работает с Linux на серверах.|[![Twitter](img/favicons/twitter.com.png)](https://twitter.com/sysadmin_pm) [![Telegram](img/favicons/t.me.png)](https://t.me/SysadminNotes) [![LinkedIn](img/favicons/linkedin.cn.png)](https://www.linkedin.com/in/sysadmin-pm)|
 |**[LINUX.ORG.RU](https://www.linux.org.ru/)**<br>[![RSS](img/favicons/rss.png)](https://www.linux.org.ru/section-rss.jsp?section=1)|Проект «LINUX.ORG.RU: Русская информация об ОС Linux» был основан в октябре 1998 года. Нашей целью является создание основного информационного ресурса об операционной системе Linux в России. Мы стараемся обеспечить возможность обмена различной Linux-ориентированной информацией, последними новостями, ссылками, документацией и другими ресурсами.|[Максим Валянский (maxcom)](https://valyanskiy.net/) [![GitHub](img/favicons/github.com.png)](https://github.com/maxcom) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UC02ozRTMDnJtdcVGGy2o87Q)|
 
-</details>
-
-<details open="open"><summary><a name="blogs-documentation"></a><b>Документация</b></summary><br>
+### **Документация** <a name="blogs-documentation"></a>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -760,9 +700,7 @@
 |**[Lana Teletype.in](https://teletype.in/@lananovikova)**|Дайджесты чата Docops с полезной информацией по документированию.|[Светлана Новикова](https://lananovikova.tech/) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/nerazzgadannaya/posts/) [![Telegram](img/favicons/t.me.png)](https://t.me/the_know_all)|
 |**[Learnapidoc-ru 2.0](https://starkovden.github.io/)**|Курс по документированию API. Вольный перевод курса [Documenting APIs: a guide for technical writers](https://idratherbewriting.com/learnapidoc/), составленного Томом Джонсоном, техническим писателем Amazon.|Tom Johnson<br>Переводчик: [![GitHub](img/favicons/github.com.png)](https://github.com/Starkovden)|
 
-</details>
-
-<details open="open"><summary><a name="blogs-common"></a><b>Общее</b></summary><br>
+### **Общее** <a name="blogs-common"></a>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -779,9 +717,7 @@
 |**[Metanit.com](https://metanit.com/)**|Курсы по программированию по различным языкам и технологиям программирования от METANIT.COM.|[![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/user/Eugene22584/)|
 |**[RSDN](http://rsdn.org/)**<br>[![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/rsdnorg) [![LinkedIn](img/favicons/linkedin.cn.png)](https://www.linkedin.com/company/121922) [![RSS](img/favicons/rss.png)](https://subscribe.ru/archive/comp.soft.prog.cpplink/index.rss)|RSDN создан программистами для программистов. Главная цель создателей сайта заключается в том, чтобы хоть как-то компенсировать нехватку материалов по программированию на русском языке. Сейчас в конференциях можно часто слышать, что "Кто не знает английского, тот не программист". Понимая чудовищную несправедливость такого положения вещей, мы и решили создать RSDN. Здесь вы найдёте статьи по самой различной тематике, ответы на вопросы, полезные утилиты, готовые компоненты и многое другое. К вашим услугам коллекция ссылок на другие сайты в Сети, которые могут вам пригодиться, перечень книг, журналов, рассылок, конференций и других ресурсов, посвящённых программированию. На нашем сайте вы сможете пообщаться с авторами статей или задать коллегам в одном из форумов трудный вопрос, на который вам непременно ответят.||
 
-</details>
-
-<details open="open"><summary><a name="blogs-patterns"></a><b>Паттерны</b></summary><br>
+### **Паттерны** <a name="blogs-patterns"></a>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -789,9 +725,7 @@
 |:-------|:-------|:--------------|
 |**[Рефакторинг.Гуру](https://refactoring.guru/ru)**<br>[![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/refactoring.guru/) [![GitHub](img/favicons/github.com.png)](https://github.com/RefactoringGuru)|Рефакторинг.Гуру посвящён тёмным материям программирования: рефакторингу, паттернам проектирования, принципам SOLID и другим важным темам из мира программирования.<br>Главная цель этого сайта — показать общую картину того, как все эти темы пересекаются, как работают вместе и насколько они до сих пор актуальны.|Александр Швец [![GitHub](img/favicons/github.com.png)](https://github.com/neochief) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/neochief/)|
 
-</details>
-
-<details open="open"><summary><a name="blogs-testing"></a><b>Тестирование</b></summary><br>
+### **Тестирование** <a name="blogs-testing"></a>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -803,9 +737,7 @@
 |**[OpenQuality.ru](http://blog.openquality.ru/)**<br>[![RSS](img/favicons/rss.png)](http://feeds2.feedburner.com/OpenQuality)|Цель проекта - способствовать улучшению качества программного обеспечения. Держать руку на пульсе событий, отслеживать тенденции в создании информационных систем и делиться практическим опытом внедрения новых технологий.|Юрий Кунивер|
 |**[Software-Testing.RU blogs](https://software-testing.ru/blogs)**<br>[![RSS](img/favicons/rss.png)](http://feeds.feedburner.com/RussianTestingBlogs50)|Проект Software-Testing.RU посвящён вопросам тестирования и повышения качества программного обеспечения. На нашем портале специалисты по тестированию смогут найти сотни тематических статей, подборку книг по тестированию, обзор новостей отрасли. В разделе Тренинги собрана информация об учебных курсах и тренингах по тестированию, конференциях и других мероприятиях проводимых в России и СНГ разными компаниями.|[![VK](img/favicons/vk.com.png)](http://vk.com/test_it) [![Twitter](img/favicons/twitter.com.png)](http://twitter.com/esteru) [![Facebook](img/favicons/facebook.com.png)](http://www.facebook.com/pages/Test-it/458857490853620)|
 
-</details>
-
-<details open="open"><summary><a name="blogs-dotnet"></a><b>.NET</b></summary><br>
+### **.NET** <a name="blogs-dotnet"></a>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -825,9 +757,7 @@
 |**[it-community.in.ua](https://it-community.in.ua/)**<br>[![RSS](img/favicons/rss.png)](https://it-community.in.ua/feed/)|Проект «ИТ сообщество Украины» основан в начале 2014 года c целью создания информационно-коммуникационного ресурса, на котором ИТ-специалисты разного уровня смогут получить актуальную информацию о различных продуктах, а также особенностях их конфигурирования.||
 |**[Wiki .NET сообществ в GitHub](https://github.com/AnatolyKulakov/SpbDotNet/wiki)**|Wiki в GitHub с записями встреч и презентациями русскоязычных .NET сообществ с наиболее полной информацией о них.|[Анатолий Кулаков](https://github.com/AnatolyKulakov/SpbDotNet/wiki/Anatoly-Kulakov) [![GitHub](img/favicons/github.com.png)](https://github.com/AnatolyKulakov) [![DotNet.ru](img/favicons/dotnet.ru.png)](https://dotnet.ru)|
 
-</details>
-
-<details open="open"><summary><a name="blogs-gamedev"></a><b>GameDev</b></summary><br>
+### **GameDev** <a name="blogs-gamedev"></a>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -852,9 +782,7 @@
 |**[Блог Ярослава Кравцова](http://leaden.ru)**<br>[![RSS](img/favicons/rss.png)](http://leaden.ru/language/ru/feed/)|Статьи о геймдизайне.|Ярослав Кравцов|
 |**[Манжеты гейм-дизайнера](https://gdcuffs.com)**<br>[![Twitter](img/favicons/twitter.com.png)](https://twitter.com/gdcuffs) [![VK](img/favicons/vk.com.png)](https://vk.com/gdcuffs) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/GDcuffs/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UC1GkZH9zMTF4T4n8gO8m1hQ) [![Telegram](img/favicons/t.me.png)](https://telegram.me/gdcuffs) [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/officialgdcuffs/)|Манжеты гейм-дизайнера — профессиональный блог об игровой индустрии и гейм-дизайне в частности.|Ник Филатов<br>Владимир Ковтун<br>Артём волков<br>Сергей Гимельрейх<br>Алексей Корогодин<br>Алёна Пономаренко<br>Барисби Алборов<br>Григорий Чопоров<br>Антон Токарев|
 
-</details>
-
-<details open="open"><summary><a name="blogs-go"></a><b>Go</b></summary><br>
+### **Go** <a name="blogs-go"></a>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -862,9 +790,7 @@
 |:-------|:-------|:--------------|
 |**[4gophers](https://4gophers.ru/)**<br>[![VK](img/favicons/vk.com.png)](https://vk.com/golang) [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/4gophers) [![Telegram](img/favicons/t.me.png)](https://t.me/gophernews) [![Slack](img/favicons/slack.png)](http://slack.golang-ru.com/) [![RSS](img/favicons/rss.png)](https://4gophers.ru/articles/index.xml)|Блог по языку программирования Go/Golang.||
 
-</details>
-
-<details open="open"><summary><a name="blogs-java"></a><b>Java</b></summary><br>
+### **Java** <a name="blogs-java"></a>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -873,17 +799,13 @@
 |**[miniJUG](https://minijug.ru/)**<br>[![VK](img/favicons/vk.com.png)](https://vk.com/minijug) [![Telegram](img/favicons/t.me.png)](https://tlg.name/miniJUG)|Новости из мира Java.||
 |**[Блог Виктора Орловского](https://viclovsky.github.io)**|Я занимаюсь автоматизацией тестирования с лета 2013 года в компании Яндекс. За это время прошел огонь, воду и медные трубы тяжелый путь от “практиканта”, работающего 10 часов в неделю до полноценного инженера по автоматизации тестирования. Я успел позаниматься множеством проектов для тестирования REST API, gRPC сервисов, а также сервисов, использующих протоколы прикладного уровня IMAP/POP3, web интерфейсов и мобильных приложений. Немного поработал devops-ом и даже разработчиков tools-ов для тестирования.|Виктор Орловский [![GitHub](img/favicons/github.com.png)](https://github.com/viclovsky) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/viclovsky/)|
 
-</details>
-
-<details open="open"><summary><a name="blogs-python"></a><b>Python</b></summary><br>
+### **Python** <a name="blogs-python"></a>
 
 <sup>[Содержание](#содержание)</sup>
 
 |Название|Описание|Автор/Создатель|
 |:-------|:-------|:--------------|
 |**[Блог Антона Жиянова](https://antonz.ru/)**<br> [![Telegram](img/favicons/t.me.png)](https://t.me/ohmypy) [![RSS](img/favicons/rss.png)](https://antonz.ru/rss/)|Личный блог Антона Жиянова о Python и разработке продуктов.|Антон Жиянов|
-
-</details>
 
 ---
 
