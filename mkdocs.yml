@@ -1,0 +1,46 @@
+site_name: Awesome Russian IT
+site_url: https://awesomeit.ru
+site_description: 'Список полезных русскоязычных ресурсов, связанных с информационными технологиями (разработка, администрирование, митапы и конференции, интервью, новости ИТ и пр.)'
+site_author: Chebotov Nikolay (Unchase)
+repo_name: unchase/awesome-russian-it
+repo_url: https://github.com/unchase/awesome-russian-it
+edit_uri: ""
+nav:
+    - События: index.md
+    - Подкасты: Podcasts.md
+    - YouTube-каналы: YouTube.md
+    - Contributing: CONTRIBUTING.md
+theme:
+  name: 'material'
+  favicon: img/favicon.ico
+  palette:
+    primary: light blue
+  language: ru
+  features:
+    - search.suggest
+    - search.highlight
+    - search.share
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.expand
+    - navigation.top
+    - toc.integrate
+plugins:
+  - search:
+      lang:
+        - en
+        - ru
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/opera
+      link: https://unchase.ru/
+      name: Основной сайт
+    - icon: fontawesome/brands/github
+      link: https://github.com/unchase
+    - icon: fontawesome/brands/medium
+      link: https://medium.com/@unchase
+    - icon: fontawesome/brands/dev
+      link: https://dev.to/unchase
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/unchase12

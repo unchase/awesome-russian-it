@@ -1,0 +1,13 @@
+[build]
+  publish = "site"
+  command = """
+mkdir -p docs/
+mkdir -p img/favicons/
+mkdir -p img/contributors/
+ln -sf $(pwd)/README.md $(pwd)/docs/index.md
+ln -sf $(pwd)/img $(pwd)/docs/img
+ln -sf $(pwd)/YouTube.md $(pwd)/docs/YouTube.md
+ln -sf $(pwd)/Podcasts.md $(pwd)/docs/Podcasts.md
+ln -sf $(pwd)/CONTRIBUTING.md $(pwd)/docs/CONTRIBUTING.md
+mkdocs build
+"""
