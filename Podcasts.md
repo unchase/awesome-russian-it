@@ -41,7 +41,7 @@
 
 > Список русскоязычных подкастов для инженеров и разработчиков сферы ИТ.
 
-<details open="open"><summary><a name="podcasts-administrating"></a><b>Администрирование</b></summary><br>
+### **Администрирование** <a name="podcasts-administrating"></a>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -56,9 +56,7 @@
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1065445951" class="episodes" hashtag="linkmeup">234 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1065445951" class="release-date">06.05.2021 11:45</span>|
 
-</details>
-
-<details open="open"><summary><a name="podcasts-blockchain"></a><b>Блокчейн</b></summary><br>
+### **Блокчейн** <a name="podcasts-blockchain"></a>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -99,9 +97,7 @@
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1485575312" class="episodes" hashtag="forklog">4 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1485575312" class="release-date">21.04.2020 10:35</span>|
 
-</details>
-
-<details open="open"><summary><a name="podcasts-security"></a><b>ИТ-безопасность</b></summary><br>
+### **ИТ-безопасность** <a name="podcasts-security"></a>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -165,9 +161,7 @@
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="448433787" class="episodes" hashtag="securit13">125 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="448433787" class="release-date">31.12.2018 19:02</span>|
 
-</details>
-
-<details open="open"><summary><a name="podcasts-common"></a><b>Общее</b></summary><br>
+### **Общее** <a name="podcasts-common"></a>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -2091,9 +2085,7 @@
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1068329384" class="episodes" hashtag="zavtracast">264 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1068329384" class="release-date">22.04.2021 15:27</span>|
 
-</details>
-
-<details open="open"><summary><a name="podcasts-design"></a><b>Продуктовый дизайн</b></summary><br>
+### **Продуктовый дизайн** <a name="podcasts-design"></a>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -2134,9 +2126,7 @@
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1524320760" class="episodes" hashtag="USABILITYLAB">16 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1524320760" class="release-date">29.11.2020 17:20</span>|
 
-</details>
-
-<details open="open"><summary><a name="podcasts-development"></a><b>Разработка</b></summary><br>
+### **Разработка** <a name="podcasts-development"></a>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -2203,7 +2193,7 @@
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1501041559" class="episodes" hashtag="z_namespace">14 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1501041559" class="release-date">11.04.2021 22:07</span>|
 
-<details open="open"><summary><a name="podcasts-development-dotnet"></a><b>&nbsp;&nbsp;&nbsp;&nbsp;.NET</b></summary><br>
+##### **.NET** <a name="podcasts-development-dotnet"></a>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -2254,9 +2244,7 @@
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="730081104" class="episodes" hashtag="soloonnet">65 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="730081104" class="release-date">20.11.2020 14:43</span>|
 
-</details>
-
-<details open="open"><summary><a name="podcasts-development-php"></a><b>&nbsp;&nbsp;&nbsp;&nbsp;PHP</b></summary><br>
+##### **PHP** <a name="podcasts-development-php"></a>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -2284,9 +2272,7 @@
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="996423650" class="episodes" hashtag="5minphp">89 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="996423650" class="release-date">23.04.2021 03:00</span>|
 
-</details>
-
-<details open="open"><summary><a name="podcasts-development-python"></a><b>&nbsp;&nbsp;&nbsp;&nbsp;Python</b></summary><br>
+##### **Python** <a name="podcasts-development-python"></a>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -2301,9 +2287,7 @@
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1429543935" class="episodes" hashtag="moscowpython">108 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1429543935" class="release-date">26.04.2021 17:55</span>|
 
-</details>
-
-<details open="open"><summary><a name="podcasts-development-ruby"></a><b>&nbsp;&nbsp;&nbsp;&nbsp;Ruby</b></summary><br>
+##### **Ruby** <a name="podcasts-development-ruby"></a>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -2318,9 +2302,7 @@
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="597248066" class="episodes" hashtag="rwpod">50 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="597248066" class="release-date">04.05.2021 00:00</span>|
 
-</details>
-
-<details open="open"><summary><a name="podcasts-development-scala"></a><b>&nbsp;&nbsp;&nbsp;&nbsp;Scala</b></summary><br>
+##### **Scala** <a name="podcasts-development-scala"></a>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -2335,9 +2317,7 @@
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1156356598" class="episodes" hashtag="ScalalazPodcast">101 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1156356598" class="release-date">11.04.2021 03:00</span>|
 
-</details>
-
-<details open="open"><summary><a name="podcasts-development-web"></a><b>&nbsp;&nbsp;Веб-разработка</b></summary><br>
+#### **Веб-разработка** <a name="podcasts-development-web"></a>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -2517,9 +2497,7 @@
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1475405773" class="episodes" hashtag="underjs">31 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1475405773" class="release-date">28.04.2021 10:00</span>|
 
-</details>
-
-<details open="open"><summary><a name="podcasts-development-mobile"></a><b>&nbsp;&nbsp;Мобильная разработка</b></summary><br>
+#### **Мобильная разработка** <a name="podcasts-development-mobile"></a>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -2596,7 +2574,7 @@
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1457942497" class="episodes" hashtag="mobilepeopletalks">33 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1457942497" class="release-date">10.04.2021 10:59</span>|
 
-<details open="open"><summary><a name="podcasts-development-mobile-android"></a><b>&nbsp;&nbsp;&nbsp;&nbsp;Android</b></summary><br>
+##### **Android** <a name="podcasts-development-mobile-android"></a>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -2637,11 +2615,7 @@
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1057019371" class="episodes" hashtag="droidercast">112 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1057019371" class="release-date">16.04.2021 20:40</span>|
 
-</details>
-
-</details>
-
-<details open="open"><summary><a name="podcasts-development-gamedev"></a><b>&nbsp;&nbsp;Разработка игр</b></summary><br>
+#### **Разработка игр** <a name="podcasts-development-gamedev"></a>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -2871,11 +2845,7 @@
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1457864181" class="episodes" hashtag="thebatya_talk">45 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1457864181" class="release-date">29.04.2021 17:18</span>|
 
-</details>
-
-</details>
-
-<details open="open"><summary><a name="podcasts-testing"></a><b>Тестирование</b></summary><br>
+### **Тестирование** <a name="podcasts-testing"></a>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -2923,9 +2893,7 @@
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1350668092" class="episodes" hashtag="qaguild">2 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1350668092" class="release-date">26.04.2021 09:29</span>|
 
-</details>
-
-<details open="open"><summary><a name="podcasts-bigdata"></a><b>BigData</b></summary><br>
+### **BigData** <a name="podcasts-bigdata"></a>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -2940,9 +2908,7 @@
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1492565320" class="episodes" hashtag="Большая_Дата">14 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1492565320" class="release-date">28.12.2020 13:05</span>|
 
-</details>
-
-<details open="open"><summary><a name="podcasts-devops"></a><b>DevOps</b></summary><br>
+### **DevOps** <a name="podcasts-devops"></a>
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -2969,8 +2935,6 @@
 |**Длительность** |80-120 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1502639464" class="episodes" hashtag="devopskitchentalks">22 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1502639464" class="release-date">05.05.2021 01:34</span>|
-
-</details>
 
 ---
 
