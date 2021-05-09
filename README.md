@@ -799,6 +799,7 @@
 |Название|Описание|Автор/Создатель|
 |:-------|:-------|:--------------|
 |**[Блог Антона Жиянова](https://antonz.ru/)**<br> [![Telegram](img/favicons/t.me.png)](https://t.me/ohmypy) [![RSS](img/favicons/rss.png)](https://antonz.ru/rss/)|Личный блог Антона Жиянова о Python и разработке продуктов.|Антон Жиянов|
+|**[Питонические атаки](https://semakin.dev/)**<br>[![RSS](img/favicons/rss.png)]()|Про разработку в целом и про Python в частности.|Андрей Семакин [![GitHub](img/favicons/github.com.png)](https://github.com/and-semakin) [![Telegram](img/favicons/t.me.png)](https://t.me/andsemakin)|
 
 ---
 
