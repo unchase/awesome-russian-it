@@ -5,6 +5,9 @@ site_author: Chebotov Nikolay (Unchase)
 repo_name: unchase/awesome-russian-it
 repo_url: https://github.com/unchase/awesome-russian-it
 edit_uri: ""
+google_analytics:
+  - UA-124134438-2
+  - auto
 nav:
     - События: index.md
     - Подкасты: Podcasts.md
