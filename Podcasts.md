@@ -10,6 +10,7 @@
 
 * [Администрирование](#podcasts-administrating)
 * [Блокчейн](#podcasts-blockchain)
+* [Инвестирование](#podcasts-invest)
 * [ИТ-безопасность](#podcasts-security)
 * [Общее](#podcasts-common)
 * [Продуктовый дизайн](#podcasts-design)
@@ -90,6 +91,21 @@
 |**Длительность** |40-50 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1485575312" class="episodes" hashtag="forklog">4 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1485575312" class="release-date">21.04.2020 10:35</span>|
+
+### **Инвестирование** <a name="podcasts-invest"></a
+
+<sup>[Содержание](#содержание)</sup>
+
+|Название         |На пенсию в 35 лет!|
+|:----------------|:------------------|
+|**Логотип**      |<span itunes-id="1556322514" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/на-пенсию-в-35-лет/id1556322514) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80ZTJmOWNlMC9wb2RjYXN0L3Jzcw==) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCtm9C6yxtvPagXFGtaJuWag) • [![Telegram](img/favicons/t.me.png)](https://t.me/pensiya35) • [![Instagram](img/favicons/instagram.com.png)](https://instagram.com/pensiya35) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/14174569) • [![RSS](img/favicons/rss.png)](https://anchor.fm/s/4e2f9ce0/podcast/rss)|
+|**Описание**     |В 35 лет мои доходы от инвестиций превысили расходы. И я вышел на пенсию. В этом подкасте я расскажу как мне это удалось.|
+|**Ведущие**      |Бабайкин|
+|**Регулярность** |Еженедельно|
+|**Длительность** |20-30 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1556322514" class="episodes" hashtag=""></span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1556322514" class="release-date"></span>|
 
 ### **ИТ-безопасность** <a name="podcasts-security"></a>
 
