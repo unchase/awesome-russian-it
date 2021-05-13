@@ -15,6 +15,7 @@ nav:
     - Contributing: CONTRIBUTING.md
 theme:
   name: 'material'
+  custom_dir: overrides
   favicon: img/favicon.ico
   palette:
     primary: light blue
