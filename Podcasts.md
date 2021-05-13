@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">12.05.2021 20:37</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">13.05.2021 08:16</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -261,7 +261,7 @@
 |**Ведущие**      |Сергей Козырев [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/taksebe/)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |~70 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1399902281" class="episodes" hashtag="toinfinity_podcast">70 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1399902281" class="episodes" hashtag="toinfinity_podcast">70 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1399902281" class="release-date">07.05.2021 16:31</span>|
 
 ---
@@ -444,7 +444,7 @@
 
 |Название         |Ивент Кухня|
 |:----------------|:----------|
-|**Логотип**      |<span itunes-id="1120110650" class="itunes-img"><img height="100" width="100" src="https://is5-ssl.mzstatic.com/image/thumb/Podcasts114/v4/fd/88/73/fd88732f-d835-4cf6-2a95-148bcb6012f4/mza_13361025273744265343.jpg/600x600bb.jpg"></span>|
+|**Логотип**      |<span itunes-id="1120110650" class="itunes-img"><img height="100" width="100" src="https://is3-ssl.mzstatic.com/image/thumb/Podcasts115/v4/64/48/86/644886d9-f478-3b94-1c58-4368e778beb2/mza_2116882973062822757.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/podcast/id1120110650) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/ivent-kuhnya/) • [![Podster](img/favicons/podster.fm.png)](https://eve.podster.fm/) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/%D0%98%D0%B2%D0%B5%D0%BD%D1%82-%D0%9A%D1%83%D1%85%D0%BD%D1%8F-id408013?country=ru) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/ivent-kukhnya) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcasts-131866267) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/pg/ipo.event/posts/) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/7045367) • [![RSS](img/favicons/rss.png)](https://podster.fm/rss.xml?pid=35648)|
 |**Описание**     |Подкаст будет интересен как начинающим, так и опытным организаторам мероприятий, PR и SMM-специалистам, продвигающим события и всем, кто хочет разобраться в особенностях рекламирования и организации ивентов.|
 |**Ведущие**      |Илья Верязов|
@@ -631,7 +631,7 @@
 
 |Название         |[Новый подкаст (2)_после правок.final.doc](https://newpodcast2.live)|
 |:----------------|:-------------------------------------------------------------------|
-|**Логотип**      |<span itunes-id="1524851032" class="itunes-img"><img height="100" width="100" src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/da/4f/19/da4f198c-dabd-700b-86bd-fbd592a615ba/mza_18343921228452720431.png/600x600bb.jpg"></span>|
+|**Логотип**      |<span itunes-id="1524851032" class="itunes-img"><img height="100" width="100" src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/05/a8/f7/05a8f76f-df11-bea7-855e-8a040f8fca87/mza_8489212975598392935.png/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/новый-подкаст-2-после-правок-final-doc/id1524851032) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cHM6Ly9uZXdwb2RjYXN0Mi5saXZlL2ZlZWQvcG9kY2FzdC9uZXdwb3BkY2FzdDI) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/2763859) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCbNI0Ol-IsydlRfrKWDhBrg) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/newpodcast2) • [![Telegram](img/favicons/t.me.png)](https://t.me/newpodcast2) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/11575744)|
 |**Описание**     |Подкаст про тежнологии, и мир, их окружающий.|
 |**Ведущие**      |Паша Финкельштейн [![GitHub](img/favicons/github.com.png)](https://github.com/asm0dey)<br>Слава Артемьев [![GitHub](img/favicons/github.com.png)](https://github.com/viartemev)<br>Барух Садогурский [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/jbaruch/) [![Medium](img/favicons/medium.com.png)](https://medium.com/@jbaruch) [![dev.to](img/favicons/dev.to.png)](https://dev.to/jbaruch) [![GitHub](img/favicons/github.com.png)](https://github.com/jbaruch)<br>Игорь Мосягин [![GitHub](img/favicons/github.com.png)](https://github.com/shrimpsizemoose)<br>Саша Коэн [![GitHub](img/favicons/github.com.png)](https://github.com/alvcohen)<br>Владимир Иванов [![GitHub](img/favicons/github.com.png)](https://github.com/vlivanov)<br>Виктор Вербицкий [![GitHub](img/favicons/github.com.png)](https://github.com/vektory79)<br>Дарья Пронина [![GitHub](img/favicons/github.com.png)](https://github.com/Daryaggg)<br>Ольга Макасоева [![GitHub](img/favicons/github.com.png)](https://github.com/oli-kitty)|
@@ -839,7 +839,7 @@
 
 |Название         |[Радиома](http://radioma.org/)|
 |:----------------|:-----------------------------|
-|**Логотип**      |<span itunes-id="526797445" class="itunes-img"><img height="100" width="100" src="https://is2-ssl.mzstatic.com/image/thumb/Podcasts113/v4/6d/a9/4f/6da94f51-bd3c-1ed0-1868-9afb9fef3188/mza_5915827143562791368.png/600x600bb.jpg"></span>|
+|**Логотип**      |<span itunes-id="526797445" class="itunes-img"><img height="100" width="100" src="https://is3-ssl.mzstatic.com/image/thumb/Podcasts125/v4/74/3b/ee/743beebc-20a6-d6b3-ce18-4a032a6ec3bb/mza_4805135003901443875.png/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/us/podcast/развлекательный-it-подкаст-радиома/id526797445) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/radioma/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/it-34281) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/id45262?country=ru) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/radioma) • [![Podster](img/favicons/podster.fm.png)](https://radioma.podster.fm/) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/playlist?list=PLzbMmO3E6j8C0-mL9cYK9XnIqACwMnnz6) • [![VK](img/favicons/vk.com.png)](https://vk.com/radiomaorg) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/radioma_org) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/radioma.org) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.com/album/6880183) • [![Yandex Zen](img/favicons/zen.yandex.ru.png)](https://zen.yandex.ru/radioma) • [![RSS](img/favicons/rss.png)](http://feeds.feedburner.com/It-Radioma)|
 |**Описание**     |Еженедельный развлекательный IT-подкаст, посвященный теме компьютеров и около компьютерной тематике.|
 |**Ведущие**      |Андрей Зарубин [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCee46i97QF7hcmuuM-XFwkg)<br>Сергей Карташов<br>Роман Мылицын [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/mylitsyn)<br>Екатерина Николаева|
@@ -936,7 +936,7 @@
 |**Ведущие**      |Вахтанг Махарадзе|
 |**Регулярность** |Ежедневно|
 |**Длительность** |5-10 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="episodes" hashtag="strana_tranzistoriia">1149 (<font color="red">0</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="episodes" hashtag="strana_tranzistoriia">1150 (<font color="green">+1</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="release-date">29.04.2021 14:30</span>|
 
 ---
@@ -1053,8 +1053,8 @@
 |**Ведущие**      |[Лев Пикалёв](http://levpikalev.com/)|
 |**Регулярность** |Раз в две недели|
 |**Длительность** |30-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1443781654" class="episodes" hashtag="khantflou_insight">52 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1443781654" class="release-date">28.04.2021 17:47</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1443781654" class="episodes" hashtag="khantflou_insight">53 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1443781654" class="release-date">12.05.2021 22:03</span>|
 
 ---
 
@@ -1131,14 +1131,14 @@
 |**Ведущие**      ||
 |**Регулярность** |Еженедельно|
 |**Длительность** |40-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1563444550" class="episodes" hashtag="reading-together">5 (<font color="red">0</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1563444550" class="episodes" hashtag="reading-together">6 (<font color="green">+1</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1563444550" class="release-date">15.04.2021 20:00</span>|
 
 ---
 
 |Название         |Шорткод|
 |:----------------|:------|
-|**Логотип**      |<span itunes-id="1517632257" class="itunes-img"><img height="100" width="100" src="https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/49/b2/f3/49b2f328-8f45-fcde-40b2-d96aa858ce9f/mza_16289974168297667005.jpg/600x600bb.jpg"></span>|
+|**Логотип**      |<span itunes-id="1517632257" class="itunes-img"><img height="100" width="100" src="https://is2-ssl.mzstatic.com/image/thumb/Podcasts125/v4/96/ed/32/96ed32bf-728a-8fdc-83c0-7de3f8dca532/mza_1241133598193761811.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Anchor](img/favicons/anchor.fm.png)](https://anchor.fm/shortcode) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/шорткод/id1517632257) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8yNDdhMTY2NC9wb2RjYXN0L3Jzcw==) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/Шорткод-id2986227?country=us) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/11022487) • [![RSS](img/favicons/rss.png)](https://anchor.fm/s/247a1664/podcast/rss)|
 |**Описание**     |Новости технологий: коротко, душевно, каждый день.|
 |**Ведущие**      ||
@@ -1170,7 +1170,7 @@
 |**Ведущие**      |Андрей Барышников [![GitHub](img/favicons/github.com.png)](https://github.com/BilberryMuffin)<br>Сергей Епихин<br>Антон Поздняков|
 |**Регулярность** |Еженедельно|
 |**Длительность** |70-120 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="868222886" class="episodes" hashtag="beardycast">482 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="868222886" class="episodes" hashtag="beardycast">482 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="868222886" class="release-date">05.05.2021 15:53</span>|
 
 ---
@@ -1545,8 +1545,8 @@
 |**Ведущие**      |Павел Калашников [![GitHub](img/favicons/github.com.png)](https://github.com/kalashnikovisme) [![VK](img/favicons/vk.com.png)](https://vk.com/kalashnikovisme) [![Facebook](img/favicons/facebook.com.png)](https://facebook.com/kalashnikovisme)<br>Наталья Мусина [![VK](img/favicons/vk.com.png)](https://vk.com/wolffyj) [![Facebook](img/favicons/facebook.com.png)](https://facebook.com/wolffyj)<br>Елизавета Сарычева [![VK](img/favicons/vk.com.png)](https://vk.com/lisa_sarycheva) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/profile.php?id=100001762322638)<br>Дмитрий Николаев [![GitHub](img/favicons/github.com.png)](https://github.com/BooSt163)
 |**Регулярность** |Еженедельно|
 |**Длительность** |30-110 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1490305221" class="episodes" hashtag="itway">70 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1490305221" class="release-date">01.05.2021 13:54</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1490305221" class="episodes" hashtag="itway">71 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1490305221" class="release-date">13.05.2021 00:40</span>|
 
 ---
 
@@ -1731,7 +1731,7 @@
 
 |Название         |Machine Learning Podcast|
 |:----------------|:-----------------------|
-|**Логотип**      |<span itunes-id="1495052772" class="itunes-img"><img height="100" width="100" src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/d8/65/24/d865241b-aa6a-c249-c1e8-266549f68cdb/mza_9437427861064767076.jpg/600x600bb.jpg"></span>|
+|**Логотип**      |<span itunes-id="1495052772" class="itunes-img"><img height="100" width="100" src="https://is2-ssl.mzstatic.com/image/thumb/Podcasts125/v4/ea/4e/24/ea4e2458-da01-24d2-dcba-530e35ff53b8/mza_4826253999076735253.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Anchor](img/favicons/anchor.fm.png)](https://anchor.fm/kmsrus) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/machine-learning-podcast/id1495052772) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8xMjU4NGM1OC9wb2RjYXN0L3Jzcw==) • [![Telegram](img/favicons/t.me.png)](https://t.me/toBeAnMLspecialist) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/9781458) • [![RSS](img/favicons/rss.png)](https://anchor.fm/s/12584c58/podcast/rss)|
 |**Описание**     |Это подкаст о машинном обучении от неспециалиста для неспециалистов. Буду рассказывать о развитии индустрии, проводить ликбез, объяснять терминологию и профессиональные жаргонизмы. Я сам не так давно начал погружаться в эту тему и по мере своего развития буду делиться своим пониманием этой интересной и перспективной области знаний.|
 |**Ведущие**      |Михаил|
@@ -1750,8 +1750,8 @@
 |**Ведущие**      |Юрий Агеев|
 |**Регулярность** |Еженедельно|
 |**Длительность** |40-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1417851966" class="episodes" hashtag="productsense">144 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1417851966" class="release-date">05.05.2021 23:59</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1417851966" class="episodes" hashtag="productsense">145 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1417851966" class="release-date">12.05.2021 23:59</span>|
 
 ---
 
@@ -1835,14 +1835,14 @@
 
 |Название         |[Project Talks](https://taplink.cc/maria_popova)|
 |:----------------|:-----------------------------------------------|
-|**Логотип**      |<span itunes-id="1527860527" class="itunes-img"><img height="100" width="100" src="https://is4-ssl.mzstatic.com/image/thumb/Podcasts114/v4/40/16/f2/4016f296-2b75-b214-d7f6-94296d652c8e/mza_5624244783414516441.jpg/600x600bb.jpg"></span>|
+|**Логотип**      |<span itunes-id="1527860527" class="itunes-img"><img height="100" width="100" src="https://is3-ssl.mzstatic.com/image/thumb/Podcasts125/v4/61/bc/20/61bc200e-0b6a-b2c9-01f7-70b2c70a0401/mza_349665375497963199.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/popova-masha) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/us/podcast/project-talks/id1527860527) • [![Telegram](img/favicons/t.me.png)](https://t.me/project_talks) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/11801153) • [![RSS](img/favicons/rss.png)](https://feeds.soundcloud.com/users/soundcloud:users:866610733/sounds.rss)|
 |**Описание**     |Привет, меня зовут Маша Попова. Я запускаю IT проекты в Skyeng.|
 |**Ведущие**      |Мария Попова|
 |**Регулярность** |Еженедельно|
 |**Длительность** |30-70 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1527860527" class="episodes" hashtag="ProjectTalks">13 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1527860527" class="release-date">17.04.2021 15:11</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1527860527" class="episodes" hashtag="ProjectTalks">14 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1527860527" class="release-date">12.05.2021 22:44</span>|
 
 ---
 
@@ -1893,7 +1893,7 @@
 |**Ведущие**      |Алексей Ткачук|
 |**Регулярность** |Ежедневно|
 |**Длительность** |20-25 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1494018535" class="episodes" hashtag="rotam">398 (<font color="red">0</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1494018535" class="episodes" hashtag="rotam">399 (<font color="green">+1</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1494018535" class="release-date">28.04.2021 01:16</span>|
 
 ---
@@ -1945,8 +1945,8 @@
 |**Ведущие**      |Никита Щербаков|
 |**Регулярность** ||
 |**Длительность** |~45 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1552186929" class="episodes" hashtag="SbergileTalks">4 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1552186929" class="release-date">06.04.2021 01:38</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1552186929" class="episodes" hashtag="SbergileTalks">5 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1552186929" class="release-date">12.05.2021 18:37</span>|
 
 ---
 
@@ -2187,8 +2187,8 @@
 |**Ведущие**      |Дмитрий Балыхин|
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |30-120 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1498075914" class="episodes" hashtag="javaswag">20 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1498075914" class="release-date">23.04.2021 16:52</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1498075914" class="episodes" hashtag="javaswag">21 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1498075914" class="release-date">12.05.2021 15:20</span>|
 
 ---
 
@@ -2754,8 +2754,8 @@
 |**Ведущие**      |Дмитрий Борисов<br>Артемий Леонов|
 |**Регулярность** |Еженедельно|
 |**Длительность** |80-120 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1506185868" class="episodes" hashtag="xyz">48 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1506185868" class="release-date">07.05.2021 14:47</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1506185868" class="episodes" hashtag="xyz">49 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1506185868" class="release-date">12.05.2021 13:41</span>|
 
 ---
 
