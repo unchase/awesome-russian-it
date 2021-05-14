@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">14.05.2021 08:15</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">14.05.2021 12:08</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -104,7 +104,7 @@
 |**Ведущие**      |Бабайкин|
 |**Регулярность** |Еженедельно|
 |**Длительность** |20-30 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1556322514" class="episodes" hashtag="">11 (<font color="red">0</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1556322514" class="episodes" hashtag="">10 (<font color="red">-1</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1556322514" class="release-date">07.05.2021 14:00</span>|
 
 ### **ИТ-безопасность** <a name="podcasts-security"></a>
@@ -294,7 +294,7 @@
 
 |Название         |[Войти в IT](https://academy.yandex.ru/)|
 |:----------------|:---------------------------------------|
-|**Логотип**      |<span itunes-id="1492086611" class="itunes-img"><img height="100" width="100" src="https://is3-ssl.mzstatic.com/image/thumb/Podcasts123/v4/7f/46/04/7f460415-a93c-e74c-c2d0-63ca3a01425e/mza_12852593238335985719.jpg/600x600bb.jpg"></span>|
+|**Логотип**      |<span itunes-id="1492086611" class="itunes-img"><img height="100" width="100" src="https://is5-ssl.mzstatic.com/image/thumb/Podcasts125/v4/28/7c/42/287c42f8-eef2-5e13-c4a6-13e31db6b6aa/mza_18230559341080667091.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/%D0%B2%D0%BE%D0%B9%D1%82%D0%B8-%D0%B2-it/id1492086611) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCTUyoZMfksbNIHfWJjwr5aQ) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcasts-84793390) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/academy.yandex) • [![Telegram](img/favicons/t.me.png)](https://t.me/YandexAcademy) • [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/yandex.academy/)|
 |**Описание**     |Первый подкаст Академии Яндекса о молодых специалистах в IT, в котором сотрудники Яндекса с необычным бэкграундом рассказывают о том, как стали разработчиками, датасаентистами, менеджерами или дизайнерами.|
 |**Ведущие**      |Стася|
@@ -346,7 +346,7 @@
 
 |Название         |Горячий #tceh|
 |:----------------|:------------|
-|**Логотип**      |<span itunes-id="1492765073" class="itunes-img"><img height="100" width="100" src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts124/v4/27/e4/12/27e412dd-6ddc-e981-9e85-8b0f0d8d4fde/mza_4278357008476635529.jpg/600x600bb.jpg"></span>|
+|**Логотип**      |<span itunes-id="1492765073" class="itunes-img"><img height="100" width="100" src="https://is2-ssl.mzstatic.com/image/thumb/Podcasts115/v4/09/08/83/0908833b-9fc3-6a08-3def-8a92396768b4/mza_18209356357321557616.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/горячий-tceh/id1492765073) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/Горячий-tceh-id2520882?country=ru) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcast-73842245_456239023) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/9520849)|
 |**Описание**     |Подкаст об инновациях, технологиях и предпринимательстве.|
 |**Ведущие**      |Екатерина<br>Наталья|
@@ -398,14 +398,14 @@
 |**Ведущие**      |Дмитрий Суховаров|
 |**Регулярность** |Ежедневно|
 |**Длительность** |10-20 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1492900770" class="episodes" hashtag="dsuhovarov">232 (<font color="red">-1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1492900770" class="release-date">12.05.2021 13:34</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1492900770" class="episodes" hashtag="dsuhovarov">233 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1492900770" class="release-date">13.05.2021 15:48</span>|
 
 ---
 
 |Название         |[Еженедельный подкаст от Umputun](https://podcast.umputun.com/)|
 |:----------------|:--------------------------------------------------------------|
-|**Логотип**      |<span itunes-id="77546991" class="itunes-img"><img height="100" width="100" src="https://is3-ssl.mzstatic.com/image/thumb/Podcasts123/v4/da/c8/89/dac889a9-78b3-4697-cd87-29334146318a/mza_8878081095061371573.jpg/600x600bb.jpg"></span>|
+|**Логотип**      |<span itunes-id="77546991" class="itunes-img"><img height="100" width="100" src="https://is5-ssl.mzstatic.com/image/thumb/Podcasts115/v4/b0/2c/24/b02c247c-ef5a-2a56-6088-e26c2dfb8256/mza_14286274093415230689.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/podcast/uwp-e%D0%B6%D0%B5%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D0%BF%D0%BE%D0%B4%D0%BA%D0%B0%D1%81%D1%82-%D0%BE%D1%82-umputun/id77546991) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/uwp-podkast-ot-umputun/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/umputun-1427926) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/UWP-E%D0%B6%D0%B5%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D0%BF%D0%BE%D0%B4%D0%BA%D0%B0%D1%81%D1%82-%D0%BE%D1%82-Umputun-id7689?country=us) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/uwp-podkast-ot-umputun) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCKLP9z6_KJi3YSr3FlrR79Q) • [![Telegram](img/favicons/t.me.png)](https://t.me/uwp_podcast) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/6891839?from=serp) • [![RSS](img/favicons/rss.png)](http://feeds.rucast.net/Umputun)|
 |**Описание**     |Невыдуманные рассказы из моей жизни в Чикаго (и не только), различные рассуждения и наблюдения, немного компьютерных разговоров, совсем чуть-чуть политики и порой немного юмора.<br>Мои подкасты под кодовым названием UWP рассчитаны на довольно широкий круг слушателей которым это все любопытно. Под термином “это все” я понимаю мои еженедельные разговоры о происходящем вокруг, разговор с вами (ответы на комментарии и письма) и прочее в том же духе. Никаких специальных знаний для того, чтоб понять о чем тут разговоры вам не надо. Если встречается некая профессиональная специфика в рассказе, то я стараюсь пояснять доступно и порой на пальцах.|
 |**Ведущие**      |[Евгений Борт (umputun)](http://www.umputun.com/) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/umputun/) [![GitHub](img/favicons/github.com.png)](https://github.com/umputun) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/user/umputun)|
@@ -637,14 +637,14 @@
 |**Ведущие**      |Паша Финкельштейн [![GitHub](img/favicons/github.com.png)](https://github.com/asm0dey)<br>Слава Артемьев [![GitHub](img/favicons/github.com.png)](https://github.com/viartemev)<br>Барух Садогурский [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/jbaruch/) [![Medium](img/favicons/medium.com.png)](https://medium.com/@jbaruch) [![dev.to](img/favicons/dev.to.png)](https://dev.to/jbaruch) [![GitHub](img/favicons/github.com.png)](https://github.com/jbaruch)<br>Игорь Мосягин [![GitHub](img/favicons/github.com.png)](https://github.com/shrimpsizemoose)<br>Саша Коэн [![GitHub](img/favicons/github.com.png)](https://github.com/alvcohen)<br>Владимир Иванов [![GitHub](img/favicons/github.com.png)](https://github.com/vlivanov)<br>Виктор Вербицкий [![GitHub](img/favicons/github.com.png)](https://github.com/vektory79)<br>Дарья Пронина [![GitHub](img/favicons/github.com.png)](https://github.com/Daryaggg)<br>Ольга Макасоева [![GitHub](img/favicons/github.com.png)](https://github.com/oli-kitty)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |80-90 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1524851032" class="episodes" hashtag="final.doc">38 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1524851032" class="episodes" hashtag="final.doc">38 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1524851032" class="release-date">13.05.2021 21:03</span>|
 
 ---
 
 |Название         |«Ну, па-ап!»|
 |:----------------|:-----------|
-|**Логотип**      |<span itunes-id="1451758558" class="itunes-img"><img height="100" width="100" src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/d9/58/cb/d958cbaa-0e1d-284a-e8aa-5a3a8be87481/mza_8358129161975489243.jpg/600x600bb.jpg"></span>|
+|**Логотип**      |<span itunes-id="1451758558" class="itunes-img"><img height="100" width="100" src="https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/05/ca/ef/05caef48-5feb-0ace-7868-d9ed88ba05c1/mza_18438014456281777171.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/%D0%BD%D1%83-%D0%BF%D0%B0-%D0%B0%D0%BF/id1451758558) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/nu-pa-ap/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/nu-pa-ap) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/%C2%AB%D0%9D%D1%83%2C-%D0%BF%D0%B0-%D0%B0%D0%BF!%C2%BB-id2032491?country=ru) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/nu-pa-ap) • [![VK](img/favicons/vk.com.png)](https://vk.com/oh.dad.podcast) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/pages/category/Podcast/%D0%9F%D0%BE%D0%B4%D0%BA%D0%B0%D1%81%D1%82-%D0%9D%D1%83-%D0%BF%D0%B0-%D0%B0%D0%BF-107006390801228/) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/7133170?from=serp) • [![Email](img/favicons/email.png)](mailto:oh.dad.podcast@gmail.com)|
 |**Описание**     |В подкасте «Ну, па-ап!» я пытаюсь объяснить своему папе, чем живу на работе: что происходит в digital, что такое контент-маркетинг, как работает интерактив в медиа, как со всем этим связан маркетинг.|
 |**Ведущие**      |Ира Сергеева<br>Леонид Сергеев|
@@ -735,7 +735,7 @@
 
 |Название         |Подкаст iLounge|
 |:----------------|:--------------|
-|**Логотип**      |<span itunes-id="1497449532" class="itunes-img"><img height="100" width="100" src="https://is2-ssl.mzstatic.com/image/thumb/Podcasts113/v4/62/64/c7/6264c725-a2a7-d7a1-6210-08c59dd1d80c/mza_6737199963786096080.jpg/600x600bb.jpg"></span>|
+|**Логотип**      |<span itunes-id="1497449532" class="itunes-img"><img height="100" width="100" src="https://is5-ssl.mzstatic.com/image/thumb/Podcasts115/v4/fe/52/b6/fe52b66e-8334-0f1f-3d1d-1513780db29e/mza_647453424358408554.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/подкаст-ilounge/id1497449532) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCd-7Kxq6e-56fCvdQ8-NQ-Q) • [![VK](img/favicons/vk.com.png)](https://vk.com/ilounge) • [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/iloungeua/)|
 |**Описание**     |💙 Рассказываем том, что так любим — Apple и iPhone, интересные гаджеты, аудио обзоры техники и последние новости из мира технологий.|
 |**Ведущие**      |Константин|
@@ -761,7 +761,7 @@
 
 |Название         |[Подкасты Mobile-review.com](https://mobile-review.com/articles/2006/new-mr-podcasts.shtml)|
 |:----------------|:------------------------------------------------------------------------------------------|
-|**Логотип**      |<span itunes-id="271623368" class="itunes-img"><img height="100" width="100" src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/0f/6e/05/0f6e0510-dc2e-627a-8531-49358d5f2be1/mza_8912238331422481668.jpg/600x600bb.jpg"></span>|
+|**Логотип**      |<span itunes-id="271623368" class="itunes-img"><img height="100" width="100" src="https://is4-ssl.mzstatic.com/image/thumb/Podcasts125/v4/54/15/d1/5415d10a-a8b1-781c-755e-24facee0e9d9/mza_5066478497262265926.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/hr/podcast/%D0%BF%D0%BE%D0%B4%D0%BA%D0%B0%D1%81%D1%82%D1%8B-mobile-review-com/id271623368) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/mobile-review/) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/podkasty-mobile-reviewcom) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/id1051204?country=ru) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/user/MobileReviewcom/videos) • [![VK](img/favicons/vk.com.png)](https://vk.com/mobilereviewcom) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/mobilreview) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/mobilereviewcom/) • [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/mobilereview/) • [![RSS](img/favicons/rss.png)](https://mobile-review.com/podcasts/rss.xml)|
 |**Описание**     |Гаджеты и аналитика.|
 |**Ведущие**      ||
@@ -813,7 +813,7 @@
 
 |Название         |[Радио Платформа](https://radioplatforma.com/)|
 |:----------------|:---------------------------------------------|
-|**Логотип**      |<span itunes-id="1494625132" class="itunes-img"><img height="100" width="100" src="https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/4e/e9/ea/4ee9ea34-0592-e1de-67e2-169125c12d9a/mza_15190596076534864665.jpg/600x600bb.jpg"></span>|
+|**Логотип**      |<span itunes-id="1494625132" class="itunes-img"><img height="100" width="100" src="https://is2-ssl.mzstatic.com/image/thumb/Podcasts125/v4/a5/13/d5/a513d53e-2bd1-b24b-bb37-416f45a7478d/mza_18069073444373563877.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/radioplatforma) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/радио-платформа/id1494625132) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/2630904) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCvsqSBRmL-dNLYRwHtgmeNg) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/RadioPlatforma) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/radioplatforma/) • [![Telegram](img/favicons/t.me.png)](https://t.me/radioplatforma) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/9715581) • [![RSS](img/favicons/rss.png)](https://feeds.buzzsprout.com/806006.rss)|
 |**Описание**     |IT Подкаст о разработке и технологиях с участием интересных гостей.|
 |**Ведущие**      |Стас Лозенко<br>Андрей Гнатюк|
@@ -826,7 +826,7 @@
 
 |Название         |[Радио-Т](https://radio-t.com)|
 |:----------------|:-----------------------------|
-|**Логотип**      |<span itunes-id="256504435" class="itunes-img"><img height="100" width="100" src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/24/cd/6a/24cd6a39-3dfb-8b68-8b42-cd2d4bbc54a5/mza_6804679474951140273.jpg/600x600bb.jpg"></span>|
+|**Логотип**      |<span itunes-id="256504435" class="itunes-img"><img height="100" width="100" src="https://is3-ssl.mzstatic.com/image/thumb/Podcasts115/v4/93/66/b5/9366b579-dd53-68e8-0230-9da4bc1db1cf/mza_8842407178439681051.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/podcast/%D1%80%D0%B0%D0%B4%D0%B8%D0%BE-%D1%82/id256504435) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/11441) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/id1572?country=ru) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCBl1ML1jnlhRxHlCjSKTyeA) • [![VK](img/favicons/vk.com.png)](https://vk.com/radio_t) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/radio_t) • [![Telegram](img/favicons/t.me.png)](https://t.me/radio_t_podcast) • [![Email](img/favicons/email.png)](mailto:podcast@radio-t.com) • [![RSS](img/favicons/rss.png)](http://feeds.rucast.net/radio-t)|
 |**Описание**     |Радио-Т — это еженедельный HiTech подкаст на русском языке. Авторы и приглашенные гости импровизируют на околокомпьютерные темы. Как правило, не залезая в глубокие дебри, однако иногда нас заносит ;)|
 |**Ведущие**      |Ксения (ksenks) [![GitHub](img/favicons/github.com.png)](https://github.com/ksenks)<br>Григорий Бакунов (Bobuk) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/bobuk/) [![GitHub](img/favicons/github.com.png)](https://github.com/bobuk)<br>[Евгений Борт (umputun)](http://www.umputun.com/) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/umputun/) [![GitHub](img/favicons/github.com.png)](https://github.com/umputun) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/user/umputun) <br>[Сергей Петренко](https://blognot.co/) [![GitHub](img/favicons/github.com.png)](https://github.com/grayru) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/c/grayru) [![RSS](img/favicons/rss.png)](https://blognot.co/feed)<br>Алексей Нестеров (alek-sys) [![GitHub](img/favicons/github.com.png)](https://github.com/alek-sys)|
@@ -897,7 +897,7 @@
 |**Ведущие**      |Вязанкин Михаил<br>Гончаров Левон|
 |**Регулярность** |Время от времени|
 |**Длительность** |10-70 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1446456479" class="episodes" hashtag="chpulya">40 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1446456479" class="episodes" hashtag="chpulya">40 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1446456479" class="release-date">13.05.2021 14:24</span>|
 
 ---
@@ -917,7 +917,7 @@
 
 |Название         |Стендинг деск|
 |:----------------|:------------|
-|**Логотип**      |<span itunes-id="1516488697" class="itunes-img"><img height="100" width="100" src="https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/35/9d/87/359d87ce-f810-aa09-041e-8d207b039640/mza_14751200256240827536.jpg/600x600bb.jpg"></span>|
+|**Логотип**      |<span itunes-id="1516488697" class="itunes-img"><img height="100" width="100" src="https://is4-ssl.mzstatic.com/image/thumb/Podcasts115/v4/44/42/51/444251f6-0c60-22d5-dce8-ebec483a7482/mza_15600520420711165191.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/moscoding) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ua/podcast/стендинг-деск/id1516488697) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/2698323)|
 |**Описание**     |Надя Королева из Москодинга общается с успешными программистами и пытается разобраться, какие обстоятельства, личные качества и привычки предопределили их быстрый взлет.|
 |**Ведущие**      |Надежда Королева|
@@ -969,7 +969,7 @@
 
 |Название         |[Твой Digital](https://tvoydigital.ru)|
 |:----------------|:-------------------------------------|
-|**Логотип**      |<span itunes-id="1502778082" class="itunes-img"><img height="100" width="100" src="https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/7b/54/49/7b54494e-57b6-7a92-2533-2fc19671c65d/mza_9238670225735722525.jpg/600x600bb.jpg"></span>|
+|**Логотип**      |<span itunes-id="1502778082" class="itunes-img"><img height="100" width="100" src="https://is4-ssl.mzstatic.com/image/thumb/Podcasts115/v4/a0/46/20/a04620a4-25a0-567c-8f31-f5042e6d75e4/mza_16805823759542713117.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/tvoydigital) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/твой-digital/id1502778082) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcasts-191694122) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/tvoydigital) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/tvoydigital) • [![Telegram](img/favicons/t.me.png)](https://t.me/tvoydigital) • [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/tvoydigital/) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/10141776)|
 |**Описание**     |Твой Digital - Первый ежедневный подкаст о цифровых технологиях.<br>События и явления, которые имеют отношение к твоей жизни.<br>Информация и новости, которые имеют ясный и четкий ответ на вопрос "Что мне с этого?".|
 |**Ведущие**      |Станислав Леонидов|
@@ -1021,7 +1021,7 @@
 
 |Название         |Три с половиной|
 |:----------------|:--------------|
-|**Логотип**      |<span itunes-id="1491231589" class="itunes-img"><img height="100" width="100" src="https://is2-ssl.mzstatic.com/image/thumb/Podcasts115/v4/f5/da/a0/f5daa005-6839-ff42-e7e6-d7281819024f/mza_8436187076781451697.jpg/600x600bb.jpg"></span>|
+|**Логотип**      |<span itunes-id="1491231589" class="itunes-img"><img height="100" width="100" src="https://is5-ssl.mzstatic.com/image/thumb/Podcasts123/v4/d2/b5/b3/d2b5b330-d51a-4582-3f1d-260dd7daadb2/mza_5765462228143303257.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/%D1%82%D1%80%D0%B8-%D1%81-%D0%BF%D0%BE%D0%BB%D0%BE%D0%B2%D0%B8%D0%BD%D0%BE%D0%B9/id1491231589) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/%D0%A2%D1%80%D0%B8-%D1%81-%D0%BF%D0%BE%D0%BB%D0%BE%D0%B2%D0%B8%D0%BD%D0%BE%D0%B9-id2512301?country=ru)|
 |**Описание**     |Подкаст «Три с половиной», в котором редакторы N+1 говорят о технологиях, перебивают друг друга и делятся прохладными историями.|
 |**Ведущие**      ||
@@ -1047,7 +1047,7 @@
 
 |Название         |Хантфлоу Insight|
 |:----------------|:---------------|
-|**Логотип**      |<span itunes-id="1443781654" class="itunes-img"><img height="100" width="100" src="https://is4-ssl.mzstatic.com/image/thumb/Podcasts123/v4/32/fd/5f/32fd5fd4-ae54-0138-c8aa-5acdd9c4f450/mza_5352792684755328592.jpg/600x600bb.jpg"></span>|
+|**Логотип**      |<span itunes-id="1443781654" class="itunes-img"><img height="100" width="100" src="https://is2-ssl.mzstatic.com/image/thumb/Podcasts125/v4/32/03/b8/3203b88f-6696-e261-63c8-671c99e96552/mza_6945282923934230141.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/huntflow-insight) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/%D1%85%D0%B0%D0%BD%D1%82%D1%84%D0%BB%D0%BE%D1%83-insight/id1443781654) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/?feed=aHR0cDovL2ZlZWRzLnNvdW5kY2xvdWQuY29tL3VzZXJzL3NvdW5kY2xvdWQ6dXNlcnM6NTQyNzkyMDQzL3NvdW5kcy5yc3M) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/khantflou-insight) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/%D0%A5%D0%B0%D0%BD%D1%82%D1%84%D0%BB%D0%BE%D1%83-Insight-id1501245?country=us) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/khantflou-insight) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/6880174?from=serp)|
 |**Описание**     |Это подкаст Хантфлоу Инсайт. Здесь мы говорим с важными людьми из HR-индустрии об их опыте, проблемах и решениях.|
 |**Ведущие**      |[Лев Пикалёв](http://levpikalev.com/)|
@@ -1099,7 +1099,7 @@
 
 |Название         |Циферкаст|
 |:----------------|:--------|
-|**Логотип**      |<span itunes-id="1473142814" class="itunes-img"><img height="100" width="100" src="https://is2-ssl.mzstatic.com/image/thumb/Podcasts125/v4/55/df/d6/55dfd674-9a96-b957-0458-5c66f49599a2/mza_4813139619920190149.jpg/600x600bb.jpg"></span>|
+|**Логотип**      |<span itunes-id="1473142814" class="itunes-img"><img height="100" width="100" src="https://is3-ssl.mzstatic.com/image/thumb/Podcasts125/v4/fb/17/c1/fb17c1ef-dd2a-8122-d77c-4558fb63877e/mza_12183550225493332388.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/циферкаст/id1473142814) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/8093588)|
 |**Описание**     |«Циферкаст» — подкаст Центра подготовки руководителей цифровой трансформации. Ведущие Ксения Ткачева и Олег Шакиров обсуждают с гостями что происходит с обществом и государством в цифровую эпоху.|
 |**Ведущие**      |Ксения Ткачева<br>Олег Шакиров|
@@ -1190,7 +1190,7 @@
 
 |Название         |Agile Reactor Podcast|
 |:----------------|:--------------------|
-|**Логотип**      |<span itunes-id="1318291521" class="itunes-img"><img height="100" width="100" src="https://is5-ssl.mzstatic.com/image/thumb/Podcasts113/v4/18/da/43/18da438e-ce20-c813-4c16-9023f6d447c6/mza_9222185775966916969.jpg/600x600bb.jpg"></span>|
+|**Логотип**      |<span itunes-id="1318291521" class="itunes-img"><img height="100" width="100" src="https://is4-ssl.mzstatic.com/image/thumb/Podcasts125/v4/40/db/bd/40dbbd7b-97d6-db97-812d-de670186e588/mza_10304241279274602886.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/agile-reactor) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/fi/podcast/agile-reactor-podcast/id1318291521) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/agile-reactor-podcast) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/agilereactor/) • [![Medium](img/favicons/medium.com.png)](https://medium.com/agile-reactor)|
 |**Описание**     |Подкаст про гибкие методологии разработки и бережливое мышление. Agile-коуч и scrum-мастер Алекс Шевчук берет интервью у коллег. Они делятся опытом, рассказывают, где и как учились, как работают, где сдавали экзамены и получали сертификаты. Многие из гостей подкаста успели поработать в разных странах мира, поэтому сравнивают условия и методы работы.|
 |**Ведущие**      |Алекс Шевчук [![Medium](img/favicons/medium.com.png)](https://medium.com/@sashhimi)|
@@ -1249,7 +1249,7 @@
 
 |Название         |[CaerusVoice](https://caerusvoice.com/)|
 |:----------------|:--------------------------------------|
-|**Логотип**      |<span itunes-id="1521832335" class="itunes-img"><img height="100" width="100" src="https://is4-ssl.mzstatic.com/image/thumb/Podcasts124/v4/0e/cc/e9/0ecce9ec-0686-7b7f-30f1-2a62d03801cd/mza_17908066792237496149.jpg/600x600bb.jpg"></span>|
+|**Логотип**      |<span itunes-id="1521832335" class="itunes-img"><img height="100" width="100" src="https://is3-ssl.mzstatic.com/image/thumb/Podcasts125/v4/53/15/1d/53151dd4-eddf-9e10-4acc-b9b36d06106b/mza_3356395925431904368.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/caerusvoice) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ua/podcast/caerusvoice/id1521832335) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/caerusvoice) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/caerusvoice) • [![Telegram](img/favicons/t.me.png)](https://t.me/caerusvoicecom) • [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/caerusvoice/)|
 |**Описание**     |Разговоры с выдающимися людьми об ИТ.|
 |**Ведущие**      |Дмитрий Овдий|
@@ -1268,8 +1268,8 @@
 |**Ведущие**      ||
 |**Регулярность** |Еженедельно|
 |**Длительность** |20-80 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1484275234" class="episodes" hashtag="matematicxyz">76 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1484275234" class="release-date">06.05.2021 09:00</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1484275234" class="episodes" hashtag="matematicxyz">77 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1484275234" class="release-date">13.05.2021 12:36</span>|
 
 ---
 
@@ -1308,7 +1308,7 @@
 
 |Название         |Daily Dev|
 |:----------------|:--------|
-|**Логотип**      |<span itunes-id="1508419417" class="itunes-img"><img height="100" width="100" src="https://is2-ssl.mzstatic.com/image/thumb/Podcasts113/v4/a3/27/36/a3273626-3366-4b6d-6240-24dfbcc6ae38/mza_12991006425224196084.jpg/600x600bb.jpg"></span>|
+|**Логотип**      |<span itunes-id="1508419417" class="itunes-img"><img height="100" width="100" src="https://is2-ssl.mzstatic.com/image/thumb/Podcasts125/v4/60/86/d7/6086d7cc-fff5-1720-94f2-ef22fa3d4cf3/mza_6086540814064775349.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/us/podcast/daily-dev/id1508419417) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/daily-dev) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/10143987)|
 |**Описание**     |Еженедельный подкаст о разработке web сервисов.|
 |**Ведущие**      |Артём Острецов|
@@ -1334,7 +1334,7 @@
 
 |Название         |devleads podcast|
 |:----------------|:---------------|
-|**Логотип**      |<span itunes-id="1446894920" class="itunes-img"><img height="100" width="100" src="https://is3-ssl.mzstatic.com/image/thumb/Podcasts123/v4/55/0b/39/550b3987-95a7-01de-2bb1-6fef2643ad81/mza_7475949990485445368.jpg/600x600bb.jpg"></span>|
+|**Логотип**      |<span itunes-id="1446894920" class="itunes-img"><img height="100" width="100" src="https://is4-ssl.mzstatic.com/image/thumb/Podcasts115/v4/2c/27/31/2c273192-1078-7d80-a69a-e1388f3e8971/mza_8972163498068357676.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/devleads) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/devleads-podcast/id1446894920) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/devleads-podcast) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/devleads-podcast-id1728111?country=ru) • [![VK](img/favicons/vk.com.png)](https://vk.com/devleads) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/pg/devleadsmeetup/posts/) • [![Telegram](img/favicons/t.me.png)](https://tele.gg/devleadschat) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/6880176?from=serp)|
 |**Описание**     |devleads - открытое сообщество тимлидов, руководителей разработки и всех неравнодушных к менеджменту в IT-сфере.<br>Всех нас объединяет одно – технический бэкграунд. Причем не так важно, программировали ли вы микроконтроллеры или занимались тестированием мобильных приложений, важно то, что в какой-то момент своей жизни вы выбрали менеджерскую ветвь развития и теперь руководите подобными себе, либо начинаете об этом задумываться.|
 |**Ведущие**      |[Никита Майданов](http://maidanov.com/) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/iltsarev/)<br>Илья Кузнецов<br>Илья Царев|
@@ -1474,7 +1474,7 @@
 
 |Название         |[Habr Special](https://habr-podcast.com/special/)|
 |:----------------|:------------------------------------------------|
-|**Логотип**      |<span itunes-id="1471344454" class="itunes-img"><img height="100" width="100" src="https://is3-ssl.mzstatic.com/image/thumb/Podcasts123/v4/13/6b/7d/136b7da2-b694-72f8-310a-48bf101beddf/mza_3557075816022514793.jpg/600x600bb.jpg"></span>|
+|**Логотип**      |<span itunes-id="1471344454" class="itunes-img"><img height="100" width="100" src="https://is3-ssl.mzstatic.com/image/thumb/Podcasts125/v4/bb/2d/3c/bb2d3cf7-6580-a034-0cea-d3a4a090fdee/mza_2013618205796930147.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/habr-special) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/habr-special/id1471344454) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/habr-special) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/2416669?country=us) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/playlist?list=PLiBYz3OQubLoQhkYe-IcZiRgK_a4x8mq_) • [![VK](img/favicons/vk.com.png)](https://vk.com/habr?z=podcast-20629724_456239017) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/8063050?from=serp) • [![Email](img/favicons/email.png)](mailto:hello@habr-podcast.com)|
 |**Описание**     |Habr Special — нерегулярный подкаст, в который мы приглашаем гостей, связанных с IT, наукой, бизнесом и образованием. Будем знакомить вас с программистами, журналистами, учеными, изобретателями, писателями, основателями стартапов.|
 |**Ведущие**      |Иван Звягин [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/baragol/)|
@@ -1513,7 +1513,7 @@
 
 |Название         |Hottcast: актуальные технологии в рекламе|
 |:----------------|:----------------------------------------|
-|**Логотип**      |<span itunes-id="1484798318" class="itunes-img"><img height="100" width="100" src="https://is4-ssl.mzstatic.com/image/thumb/Podcasts124/v4/33/08/45/33084530-954a-cc63-1a64-24dafe31504c/mza_15220698140558152086.jpg/600x600bb.jpg"></span>|
+|**Логотип**      |<span itunes-id="1484798318" class="itunes-img"><img height="100" width="100" src="https://is3-ssl.mzstatic.com/image/thumb/Podcasts125/v4/40/07/e9/4007e9f4-d2b1-add9-d5d9-701734ffb2ca/mza_3013860658424502617.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/hottcast/id1484798318) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/hottcast/) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/Hottcast%3A-%D0%B0%D0%BA%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8-%D0%B2-%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D0%B5-id2432548?country=ru) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/9285404?from=serp)|
 |**Описание**     |Мы учимся применять на практике новые технологии в ежедневной работе креативного агентства, следим с их помощью за тем, что волнует и вдохновляет людей в нашем сервисе hott, и пробуем обсуждать это без пафоса и с юмором.|
 |**Ведущие**      ||
@@ -1640,7 +1640,7 @@
 
 |Название         |ITMO Research|
 |:----------------|:------------|
-|**Логотип**      |<span itunes-id="1514201729" class="itunes-img"><img height="100" width="100" src="https://is2-ssl.mzstatic.com/image/thumb/Podcasts123/v4/b8/45/05/b8450525-d9ee-e38a-fd60-afad01805176/mza_17047816498801969597.jpg/600x600bb.jpg"></span>|
+|**Логотип**      |<span itunes-id="1514201729" class="itunes-img"><img height="100" width="100" src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/01/f8/8a/01f88a1f-0215-daf4-2e65-09230598762e/mza_11821318147368853646.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/itmo-research/id1514201729) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/itmo-research/) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/10799149)|
 |**Описание**     |Первый подкаст Университета ИТМО для тех, кто интересуется наукой и технологиями. Слушай и разбирайся в сложных темах — от квантов и инфохимии до виртуальной реальности — вместе с учеными ИТМО.|
 |**Ведущие**      |Дмитрий Кабанов|
@@ -1815,7 +1815,7 @@
 |**Ведущие**      |Стас Цыганов [![GitHub](img/favicons/github.com.png)](https://github.com/DevAlloy)<br>[Егор Толстой](http://etolstoy.com/) [![Medium](img/favicons/medium.com.png)](https://medium.com/@etolstoy) [![GitHub](img/favicons/github.com.png)](https://github.com/etolstoy)<br>Екатерина Петрова<br>Евгений Кателла|
 |**Регулярность** |Еженедельно|
 |**Длительность** |80-150 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1209828744" class="episodes" hashtag="podlodka">224 (<font color="red">-1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1209828744" class="episodes" hashtag="podlodka">225 (<font color="green">+1</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1209828744" class="release-date">13.05.2021 11:36</span>|
 
 ---
@@ -1893,7 +1893,7 @@
 |**Ведущие**      |Алексей Ткачук|
 |**Регулярность** |Ежедневно|
 |**Длительность** |20-25 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1494018535" class="episodes" hashtag="rotam">399 (<font color="red">-1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1494018535" class="episodes" hashtag="rotam">400 (<font color="green">+1</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1494018535" class="release-date">28.04.2021 01:16</span>|
 
 ---
@@ -1926,7 +1926,7 @@
 
 |Название         |S++|
 |:----------------|:--|
-|**Логотип**      |<span itunes-id="1510587217" class="itunes-img"><img height="100" width="100" src="https://is5-ssl.mzstatic.com/image/thumb/Podcasts124/v4/9e/92/83/9e9283b8-a372-ec50-e4aa-40b72005e157/mza_773383705879088482.jpg/600x600bb.jpg"></span>|
+|**Логотип**      |<span itunes-id="1510587217" class="itunes-img"><img height="100" width="100" src="https://is4-ssl.mzstatic.com/image/thumb/Podcasts115/v4/00/4c/53/004c53c5-b2d1-6a9f-e7a8-402ff62adef6/mza_17718813254324857833.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/podcast_s) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/s/id1510587217) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/s-2680991) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/playlist?list=PLxF_rYtB5vBDolmhcxh_oX59ilc_TaGVz) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/10577320) • [![RSS](img/favicons/rss.png)](https://feeds.soundcloud.com/users/soundcloud:users:812934481/sounds.rss)|
 |**Описание**     |Специалисты из сфер IT и Data Science делятся своим опытом и рассказывают интересные истории о технологиях и не только.|
 |**Ведущие**      |Алексей Обровец|
@@ -2004,7 +2004,7 @@
 
 |Название         |Sprut.AI - разговоры об умном доме|
 |:----------------|:---------------------------------|
-|**Логотип**      |<span itunes-id="1524886570" class="itunes-img"><img height="100" width="100" src="https://is2-ssl.mzstatic.com/image/thumb/Podcasts124/v4/27/76/24/277624ef-cc35-3800-b442-58a18ace2c5d/mza_10529493917213926429.jpg/600x600bb.jpg"></span>|
+|**Логотип**      |<span itunes-id="1524886570" class="itunes-img"><img height="100" width="100" src="https://is4-ssl.mzstatic.com/image/thumb/Podcasts125/v4/9a/a4/3e/9aa43e12-9065-4ea7-ca4c-e4e45ad0eb87/mza_11767770754776856049.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/sprut-ai-разговоры-об-умном-доме/id1524886570) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cHM6Ly9zcHJ1dC5haS9yc3MvcG9kY2FzdHMueG1s?sa=X&ved=0CAMQ4aUDahcKEwjwkKLujqjtAhUAAAAAHQAAAAAQAg) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/Sprut.AI---разговоры-об-умном-доме-id3145719?country=ru) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/11575772) • [![RSS](img/favicons/rss.png)](https://sprut.ai/rss/podcasts.xml)|
 |**Описание**     |Sprut.AI - разговоры об умном доме. Еженедельный подкаст. Новости, обзоры и статьи.|
 |**Ведущие**      ||
@@ -2033,8 +2033,8 @@
 |**Ведущие**      |[Антон Черноусов (golodnyj)](https://blog.golodnyj.ru/) [![GitHub](img/favicons/github.com.png)](https://github.com/golodnyj) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/golodnyj/)|
 |**Регулярность** |Несколько выпусков в месяц|
 |**Длительность** |40-120 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1046278525" class="episodes" hashtag="taoppodcast">181 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1046278525" class="release-date">08.05.2021 06:54</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1046278525" class="episodes" hashtag="taoppodcast">182 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1046278525" class="release-date">14.05.2021 10:24</span>|
 
 ---
 
@@ -2194,7 +2194,7 @@
 
 |Название         |[Z-namespace](https://ilyakaznacheev.github.io/z-namespace/)|
 |:----------------|:-----------------------------------------------------------|
-|**Логотип**      |<span itunes-id="1501041559" class="itunes-img"><img height="100" width="100" src="https://is4-ssl.mzstatic.com/image/thumb/Podcasts124/v4/95/55/41/955541c5-b80d-1ad9-b543-f3dad2d534a6/mza_8670067886831527501.jpg/600x600bb.jpg"></span>|
+|**Логотип**      |<span itunes-id="1501041559" class="itunes-img"><img height="100" width="100" src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/96/d8/90/96d89088-af0b-544b-fe1a-cba0b51facb1/mza_16514265941062826051.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/z-namespace/id1501041559) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/?feed=aHR0cDovL3Jzcy5jYXN0Ym94LmZtL2V2ZXJlc3QvYTE1NTY5OWFmZmYxNDAzODkzYjIzZmNmOTM5ZmM1YTAueG1s) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/id2658981?country=ru) • [![Overcast](img/favicons/overcast.fm.png)](https://overcast.fm/itunes1501041559/z-namespace) • [![Telegram](img/favicons/t.me.png)](https://t.me/z_namespace) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/10122818) • [![GitHub](img/favicons/github.com.png)](https://github.com/ilyakaznacheev/z-namespace) • [![RSS](img/favicons/rss.png)](http://rss.castbox.fm/everest/a155699afff1403893b23fcf939fc5a0.xml)|
 |**Описание**     |Подкаст про хорошие практики в плохих местах.<br>Первый русскоязычный подкаст про разработку промышленного ПО, SAP, ABAP, и прочие грозные аббревиатуры.|
 |**Ведущие**      |Илья Казначеев [![GitHub](img/favicons/github.com.png)](https://github.com/ilyakaznacheev)<br>Илья Виноградов [![GitHub](img/favicons/github.com.png)](https://github.com/oisee)<br>Иван Тюменьев [![GitHub](img/favicons/github.com.png)](https://github.com/ivantyumenyev)|
@@ -2245,7 +2245,7 @@
 
 |Название         |Solo on .NET|
 |:----------------|:-----------|
-|**Логотип**      |<span itunes-id="730081104" class="itunes-img"><img height="100" width="100" src="https://is2-ssl.mzstatic.com/image/thumb/Podcasts113/v4/da/32/60/da326033-0f01-3250-8dd5-76eb17107a8a/mza_4805503760504465167.jpg/600x600bb.jpg"></span>|
+|**Логотип**      |<span itunes-id="730081104" class="itunes-img"><img height="100" width="100" src="https://is2-ssl.mzstatic.com/image/thumb/Podcasts115/v4/80/9b/d1/809bd1dd-c152-2d0c-0f31-9a02297dcaaf/mza_18440553457976543394.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/solo-on-net/id730081104) • [![Podfm](img/favicons/podfm.ru.png)](https://spbaltnet.podfm.ru/solo) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/playlist?list=PLAFX7TSEV7SOqEQKnrrFiV7bUY8kN5Qof)|
 |**Описание**     |Подкаст про разработку программного обеспечения (программирование). Обсуждаемые темы - C#, F#, C++, .NET, Visual Studio, Java, CUDA, Xeon Phi, FPGA и многое другое.|
 |**Ведущие**      |[Дмитрий Нестерук](https://nesteruk.wordpress.com/) [![GitHub](img/favicons/github.com.png)](https://github.com/nesteruk) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCJIlkaXVl-6vU3ghQkr51nQ/feed) [![Udemy](img/favicons/udemy.com.png)](https://www.udemy.com/user/dmitrinesteruk/)|
@@ -2318,7 +2318,7 @@
 
 |Название         |[Scalalaz](https://scalalaz.ru/)|
 |:----------------|:-------------------------------|
-|**Логотип**      |<span itunes-id="1156356598" class="itunes-img"><img height="100" width="100" src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/d5/da/3c/d5da3c76-6bff-1f60-9397-d02654ebc841/mza_14704037277088011105.jpg/600x600bb.jpg"></span>|
+|**Логотип**      |<span itunes-id="1156356598" class="itunes-img"><img height="100" width="100" src="https://is2-ssl.mzstatic.com/image/thumb/Podcasts113/v4/cb/1b/69/cb1b6951-72dc-34d7-fe39-9821d8a2328b/mza_4439434019726231216.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/scalalaz-podcast/id1156356598) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/ScalalazPodcast) • [![Telegram](img/favicons/t.me.png)](https://telegram.me/scala_ru) • [![GitHub](img/favicons/github.com.png)](https://github.com/scalalaz-podcast/) • [![Discord](img/favicons/discordapp.com.png)](https://discordapp.com/invite/RnugmrU) • [![RSS](img/favicons/rss.png)](https://scalalaz.ru/rss/feed.xml)|
 |**Описание**     |Подкаст о программировании на языке Scala (16+).|
 |**Ведущие**      |Вадим Челышов [![GitHub](img/favicons/github.com.png)](https://github.com/dos65)<br>[Григорий Помадчин](http://pomadchin.com/) [![GitHub](img/favicons/github.com.png)](https://github.com/pomadchin)<br>Евгений Токарев [![GitHub](img/favicons/github.com.png)](https://github.com/strobe)<br>[Алексей Фомкин](https://fomkin.org/) [![GitHub](img/favicons/github.com.png)](https://github.com/fomkin) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/yelbota/)<br>Алексей Романчук [![GitHub](img/favicons/github.com.png)](https://github.com/13h3r)<br>Виктор Тараненко [![GitHub](img/favicons/github.com.png)](https://github.com/viktortnk) [![Medium](img/favicons/medium.com.png)](https://medium.com/@viktortnk)|
@@ -2372,7 +2372,7 @@
 
 |Название         |[Пятиминутка React](https://5minreact.ru/)|
 |:----------------|:-----------------------------------------|
-|**Логотип**      |<span itunes-id="1178897992" class="itunes-img"><img height="100" width="100" src="https://is2-ssl.mzstatic.com/image/thumb/Podcasts123/v4/a3/d6/1f/a3d61fbd-2474-0f8e-6da6-1d749f501605/mza_226133001040497620.jpg/600x600bb.jpg"></span>|
+|**Логотип**      |<span itunes-id="1178897992" class="itunes-img"><img height="100" width="100" src="https://is2-ssl.mzstatic.com/image/thumb/Podcasts125/v4/07/44/01/07440126-71c9-5419-fa42-fcebfdedb543/mza_17232730649684537640.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/5minreact) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/%D0%BF%D1%8F%D1%82%D0%B8%D0%BC%D0%B8%D0%BD%D1%83%D1%82%D0%BA%D0%B0-react/id1178897992) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/pyatiminutka-react/) • [![VK](img/favicons/vk.com.png)](https://vk.com/5minreact) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/5minreact) • [![Telegram](img/favicons/t.me.png)](https://t.me/ru_5minreact) • [![Podster](img/favicons/podster.fm.png)](https://5minreact.podster.fm/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/react-1443330) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/pyatiminutka-react) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/id529096?country=ru) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCtcMCp5GwNdQuloP4v5slfw) • [![RSS](img/favicons/rss.png)](http://feeds.soundcloud.com/users/soundcloud:users:301264956/sounds.rss) • [![Email](img/favicons/email.png)](mailto:podcast@5minreact.ru)|
 |**Описание**     |Подкаст о React и смежных технологиях в мире JavaScript и фронтенда: Vue, Elm, BEM, TypeScript. В подкасте разбираемся с инструментами webpack и Prettier, сравниваем пакетные менеджеры npm vs. yarn vs. pnpm, обсуждаем конференции и Яндекс Субботники. Также делаем обзоры на статьи Дэна Абрамова и Джейка Арчибальда, даём полезные рекомендации по архитектуре современных фронтенд приложений.|
 |**Ведущие**      |[Дмитрий Болдырев](https://zerobias.net/) [![GitHub](img/favicons/github.com.png)](https://github.com/zerobias)|
@@ -2424,7 +2424,7 @@
 
 |Название         |[Фронтенд Юность](http://youknow.st/)|
 |:----------------|:------------------------------------|
-|**Логотип**      |<span itunes-id="1247192730" class="itunes-img"><img height="100" width="100" src="https://is2-ssl.mzstatic.com/image/thumb/Podcasts113/v4/24/10/5a/24105a5b-2829-ca0c-4ec4-3117fff4ca51/mza_5953277227416997500.jpg/600x600bb.jpg"></span>|
+|**Логотип**      |<span itunes-id="1247192730" class="itunes-img"><img height="100" width="100" src="https://is3-ssl.mzstatic.com/image/thumb/Podcasts125/v4/9f/eb/63/9feb6321-6509-6078-89e2-fb97b408f443/mza_8692022686313160079.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/frontend_u) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/%D1%84%D1%80%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D0%B4-%D1%8E%D0%BD%D0%BE%D1%81%D1%82%D1%8C-18/id1247192730) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/frontend-junost-18/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/1458392) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/frontend-yunost-18) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCqq1LRv6KKh0bh4JrG_5vDA) • [![VK](img/favicons/vk.com.png)](https://vk.com/frontend_u) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/frontend_u) • [![Telegram](img/favicons/t.me.png)](https://t.me/frontend_u) • [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/frontend_u) • [![GitHub](img/favicons/github.com.png)](https://github.com/frontendu) • [![Email](img/favicons/email.png)](mailto:frontendu@gmail.com) • [![RSS](img/favicons/rss.png)](http://feeds.soundcloud.com/users/soundcloud:users:306631331/sounds.rss)|
 |**Описание**     |Лучший подкаст о фронт-енде. Самый честный подкаст о фронтенде. Вся правда о фронтенд-разработке. Всё, о чём боятся говорить — вы услышите здесь! Смузи, вейп, ES6, REACT — вас накроет волной хайпа.|
 |**Ведущие**      ||
@@ -2485,7 +2485,7 @@
 
 |Название         |Undefined Podcast|
 |:----------------|:----------------|
-|**Логотип**      |<span itunes-id="1499128651" class="itunes-img"><img height="100" width="100" src="https://is5-ssl.mzstatic.com/image/thumb/Podcasts124/v4/66/b8/db/66b8db42-9e43-ad83-6ba7-b03bfb142576/mza_16015942928677689100.jpg/600x600bb.jpg"></span>|
+|**Логотип**      |<span itunes-id="1499128651" class="itunes-img"><img height="100" width="100" src="https://is5-ssl.mzstatic.com/image/thumb/Podcasts115/v4/60/bd/29/60bd293c-f78e-dc8b-f89a-9680181f199a/mza_1289799708323343855.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/undefined-podcast/id1499128651) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCZvyp_29pNQGcy-FPIioesA) • [![VK](img/favicons/vk.com.png)](https://vk.com/undefinedspb) • [![Telegram](img/favicons/t.me.png)](https://t.me/undfnd) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/10034426)|
 |**Описание**     |Аудио версии переводов статей из мира Javascript, Frontend разработки и веб технологий. В рамках фронтенд сообщества Undefined.|
 |**Ведущие**      |Елена<br>Филипп|
@@ -2650,7 +2650,7 @@
 |**Ведущие**      ||
 |**Регулярность** |Еженедельно|
 |**Длительность** |20-50 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1521240754" class="episodes" hashtag="Геймдев_без_сахара">45 (<font color="red">-1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1521240754" class="episodes" hashtag="Геймдев_без_сахара">46 (<font color="green">+1</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1521240754" class="release-date">15.04.2021 12:30</span>|
 
 ---
@@ -2709,7 +2709,7 @@
 
 |Название         |На инди кухне|
 |:----------------|:------------|
-|**Логотип**      |<span itunes-id="1271152416" class="itunes-img"><img height="100" width="100" src="https://is5-ssl.mzstatic.com/image/thumb/Podcasts113/v4/0b/de/4c/0bde4cc5-a29f-6453-a56b-524c2e424fd2/mza_17366895330811946604.jpg/600x600bb.jpg"></span>|
+|**Логотип**      |<span itunes-id="1271152416" class="itunes-img"><img height="100" width="100" src="https://is4-ssl.mzstatic.com/image/thumb/Podcasts115/v4/fd/70/b2/fd70b29a-0ecc-6589-a40f-9f0156e8aae0/mza_11081911406251313108.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/%D0%BD%D0%B0-%D0%B8%D0%BD%D0%B4%D0%B8-%D0%BA%D1%83%D1%85%D0%BD%D0%B5/id1271152416) • [![Podster](img/favicons/podster.fm.png)](https://indiekitchen.podster.fm/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/series-1538721) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/playlist?list=PLLnbgEEdG2HTMZ-T_CSJAJyQVTjVfmIJ2) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcasts-141226253) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/9349008)|
 |**Описание**     |Подкаст про инди-игры и их разработчиков.|
 |**Ведущие**      |[Александр Jusper Николаев](https://devtribe.ru/user/jusper)|
@@ -2846,7 +2846,7 @@
 
 |Название         |[theBatya TALK](https://thebatya.com/podcasts/)|
 |:----------------|:----------------------------------------------|
-|**Логотип**      |<span itunes-id="1457864181" class="itunes-img"><img height="100" width="100" src="https://is3-ssl.mzstatic.com/image/thumb/Podcasts115/v4/42/94/90/42949004-baaf-44b3-bcab-396e415c6da5/mza_7008685023841264325.jpg/600x600bb.jpg"></span>|
+|**Логотип**      |<span itunes-id="1457864181" class="itunes-img"><img height="100" width="100" src="https://is3-ssl.mzstatic.com/image/thumb/Podcasts123/v4/08/c0/82/08c082f5-494d-ebaa-92b9-39dabaefbcaa/mza_1269367730299103216.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/thebatya_talk) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/thebatya-talk/id1457864181) • [![Anchor](img/favicons/anchor.fm.png)](https://anchor.fm/thebatya) • [![Podster](img/favicons/podster.fm.png)](https://thebatya-talk.podster.fm/) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/thebatya-talk-2509819) • [![VK](img/favicons/vk.com.png)](https://vk.com/thebatya) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/batyagaming) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/batya.gaming/) • [![Telegram](img/favicons/t.me.png)](https://t.me/thebatya) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/7730362)|
 |**Описание**     |Подкаст об индустрии игр на языке игроков.|
 |**Ведущие**      |Евгений Рамазанов|
@@ -2909,7 +2909,7 @@
 
 |Название         |Большая Дата|
 |:----------------|:-----------|
-|**Логотип**      |<span itunes-id="1492565320" class="itunes-img"><img height="100" width="100" src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/3f/67/ed/3f67edb1-fa9e-8158-999b-2e66f285d464/mza_16097711229735592220.jpg/600x600bb.jpg"></span>|
+|**Логотип**      |<span itunes-id="1492565320" class="itunes-img"><img height="100" width="100" src="https://is3-ssl.mzstatic.com/image/thumb/Podcasts125/v4/33/43/e7/3343e7d6-94c9-bfe6-a657-70811484c22c/mza_15581569876896948991.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/us/podcast/%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F-%D0%B4%D0%B0%D1%82%D0%B0/id1492565320) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/9516906)|
 |**Описание**     |Каждый день люди оставляют огромное количество информации о себе в Сети. Интересы, предпочтения и поисковые запросы — всё это большие данные. В бизнесе побеждает тот, кто умеет их правильно анализировать. Как изучить конкурентов и дать клиентам то, что они хотят? Всё это в первом сезоне подкаста Билайн — «Большая Дата» — откровенные разговоры о маркетинге и аналитике с представителями ведущих компаний России.|
 |**Ведущие**      |Константин Романов|
