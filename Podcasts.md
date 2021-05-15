@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">14.05.2021 20:38</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">15.05.2021 08:14</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -897,7 +897,7 @@
 |**Ведущие**      |Вязанкин Михаил<br>Гончаров Левон|
 |**Регулярность** |Время от времени|
 |**Длительность** |10-70 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1446456479" class="episodes" hashtag="chpulya">40 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1446456479" class="episodes" hashtag="chpulya">40 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1446456479" class="release-date">13.05.2021 14:24</span>|
 
 ---
@@ -1513,7 +1513,7 @@
 
 |Название         |Hottcast: актуальные технологии в рекламе|
 |:----------------|:----------------------------------------|
-|**Логотип**      |<span itunes-id="1484798318" class="itunes-img"><img height="100" width="100" src="https://is4-ssl.mzstatic.com/image/thumb/Podcasts124/v4/33/08/45/33084530-954a-cc63-1a64-24dafe31504c/mza_15220698140558152086.jpg/600x600bb.jpg"></span>|
+|**Логотип**      |<span itunes-id="1484798318" class="itunes-img"><img height="100" width="100" src="https://is3-ssl.mzstatic.com/image/thumb/Podcasts125/v4/40/07/e9/4007e9f4-d2b1-add9-d5d9-701734ffb2ca/mza_3013860658424502617.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/hottcast/id1484798318) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/hottcast/) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/Hottcast%3A-%D0%B0%D0%BA%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5-%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D0%B8-%D0%B2-%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D0%B5-id2432548?country=ru) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/9285404?from=serp)|
 |**Описание**     |Мы учимся применять на практике новые технологии в ежедневной работе креативного агентства, следим с их помощью за тем, что волнует и вдохновляет людей в нашем сервисе hott, и пробуем обсуждать это без пафоса и с юмором.|
 |**Ведущие**      ||
@@ -1893,7 +1893,7 @@
 |**Ведущие**      |Алексей Ткачук|
 |**Регулярность** |Ежедневно|
 |**Длительность** |20-25 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1494018535" class="episodes" hashtag="rotam">401 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1494018535" class="episodes" hashtag="rotam">400 (<font color="red">-1</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1494018535" class="release-date">28.04.2021 01:16</span>|
 
 ---
@@ -2722,7 +2722,7 @@
 
 |Название         |НАША ИГРА|
 |:----------------|:--------|
-|**Логотип**      |<span itunes-id="1501746913" class="itunes-img"><img height="100" width="100" src="https://is2-ssl.mzstatic.com/image/thumb/Podcasts115/v4/9f/3f/e2/9f3fe2ba-79e2-f828-0274-edc1733a7121/mza_12757441896600407779.jpg/600x600bb.jpg"></span>|
+|**Логотип**      |<span itunes-id="1501746913" class="itunes-img"><img height="100" width="100" src="https://is2-ssl.mzstatic.com/image/thumb/Podcasts123/v4/d2/08/30/d20830bb-1ede-3d32-1edd-4afb6163d25a/mza_14123355678580443362.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/nasha_igra) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/наша-игра/id1501746913) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/?feed=aHR0cDovL3Jzcy5jYXN0Ym94LmZtL2V2ZXJlc3QvODFhNDA4ZGRhNjAwNDFhOWJlN2ExYzNjMjJlNmQ0YzQueG1s&hl=ru) • [![Castbox](img/favicons/castbox.fm.png)](https://www.castbox.fm/channel/id2664775?country=ru) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcasts-26086420) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/10141261)|
 |**Описание**     |Подкаст об отечественной игровой индустрии, видеоиграх и около того.|
 |**Ведущие**      |Михаил Пименов<br>Всеволод Уваров|
