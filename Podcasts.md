@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">21.05.2021 08:16</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">21.05.2021 12:07</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1268,7 +1268,7 @@
 |**Ведущие**      ||
 |**Регулярность** |Еженедельно|
 |**Длительность** |20-80 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1484275234" class="episodes" hashtag="matematicxyz">78 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1484275234" class="episodes" hashtag="matematicxyz">78 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1484275234" class="release-date">20.05.2021 10:41</span>|
 
 ---
@@ -2010,8 +2010,8 @@
 |**Ведущие**      ||
 |**Регулярность** |Еженедельно|
 |**Длительность** |~60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1524886570" class="episodes" hashtag="Sprut.AI">28 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1524886570" class="release-date">19.05.2021 07:00</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1524886570" class="episodes" hashtag="Sprut.AI">29 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1524886570" class="release-date">21.05.2021 07:00</span>|
 
 ---
 
@@ -2650,7 +2650,7 @@
 |**Ведущие**      ||
 |**Регулярность** |Еженедельно|
 |**Длительность** |20-50 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1521240754" class="episodes" hashtag="Геймдев_без_сахара">46 (<font color="red">0</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1521240754" class="episodes" hashtag="Геймдев_без_сахара">47 (<font color="green">+1</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1521240754" class="release-date">15.04.2021 12:30</span>|
 
 ---
@@ -2900,8 +2900,8 @@
 |**Ведущие**      |Сергей Пирогов|
 |**Регулярность** |Время от времени|
 |**Длительность** |80-110 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1350668092" class="episodes" hashtag="qaguild">2 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1350668092" class="release-date">26.04.2021 09:29</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1350668092" class="episodes" hashtag="qaguild">1 (<font color="red">-1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1350668092" class="release-date">21.05.2021 08:58</span>|
 
 ### **BigData** <a name="podcasts-bigdata"></a>
 
