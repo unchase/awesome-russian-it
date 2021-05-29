@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">29.05.2021 17:00</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">29.05.2021 21:40</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -963,7 +963,7 @@
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |40-70 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1496543368" class="episodes" hashtag="sfierichieskoie_lidierstvo">19 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1496543368" class="release-date">08.05.2021 17:00</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1496543368" class="release-date">29.05.2021 21:00</span>|
 
 ---
 
