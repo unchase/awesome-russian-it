@@ -603,6 +603,19 @@
 
 ---
 
+|Название         |[Не сегодня](https://gnykka.io/not-today/)|
+|:----------------|:-----------------------------------------|
+|**Логотип**      |<span itunes-id="1553723415" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Ссылки**       |[![Anchor](img/favicons/anchor.fm.png)](https://anchor.fm/45742) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/us/podcast/not-today/id1553723415) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80Y2E4N2QyNC9wb2RjYXN0L3Jzcw==) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/13896789) • [![RSS](img/favicons/rss.png)](https://anchor.fm/s/4ca87d24/podcast/rss)|
+|**Описание**     |Беседы с женщинами из it-индустрии о карьере и жизни.<br>Мы приглашаем девушек из разных областей it и обсуждаем с ними очень разные темы: от смены профессии и начала карьеры до переезда в другую страну и создания стартапов.|
+|**Ведущие**      |Наталия Степанова<br>Анна Савиновских|
+|**Регулярность** |Время от времени|
+|**Длительность** |40-70 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1553723415" class="episodes" hashtag="NotToday"></span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1553723415" class="release-date"></span>|
+
+---
+
 |Название         |[Неопознанный Искусственный Интеллект (НИИ)](https://sysblok.ru/unknown_ai/)|
 |:----------------|:---------------------------------------------------------------------------|
 |**Логотип**      |<span itunes-id="1542538163" class="itunes-img"><img height="100" width="100" src="https://is5-ssl.mzstatic.com/image/thumb/Podcasts114/v4/26/1a/17/261a1779-9642-eded-475a-282bb2a30953/mza_1172468763294126726.jpg/600x600bb.jpg"></span>|
