@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">17.06.2021 12:04</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">17.06.2021 16:19</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -605,14 +605,14 @@
 
 |Название         |[Не сегодня](https://gnykka.io/not-today/)|
 |:----------------|:-----------------------------------------|
-|**Логотип**      |<span itunes-id="1553723415" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Логотип**      |<span itunes-id="1553723415" class="itunes-img"><img height="100" width="100" src="https://is5-ssl.mzstatic.com/image/thumb/Podcasts124/v4/30/8e/9c/308e9cce-bfa5-160b-d2b4-d8d862086ab3/mza_3927963650605352832.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Anchor](img/favicons/anchor.fm.png)](https://anchor.fm/45742) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/us/podcast/not-today/id1553723415) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80Y2E4N2QyNC9wb2RjYXN0L3Jzcw==) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/13896789) • [![RSS](img/favicons/rss.png)](https://anchor.fm/s/4ca87d24/podcast/rss)|
 |**Описание**     |Беседы с женщинами из it-индустрии о карьере и жизни.<br>Мы приглашаем девушек из разных областей it и обсуждаем с ними очень разные темы: от смены профессии и начала карьеры до переезда в другую страну и создания стартапов.|
 |**Ведущие**      |Наталия Степанова<br>Анна Савиновских|
 |**Регулярность** |Время от времени|
 |**Длительность** |40-70 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1553723415" class="episodes" hashtag="NotToday"></span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1553723415" class="release-date"></span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1553723415" class="episodes" hashtag="NotToday">5</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1553723415" class="release-date">24.04.2021 00:04</span>|
 
 ---
 
