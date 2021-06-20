@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">20.06.2021 16:17</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">20.06.2021 20:20</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -872,7 +872,7 @@
 |**Регулярность** |Время от времени|
 |**Длительность** |40-120 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="594292319" class="episodes" hashtag="razbor_poletov">50 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="594292319" class="release-date">31.05.2021 03:00</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="594292319" class="release-date">19.06.2021 03:00</span>|
 
 ---
 
@@ -1157,7 +1157,7 @@
 |**Ведущие**      ||
 |**Регулярность** |Ежедневно|
 |**Длительность** |~5 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="episodes" hashtag="shortcode">234 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="episodes" hashtag="shortcode">234 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="release-date">26.05.2021 03:00</span>|
 
 ---
@@ -1815,8 +1815,8 @@
 |**Ведущие**      |Андрей Радионов|
 |**Регулярность** |Еженедельно|
 |**Длительность** |~70 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1503693347" class="episodes" hashtag="optacast">57 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1503693347" class="release-date">13.06.2021 19:13</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1503693347" class="episodes" hashtag="optacast">58 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1503693347" class="release-date">20.06.2021 17:51</span>|
 
 ---
 
@@ -1828,8 +1828,8 @@
 |**Ведущие**      |Стас Цыганов [![GitHub](img/favicons/github.com.png)](https://github.com/DevAlloy)<br>[Егор Толстой](http://etolstoy.com/) [![Medium](img/favicons/medium.com.png)](https://medium.com/@etolstoy) [![GitHub](img/favicons/github.com.png)](https://github.com/etolstoy)<br>Екатерина Петрова<br>Евгений Кателла|
 |**Регулярность** |Еженедельно|
 |**Длительность** |80-150 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1209828744" class="episodes" hashtag="podlodka">230 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1209828744" class="release-date">14.06.2021 18:36</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1209828744" class="episodes" hashtag="podlodka">231 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1209828744" class="release-date">20.06.2021 16:38</span>|
 
 ---
 
@@ -1854,8 +1854,8 @@
 |**Ведущие**      |Мария Попова|
 |**Регулярность** |Еженедельно|
 |**Длительность** |30-70 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1527860527" class="episodes" hashtag="ProjectTalks">17 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1527860527" class="release-date">12.06.2021 13:23</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1527860527" class="episodes" hashtag="ProjectTalks">18 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1527860527" class="release-date">20.06.2021 13:55</span>|
 
 ---
 
@@ -2238,7 +2238,7 @@
 |**Ведущие**      |Станислав Александров<br>Александр Кугушев [![GitHub](img/favicons/github.com.png)](https://github.com/kugushev) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/KAW/)<br>Наталья|
 |**Регулярность** |1-4 раза в месяц|
 |**Длительность** |40-120 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1448111173" class="episodes" hashtag="dotnetmore">50 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1448111173" class="episodes" hashtag="dotnetmore">50 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1448111173" class="release-date">20.06.2021 13:50</span>|
 
 ---
@@ -2443,8 +2443,8 @@
 |**Ведущие**      ||
 |**Регулярность** |Еженедельно|
 |**Длительность** |60-120 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1247192730" class="episodes" hashtag="frontend_u">203 (<font color="green">+1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1247192730" class="release-date">20.06.2021 13:36</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1247192730" class="episodes" hashtag="frontend_u">202 (<font color="red">-1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1247192730" class="release-date">07.06.2021 21:47</span>|
 
 ---
 
