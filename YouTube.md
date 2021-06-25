@@ -119,6 +119,7 @@
 |Название|Описание|Всего видео|Подписчиков|Дата последнего видео|
 |:------:|:-------|:---------:|:---------:|:-------------------:|
 |<a href="https://www.youtube.com/channel/UC8C9c4GFLs6cNqBVWSM9jLw"><img width="30" src="https://yt3.ggpht.com/a/AGF-l78dpzqVG8pAdEGzRc43oTRIfua7rNrFsL5tow=s288-c-k-c0xffffffff-no-rj-mo"></a><br>[1C Platform](https://www.youtube.com/channel/UC8C9c4GFLs6cNqBVWSM9jLw)|Новости от платформы 1С:Предприятие, обучающие материалы.|<span id="UC8C9c4GFLs6cNqBVWSM9jLw" class="youtube-count" hashtag="1C">16 (<font color="red">0</font>)</span>|<span id="UC8C9c4GFLs6cNqBVWSM9jLw" class="youtube-subscribers">881 (<font color="red">0</font>)</span>|<span id="UC8C9c4GFLs6cNqBVWSM9jLw" class="last-video-date">04/30/2020</span>|
+|<a href="https://www.youtube.com/c/SilverbulletersOrgSocial"><img width="30" src="https://yt3.ggpht.com/ytc/AKedOLQu465tIs-gKLNE2337AKdoVdTIJENwhVe8oYLtuQ=s88-c-k-c0x00ffffff-no-rj"></a><br>[The Silver Bulleters](https://www.youtube.com/c/SilverbulletersOrgSocial)|Канал публикации открытых видео роликов для разработчиков на платформе 1С Предприятие.|<span id="SilverbulletersOrgSocial" class="youtube-count" hashtag="1C"></span>|<span id="SilverbulletersOrgSocial" class="youtube-subscribers"></span>|<span id="SilverbulletersOrgSocial" class="last-video-date"></span>|
 
 #### **.NET** <a name="youtube-development-dotnet"></a>
 
