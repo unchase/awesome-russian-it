@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">04.07.2021 16:10</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">04.07.2021 20:11</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1157,7 +1157,7 @@
 |**Ведущие**      ||
 |**Регулярность** |Ежедневно|
 |**Длительность** |~5 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="episodes" hashtag="shortcode">245 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="episodes" hashtag="shortcode">245 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="release-date">26.05.2021 03:00</span>|
 
 ---
@@ -1367,7 +1367,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |120-180 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="903660317" class="episodes" hashtag="devzen_podcast">25 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="903660317" class="release-date">27.06.2021 15:45</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="903660317" class="release-date">04.07.2021 17:45</span>|
 
 ---
 
@@ -1469,6 +1469,19 @@
 |**Длительность** |60-100 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1489980299" class="episodes" hashtag="generictalks">53 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1489980299" class="release-date">24.04.2021 14:26</span>|
+
+---
+
+|Название         |Goose&Duck – OpenSource|
+|:----------------|:----------------------|
+|**Логотип**      |<span itunes-id="1573208350)" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Ссылки**       |[![Anchor](img/favicons/anchor.fm.png)](https://anchor.fm/goose-duck) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ua/podcast/goose-duck-opensource/id1573208350) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy81YzVjNGE0OC9wb2RjYXN0L3Jzcw==) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCTFSF1qHRod0YdQ8hYYW3nA) • [![GitHub](img/favicons/github.com.png)](https://github.com/goose-duck) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/15778436) • [![RSS](img/favicons/rss.png)](https://anchor.fm/s/5c5c4a48/podcast/rss)|
+|**Описание**     |Подкаст про opensource и все что с ним связано. Тут 2 представителя птичьих и по-совместительству опенсорсеры рассказывают про разные-разности связанные с коммьюнити открытого исходного кода :)|
+|**Ведущие**      |Дмитрий Коваленко [![GitHub](img/favicons/github.com.png)](https://github.com/dmtrKovalenko)<br>Влад Шилов [![GitHub](img/favicons/github.com.png)](https://github.com/omgovich)|
+|**Регулярность** |Еженедельно|
+|**Длительность** |~60 мин.|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1573208350)" class="episodes" hashtag="goose_duck"></span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1573208350)" class="release-date"></span>|
 
 ---
 
