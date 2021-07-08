@@ -1474,14 +1474,14 @@
 
 |Название         |Goose&Duck – OpenSource|
 |:----------------|:----------------------|
-|**Логотип**      |<span itunes-id="1573208350)" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Логотип**      |<span itunes-id="1573208350" class="itunes-img"><img height=100 width=100 src=""></img></span>|
 |**Ссылки**       |[![Anchor](img/favicons/anchor.fm.png)](https://anchor.fm/goose-duck) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ua/podcast/goose-duck-opensource/id1573208350) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy81YzVjNGE0OC9wb2RjYXN0L3Jzcw==) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCTFSF1qHRod0YdQ8hYYW3nA) • [![GitHub](img/favicons/github.com.png)](https://github.com/goose-duck) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/15778436) • [![RSS](img/favicons/rss.png)](https://anchor.fm/s/5c5c4a48/podcast/rss)|
 |**Описание**     |Подкаст про opensource и все что с ним связано. Тут 2 представителя птичьих и по-совместительству опенсорсеры рассказывают про разные-разности связанные с коммьюнити открытого исходного кода :)|
 |**Ведущие**      |Дмитрий Коваленко [![GitHub](img/favicons/github.com.png)](https://github.com/dmtrKovalenko)<br>Влад Шилов [![GitHub](img/favicons/github.com.png)](https://github.com/omgovich)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |~60 мин.|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1573208350)" class="episodes" hashtag="goose_duck"></span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1573208350)" class="release-date"></span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1573208350" class="episodes" hashtag="goose_duck"></span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1573208350" class="release-date"></span>|
 
 ---
 
