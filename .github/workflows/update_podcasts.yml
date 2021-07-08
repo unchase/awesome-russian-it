@@ -40,10 +40,7 @@ jobs:
       
     - name: Git set author (email)
       run: /usr/bin/git config --global user.email "spiritkola@hotmail.com"
-      
-    - name: Git restore utils
-      run: /usr/bin/git restore utils/Unchase.HtmlTagsUpdater
-      
+
     - name: Git add
       run: /usr/bin/git add Podcasts.md
       
