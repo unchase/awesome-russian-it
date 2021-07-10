@@ -2944,6 +2944,19 @@
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1492565320" class="episodes" hashtag="Большая_Дата">14 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1492565320" class="release-date">28.12.2020 13:05</span>|
 
+---
+
+|Название         |[Data Therapy](https://anchor.fm/data-therapy)|
+|:----------------|:---------------------------------------------|
+|**Логотип**      |<span itunes-id="1574524435" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/podcast/id1574524435) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82MTBkNjMyNC9wb2RjYXN0L3Jzcw==) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/16603542) • [![RSS](img/favicons/rss.png)](https://anchor.fm/s/610d6324/podcast/rss)|
+|**Описание**     |Это терапевтический подкаст о больших данных и технологиях, в которых они применяются. В диалоге с нашими коллегами и друзьями по рынку обсуждаем лучшие практики применения big data в бизнесе, как большие данные уже влияют на нашу жизнь и почему это совсем не страшно.|
+|**Ведущие**      |Дмитрий Прусов|
+|**Регулярность** |Время от времени|
+|**Длительность** |~60 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1574524435" class="episodes" hashtag="Data_Therapy"></span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1574524435" class="release-date"></span>|
+
 ### **DevOps** <a name="podcasts-devops"></a>
 
 <sup>[Содержание](#содержание)</sup>
