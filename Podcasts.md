@@ -380,6 +380,19 @@
 
 ---
 
+|Название         |Деньги любят техно|
+|:----------------|:-----------------|
+|**Логотип**      |<span itunes-id="1570953810" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/podcast/id1570953810) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zaW1wbGVjYXN0LmNvbS9WV05aWTNvbw==) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/16062066) • [![RSS](img/favicons/rss.png)](https://feeds.simplecast.com/VWNZY3oo)|
+|**Описание**     |Подкаст о финтехе в самом широком смысле этого слова — говорим об актуальных и самых востребованных технологиях в финансовой сфере. Вместе с экспертами разбираемся в том, как эти технологии меняют наш пользовательский опыт, рынок финансовых услуг, и делают эти услуги более удобными, быстрыми и безопасными.|
+|**Ведущие**      |Марина Эфендиева|
+|**Регулярность** |Раз в две недели|
+|**Длительность** |30-40 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1570953810" class="episodes" hashtag="Деньги_любят_техно"></span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1570953810" class="release-date"></span>|
+
+---
+
 |Название         |Директлайн|
 |:----------------|:---------|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/directline-marketing) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCcOnHT_nv6wDY6F6nmguwvg) • [![VK](img/favicons/vk.com.png)](https://vk.com/directline) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/directlinepro) • [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/directline_band/)|
