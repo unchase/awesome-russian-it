@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">18.07.2021 20:11</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">19.07.2021 08:05</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -872,7 +872,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |40-60 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="526797445" class="episodes" hashtag="radiomaorg">10 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="526797445" class="release-date">25.06.2021 14:08</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="526797445" class="release-date">17.07.2021 10:22</span>|
 
 ---
 
@@ -988,7 +988,7 @@
 |**Ведущие**      ||
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |40-70 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1496543368" class="episodes" hashtag="sfierichieskoie_lidierstvo">22 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1496543368" class="episodes" hashtag="sfierichieskoie_lidierstvo">22 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1496543368" class="release-date">29.05.2021 21:00</span>|
 
 ---
@@ -1041,7 +1041,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |~50 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="378499320" class="episodes" hashtag="tochka">21 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="378499320" class="release-date">11.07.2021 21:05</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="378499320" class="release-date">18.07.2021 21:05</span>|
 
 ---
 
@@ -1493,7 +1493,7 @@
 |**Ведущие**      |Дмитрий Коваленко [![GitHub](img/favicons/github.com.png)](https://github.com/dmtrKovalenko)<br>Влад Шилов [![GitHub](img/favicons/github.com.png)](https://github.com/omgovich)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |~60 мин.|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1573208350" class="episodes" hashtag="goose_duck">4 (<font color="red">0</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1573208350" class="episodes" hashtag="goose_duck">5 (<font color="green">+1</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1573208350" class="release-date">23.05.2021 11:41</span>|
 
 ---
@@ -1841,7 +1841,7 @@
 |**Ведущие**      |Андрей Радионов|
 |**Регулярность** |Еженедельно|
 |**Длительность** |~70 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1503693347" class="episodes" hashtag="optacast">62 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1503693347" class="episodes" hashtag="optacast">62 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1503693347" class="release-date">20.06.2021 17:51</span>|
 
 ---
