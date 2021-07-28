@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">28.07.2021 08:05</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">28.07.2021 12:06</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -819,7 +819,7 @@
 |**Ведущие**      |Роман Рыбальченко|
 |**Регулярность** |Несколько раз в неделю|
 |**Длительность** |20-80 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1178337792" class="episodes" hashtag="romanetua">125 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1178337792" class="episodes" hashtag="romanetua">125 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1178337792" class="release-date">04.05.2021 14:22</span>|
 
 ---
@@ -885,7 +885,7 @@
 |**Регулярность** |Время от времени|
 |**Длительность** |40-120 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="594292319" class="episodes" hashtag="razbor_poletov">50 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="594292319" class="release-date">15.07.2021 03:00</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="594292319" class="release-date">28.07.2021 03:00</span>|
 
 ---
 
@@ -962,7 +962,7 @@
 |**Ведущие**      |Вахтанг Махарадзе|
 |**Регулярность** |Ежедневно|
 |**Длительность** |5-10 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="episodes" hashtag="strana_tranzistoriia">1190 (<font color="red">0</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="episodes" hashtag="strana_tranzistoriia">1191 (<font color="green">+1</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="release-date">29.04.2021 14:30</span>|
 
 ---
@@ -1196,7 +1196,7 @@
 |**Ведущие**      |Андрей Барышников [![GitHub](img/favicons/github.com.png)](https://github.com/BilberryMuffin)<br>Сергей Епихин<br>Антон Поздняков|
 |**Регулярность** |Еженедельно|
 |**Длительность** |70-120 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="868222886" class="episodes" hashtag="beardycast">498 (<font color="red">0</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="868222886" class="episodes" hashtag="beardycast">499 (<font color="green">+1</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="868222886" class="release-date">05.05.2021 15:53</span>|
 
 ---
@@ -1685,8 +1685,8 @@
 |**Ведущие**      |Дмитрий Кабанов|
 |**Регулярность** |Время от времени|
 |**Длительность** |30-70 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1514201729" class="episodes" hashtag="ITMO_Research">9 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1514201729" class="release-date">22.04.2021 14:21</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1514201729" class="episodes" hashtag="ITMO_Research">10 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1514201729" class="release-date">27.07.2021 17:20</span>|
 
 ---
 
@@ -1932,7 +1932,7 @@
 |**Ведущие**      |Алексей Ткачук|
 |**Регулярность** |Ежедневно|
 |**Длительность** |20-25 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1494018535" class="episodes" hashtag="rotam">438 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1494018535" class="episodes" hashtag="rotam">438 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1494018535" class="release-date">28.04.2021 01:16</span>|
 
 ---
@@ -2023,7 +2023,7 @@
 |**Ведущие**      |Дима Червяков<br>Николай Сладкий [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/NikolasMelui/) [![GitHub](img/favicons/github.com.png)](https://github.com/NikolasMelui)<br>[Никита Пузанков](https://humb1t.tumblr.com/) [![dev.to](img/favicons/dev.to.png)](https://dev.to/humb1t) [![GitHub](img/favicons/github.com.png)](https://github.com/humb1t)<br>Дмитрий Николаев [![GitHub](img/favicons/github.com.png)](https://github.com/nikolaev-dd)|
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |30-90 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1449716272" class="episodes" hashtag="SITCast">41 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1449716272" class="episodes" hashtag="SITCast">41 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1449716272" class="release-date">27.07.2021 16:59</span>|
 
 ---
@@ -2995,8 +2995,8 @@
 |**Ведущие**      |Виктор<br>Максим|
 |**Регулярность** |Раз в две недели|
 |**Длительность** |80-120 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1502639464" class="episodes" hashtag="devopskitchentalks">27 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1502639464" class="release-date">14.07.2021 18:53</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1502639464" class="episodes" hashtag="devopskitchentalks">28 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1502639464" class="release-date">28.07.2021 00:07</span>|
 
 ---
 
