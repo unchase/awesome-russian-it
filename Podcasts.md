@@ -2123,6 +2123,19 @@
 
 ---
 
+|Название         |Yet another Level: ReRun|
+|:----------------|:-----------------------|
+|**Логотип**      |<span itunes-id="1576266505" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Ссылки**       |[![Anchor](img/favicons/anchor.fm.png)](https://anchor.fm/yetanotherlevel) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/yet-another-level-rerun/id1576266505) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82MjQ4Y2ExYy9wb2RjYXN0L3Jzcw) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/Yet-another-Level%3A-ReRun-id4423927) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/16601727) • [![RSS](img/favicons/rss.png)](https://anchor.fm/s/6248ca1c/podcast/rss)|
+|**Описание**     |Амбиции, карьера, доход. Митап Яндекса для айтишников в специальном аудиоформате.|
+|**Ведущие**      |Евгений Котело|
+|**Регулярность** |Время от времени|
+|**Длительность** |~30 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1576266505" class="episodes" hashtag="yetanotherlevel"></span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1576266505" class="release-date"></span>|
+
+---
+
 |Название         |[Zavractcast](https://zavtracast.ru)|
 |:----------------|:-----------------------------------|
 |**Логотип**      |<span itunes-id="1068329384" class="itunes-img"><img height="100" width="100" src="https://is4-ssl.mzstatic.com/image/thumb/Podcasts115/v4/4b/2b/d3/4b2bd338-e04d-11c6-6a72-64a04f69acfb/mza_11377880366531281573.jpeg/600x600bb.jpg"></span>|
