@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">31.07.2021 16:11</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">31.07.2021 20:12</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1353,8 +1353,8 @@
 |**Ведущие**      ||
 |**Регулярность** |Время от времени|
 |**Длительность** |20-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1521026340" class="episodes" hashtag="designspot_community">10 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1521026340" class="release-date">30.07.2021 15:39</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1521026340" class="episodes" hashtag="designspot_community">9 (<font color="red">-1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1521026340" class="release-date">29.06.2021 14:14</span>|
 
 ---
 
