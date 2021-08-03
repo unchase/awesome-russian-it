@@ -1345,6 +1345,19 @@
 
 ---
 
+|Название         |[Data Coffee](https://datacoffee.site)|
+|:----------------|:--------------------------------------|
+|**Логотип**      |<span itunes-id="1575312052" class="itunes-img"><img height=100 width=100 src="https://datacoffee.site/datacoffee-logo.jpg"></img></span>|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/us/podcast/data-coffee/id1575312052?uo=4) • [![Amazon Music](img/favicons/music.amazon.com.png)](https://music.amazon.com/podcasts/4828fab0-b658-4eff-a04a-9dc6aa19f5f6/DATA-COFFEE) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy81YmRlMmM1OC9wb2RjYXN0L3Jzcw==) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/data-coffee) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/id4373426?utm_campaign=ex_share_ch&utm_medium=exlink&country=ru) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/_DataCoffee_) • [![Telegram](img/favicons/t.me.png)](https://t.me/datacoffee) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/16320870) • [![RSS](img/favicons/anchor.fm.png)](https://anchor.fm/data-coffee) • [![RSS](img/favicons/rss.png)](https://anchor.fm/s/5bde2c58/podcast/rss)|
+|**Описание**     |Подкаст о данных в современном мире|
+|**Ведущие**      |Alex <br> Mak <br> Dina|
+|**Регулярность** |Еженедельно|
+|**Длительность** |~60 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1575312052" class="episodes" hashtag="datacoffee">10</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1575312052" class="release-date">31.07.2021 09:00</span>|
+
+---
+
 |Название         |DesignSpot Podcas‪t‬|
 |:----------------|:-----------------|
 |**Логотип**      |<span itunes-id="1521026340" class="itunes-img"><img height="100" width="100" src="https://is5-ssl.mzstatic.com/image/thumb/Podcasts125/v4/8f/70/26/8f702617-8fd1-8e3c-ba26-b43ef667334c/mza_12569438793763774943.jpg/600x600bb.jpg"></span>|
