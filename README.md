@@ -833,7 +833,7 @@
 
 <sup>[Содержание](#содержание)</sup>
 
-Этот проект существует благодаря [всем людям](https://github.com/unchase/awesome-russian-it/graphs/contributors), которые вносят свой вклад.
+Этот проект существует благодаря всем людям, которые вносят свой вклад:
 
 [![contributors](https://contributors-img.web.app/image?repo=unchase/awesome-russian-it)](https://github.com/unchase/awesome-russian-it/graphs/contributors)
 
