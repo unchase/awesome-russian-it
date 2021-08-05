@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">05.08.2021 08:05</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">05.08.2021 12:07</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1750,7 +1750,7 @@
 |**Ведущие**      |Михаил Ивашниченко<br>Олег Пузанов|
 |**Регулярность** |Время от времени|
 |**Длительность** |20-40 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1449696831" class="episodes" hashtag="keybeard">31 (<font color="red">0</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1449696831" class="episodes" hashtag="keybeard">32 (<font color="green">+1</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1449696831" class="release-date">16.01.2019 11:56</span>|
 
 ---
@@ -1997,8 +1997,8 @@
 |**Ведущие**      |Никита Щербаков|
 |**Регулярность** ||
 |**Длительность** |~45 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1552186929" class="episodes" hashtag="SbergileTalks">7 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1552186929" class="release-date">16.07.2021 15:55</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1552186929" class="episodes" hashtag="SbergileTalks">8 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1552186929" class="release-date">05.08.2021 10:03</span>|
 
 ---
 
