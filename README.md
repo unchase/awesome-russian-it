@@ -766,6 +766,7 @@
 |**[Code Instinct](https://www.codeinstinct.pro/)**<br>[![RSS](img/favicons/rss.png)](https://www.codeinstinct.pro/feeds/posts/default?alt=rss)|Блог Дмитрия Петухова, консультанта по технологиям машинного обучения, Cloud-архитектора, спикера, неутомимого исследователя и кофемана.|[![MVP](img/favicons/mvp.microsoft.com.png)](https://mvp.microsoft.com/ru-ru/PublicProfile/5001834?fullName=Dmitry%20Petukhov) [![GitHub](img/favicons/github.com.png)](https://github.com/codez0mb1e) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/codezombie/)|
 |**[it-community.in.ua](https://it-community.in.ua/)**<br>[![RSS](img/favicons/rss.png)](https://it-community.in.ua/feed/)|Проект «ИТ сообщество Украины» основан в начале 2014 года c целью создания информационно-коммуникационного ресурса, на котором ИТ-специалисты разного уровня смогут получить актуальную информацию о различных продуктах, а также особенностях их конфигурирования.||
 |**[Wiki .NET сообществ в GitHub](https://github.com/AnatolyKulakov/SpbDotNet/wiki)**|Wiki в GitHub с записями встреч и презентациями русскоязычных .NET сообществ с наиболее полной информацией о них.|[Анатолий Кулаков](https://github.com/AnatolyKulakov/SpbDotNet/wiki/Anatoly-Kulakov) [![GitHub](img/favicons/github.com.png)](https://github.com/AnatolyKulakov) [![DotNet.ru](https://favicon.yandex.net/favicon/dotnet.ru)](https://dotnet.ru)|
+|**[Blazor RuCommunity в Telegram](https://t.me/BlazorChannel)**|Статьи, новости и гайды по Blazor и WebAssembly.||
 
 ### **GameDev** <a name="blogs-gamedev"></a>
 
