@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">21.08.2021 16:11</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">21.08.2021 20:11</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -502,7 +502,7 @@
 |**Ведущие**      ||
 |**Регулярность** |Еженедельно|
 |**Длительность** |15-20 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1517634826" class="episodes" hashtag="Код">66 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1517634826" class="episodes" hashtag="Код">66 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1517634826" class="release-date">21.05.2021 11:44</span>|
 
 
@@ -702,8 +702,8 @@
 |**Ведущие**      |Михаил Марченко<br>Ольга Давыдова|
 |**Регулярность** |Время от времени|
 |**Длительность** |30-50 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="472631602" class="episodes" hashtag="it.career.ua">330 (<font color="red">-1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="472631602" class="release-date">12.08.2021 11:00</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="472631602" class="episodes" hashtag="it.career.ua">331 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="472631602" class="release-date">20.08.2021 11:00</span>|
 
 ---
 
@@ -1353,7 +1353,7 @@
 |**Ведущие**      |Alex <br> Mak <br> Dina|
 |**Регулярность** |Еженедельно|
 |**Длительность** |~60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1575312052" class="episodes" hashtag="datacoffee">13 (<font color="red">-1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1575312052" class="episodes" hashtag="datacoffee">14 (<font color="green">+1</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1575312052" class="release-date">29.05.2021 09:00</span>|
 
 ---
@@ -2661,7 +2661,7 @@
 |**Ведущие**      |Кирилл Розов [![Medium](img/favicons/medium.com.png)](https://medium.com/@kirillr) [![GitHub](img/favicons/github.com.png)](https://github.com/kirich1409)|
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |50-80 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1492425305" class="episodes" hashtag="andro_broadcast">64 (<font color="red">0</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1492425305" class="episodes" hashtag="andro_broadcast">65 (<font color="green">+1</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1492425305" class="release-date">19.04.2021 12:51</span>|
 
 ---
@@ -2819,8 +2819,8 @@
 |**Ведущие**      |Дмитрий Борисов<br>Артемий Леонов|
 |**Регулярность** |Еженедельно|
 |**Длительность** |80-120 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1506185868" class="episodes" hashtag="xyz">52 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1506185868" class="release-date">13.08.2021 11:09</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1506185868" class="episodes" hashtag="xyz">53 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1506185868" class="release-date">20.08.2021 21:14</span>|
 
 ---
 
