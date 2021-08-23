@@ -1123,10 +1123,10 @@
 
 ---
 
-|Название         |Циферкаст|
-|:----------------|:--------|
+|Название         |[Циферкаст](https://www.spreaker.com/show/tsiferkast)|
+|:----------------|:----------------------------------------------------|
 |**Логотип**      |<span itunes-id="1473142814" class="itunes-img"><img height="100" width="100" src="https://is3-ssl.mzstatic.com/image/thumb/Podcasts125/v4/fb/17/c1/fb17c1ef-dd2a-8122-d77c-4558fb63877e/mza_12183550225493332388.jpg/600x600bb.jpg"></span>|
-|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/циферкаст/id1473142814) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/8093588)|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/циферкаст/id1473142814) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvMzYyMTM4MC9lcGlzb2Rlcy9mZWVk) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/4216027) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/8093588)|
 |**Описание**     |«Циферкаст» — подкаст Центра подготовки руководителей цифровой трансформации. Ведущие Ксения Ткачева и Олег Шакиров обсуждают с гостями что происходит с обществом и государством в цифровую эпоху.|
 |**Ведущие**      |Ксения Ткачева<br>Олег Шакиров|
 |**Регулярность** |Время от времени|
