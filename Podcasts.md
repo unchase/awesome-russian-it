@@ -1266,6 +1266,19 @@
 
 ---
 
+|Название         |[AI Journey. Путешествие в мир искусственного интеллекта](https://ai-journey.ru/media/podkasty)|
+|:----------------|:----------------------------------------------------------------------------------------------|
+|**Логотип**      |<span itunes-id="1555563105" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/podcast/id1555563105) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80OWI1MTIwOC9wb2RjYXN0L3Jzcw==) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/ai-journey-putieshiestviie-v-mir-iskusstviennogho-intielliekta) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/id3907139) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UC8lMoWmk8x6zv_r5Z4zA_gQ) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/14050759) • [![RSS](img/favicons/rss.png)](https://anchor.fm/s/49b51208/podcast/rss)|
+|**Описание**     |В России ежегодно проходит крупнейшая в мире международная конференция по искусственному интеллекту AI Journey. На мероприятии обсуждаются вопросы развития искусственного интеллекта, его возможности и области применения, а ведущие мировые эксперты рассказывают об интересных кейсах и обсуждают вопросы перспектив развития ИИ как в отдельно взятых странах и регионах, так и во всем мире в целом. В этом подкасте мы собрали некоторые выступления и предлагаем их вашему вниманию.|
+|**Ведущие**      ||
+|**Регулярность** |Время от времени|
+|**Длительность** |20-30 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1555563105" class="episodes" hashtag="AI_Journey"></span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1555563105" class="release-date"></span>|
+
+---
+
 |Название         |Argumentarium|
 |:----------------|:------------|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/csssr/sets/argumentarium) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCdkZ6ckHOJ3DjAYxoGeMG0w) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/8742993)|
