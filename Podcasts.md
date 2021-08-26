@@ -184,6 +184,19 @@
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="448433787" class="episodes" hashtag="securit13">125 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="448433787" class="release-date">31.12.2018 19:02</span>|
 
+---
+
+|Название         |Security Vision - информационная безопасность от А до Я|
+|:----------------|:------------------------------------------------------|
+|**Логотип**      |<span itunes-id="1567239191" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Ссылки**       |[![Anchor](img/favicons/anchor.fm.png)](https://anchor.fm/securityvision) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/security-vision-информационная-безопасность-от-а-до-я/id1567239191) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy81YWRjNTAzYy9wb2RjYXN0L3Jzcw==) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/Security-Vision---информационная-безопасность-от-А-до-Я-id4149823) • [![RSS](img/favicons/rss.png)](https://anchor.fm/s/5adc503c/podcast/rss)|
+|**Описание**     |Security Vision - информационная безопасность от А до Я.|
+|**Ведущие**      |Руслан Рахметов|
+|**Регулярность** |Время от времени|
+|**Длительность** |~10 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1567239191" class="episodes" hashtag="SecurityVision"></span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1567239191" class="release-date"></span>|
+
 ### **Общее** <a name="podcasts-common"></a>
 
 <sup>[Содержание](#содержание)</sup>

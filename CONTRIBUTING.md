@@ -18,7 +18,7 @@
 |Название         |[]()|
 |:----------------|:--------------------------------------|
 |**Логотип**      |<span itunes-id="" class="itunes-img"><img height=100 width=100 src=""></img></span>|
-|**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)]() • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)]() • [![Google Podcasts](img/favicons/podcasts.google.com.png)]() • [![Podfm](img/favicons/podfm.ru.png)]() • [![Player](img/favicons/player.fm.png)]() • [![Castbox](img/favicons/castbox.fm.png)]() • [![SoundStream](img/favicons/soundstream.media.png)]() • [![YouTube](img/favicons/youtube.com.png)]() • [![VK](img/favicons/vk.com.png)]() • [![Twitter](img/favicons/twitter.com.png)]() • [![Facebook](img/favicons/facebook.com.png)]() • [![Telegram](img/favicons/t.me.png)]() • [![Instagram](img/favicons/instagram.com.png)]() • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)]() • [![RSS](img/favicons/rss.png)]()|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)]() • [![Google Podcasts](img/favicons/podcasts.google.com.png)]() • [![Podfm](img/favicons/podfm.ru.png)]() • [![Player](img/favicons/player.fm.png)]() • [![Castbox](img/favicons/castbox.fm.png)]() • [![SoundStream](img/favicons/soundstream.media.png)]() • [![YouTube](img/favicons/youtube.com.png)]() • [![VK](img/favicons/vk.com.png)]() • [![Twitter](img/favicons/twitter.com.png)]() • [![Facebook](img/favicons/facebook.com.png)]() • [![Telegram](img/favicons/t.me.png)]() • [![Instagram](img/favicons/instagram.com.png)]() • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)]() • [![RSS](img/favicons/rss.png)]()|
 |**Описание**     ||
 |**Ведущие**      ||
 |**Регулярность** ||
