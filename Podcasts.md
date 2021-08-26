@@ -1602,6 +1602,19 @@
 
 ---
 
+|Название         |IT бизнес-анализ|
+|:----------------|:---------------|
+|**Логотип**      |<span itunes-id="1495705776" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/it-бизнес-анализ/id1495705776) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8xMmQ4NDczYy9wb2RjYXN0L3Jzcw==) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/it-biznies-analiz) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/12998464)|
+|**Описание**     |Подкаст об IT бизнес-анализе с нуля. Слушайте, узнавайте, становитесь!|
+|**Ведущие**      |Надя<br>Кима|
+|**Регулярность** |Время от времени|
+|**Длительность** |20-60 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1495705776" class="episodes" hashtag="IT_Ba"></span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1495705776" class="release-date"></span>|
+
+---
+
 |Название         |IT Way|
 |:----------------|:-----|
 |**Логотип**      |<span itunes-id="1490305221" class="itunes-img"><img height="100" width="100" src="https://is5-ssl.mzstatic.com/image/thumb/Podcasts125/v4/94/76/83/947683d6-0d1e-d077-4473-0735ea60dc6f/mza_11561191908499031839.jpg/600x600bb.jpg"></span>|
