@@ -92,6 +92,19 @@
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1485575312" class="episodes" hashtag="forklog">4 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1485575312" class="release-date">21.04.2020 10:35</span>|
 
+---
+
+|Название         |Pro Blockchain|
+|:----------------|:-------------|
+|**Логотип**      |<span itunes-id="1499403647" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/pro-blockchain/id1499403647) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCgWfwPyxVa_R6Pt7YkQo3og)|
+|**Описание**     |Новоси блокчейна и криптовалют.|
+|**Ведущие**      |Владислав Носко<br>Макс Бурков|
+|**Регулярность** |Каждый день|
+|**Длительность** |10-40 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1499403647" class="episodes" hashtag="Pro_Blockchain"></span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1499403647" class="release-date"></span>|
+
 ### **Инвестирование** <a name="podcasts-invest"></a
 
 <sup>[Содержание](#содержание)</sup>
