@@ -240,6 +240,19 @@
 
 ---
 
+|Название         |[Андроиды и электроовцы](https://www.forbes.ru/podcasts/androidy-i-elektroovcy)|
+|:----------------|:------------------------------------------------------------------------------|
+|**Логотип**      |<span itunes-id="1572430351" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/андроиды-и-электроовцы/id1572430351) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cHM6Ly9jbG91ZC5tYXZlLmRpZ2l0YWwvMzMzNDE) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/androidy-i-elektroovtsy) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcasts-11982368) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/16267556)|
+|**Описание**     |Одновременно визионерский и прикладной подкаст Forbes и X5Group о профессионалах будущего. Вместе с нашими гостями – программистами, архитекторами, игропрактиками, дата-детективами – обсуждаем, как изменится рынок труда, когда роботы заберут рабочие места людей, сможет ли человек найти место в новой реальности и стоит ли уже сейчас задумываться о смене профессии. В первой части выпусков мы рассказываем о будущем сферы, во второй — говорим о профессии, нужных для неё навыках и пытаемся понять: как подготовить себя к ней уже сейчас.|
+|**Ведущие**      |Ира Юзбекова<br>Павел Волощук|
+|**Регулярность** |Еженедельно|
+|**Длительность** |40-60 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1572430351" class="episodes" hashtag="Forbes_Russia"></span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1572430351" class="release-date"></span>|
+
+---
+
 |Название         |[Битовая каска](https://bitcask.live/)|
 |:----------------|:-------------------------------------|
 |**Логотип**      |<span itunes-id="1497722428" class="itunes-img"><img height="100" width="100" src="https://is2-ssl.mzstatic.com/image/thumb/Podcasts115/v4/d0/7a/95/d07a9599-85b9-e6fb-b56f-85cc31d1ace8/mza_474769574619645814.jpg/600x600bb.jpg"></span>|
