@@ -2255,6 +2255,19 @@
 
 ---
 
+|Название         |Ненастоящий продакт|
+|:----------------|:------------------|
+|**Логотип**      |<span itunes-id="1576871742" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/ненастоящий-продакт/id1576871742) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/watch?v=bE9nPFoz44o&list=PLxF_rYtB5vBCb-HoC35mNDapCCFio9bR5)|
+|**Описание**     |Нарративный подкаст о том как сотрудник Продуктового офиса Сбера принимает решение стать продактом, изучает как устроено продуктовое управление, знакомится с продактами внутри и снаружи, задает неудобные вопросы, учится и ходит "в гости" в разные продуктовые команды.|
+|**Ведущие**      |Ира Боримская|
+|**Регулярность** |Еженедельно|
+|**Длительность** |30-50 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1576871742" class="episodes" hashtag="Ненастоящий_продакт"></span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1576871742" class="release-date"></span>|
+
+---
+
 |Название         |USABILITYLAB|
 |:----------------|:-----------|
 |**Логотип**      |<span itunes-id="1524320760" class="itunes-img"><img height="100" width="100" src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/5f/2c/ce/5f2cce5b-c461-dcb2-53f7-ea21b5471e51/mza_6770340047625929150.jpg/600x600bb.jpg"></span>|
