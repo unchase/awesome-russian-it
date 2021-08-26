@@ -2268,6 +2268,19 @@
 
 ---
 
+|Название         |Просто руководи!|
+|:----------------|:---------------|
+|**Логотип**      |<span itunes-id="1549396683" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/просто-руководи/id1549396683) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS8xNjE5ODE1LnJzcw==) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/Просто-руководи!-id3737222)• [![Telegram](img/favicons/t.me.png)](https://t.me/prostorukovodi) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/13523835)|
+|**Описание**     |Если вам интересно зачем нужны руководители, чем они на самом деле занимаются, и как развивать свои лидерские качества - вам сюда! Мы будем делиться своим опытом, советовать умные книжки и конечно болтать за жизнь.|
+|**Ведущие**      |Виктор<br>Юлия|
+|**Регулярность** |Время от времени|
+|**Длительность** |50-80 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1549396683" class="episodes" hashtag="Просто_руководи"></span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1549396683" class="release-date"></span>|
+
+---
+
 |Название         |USABILITYLAB|
 |:----------------|:-----------|
 |**Логотип**      |<span itunes-id="1524320760" class="itunes-img"><img height="100" width="100" src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/5f/2c/ce/5f2cce5b-c461-dcb2-53f7-ea21b5471e51/mza_6770340047625929150.jpg/600x600bb.jpg"></span>|
