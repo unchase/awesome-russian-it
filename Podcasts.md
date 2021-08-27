@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">26.08.2021 20:13</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">27.08.2021 08:05</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -96,14 +96,14 @@
 
 |Название         |Pro Blockchain|
 |:----------------|:-------------|
-|**Логотип**      |<span itunes-id="1499403647" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Логотип**      |<span itunes-id="1499403647" class="itunes-img"><img height="100" width="100" src="https://is3-ssl.mzstatic.com/image/thumb/Podcasts125/v4/8f/27/ce/8f27ce35-2f03-0454-63e4-55088aded65f/mza_11730434439720794915.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/pro-blockchain/id1499403647) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCgWfwPyxVa_R6Pt7YkQo3og)|
 |**Описание**     |Новоси блокчейна и криптовалют.|
 |**Ведущие**      |Владислав Носко<br>Макс Бурков|
 |**Регулярность** |Каждый день|
 |**Длительность** |10-40 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1499403647" class="episodes" hashtag="Pro_Blockchain"></span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1499403647" class="release-date"></span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1499403647" class="episodes" hashtag="Pro_Blockchain">500</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1499403647" class="release-date">25.08.2021 22:21</span>|
 
 ### **Инвестирование** <a name="podcasts-invest"></a
 
@@ -188,14 +188,14 @@
 
 |Название         |Security Vision - информационная безопасность от А до Я|
 |:----------------|:------------------------------------------------------|
-|**Логотип**      |<span itunes-id="1567239191" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Логотип**      |<span itunes-id="1567239191" class="itunes-img"><img height="100" width="100" src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/85/92/37/85923707-6da8-0935-113f-1a059f36ff20/mza_14163563754786983459.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Anchor](img/favicons/anchor.fm.png)](https://anchor.fm/securityvision) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/security-vision-информационная-безопасность-от-а-до-я/id1567239191) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy81YWRjNTAzYy9wb2RjYXN0L3Jzcw==) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/Security-Vision---информационная-безопасность-от-А-до-Я-id4149823) • [![RSS](img/favicons/rss.png)](https://anchor.fm/s/5adc503c/podcast/rss)|
 |**Описание**     |Security Vision - информационная безопасность от А до Я.|
 |**Ведущие**      |Руслан Рахметов|
 |**Регулярность** |Время от времени|
 |**Длительность** |~10 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1567239191" class="episodes" hashtag="SecurityVision"></span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1567239191" class="release-date"></span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1567239191" class="episodes" hashtag="SecurityVision">60</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1567239191" class="release-date">18.08.2021 20:41</span>|
 
 ### **Общее** <a name="podcasts-common"></a>
 
@@ -242,14 +242,14 @@
 
 |Название         |[Андроиды и электроовцы](https://www.forbes.ru/podcasts/androidy-i-elektroovcy)|
 |:----------------|:------------------------------------------------------------------------------|
-|**Логотип**      |<span itunes-id="1572430351" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Логотип**      |<span itunes-id="1572430351" class="itunes-img"><img height="100" width="100" src="https://is3-ssl.mzstatic.com/image/thumb/Podcasts115/v4/8f/7d/95/8f7d9591-ba0f-c4eb-b11d-2e6ba312eafc/mza_9367310945903602830.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/андроиды-и-электроовцы/id1572430351) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cHM6Ly9jbG91ZC5tYXZlLmRpZ2l0YWwvMzMzNDE) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/androidy-i-elektroovtsy) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcasts-11982368) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/16267556)|
 |**Описание**     |Одновременно визионерский и прикладной подкаст Forbes и X5Group о профессионалах будущего. Вместе с нашими гостями – программистами, архитекторами, игропрактиками, дата-детективами – обсуждаем, как изменится рынок труда, когда роботы заберут рабочие места людей, сможет ли человек найти место в новой реальности и стоит ли уже сейчас задумываться о смене профессии. В первой части выпусков мы рассказываем о будущем сферы, во второй — говорим о профессии, нужных для неё навыках и пытаемся понять: как подготовить себя к ней уже сейчас.|
 |**Ведущие**      |Ира Юзбекова<br>Павел Волощук|
 |**Регулярность** |Еженедельно|
 |**Длительность** |40-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1572430351" class="episodes" hashtag="Forbes_Russia"></span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1572430351" class="release-date"></span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1572430351" class="episodes" hashtag="Forbes_Russia">11</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1572430351" class="release-date">15.06.2021 12:38</span>|
 
 ---
 
@@ -391,7 +391,7 @@
 |**Ведущие**      |Екатерина<br>Наталья|
 |**Регулярность** |Время от времени|
 |**Длительность** |30-50 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1492765073" class="episodes" hashtag="tceh">19 (<font color="red">0</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1492765073" class="episodes" hashtag="tceh">20 (<font color="green">+1</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1492765073" class="release-date">08.04.2021 14:13</span>|
 
 ---
@@ -489,7 +489,7 @@
 |**Ведущие**      |[Самат Галимов](https://samat.me/) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/samat/) [![Medium](img/favicons/medium.com.png)](https://medium.com/@samat)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |15-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1488945593" class="episodes" hashtag="ctodaily">68 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1488945593" class="episodes" hashtag="ctodaily">68 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1488945593" class="release-date">15.04.2021 12:48</span>|
 
 ---
@@ -541,7 +541,7 @@
 |**Ведущие**      ||
 |**Регулярность** |Еженедельно|
 |**Длительность** |15-20 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1517634826" class="episodes" hashtag="Код">66 (<font color="red">0</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1517634826" class="episodes" hashtag="Код">67 (<font color="green">+1</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1517634826" class="release-date">21.05.2021 11:44</span>|
 
 
@@ -741,8 +741,8 @@
 |**Ведущие**      |Михаил Марченко<br>Ольга Давыдова|
 |**Регулярность** |Время от времени|
 |**Длительность** |30-50 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="472631602" class="episodes" hashtag="it.career.ua">331 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="472631602" class="release-date">20.08.2021 11:00</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="472631602" class="episodes" hashtag="it.career.ua">332 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="472631602" class="release-date">26.08.2021 11:00</span>|
 
 ---
 
@@ -962,7 +962,7 @@
 |**Ведущие**      |Вязанкин Михаил<br>Гончаров Левон|
 |**Регулярность** |Время от времени|
 |**Длительность** |10-70 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1446456479" class="episodes" hashtag="chpulya">46 (<font color="red">0</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1446456479" class="episodes" hashtag="chpulya">47 (<font color="green">+1</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1446456479" class="release-date">16.07.2021 13:27</span>|
 
 ---
@@ -1001,7 +1001,7 @@
 |**Ведущие**      |Вахтанг Махарадзе|
 |**Регулярность** |Ежедневно|
 |**Длительность** |5-10 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="episodes" hashtag="strana_tranzistoriia">1208 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="episodes" hashtag="strana_tranzistoriia">1208 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="release-date">29.04.2021 14:30</span>|
 
 ---
@@ -1209,7 +1209,7 @@
 |**Ведущие**      ||
 |**Регулярность** |Ежедневно|
 |**Длительность** |~5 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="episodes" hashtag="shortcode">277 (<font color="red">-1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="episodes" hashtag="shortcode">278 (<font color="green">+1</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="release-date">26.05.2021 03:00</span>|
 
 ---
@@ -1235,7 +1235,7 @@
 |**Ведущие**      |Андрей Барышников [![GitHub](img/favicons/github.com.png)](https://github.com/BilberryMuffin)<br>Сергей Епихин<br>Антон Поздняков|
 |**Регулярность** |Еженедельно|
 |**Длительность** |70-120 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="868222886" class="episodes" hashtag="beardycast">508 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="868222886" class="episodes" hashtag="beardycast">508 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="868222886" class="release-date">05.05.2021 15:53</span>|
 
 ---
@@ -1268,14 +1268,14 @@
 
 |Название         |[AI Journey. Путешествие в мир искусственного интеллекта](https://ai-journey.ru/media/podkasty)|
 |:----------------|:----------------------------------------------------------------------------------------------|
-|**Логотип**      |<span itunes-id="1555563105" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Логотип**      |<span itunes-id="1555563105" class="itunes-img"><img height="100" width="100" src="https://is3-ssl.mzstatic.com/image/thumb/Podcasts124/v4/52/f4/01/52f4010f-1e10-0cf6-1fe5-e61efcaa4b67/mza_9711918524562882284.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/podcast/id1555563105) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy80OWI1MTIwOC9wb2RjYXN0L3Jzcw==) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/ai-journey-putieshiestviie-v-mir-iskusstviennogho-intielliekta) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/id3907139) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UC8lMoWmk8x6zv_r5Z4zA_gQ) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/14050759) • [![RSS](img/favicons/rss.png)](https://anchor.fm/s/49b51208/podcast/rss)|
 |**Описание**     |В России ежегодно проходит крупнейшая в мире международная конференция по искусственному интеллекту AI Journey. На мероприятии обсуждаются вопросы развития искусственного интеллекта, его возможности и области применения, а ведущие мировые эксперты рассказывают об интересных кейсах и обсуждают вопросы перспектив развития ИИ как в отдельно взятых странах и регионах, так и во всем мире в целом. В этом подкасте мы собрали некоторые выступления и предлагаем их вашему вниманию.|
 |**Ведущие**      ||
 |**Регулярность** |Время от времени|
 |**Длительность** |20-30 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1555563105" class="episodes" hashtag="AI_Journey"></span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1555563105" class="release-date"></span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1555563105" class="episodes" hashtag="AI_Journey">10</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1555563105" class="release-date">19.04.2021 10:00</span>|
 
 ---
 
@@ -1346,7 +1346,7 @@
 |**Ведущие**      ||
 |**Регулярность** |Еженедельно|
 |**Длительность** |20-80 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1484275234" class="episodes" hashtag="matematicxyz">88 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1484275234" class="episodes" hashtag="matematicxyz">88 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1484275234" class="release-date">26.08.2021 13:06</span>|
 
 ---
@@ -1656,27 +1656,27 @@
 
 |Название         |[IT Бизнес Брокер: как покупать, развивать и продавать IT-бизнесы](https://itbb.ru/)|
 |:----------------|:-----------------------------------------------------------------------------------|
-|**Логотип**      |<span itunes-id="1202582439" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Логотип**      |<span itunes-id="1202582439" class="itunes-img"><img height="100" width="100" src="https://is3-ssl.mzstatic.com/image/thumb/Podcasts123/v4/4a/aa/49/4aaa497b-d59c-bbbd-746c-4330e597b7cb/mza_1577397874012836099.png/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/it-бизнес-брокер-как-покупать-развивать-и-продавать/id1202582439) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/it-biznies-brokier-kak-pokupat-razvivat-i-prodavat-it-bizniesy) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/IT-Бизнес-Брокер%3A-как-покупать%2C-развивать-и-продавать-IT-бизнесы-id2897608) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/it-biznes-broker-kak-pokupat-razvivat-i-prodavat-it-biznesy) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCHK6xY4AiLDrtODorQVx5GA) • [![VK](img/favicons/vk.com.png)](https://vk.com/itbizbroker) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/itbizbroker)|
 |**Описание**     |Подкаст от руководителя проектов IT Бизнес Брокер и Telderi Нины Парамоновой о том, как покупать, развивать и продавать интернет-компании.<br>В каждом выпуске инвесторы и основатели известных IT проектов откровенно делятся историями о слияниях и поглощениях, рассказывают об успешных и неуспешных инвестициях, многомиллионных выходах и проваленных проектах.<br>Мы собираем самые заметные сделки на рынке и общаемся с теми, кто имеет реальный опыт покупки и продажи интернет-магазинов, онлайн-сервисов и мобильных приложений.<br>Мы вникаем в детали и обсуждаем зачем предприниматели продают и покупают бизнесы, где искать покупателей и инвесторов, как оценивать активы и зарабатывать на сделках больше.|
 |**Ведущие**      |Нина Парамонова|
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |30-69 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1202582439" class="episodes" hashtag="itbizbroker"></span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1202582439" class="release-date"></span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1202582439" class="episodes" hashtag="itbizbroker">62</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1202582439" class="release-date">21.07.2021 11:07</span>|
 
 ---
 
 |Название         |IT бизнес-анализ|
 |:----------------|:---------------|
-|**Логотип**      |<span itunes-id="1495705776" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Логотип**      |<span itunes-id="1495705776" class="itunes-img"><img height="100" width="100" src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/99/d6/78/99d67894-18ce-86ed-37cc-3f76d9ae9759/mza_17277190164583617867.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/it-бизнес-анализ/id1495705776) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8xMmQ4NDczYy9wb2RjYXN0L3Jzcw==) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/it-biznies-analiz) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/12998464)|
 |**Описание**     |Подкаст об IT бизнес-анализе с нуля. Слушайте, узнавайте, становитесь!|
 |**Ведущие**      |Надя<br>Кима|
 |**Регулярность** |Время от времени|
 |**Длительность** |20-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1495705776" class="episodes" hashtag="IT_Ba"></span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1495705776" class="release-date"></span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1495705776" class="episodes" hashtag="IT_Ba">39</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1495705776" class="release-date">03.08.2021 18:34</span>|
 
 ---
 
@@ -1750,7 +1750,7 @@
 |**Ведущие**      |Александр Ляпота|
 |**Регулярность** |Еженедельно|
 |**Длительность** |30-70 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="454929808" class="episodes" hashtag="Its_A_Good_Cast">153 (<font color="red">0</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="454929808" class="episodes" hashtag="Its_A_Good_Cast">154 (<font color="green">+1</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="454929808" class="release-date">18.05.2021 10:00</span>|
 
 ---
@@ -1828,7 +1828,7 @@
 |**Ведущие**      ||
 |**Регулярность** |Еженедельно|
 |**Длительность** |50-100 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="454929808" class="episodes" hashtag="keddr">153 (<font color="red">0</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="454929808" class="episodes" hashtag="keddr">154 (<font color="green">+1</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="454929808" class="release-date">18.05.2021 10:00</span>|
 
 ---
@@ -2270,27 +2270,27 @@
 
 |Название         |Ненастоящий продакт|
 |:----------------|:------------------|
-|**Логотип**      |<span itunes-id="1576871742" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Логотип**      |<span itunes-id="1576871742" class="itunes-img"><img height="100" width="100" src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/c8/8a/81/c88a8189-18e3-5b0b-1129-e9cb105fe5f9/mza_9800994732640184386.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/ненастоящий-продакт/id1576871742) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/watch?v=bE9nPFoz44o&list=PLxF_rYtB5vBCb-HoC35mNDapCCFio9bR5)|
 |**Описание**     |Нарративный подкаст о том как сотрудник Продуктового офиса Сбера принимает решение стать продактом, изучает как устроено продуктовое управление, знакомится с продактами внутри и снаружи, задает неудобные вопросы, учится и ходит "в гости" в разные продуктовые команды.|
 |**Ведущие**      |Ира Боримская|
 |**Регулярность** |Еженедельно|
 |**Длительность** |30-50 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1576871742" class="episodes" hashtag="Ненастоящий_продакт"></span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1576871742" class="release-date"></span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1576871742" class="episodes" hashtag="Ненастоящий_продакт">7</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1576871742" class="release-date">16.07.2021 17:30</span>|
 
 ---
 
 |Название         |Просто руководи!|
 |:----------------|:---------------|
-|**Логотип**      |<span itunes-id="1549396683" class="itunes-img"><img height=100 width=100 src=""></img></span>|
+|**Логотип**      |<span itunes-id="1549396683" class="itunes-img"><img height="100" width="100" src="https://is3-ssl.mzstatic.com/image/thumb/Podcasts114/v4/d5/e4/1b/d5e41b98-86e7-e284-ff48-b1468aab17ed/mza_15464582594346890841.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/просто-руководи/id1549396683) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5idXp6c3Byb3V0LmNvbS8xNjE5ODE1LnJzcw==) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/Просто-руководи!-id3737222)• [![Telegram](img/favicons/t.me.png)](https://t.me/prostorukovodi) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/13523835)|
 |**Описание**     |Если вам интересно зачем нужны руководители, чем они на самом деле занимаются, и как развивать свои лидерские качества - вам сюда! Мы будем делиться своим опытом, советовать умные книжки и конечно болтать за жизнь.|
 |**Ведущие**      |Виктор<br>Юлия|
 |**Регулярность** |Время от времени|
 |**Длительность** |50-80 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1549396683" class="episodes" hashtag="Просто_руководи"></span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1549396683" class="release-date"></span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1549396683" class="episodes" hashtag="Просто_руководи">6</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1549396683" class="release-date">07.07.2021 11:00</span>|
 
 ---
 
@@ -2599,8 +2599,8 @@
 |**Ведущие**      ||
 |**Регулярность** |Еженедельно|
 |**Длительность** |60-120 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1247192730" class="episodes" hashtag="frontend_u">212 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1247192730" class="release-date">16.08.2021 11:33</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1247192730" class="episodes" hashtag="frontend_u">213 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1247192730" class="release-date">25.08.2021 23:26</span>|
 
 ---
 
@@ -2819,7 +2819,7 @@
 |**Ведущие**      ||
 |**Регулярность** |Еженедельно|
 |**Длительность** |20-50 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1521240754" class="episodes" hashtag="Геймдев_без_сахара">61 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1521240754" class="episodes" hashtag="Геймдев_без_сахара">61 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1521240754" class="release-date">15.04.2021 12:30</span>|
 
 ---
