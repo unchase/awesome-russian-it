@@ -931,7 +931,7 @@
 |Название         |Разговоры из-под фальшпола|
 |:----------------|:-------------------------|
 |**Логотип**      |<span itunes-id="1524056283" class="itunes-img"><img height="100" width="100" src="https://is5-ssl.mzstatic.com/image/thumb/Podcasts114/v4/a3/3c/7f/a33c7f47-ed91-d86c-b14b-65dc4ecbcb99/mza_963138230088755694.jpg/600x600bb.jpg"></span>|
-|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ua/podcast/разговоры-из-под-фальшпола/id1524056283)|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ua/podcast/разговоры-из-под-фальшпола/id1524056283) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8yYzUzMzJkMC9wb2RjYXN0L3Jzcw==) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/razghovory-iz-pod-falshpola) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/Разговоры-из-под-фальшпола-id3131968) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/11551041)|
 |**Описание**     |Всем привет! Вы слушаете «Разговоры из-под фальшпола» - подкаст компании DataLine об инженерной инфраструктуре и центрах обработки данных.|
 |**Ведущие**      |Кирилл Шадский|
 |**Регулярность** |Еженедельно|
