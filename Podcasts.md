@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">16.09.2021 08:05</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">16.09.2021 12:05</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -103,7 +103,7 @@
 |**Регулярность** |Каждый день|
 |**Длительность** |10-40 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1499403647" class="episodes" hashtag="Pro_Blockchain">500 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1499403647" class="release-date">15.09.2021 23:59</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1499403647" class="release-date">14.09.2021 10:30</span>|
 
 ### **Инвестирование** <a name="podcasts-invest"></a
 
@@ -489,7 +489,7 @@
 |**Ведущие**      |[Самат Галимов](https://samat.me/) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/samat/) [![Medium](img/favicons/medium.com.png)](https://medium.com/@samat)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |15-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1488945593" class="episodes" hashtag="ctodaily">72 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1488945593" class="episodes" hashtag="ctodaily">72 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1488945593" class="release-date">16.09.2021 05:00</span>|
 
 ---
@@ -1513,7 +1513,7 @@
 
 |Название         |[ForGeeks Podcast](https://anchor.fm/forgeeks)|
 |:----------------|:---------------------------------------------|
-|**Логотип**      |<span itunes-id="1436711112" class="itunes-img"><img height="100" width="100" src="https://is4-ssl.mzstatic.com/image/thumb/Podcasts115/v4/b7/85/f1/b785f1e6-8a97-2f93-a9fa-03debe780b71/mza_12384117884898455498.jpg/600x600bb.jpg"></span>|
+|**Логотип**      |<span itunes-id="1436711112" class="itunes-img"><img height="100" width="100" src="https://is3-ssl.mzstatic.com/image/thumb/Podcasts115/v4/cf/d7/fd/cfd7fd49-121e-c472-436c-4956e1befc5e/mza_9162991740312822809.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/forgeeks-podcast/id1436711112) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/?feed=aHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL2ZnZWVrcw) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/forgeeks-podcast/) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/forgeeks-podcast-2578747) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/forgeeks-podcast) • [![Podster](img/favicons/podster.fm.png)](https://forgeeks.podster.fm/) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcasts-121593523) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/7560675) • [![RSS](img/favicons/rss.png)](https://anchor.fm/s/b4fb914/podcast/rss)|
 |**Описание**     |Всё про технологии и около того. Гаджеты, инновации, медицина, космос и пр. Каждую неделю рассказываем о новом и интересном в мире IT.|
 |**Ведущие**      |Сергей Кузнецов<br>Вахтанг Махарадзе|
@@ -1841,8 +1841,8 @@
 |**Ведущие**      |Михаил Ивашниченко<br>Олег Пузанов|
 |**Регулярность** |Время от времени|
 |**Длительность** |20-40 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1449696831" class="episodes" hashtag="keybeard">38 (<font color="green">+1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1449696831" class="release-date">15.09.2021 14:17</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1449696831" class="episodes" hashtag="keybeard">37 (<font color="red">-1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1449696831" class="release-date">09.09.2021 07:49</span>|
 
 ---
 
@@ -1893,7 +1893,7 @@
 |**Ведущие**      |Юрий Агеев|
 |**Регулярность** |Еженедельно|
 |**Длительность** |40-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1417851966" class="episodes" hashtag="productsense">166 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1417851966" class="episodes" hashtag="productsense">166 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1417851966" class="release-date">15.09.2021 23:59</span>|
 
 ---
@@ -2923,8 +2923,8 @@
 |**Ведущие**      |Дмитрий Борисов<br>Артемий Леонов|
 |**Регулярность** |Еженедельно|
 |**Длительность** |80-120 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1506185868" class="episodes" hashtag="xyz">56 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1506185868" class="release-date">14.09.2021 19:55</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1506185868" class="episodes" hashtag="xyz">55 (<font color="red">-1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1506185868" class="release-date">09.09.2021 21:06</span>|
 
 ---
 
