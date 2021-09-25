@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">24.09.2021 20:09</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">25.09.2021 08:05</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -117,7 +117,7 @@
 |**Ведущие**      |Бабайкин|
 |**Регулярность** |Еженедельно|
 |**Длительность** |20-30 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1556322514" class="episodes" hashtag="">29 (<font color="red">0</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1556322514" class="episodes" hashtag="">30 (<font color="green">+1</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1556322514" class="release-date">17.09.2021 12:43</span>|
 
 ### **ИТ-безопасность** <a name="podcasts-security"></a>
@@ -516,7 +516,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |~90 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="363311940" class="episodes" hashtag="rcmp_podcast">10 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="363311940" class="release-date">18.09.2021 02:19</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="363311940" class="release-date">25.09.2021 02:08</span>|
 
 ---
 
@@ -1144,8 +1144,8 @@
 |**Ведущие**      |Антон Околелов [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/varanio/) <br>Никита Васильченко [![GitHub](img/favicons/github.com.png)](https://github.com/xenmayer) [![Medium](img/favicons/medium.com.png)](https://medium.com/@xenmayer)<br>Олег Грицак [![GitHub](img/favicons/github.com.png)](https://github.com/hack3p) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/hack3p/)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |60-110 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1458311254" class="episodes" hashtag="znprod">130 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1458311254" class="release-date">18.09.2021 06:00</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1458311254" class="episodes" hashtag="znprod">131 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1458311254" class="release-date">25.09.2021 05:59</span>|
 
 ---
 
@@ -1506,8 +1506,8 @@
 |**Ведущие**      |Денис Мартынцев<br>Кирилл Гурбанов|
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |40-90 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1480344895" class="episodes" hashtag="EPICподкаст">27 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1480344895" class="release-date">16.09.2021 18:12</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1480344895" class="episodes" hashtag="EPICподкаст">28 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1480344895" class="release-date">24.09.2021 13:14</span>|
 
 ---
 
@@ -1688,7 +1688,7 @@
 |**Ведущие**      |Павел Калашников [![GitHub](img/favicons/github.com.png)](https://github.com/kalashnikovisme) [![VK](img/favicons/vk.com.png)](https://vk.com/kalashnikovisme) [![Facebook](img/favicons/facebook.com.png)](https://facebook.com/kalashnikovisme)<br>Наталья Мусина [![VK](img/favicons/vk.com.png)](https://vk.com/wolffyj) [![Facebook](img/favicons/facebook.com.png)](https://facebook.com/wolffyj)<br>Елизавета Сарычева [![VK](img/favicons/vk.com.png)](https://vk.com/lisa_sarycheva) [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/profile.php?id=100001762322638)<br>Дмитрий Николаев [![GitHub](img/favicons/github.com.png)](https://github.com/BooSt163)
 |**Регулярность** |Еженедельно|
 |**Длительность** |30-110 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1490305221" class="episodes" hashtag="itway">88 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1490305221" class="episodes" hashtag="itway">88 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1490305221" class="release-date">24.09.2021 15:50</span>|
 
 ---
@@ -1841,7 +1841,7 @@
 |**Ведущие**      |Михаил Ивашниченко<br>Олег Пузанов|
 |**Регулярность** |Время от времени|
 |**Длительность** |20-40 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1449696831" class="episodes" hashtag="keybeard">38 (<font color="red">0</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1449696831" class="episodes" hashtag="keybeard">39 (<font color="green">+1</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1449696831" class="release-date">15.09.2021 14:17</span>|
 
 ---
@@ -1971,8 +1971,8 @@
 |**Ведущие**      ||
 |**Регулярность** |Еженедельно|
 |**Длительность** |60-100 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1455023466" class="episodes" hashtag="proconf">107 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1455023466" class="release-date">18.09.2021 09:00</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1455023466" class="episodes" hashtag="proconf">108 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1455023466" class="release-date">24.09.2021 20:33</span>|
 
 ---
 
@@ -2235,7 +2235,7 @@
 |**Ведущие**      |Тимур Сейфельмлюков<br>Дмитрий Зомбак [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/zombak) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCGygd95WaTLPcrRSB1OIB3g)<br>Максим Зарецкий<br>Иногда:<br>[Валентин Петухов (Wylsacom)](https://wylsa.com/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCt7sv-NKh44rHAEb-qCCxvA)<br>Григорий Бакунов (Bobuk) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/bobuk/) [![GitHub](img/favicons/github.com.png)](https://github.com/bobuk)|
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |120-150 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1068329384" class="episodes" hashtag="zavtracast">385 (<font color="red">0</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1068329384" class="episodes" hashtag="zavtracast">386 (<font color="green">+1</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1068329384" class="release-date">22.09.2021 23:25</span>|
 
 ### **Продуктовый дизайн** <a name="podcasts-design"></a>
@@ -2276,7 +2276,7 @@
 |**Ведущие**      |Ира Боримская|
 |**Регулярность** |Еженедельно|
 |**Длительность** |30-50 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1576871742" class="episodes" hashtag="Ненастоящий_продакт">10 (<font color="red">0</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1576871742" class="episodes" hashtag="Ненастоящий_продакт">11 (<font color="green">+1</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1576871742" class="release-date">17.09.2021 10:30</span>|
 
 ---
@@ -2463,7 +2463,7 @@
 |**Ведущие**      |Григорий Петров [![GitHub](img/favicons/github.com.png)](https://github.com/grigoryvp) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/eyeofhell/)<br>Илья Лебедев [![GitHub](img/favicons/github.com.png)](https://github.com/Melevir)<br>[Валентин Домбровский](http://dombrovsky.me/)<br>Михаил Корнеев [![GitHub](img/favicons/github.com.png)](https://github.com/korneevm) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/voldar/)<br>Злата Обуховская<br>Алексей Штырняев|
 |**Регулярность** |Еженедельно|
 |**Длительность** |30-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1429543935" class="episodes" hashtag="moscowpython">123 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1429543935" class="episodes" hashtag="moscowpython">123 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1429543935" class="release-date">24.09.2021 17:45</span>|
 
 ##### **Ruby** <a name="podcasts-development-ruby"></a>
