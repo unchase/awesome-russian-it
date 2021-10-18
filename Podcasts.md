@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">18.10.2021 12:06</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">18.10.2021 16:13</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -103,7 +103,7 @@
 |**Регулярность** |Каждый день|
 |**Длительность** |10-40 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1499403647" class="episodes" hashtag="Pro_Blockchain">500 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1499403647" class="release-date">15.10.2021 15:06</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1499403647" class="release-date">18.10.2021 15:00</span>|
 
 ### **Инвестирование** <a name="podcasts-invest"></a
 
@@ -300,8 +300,8 @@
 |**Ведущие**      |Сергей Козырев [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/taksebe/)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |~70 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1399902281" class="episodes" hashtag="toinfinity_podcast">78 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1399902281" class="release-date">21.09.2021 07:59</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1399902281" class="episodes" hashtag="toinfinity_podcast">79 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1399902281" class="release-date">18.10.2021 07:52</span>|
 
 ---
 
@@ -327,7 +327,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |40-100 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="523996227" class="episodes" hashtag="tpair_podcast">10 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="523996227" class="release-date">30.09.2021 18:07</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="523996227" class="release-date">07.10.2021 18:42</span>|
 
 ---
 
@@ -1027,7 +1027,7 @@
 |**Ведущие**      ||
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |40-70 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1496543368" class="episodes" hashtag="sfierichieskoie_lidierstvo">24 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1496543368" class="episodes" hashtag="sfierichieskoie_lidierstvo">24 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1496543368" class="release-date">13.09.2021 15:00</span>|
 
 ---
@@ -1080,7 +1080,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |~50 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="378499320" class="episodes" hashtag="tochka">21 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="378499320" class="release-date">10.10.2021 21:05</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="378499320" class="release-date">17.10.2021 21:05</span>|
 
 ---
 
@@ -1248,7 +1248,7 @@
 |**Ведущие**      |Василий Подогрейкин|
 |**Регулярность** |Еженедельно|
 |**Длительность** |5-10 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1523465698" class="episodes" hashtag="AboutIT">3 (<font color="red">0</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1523465698" class="episodes" hashtag="AboutIT">4 (<font color="green">+1</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1523465698" class="release-date">17.10.2021 16:09</span>|
 
 ---
@@ -1445,7 +1445,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |120-180 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="903660317" class="episodes" hashtag="devzen_podcast">25 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="903660317" class="release-date">11.10.2021 01:17</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="903660317" class="release-date">17.10.2021 22:34</span>|
 
 ---
 
@@ -1945,7 +1945,7 @@
 |**Ведущие**      |Андрей Радионов|
 |**Регулярность** |Еженедельно|
 |**Длительность** |~70 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1503693347" class="episodes" hashtag="optacast">74 (<font color="red">0</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1503693347" class="episodes" hashtag="optacast">75 (<font color="green">+1</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1503693347" class="release-date">11.10.2021 15:04</span>|
 
 ---
@@ -1971,8 +1971,8 @@
 |**Ведущие**      ||
 |**Регулярность** |Еженедельно|
 |**Длительность** |60-100 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1455023466" class="episodes" hashtag="proconf">109 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1455023466" class="release-date">01.10.2021 13:40</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1455023466" class="episodes" hashtag="proconf">110 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1455023466" class="release-date">17.10.2021 16:48</span>|
 
 ---
 
@@ -2407,7 +2407,7 @@
 |**Ведущие**      |[Анатолий Кулаков](https://github.com/DotNetRu/BrandBook/wiki/Anatoly-Kulakov) [![GitHub](img/favicons/github.com.png)](https://github.com/kulakovt) [![DotNet.ru](https://favicon.yandex.net/favicon/dotnet.ru)](https://dotnet.ru)<br>[Игорь Лабутин](https://github.com/DotNetRu/BrandBook/wiki/Igor-Labutin) [![GitHub](img/favicons/github.com.png)](https://github.com/ilabutin)|
 |**Регулярность** |2 раза в месяц|
 |**Длительность** |50-80 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1484348948" class="episodes" hashtag="radiodotnet">38 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1484348948" class="episodes" hashtag="radiodotnet">38 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1484348948" class="release-date">18.10.2021 00:39</span>|
 
 ---
