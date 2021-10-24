@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">24.10.2021 08:06</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">24.10.2021 12:05</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1144,7 +1144,7 @@
 |**Ведущие**      |Антон Околелов [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/varanio/) <br>Никита Васильченко [![GitHub](img/favicons/github.com.png)](https://github.com/xenmayer) [![Medium](img/favicons/medium.com.png)](https://medium.com/@xenmayer)<br>Олег Грицак [![GitHub](img/favicons/github.com.png)](https://github.com/hack3p) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/hack3p/)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |60-110 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1458311254" class="episodes" hashtag="znprod">134 (<font color="red">-1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1458311254" class="episodes" hashtag="znprod">134 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1458311254" class="release-date">16.10.2021 06:00</span>|
 
 ---
@@ -1457,7 +1457,7 @@
 |**Ведущие**      |Анастасия Жбанова|
 |**Регулярность** |Время от времени|
 |**Длительность** |40-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1415692619" class="episodes" hashtag="newsroomaz">28 (<font color="red">-1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1415692619" class="episodes" hashtag="newsroomaz">28 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1415692619" class="release-date">06.10.2021 16:41</span>|
 
 ---
@@ -2791,7 +2791,7 @@
 |**Ведущие**      |Борис Веденский (cwe) [![Medium](img/favicons/medium.com.png)](https://medium.com/@vedensky) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/vedensky/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UC1a2rnuwCw6rEbAxclIHkng)<br>Валерий Истишев [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/istishev/)<br>Митя Иванов|
 |**Регулярность** |Еженедельно|
 |**Длительность** |~20 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1057019371" class="episodes" hashtag="droidercast">121 (<font color="red">-1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1057019371" class="episodes" hashtag="droidercast">121 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1057019371" class="release-date">16.10.2021 13:00</span>|
 
 #### **Разработка игр** <a name="podcasts-development-gamedev"></a>
