@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">26.10.2021 12:06</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">26.10.2021 16:14</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -48,7 +48,7 @@
 |**Ведущие**      |[Марат Сибгатулин (eucariot)](https://eucariot.livejournal.com/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCi8Dw_Kc5hKyK83xCW0jVfQ) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/eucariot/)<br>Александр Фатин (Лохматый Мамонт) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/loxmatiymamont/)<br>Антон Клочков<br>[Алексей Учакин (Snake)](https://nixman.info/) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/night_snake/) [![GitHub](img/favicons/github.com.png)](https://github.com/nightsnake) [![RSS](img/favicons/rss.png)](http://feeds.feedburner.com/khd/rss?format=xml)<br>Антон Литвинов (Dr_Wut) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/dr_wut/)<br>Роман Козлов [![GitHub](img/favicons/github.com.png)](https://github.com/soriel)<br>Роман Горшунов|
 |**Регулярность** |Еженедельно|
 |**Длительность** |30-130 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1065445951" class="episodes" hashtag="linkmeup">250 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1065445951" class="episodes" hashtag="linkmeup">250 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1065445951" class="release-date">22.10.2021 18:24</span>|
 
 ### **Блокчейн** <a name="podcasts-blockchain"></a>
@@ -1470,7 +1470,7 @@
 |**Ведущие**      |Алексей Ткачук|
 |**Регулярность** |Ежедневно|
 |**Длительность** |20-25 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1494018535" class="episodes" hashtag="Dnative">483 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1494018535" class="episodes" hashtag="Dnative">484 (<font color="green">+1</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1494018535" class="release-date">25.10.2021 14:53</span>|
 
 ---
@@ -1958,7 +1958,7 @@
 |**Ведущие**      |Стас Цыганов [![GitHub](img/favicons/github.com.png)](https://github.com/DevAlloy)<br>[Егор Толстой](http://etolstoy.com/) [![Medium](img/favicons/medium.com.png)](https://medium.com/@etolstoy) [![GitHub](img/favicons/github.com.png)](https://github.com/etolstoy)<br>Екатерина Петрова<br>Евгений Кателла|
 |**Регулярность** |Еженедельно|
 |**Длительность** |80-150 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1209828744" class="episodes" hashtag="podlodka">248 (<font color="red">-1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1209828744" class="episodes" hashtag="podlodka">248 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1209828744" class="release-date">11.10.2021 17:44</span>|
 
 ---
@@ -2479,7 +2479,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |20-60 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="597248066" class="episodes" hashtag="rwpod">300 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="597248066" class="release-date">18.10.2021 00:00</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="597248066" class="release-date">25.10.2021 00:00</span>|
 
 ##### **Scala** <a name="podcasts-development-scala"></a>
 
@@ -2508,8 +2508,8 @@
 |**Ведущие**      |[Вадим Макеев](https://pepelsbey.net/) [![RSS](img/favicons/rss.png)](https://pepelsbey.net/feed/index.rss) [![GitHub](img/favicons/github.com.png)](https://github.com/pepelsbey) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/pepelsbey/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCaTfYudJUVA8cV_But8KZVQ) [![Medium](img/favicons/medium.com.png)](https://medium.com/@pepelsbey)<br>[Никита Дубко](https://mefody.github.io/) [![GitHub](img/favicons/github.com.png)](https://github.com/MeFoDy)<br>Мария Просвирнина<br>[Алексей Симоненко](http://simonenko.su) [![GitHub](img/favicons/github.com.png)](https://github.com/meritt) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/meritt/)<br>Ольга Алексашенко [![GitHub](img/favicons/github.com.png)](https://github.com/tachisis/)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |40-90 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1080500016" class="episodes" hashtag="webstandards_ru">304 (<font color="red">-1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1080500016" class="release-date">18.10.2021 03:00</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1080500016" class="episodes" hashtag="webstandards_ru">305 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1080500016" class="release-date">25.10.2021 03:00</span>|
 
 ---
 
@@ -2599,8 +2599,8 @@
 |**Ведущие**      ||
 |**Регулярность** |Еженедельно|
 |**Длительность** |60-120 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1247192730" class="episodes" hashtag="frontend_u">221 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1247192730" class="release-date">18.10.2021 18:20</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1247192730" class="episodes" hashtag="frontend_u">222 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1247192730" class="release-date">26.10.2021 09:41</span>|
 
 ---
 
@@ -3097,8 +3097,8 @@
 |**Ведущие**      |Дмитрий Прусов|
 |**Регулярность** |Время от времени|
 |**Длительность** |~60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1574524435" class="episodes" hashtag="Data_Therapy">9 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1574524435" class="release-date">12.10.2021 14:38</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1574524435" class="episodes" hashtag="Data_Therapy">10 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1574524435" class="release-date">26.10.2021 11:21</span>|
 
 ### **DevOps** <a name="podcasts-devops"></a>
 
