@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">22.11.2021 20:20</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">23.11.2021 08:05</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1001,7 +1001,7 @@
 |**Ведущие**      |Вахтанг Махарадзе|
 |**Регулярность** |Ежедневно|
 |**Длительность** |5-10 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="episodes" hashtag="strana_tranzistoriia">1268 (<font color="red">-1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="episodes" hashtag="strana_tranzistoriia">1268 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="release-date">18.11.2021 14:30</span>|
 
 ---
@@ -1053,8 +1053,8 @@
 |**Ведущие**      |Дмитрий Здоров<br>Василий Мязин|
 |**Регулярность** |Время от времени|
 |**Длительность** |20-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1013700516" class="episodes" hashtag="Технологии_и_жизнь">76 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1013700516" class="release-date">28.10.2021 08:12</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1013700516" class="episodes" hashtag="Технологии_и_жизнь">77 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1013700516" class="release-date">21.11.2021 08:12</span>|
 
 ---
 
@@ -1209,7 +1209,7 @@
 |**Ведущие**      ||
 |**Регулярность** |Ежедневно|
 |**Длительность** |~5 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="episodes" hashtag="shortcode">312 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="episodes" hashtag="shortcode">312 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="release-date">21.11.2021 03:00</span>|
 
 ---
