@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">25.11.2021 16:14</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">25.11.2021 20:13</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -63,8 +63,8 @@
 |**Ведущие**      |[Сергей Тихомиров](https://sergei.substack.com) [![RSS](img/favicons/rss.png)](https://sergei.substack.com/feed)<br>Иван Иваницкий [![Medium](img/favicons/medium.com.png)](https://medium.com/@ivanitskiy.ivan) [![GitHub](img/favicons/github.com.png)](https://github.com/Ivan-Ivanitskiy)<br>Сергей Павлин<br>Александр Селезнев|
 |**Регулярность** |Еженедельно|
 |**Длительность** |50-110 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1289965366" class="episodes" hashtag="basicblockradio">148 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1289965366" class="release-date">02.11.2021 13:00</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1289965366" class="episodes" hashtag="basicblockradio">149 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1289965366" class="release-date">25.11.2021 13:04</span>|
 
 ---
 
@@ -209,7 +209,7 @@
 |**Ведущие**      |Лекс АйТиБорода [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/lex_kar/)|
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |20-120 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1449804780" class="episodes" hashtag="itbeard">166 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1449804780" class="episodes" hashtag="itbeard">166 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1449804780" class="release-date">25.11.2021 10:00</span>|
 
 ---
@@ -1001,7 +1001,7 @@
 |**Ведущие**      |Вахтанг Махарадзе|
 |**Регулярность** |Ежедневно|
 |**Длительность** |5-10 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="episodes" hashtag="strana_tranzistoriia">1275 (<font color="green">+3</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="episodes" hashtag="strana_tranzistoriia">1275 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="release-date">24.11.2021 15:30</span>|
 
 ---
@@ -1196,7 +1196,7 @@
 |**Ведущие**      ||
 |**Регулярность** |Еженедельно|
 |**Длительность** |40-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1563444550" class="episodes" hashtag="reading-together">17 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1563444550" class="episodes" hashtag="reading-together">17 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1563444550" class="release-date">25.11.2021 10:00</span>|
 
 ---
@@ -1483,7 +1483,7 @@
 |**Ведущие**      |Олександр Майстренко, Юрий Федоренко, Владислава Зацаринная|
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |70-90 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1539756031" class="episodes" hashtag="DOU">37 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1539756031" class="episodes" hashtag="DOU">37 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1539756031" class="release-date">25.11.2021 12:00</span>|
 
 ---
