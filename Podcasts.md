@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">05.12.2021 16:13</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">05.12.2021 20:12</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -898,7 +898,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |120-180 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="256504435" class="episodes" hashtag="radiot">21 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="256504435" class="release-date">05.12.2021 01:15</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="256504435" class="release-date">28.11.2021 00:45</span>|
 
 ---
 
