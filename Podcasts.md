@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">11.01.2022 08:08</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">11.01.2022 12:07</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1001,8 +1001,8 @@
 |**Ведущие**      |Вахтанг Махарадзе|
 |**Регулярность** |Ежедневно|
 |**Длительность** |5-10 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="episodes" hashtag="strana_tranzistoriia">1314 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="release-date">30.12.2021 14:30</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="episodes" hashtag="strana_tranzistoriia">1316 (<font color="green">+2</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="release-date">10.01.2022 15:30</span>|
 
 ---
 
@@ -1958,8 +1958,8 @@
 |**Ведущие**      |Стас Цыганов [![GitHub](img/favicons/github.com.png)](https://github.com/DevAlloy)<br>[Егор Толстой](http://etolstoy.com/) [![Medium](img/favicons/medium.com.png)](https://medium.com/@etolstoy) [![GitHub](img/favicons/github.com.png)](https://github.com/etolstoy)<br>Екатерина Петрова<br>Евгений Кателла|
 |**Регулярность** |Еженедельно|
 |**Длительность** |80-150 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1209828744" class="episodes" hashtag="podlodka">259 (<font color="red">-1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1209828744" class="release-date">03.01.2022 12:00</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1209828744" class="episodes" hashtag="podlodka">260 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1209828744" class="release-date">10.01.2022 10:37</span>|
 
 ---
 
@@ -2263,8 +2263,8 @@
 |**Ведущие**      |[Никита Лакеев](https://lakeevnikita.tilda.ws/) [![Medium](img/favicons/medium.com.png)](https://medium.com/@lakeisheee)<br>Роман Нургалиев [![Medium](img/favicons/medium.com.png)](http://medium.com/@romannurgaliev)|
 |**Регулярность** |Время от времени|
 |**Длительность** |40-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1445736032" class="episodes" hashtag="design_takoy">49 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1445736032" class="release-date">27.12.2021 17:03</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1445736032" class="episodes" hashtag="design_takoy">50 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1445736032" class="release-date">10.01.2022 22:36</span>|
 
 ---
 
@@ -2407,8 +2407,8 @@
 |**Ведущие**      |[Анатолий Кулаков](https://github.com/DotNetRu/BrandBook/wiki/Anatoly-Kulakov) [![GitHub](img/favicons/github.com.png)](https://github.com/kulakovt) [![DotNet.ru](https://favicon.yandex.net/favicon/dotnet.ru)](https://dotnet.ru)<br>[Игорь Лабутин](https://github.com/DotNetRu/BrandBook/wiki/Igor-Labutin) [![GitHub](img/favicons/github.com.png)](https://github.com/ilabutin)|
 |**Регулярность** |2 раза в месяц|
 |**Длительность** |50-80 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1484348948" class="episodes" hashtag="radiodotnet">43 (<font color="red">-1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1484348948" class="release-date">26.12.2021 00:26</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1484348948" class="episodes" hashtag="radiodotnet">44 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1484348948" class="release-date">09.01.2022 21:45</span>|
 
 ---
 
@@ -2508,8 +2508,8 @@
 |**Ведущие**      |[Вадим Макеев](https://pepelsbey.net/) [![RSS](img/favicons/rss.png)](https://pepelsbey.net/feed/index.rss) [![GitHub](img/favicons/github.com.png)](https://github.com/pepelsbey) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/pepelsbey/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCaTfYudJUVA8cV_But8KZVQ) [![Medium](img/favicons/medium.com.png)](https://medium.com/@pepelsbey)<br>[Никита Дубко](https://mefody.github.io/) [![GitHub](img/favicons/github.com.png)](https://github.com/MeFoDy)<br>Мария Просвирнина<br>[Алексей Симоненко](http://simonenko.su) [![GitHub](img/favicons/github.com.png)](https://github.com/meritt) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/meritt/)<br>Ольга Алексашенко [![GitHub](img/favicons/github.com.png)](https://github.com/tachisis/)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |40-90 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1080500016" class="episodes" hashtag="webstandards_ru">315 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1080500016" class="release-date">27.12.2021 03:00</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1080500016" class="episodes" hashtag="webstandards_ru">316 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1080500016" class="release-date">11.01.2022 03:00</span>|
 
 ---
 
@@ -2573,8 +2573,8 @@
 |**Ведущие**      |[Денис Бугарчев](https://begebot.livejournal.com/)<br>Михаил Коцийевский [![GitHub](img/favicons/github.com.png)](https://github.com/maxvektor)<br>[Пётр Ермишкин](https://quasiyoke.me) [![GitHub](img/favicons/github.com.png)](https://github.com/quasiyoke)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |45-80 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1447645563" class="episodes" hashtag="frontsexy">61 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1447645563" class="release-date">27.12.2021 15:07</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1447645563" class="episodes" hashtag="frontsexy">62 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1447645563" class="release-date">11.01.2022 01:05</span>|
 
 ---
 
