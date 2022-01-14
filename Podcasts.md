@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">14.01.2022 08:09</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">14.01.2022 12:06</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -741,7 +741,7 @@
 |**Ведущие**      |Михаил Марченко<br>Ольга Давыдова|
 |**Регулярность** |Время от времени|
 |**Длительность** |30-50 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="472631602" class="episodes" hashtag="it.career.ua">347 (<font color="red">-1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="472631602" class="episodes" hashtag="it.career.ua">347 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="472631602" class="release-date">20.12.2021 12:00</span>|
 
 ---
@@ -1346,7 +1346,7 @@
 |**Ведущие**      ||
 |**Регулярность** |Еженедельно|
 |**Длительность** |20-80 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1484275234" class="episodes" hashtag="matematicxyz">107 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1484275234" class="episodes" hashtag="matematicxyz">106 (<font color="red">-1</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1484275234" class="release-date">30.12.2021 07:41</span>|
 
 ---
@@ -1675,7 +1675,7 @@
 |**Ведущие**      |Надя<br>Кима|
 |**Регулярность** |Время от времени|
 |**Длительность** |20-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1495705776" class="episodes" hashtag="IT_Ba">40 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1495705776" class="episodes" hashtag="IT_Ba">40 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1495705776" class="release-date">13.01.2022 21:09</span>|
 
 ---
@@ -1701,7 +1701,7 @@
 |**Ведущие**      |Анна|
 |**Регулярность** |Еженедельно|
 |**Длительность** |30-40 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1495705776" class="episodes" hashtag="IT_бизнес_анализ">40 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1495705776" class="episodes" hashtag="IT_бизнес_анализ">40 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1495705776" class="release-date">13.01.2022 21:09</span>|
 
 ---
@@ -2343,7 +2343,7 @@
 |**Ведущие**      |Роман Мирсон [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/Homich1991)<br>Евгений Никифоров [![GitHub](img/favicons/github.com.png)](https://github.com/nikita-nikiforov)|
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |50-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1512015984" class="episodes" hashtag="javahut">18 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1512015984" class="episodes" hashtag="javahut">18 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1512015984" class="release-date">15.10.2021 12:11</span>|
 
 ---
@@ -2819,8 +2819,8 @@
 |**Ведущие**      ||
 |**Регулярность** |Еженедельно|
 |**Длительность** |20-50 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1521240754" class="episodes" hashtag="Геймдев_без_сахара">80 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1521240754" class="release-date">30.12.2021 12:30</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1521240754" class="episodes" hashtag="Геймдев_без_сахара">81 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1521240754" class="release-date">13.01.2022 12:30</span>|
 
 ---
 
