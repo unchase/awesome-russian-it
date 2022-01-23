@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">23.01.2022 08:07</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">23.01.2022 12:06</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -261,7 +261,7 @@
 |**Ведущие**      |Андрей Дмитриев<br>Олег Чирухин [![GitHub](img/favicons/github.com.png)](https://github.com/olegchir) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/olegchir/)<br>Анатолий Коровин<br>Всеволод Брекелов [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/vbrekelov/)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |~60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1497722428" class="episodes" hashtag="bitcask">29 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1497722428" class="episodes" hashtag="bitcask">29 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1497722428" class="release-date">23.01.2022 07:00</span>|
 
 ---
@@ -703,7 +703,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |80-90 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1524851032" class="episodes" hashtag="final.doc">50 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1524851032" class="release-date">30.12.2021 21:19</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1524851032" class="release-date">22.01.2022 18:23</span>|
 
 ---
 
@@ -1144,8 +1144,8 @@
 |**Ведущие**      |Антон Околелов [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/varanio/) <br>Никита Васильченко [![GitHub](img/favicons/github.com.png)](https://github.com/xenmayer) [![Medium](img/favicons/medium.com.png)](https://medium.com/@xenmayer)<br>Олег Грицак [![GitHub](img/favicons/github.com.png)](https://github.com/hack3p) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/hack3p/)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |60-110 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1458311254" class="episodes" hashtag="znprod">147 (<font color="red">-1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1458311254" class="release-date">15.01.2022 06:00</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1458311254" class="episodes" hashtag="znprod">148 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1458311254" class="release-date">22.01.2022 06:00</span>|
 
 ---
 
@@ -2573,8 +2573,8 @@
 |**Ведущие**      |[Денис Бугарчев](https://begebot.livejournal.com/)<br>Михаил Коцийевский [![GitHub](img/favicons/github.com.png)](https://github.com/maxvektor)<br>[Пётр Ермишкин](https://quasiyoke.me) [![GitHub](img/favicons/github.com.png)](https://github.com/quasiyoke)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |45-80 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1447645563" class="episodes" hashtag="frontsexy">63 (<font color="green">+1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1447645563" class="release-date">23.01.2022 00:04</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1447645563" class="episodes" hashtag="frontsexy">62 (<font color="red">-1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1447645563" class="release-date">11.01.2022 01:05</span>|
 
 ---
 
