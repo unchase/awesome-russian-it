@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">10.02.2022 08:06</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">10.02.2022 12:06</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -209,7 +209,7 @@
 |**Ведущие**      |Лекс АйТиБорода [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/lex_kar/)|
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |20-120 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1449804780" class="episodes" hashtag="itbeard">171 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1449804780" class="episodes" hashtag="itbeard">171 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1449804780" class="release-date">09.02.2022 19:37</span>|
 
 ---
@@ -555,7 +555,7 @@
 |**Ведущие**      |Виктор Корейша|
 |**Регулярность** |Раз в две недели|
 |**Длительность** |~40 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1551786898" class="episodes" hashtag="kodakoda">22 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1551786898" class="episodes" hashtag="kodakoda">22 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1551786898" class="release-date">09.02.2022 11:52</span>|
 
 ---
@@ -1001,8 +1001,8 @@
 |**Ведущие**      |Вахтанг Махарадзе|
 |**Регулярность** |Ежедневно|
 |**Длительность** |5-10 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="episodes" hashtag="strana_tranzistoriia">1350 (<font color="red">-1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="release-date">08.02.2022 15:30</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="episodes" hashtag="strana_tranzistoriia">1351 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1437016624" class="release-date">09.02.2022 14:30</span>|
 
 ---
 
@@ -1131,8 +1131,8 @@
 |**Ведущие**      |Николай<br>[Лев Пикалёв](http://levpikalev.com/) [![Medium](img/favicons/medium.com.png)](https://podcasts-prevail.medium.com/)<br>Анна [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/Shelsneg/)<br>Адель<br>Далер Алиёров [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/daleraliyorov/)<br>Иван Звягин [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/baragol/)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |~60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1542090813" class="episodes" hashtag="Хоба">67 (<font color="green">+1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1542090813" class="release-date">09.02.2022 16:22</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1542090813" class="episodes" hashtag="Хоба">66 (<font color="red">-1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1542090813" class="release-date">31.01.2022 01:00</span>|
 
 ---
 
@@ -1321,7 +1321,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |30-60 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1095164631" class="episodes" hashtag="biweekly">100 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1095164631" class="release-date">05.02.2022 08:00</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1095164631" class="release-date">10.02.2022 08:00</span>|
 
 ---
 
@@ -1483,8 +1483,8 @@
 |**Ведущие**      |Олександр Майстренко, Юрий Федоренко, Владислава Зацаринная|
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |70-90 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1539756031" class="episodes" hashtag="DOU">46 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1539756031" class="release-date">04.02.2022 11:07</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1539756031" class="episodes" hashtag="DOU">47 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1539756031" class="release-date">10.02.2022 11:42</span>|
 
 ---
 
@@ -1893,7 +1893,7 @@
 |**Ведущие**      |Юрий Агеев|
 |**Регулярность** |Еженедельно|
 |**Длительность** |40-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1417851966" class="episodes" hashtag="productsense">187 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1417851966" class="episodes" hashtag="productsense">186 (<font color="red">-1</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1417851966" class="release-date">03.02.2022 00:14</span>|
 
 ---
@@ -2463,8 +2463,8 @@
 |**Ведущие**      |Григорий Петров [![GitHub](img/favicons/github.com.png)](https://github.com/grigoryvp) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/eyeofhell/)<br>Илья Лебедев [![GitHub](img/favicons/github.com.png)](https://github.com/Melevir)<br>[Валентин Домбровский](http://dombrovsky.me/)<br>Михаил Корнеев [![GitHub](img/favicons/github.com.png)](https://github.com/korneevm) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/voldar/)<br>Злата Обуховская<br>Алексей Штырняев|
 |**Регулярность** |Еженедельно|
 |**Длительность** |30-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1429543935" class="episodes" hashtag="moscowpython">138 (<font color="green">+1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1429543935" class="release-date">09.02.2022 19:37</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1429543935" class="episodes" hashtag="moscowpython">137 (<font color="red">-1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1429543935" class="release-date">01.02.2022 13:20</span>|
 
 ##### **Ruby** <a name="podcasts-development-ruby"></a>
 
