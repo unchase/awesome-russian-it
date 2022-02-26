@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">26.02.2022 16:09</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">26.02.2022 20:06</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -615,7 +615,7 @@
 |**Регулярность** |Ежемесячно|
 |**Длительность** |~80 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1395500354" class="episodes" hashtag="maclikbez">44 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1395500354" class="release-date">27.01.2022 17:53</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1395500354" class="release-date">18.02.2022 12:30</span>|
 
 ---
 
@@ -1131,8 +1131,8 @@
 |**Ведущие**      |Николай<br>[Лев Пикалёв](http://levpikalev.com/) [![Medium](img/favicons/medium.com.png)](https://podcasts-prevail.medium.com/)<br>Анна [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/Shelsneg/)<br>Адель<br>Далер Алиёров [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/daleraliyorov/)<br>Иван Звягин [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/baragol/)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |~60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1542090813" class="episodes" hashtag="Хоба">69 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1542090813" class="release-date">21.02.2022 01:00</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1542090813" class="episodes" hashtag="Хоба">70 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1542090813" class="release-date">25.02.2022 22:24</span>|
 
 ---
 
