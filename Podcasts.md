@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">27.02.2022 20:07</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">28.02.2022 08:06</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1984,7 +1984,7 @@
 |**Ведущие**      |Мария Попова|
 |**Регулярность** |Еженедельно|
 |**Длительность** |30-70 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1527860527" class="episodes" hashtag="ProjectTalks">22 (<font color="red">0</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1527860527" class="episodes" hashtag="ProjectTalks">3 (<font color="red">-19</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1527860527" class="release-date">30.01.2022 16:15</span>|
 
 ---
