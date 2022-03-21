@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">21.03.2022 16:21</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">21.03.2022 20:16</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -103,7 +103,7 @@
 |**Регулярность** |Каждый день|
 |**Длительность** |10-40 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1499403647" class="episodes" hashtag="Pro_Blockchain">500 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1499403647" class="release-date">19.03.2022 18:14</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1499403647" class="release-date">16.03.2022 12:06</span>|
 
 ### **Инвестирование** <a name="podcasts-invest"></a
 
@@ -1131,8 +1131,8 @@
 |**Ведущие**      |Николай<br>[Лев Пикалёв](http://levpikalev.com/) [![Medium](img/favicons/medium.com.png)](https://podcasts-prevail.medium.com/)<br>Анна [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/Shelsneg/)<br>Адель<br>Далер Алиёров [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/daleraliyorov/)<br>Иван Звягин [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/baragol/)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |~60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1542090813" class="episodes" hashtag="Хоба">72 (<font color="green">+1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1542090813" class="release-date">14.03.2022 01:10</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1542090813" class="episodes" hashtag="Хоба">71 (<font color="red">-1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1542090813" class="release-date">25.02.2022 22:24</span>|
 
 ---
 
@@ -1209,7 +1209,7 @@
 |**Ведущие**      ||
 |**Регулярность** |Ежедневно|
 |**Длительность** |~5 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="episodes" hashtag="shortcode">351 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="episodes" hashtag="shortcode">351 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="release-date">20.03.2022 03:00</span>|
 
 ---
@@ -1235,7 +1235,7 @@
 |**Ведущие**      |Андрей Барышников [![GitHub](img/favicons/github.com.png)](https://github.com/BilberryMuffin)<br>Сергей Епихин<br>Антон Поздняков|
 |**Регулярность** |Еженедельно|
 |**Длительность** |70-120 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="868222886" class="episodes" hashtag="beardycast">561 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="868222886" class="episodes" hashtag="beardycast">561 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="868222886" class="release-date">11.03.2022 03:24</span>|
 
 ---
@@ -1445,7 +1445,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |120-180 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="903660317" class="episodes" hashtag="devzen_podcast">25 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="903660317" class="release-date">20.03.2022 01:57</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="903660317" class="release-date">13.03.2022 17:13</span>|
 
 ---
 
@@ -1483,8 +1483,8 @@
 |**Ведущие**      |Олександр Майстренко, Юрий Федоренко, Владислава Зацаринная|
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |70-90 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1539756031" class="episodes" hashtag="DOU">54 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1539756031" class="release-date">21.03.2022 10:46</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1539756031" class="episodes" hashtag="DOU">53 (<font color="red">-1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1539756031" class="release-date">17.03.2022 10:58</span>|
 
 ---
 
@@ -2235,8 +2235,8 @@
 |**Ведущие**      |Тимур Сейфельмлюков<br>Дмитрий Зомбак [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/zombak) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCGygd95WaTLPcrRSB1OIB3g)<br>Максим Зарецкий<br>Иногда:<br>[Валентин Петухов (Wylsacom)](https://wylsa.com/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCt7sv-NKh44rHAEb-qCCxvA)<br>Григорий Бакунов (Bobuk) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/bobuk/) [![GitHub](img/favicons/github.com.png)](https://github.com/bobuk)|
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |120-150 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1068329384" class="episodes" hashtag="zavtracast">427 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1068329384" class="release-date">18.03.2022 17:46</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1068329384" class="episodes" hashtag="zavtracast">425 (<font color="red">-2</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1068329384" class="release-date">11.03.2022 00:00</span>|
 
 ### **Продуктовый дизайн** <a name="podcasts-design"></a>
 
