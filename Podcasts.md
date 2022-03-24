@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">23.03.2022 20:10</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">24.03.2022 08:07</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -489,8 +489,8 @@
 |**Ведущие**      |[Самат Галимов](https://samat.me/) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/samat/) [![Medium](img/favicons/medium.com.png)](https://medium.com/@samat)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |15-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1488945593" class="episodes" hashtag="ctodaily">111 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1488945593" class="release-date">17.03.2022 05:00</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1488945593" class="episodes" hashtag="ctodaily">112 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1488945593" class="release-date">24.03.2022 06:48</span>|
 
 ---
 
@@ -555,8 +555,8 @@
 |**Ведущие**      |Виктор Корейша|
 |**Регулярность** |Раз в две недели|
 |**Длительность** |~40 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1551786898" class="episodes" hashtag="kodakoda">24 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1551786898" class="release-date">16.03.2022 12:35</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1551786898" class="episodes" hashtag="kodakoda">25 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1551786898" class="release-date">23.03.2022 16:18</span>|
 
 ---
 
@@ -1893,7 +1893,7 @@
 |**Ведущие**      |Юрий Агеев|
 |**Регулярность** |Еженедельно|
 |**Длительность** |40-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1417851966" class="episodes" hashtag="productsense">192 (<font color="red">0</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1417851966" class="episodes" hashtag="productsense">193 (<font color="green">+1</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1417851966" class="release-date">16.03.2022 23:59</span>|
 
 ---
@@ -2765,8 +2765,8 @@
 |**Ведущие**      |Кирилл Розов [![Medium](img/favicons/medium.com.png)](https://medium.com/@kirillr) [![GitHub](img/favicons/github.com.png)](https://github.com/kirich1409)|
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |50-80 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1492425305" class="episodes" hashtag="andro_broadcast">82 (<font color="green">+1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1492425305" class="release-date">23.03.2022 12:00</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1492425305" class="episodes" hashtag="andro_broadcast">81 (<font color="red">-1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1492425305" class="release-date">27.02.2022 18:21</span>|
 
 ---
 
