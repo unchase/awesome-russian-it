@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">28.03.2022 16:23</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">28.03.2022 20:15</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -300,7 +300,7 @@
 |**Ведущие**      |Сергей Козырев [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/taksebe/)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |~70 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1399902281" class="episodes" hashtag="toinfinity_podcast">87 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1399902281" class="episodes" hashtag="toinfinity_podcast">87 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1399902281" class="release-date">28.03.2022 08:15</span>|
 
 ---
@@ -541,7 +541,7 @@
 |**Ведущие**      ||
 |**Регулярность** |Еженедельно|
 |**Длительность** |15-20 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1517634826" class="episodes" hashtag="Код">84 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1517634826" class="episodes" hashtag="Код">84 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1517634826" class="release-date">19.03.2022 03:00</span>|
 
 
@@ -1183,7 +1183,7 @@
 |**Ведущие**      |Геннадий Захаров|
 |**Регулярность** |Время от времени|
 |**Длительность** |10-35 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1508892224" class="episodes" hashtag="Цифранутый_подкаст">9 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1508892224" class="episodes" hashtag="Цифранутый_подкаст">9 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1508892224" class="release-date">27.03.2022 17:24</span>|
 
 ---
@@ -1445,7 +1445,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |120-180 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="903660317" class="episodes" hashtag="devzen_podcast">25 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="903660317" class="release-date">20.03.2022 01:57</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="903660317" class="release-date">27.03.2022 22:32</span>|
 
 ---
 
@@ -1893,7 +1893,7 @@
 |**Ведущие**      |Юрий Агеев|
 |**Регулярность** |Еженедельно|
 |**Длительность** |40-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1417851966" class="episodes" hashtag="productsense">195 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1417851966" class="episodes" hashtag="productsense">195 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1417851966" class="release-date">25.03.2022 23:59</span>|
 
 ---
@@ -1945,7 +1945,7 @@
 |**Ведущие**      |Андрей Радионов|
 |**Регулярность** |Еженедельно|
 |**Длительность** |~70 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1503693347" class="episodes" hashtag="optacast">98 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1503693347" class="episodes" hashtag="optacast">98 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1503693347" class="release-date">21.03.2022 00:58</span>|
 
 ---
@@ -2036,7 +2036,7 @@
 |**Ведущие**      |[Илья Царев](http://www.itsarev.me/) [![GitHub](img/favicons/github.com.png)](https://github.com/iltsarev) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/iltsarev/)<br>Роман Бусыгин<br>Алексей Милеев [![GitHub](img/favicons/github.com.png)](https://github.com/rozag) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/rozag/)|
 |**Регулярность** |Время от времени|
 |**Длительность** |30-40 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1409669962" class="episodes" hashtag="runloop_podcast">18 (<font color="red">0</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1409669962" class="episodes" hashtag="runloop_podcast">4 (<font color="red">-14</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1409669962" class="release-date">05.09.2019 13:36</span>|
 
 ---
