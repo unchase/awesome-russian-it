@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">28.03.2022 20:15</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">29.03.2022 08:07</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -2036,7 +2036,7 @@
 |**Ведущие**      |[Илья Царев](http://www.itsarev.me/) [![GitHub](img/favicons/github.com.png)](https://github.com/iltsarev) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/iltsarev/)<br>Роман Бусыгин<br>Алексей Милеев [![GitHub](img/favicons/github.com.png)](https://github.com/rozag) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/rozag/)|
 |**Регулярность** |Время от времени|
 |**Длительность** |30-40 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1409669962" class="episodes" hashtag="runloop_podcast">4 (<font color="red">-14</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1409669962" class="episodes" hashtag="runloop_podcast">4 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1409669962" class="release-date">05.09.2019 13:36</span>|
 
 ---
