@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">10.04.2022 12:07</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">10.04.2022 16:15</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -118,7 +118,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |20-30 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1556322514" class="episodes" hashtag="">55 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1556322514" class="release-date">25.03.2022 14:51</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1556322514" class="release-date">10.04.2022 14:19</span>|
 
 ### **ИТ-безопасность** <a name="podcasts-security"></a>
 
@@ -209,7 +209,7 @@
 |**Ведущие**      |Лекс АйТиБорода [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/lex_kar/)|
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |20-120 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1449804780" class="episodes" hashtag="itbeard">176 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1449804780" class="episodes" hashtag="itbeard">176 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1449804780" class="release-date">09.04.2022 23:52</span>|
 
 ---
@@ -937,7 +937,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |~10 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1524056283" class="episodes" hashtag="DataLine">20 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1524056283" class="release-date">17.09.2021 10:57</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1524056283" class="release-date">08.10.2021 11:00</span>|
 
 ---
 
@@ -2388,7 +2388,7 @@
 
 |Название         |[DOTNET & MORE](https://dotnetmore.ru/)|
 |:----------------|:--------------------------------------|
-|**Логотип**      |<span itunes-id="1448111173" class="itunes-img"><img height="100" width="100" src="https://is4-ssl.mzstatic.com/image/thumb/Podcasts125/v4/94/0a/5a/940a5a0f-37f1-c043-fae4-95c3de29e02f/mza_4369414036223854071.png/600x600bb.jpg"></span>|
+|**Логотип**      |<span itunes-id="1448111173" class="itunes-img"><img height="100" width="100" src="https://is4-ssl.mzstatic.com/image/thumb/Podcasts126/v4/20/25/85/202585b5-b8a5-6b96-7fde-2f63f2183424/mza_10633033520992811868.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Anchor](img/favicons/anchor.fm.png)](https://anchor.fm/dotnetmore) • [![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/dotnetmore) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/dotnet-more/id1448111173) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8yYWYwNGEyYy9wb2RjYXN0L3Jzcw==) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/dotnet-more/) • [![VK](img/favicons/vk.com.png)](https://vk.com/dotnetmore) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/dotnetmore) • [![Telegram](img/favicons/t.me.png)](https://t.me/dotnetmore) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCCangFtmypr2MmiULHquf2A) • [![RSS](img/favicons/rss.png)](https://dotnetmore.ru/feed/podcast/)|
 |**Описание**     |Подкаст о DotNet разработке и не только.|
 |**Ведущие**      |Станислав Александров<br>Александр Кугушев [![GitHub](img/favicons/github.com.png)](https://github.com/kugushev) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/KAW/)<br>Наталья|
@@ -2765,7 +2765,7 @@
 |**Ведущие**      |Кирилл Розов [![Medium](img/favicons/medium.com.png)](https://medium.com/@kirillr) [![GitHub](img/favicons/github.com.png)](https://github.com/kirich1409)|
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |50-80 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1492425305" class="episodes" hashtag="andro_broadcast">85 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1492425305" class="episodes" hashtag="andro_broadcast">85 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1492425305" class="release-date">09.04.2022 12:11</span>|
 
 ---
