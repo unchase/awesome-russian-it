@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">22.04.2022 20:17</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">23.04.2022 08:06</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -117,7 +117,7 @@
 |**Ведущие**      |Бабайкин|
 |**Регулярность** |Еженедельно|
 |**Длительность** |20-30 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1556322514" class="episodes" hashtag="">57 (<font color="red">-1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1556322514" class="episodes" hashtag="">57 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1556322514" class="release-date">15.04.2022 14:04</span>|
 
 ### **ИТ-безопасность** <a name="podcasts-security"></a>
