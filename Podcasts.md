@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">06.05.2022 16:27</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">06.05.2022 20:16</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -117,7 +117,7 @@
 |**Ведущие**      |Бабайкин|
 |**Регулярность** |Еженедельно|
 |**Длительность** |20-30 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1556322514" class="episodes" hashtag="">60 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1556322514" class="episodes" hashtag="">60 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1556322514" class="release-date">06.05.2022 13:54</span>|
 
 ### **ИТ-безопасность** <a name="podcasts-security"></a>
@@ -949,7 +949,7 @@
 |**Ведущие**      |[Чернобаев Николай](http://nickchernobaev.com/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UC3Xbp3NcAtiq0XHOcU3QdOA)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |60-90 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1448936184" class="episodes" hashtag="madefromzero">89 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1448936184" class="episodes" hashtag="madefromzero">89 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1448936184" class="release-date">18.04.2022 20:36</span>|
 
 ---
@@ -1519,8 +1519,8 @@
 |**Ведущие**      |Сергей Кузнецов<br>Вахтанг Махарадзе|
 |**Регулярность** |Еженедельно|
 |**Длительность** |30-40 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1436711112" class="episodes" hashtag="forgeeks">117 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1436711112" class="release-date">04.04.2022 17:11</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1436711112" class="episodes" hashtag="forgeeks">118 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1436711112" class="release-date">06.05.2022 20:05</span>|
 
 ---
 
@@ -2923,7 +2923,7 @@
 |**Ведущие**      |Дмитрий Борисов<br>Артемий Леонов|
 |**Регулярность** |Еженедельно|
 |**Длительность** |80-120 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1506185868" class="episodes" hashtag="xyz">78 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1506185868" class="episodes" hashtag="xyz">78 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1506185868" class="release-date">06.05.2022 14:10</span>|
 
 ---
