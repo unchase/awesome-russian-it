@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">09.05.2022 16:30</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">09.05.2022 20:18</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -2141,7 +2141,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |~60 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1524886570" class="episodes" hashtag="Sprut.AI">33 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1524886570" class="release-date">07.12.2021 08:00</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1524886570" class="release-date">28.12.2021 13:00</span>|
 
 ---
 
