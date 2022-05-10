@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">10.05.2022 12:13</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">10.05.2022 16:39</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -490,7 +490,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |15-60 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1488945593" class="episodes" hashtag="ctodaily">119 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1488945593" class="release-date">14.04.2022 23:00</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1488945593" class="release-date">28.04.2022 23:00</span>|
 
 ---
 
@@ -975,7 +975,7 @@
 |**Ведущие**      |Владимир Смеркис|
 |**Регулярность** |Еженедельно|
 |**Длительность** |~30 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1095124477" class="episodes" hashtag="silikonovie">264 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1095124477" class="episodes" hashtag="silikonovie">264 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1095124477" class="release-date">10.05.2022 01:18</span>|
 
 ---
@@ -1183,7 +1183,7 @@
 |**Ведущие**      |Геннадий Захаров|
 |**Регулярность** |Время от времени|
 |**Длительность** |10-35 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1508892224" class="episodes" hashtag="Цифранутый_подкаст">10 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1508892224" class="episodes" hashtag="Цифранутый_подкаст">10 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1508892224" class="release-date">10.05.2022 11:34</span>|
 
 ---
@@ -1209,8 +1209,8 @@
 |**Ведущие**      ||
 |**Регулярность** |Ежедневно|
 |**Длительность** |~5 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="episodes" hashtag="shortcode">372 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="release-date">04.05.2022 03:00</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="episodes" hashtag="shortcode">373 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="release-date">09.05.2022 17:03</span>|
 
 ---
 
@@ -1958,7 +1958,7 @@
 |**Ведущие**      |Стас Цыганов [![GitHub](img/favicons/github.com.png)](https://github.com/DevAlloy)<br>[Егор Толстой](http://etolstoy.com/) [![Medium](img/favicons/medium.com.png)](https://medium.com/@etolstoy) [![GitHub](img/favicons/github.com.png)](https://github.com/etolstoy)<br>Екатерина Петрова<br>Евгений Кателла|
 |**Регулярность** |Еженедельно|
 |**Длительность** |80-150 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1209828744" class="episodes" hashtag="podlodka">277 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1209828744" class="episodes" hashtag="podlodka">277 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1209828744" class="release-date">03.05.2022 10:28</span>|
 
 ---
