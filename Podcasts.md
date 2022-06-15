@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">15.06.2022 12:07</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">15.06.2022 16:29</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -2737,8 +2737,8 @@
 |**Ведущие**      |Евгений Сатуров [![GitHub](img/favicons/github.com.png)](https://github.com/saturov)<br>Артём Зайцев|
 |**Регулярность** |Ежемесячно|
 |**Длительность** |40-80 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1451068853" class="episodes" hashtag="flutterdevpodcast">36 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1451068853" class="release-date">08.05.2022 14:28</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1451068853" class="episodes" hashtag="flutterdevpodcast">37 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1451068853" class="release-date">14.06.2022 22:25</span>|
 
 ---
 
