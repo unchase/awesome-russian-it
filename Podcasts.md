@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">27.06.2022 08:21</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">27.06.2022 12:07</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
