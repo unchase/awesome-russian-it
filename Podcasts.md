@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">11.07.2022 20:18</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">12.07.2022 08:32</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -209,7 +209,7 @@
 |**Ведущие**      |Лекс АйТиБорода [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/lex_kar/)|
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |20-120 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1449804780" class="episodes" hashtag="itbeard">205 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1449804780" class="episodes" hashtag="itbeard">206 (<font color="green">+1</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1449804780" class="release-date">10.07.2022 16:22</span>|
 
 ---
@@ -949,8 +949,8 @@
 |**Ведущие**      |[Чернобаев Николай](http://nickchernobaev.com/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UC3Xbp3NcAtiq0XHOcU3QdOA)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |60-90 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1448936184" class="episodes" hashtag="madefromzero">93 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1448936184" class="release-date">29.06.2022 13:19</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1448936184" class="episodes" hashtag="madefromzero">94 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1448936184" class="release-date">07.07.2022 12:27</span>|
 
 ---
 
@@ -1236,7 +1236,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |70-120 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="868222886" class="episodes" hashtag="beardycast">575 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="868222886" class="release-date">27.06.2022 14:51</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="868222886" class="release-date">04.07.2022 17:02</span>|
 
 ---
 
@@ -1750,7 +1750,7 @@
 |**Ведущие**      |Александр Ляпота|
 |**Регулярность** |Еженедельно|
 |**Длительность** |30-70 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="454929808" class="episodes" hashtag="Its_A_Good_Cast">171 (<font color="red">0</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="454929808" class="episodes" hashtag="Its_A_Good_Cast">172 (<font color="green">+1</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="454929808" class="release-date">22.06.2022 10:00</span>|
 
 ---
@@ -1828,7 +1828,7 @@
 |**Ведущие**      ||
 |**Регулярность** |Еженедельно|
 |**Длительность** |50-100 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="454929808" class="episodes" hashtag="keddr">171 (<font color="red">0</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="454929808" class="episodes" hashtag="keddr">172 (<font color="green">+1</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="454929808" class="release-date">22.06.2022 10:00</span>|
 
 ---
@@ -1958,8 +1958,8 @@
 |**Ведущие**      |Стас Цыганов [![GitHub](img/favicons/github.com.png)](https://github.com/DevAlloy)<br>[Егор Толстой](http://etolstoy.com/) [![Medium](img/favicons/medium.com.png)](https://medium.com/@etolstoy) [![GitHub](img/favicons/github.com.png)](https://github.com/etolstoy)<br>Екатерина Петрова<br>Евгений Кателла|
 |**Регулярность** |Еженедельно|
 |**Длительность** |80-150 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1209828744" class="episodes" hashtag="podlodka">286 (<font color="green">+1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1209828744" class="release-date">11.07.2022 16:07</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1209828744" class="episodes" hashtag="podlodka">285 (<font color="red">-1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1209828744" class="release-date">04.07.2022 13:03</span>|
 
 ---
 
@@ -2407,8 +2407,8 @@
 |**Ведущие**      |[Анатолий Кулаков](https://github.com/DotNetRu/BrandBook/wiki/Anatoly-Kulakov) [![GitHub](img/favicons/github.com.png)](https://github.com/kulakovt) [![DotNet.ru](https://favicon.yandex.net/favicon/dotnet.ru)](https://dotnet.ru)<br>[Игорь Лабутин](https://github.com/DotNetRu/BrandBook/wiki/Igor-Labutin) [![GitHub](img/favicons/github.com.png)](https://github.com/ilabutin)|
 |**Регулярность** |2 раза в месяц|
 |**Длительность** |50-80 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1484348948" class="episodes" hashtag="radiodotnet">55 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1484348948" class="release-date">13.06.2022 00:33</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1484348948" class="episodes" hashtag="radiodotnet">56 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1484348948" class="release-date">29.06.2022 01:32</span>|
 
 ---
 
@@ -2463,7 +2463,7 @@
 |**Ведущие**      |Григорий Петров [![GitHub](img/favicons/github.com.png)](https://github.com/grigoryvp) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/eyeofhell/)<br>Илья Лебедев [![GitHub](img/favicons/github.com.png)](https://github.com/Melevir)<br>[Валентин Домбровский](http://dombrovsky.me/)<br>Михаил Корнеев [![GitHub](img/favicons/github.com.png)](https://github.com/korneevm) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/voldar/)<br>Злата Обуховская<br>Алексей Штырняев|
 |**Регулярность** |Еженедельно|
 |**Длительность** |30-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1429543935" class="episodes" hashtag="moscowpython">149 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1429543935" class="episodes" hashtag="moscowpython">149 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1429543935" class="release-date">01.07.2022 18:24</span>|
 
 ##### **Ruby** <a name="podcasts-development-ruby"></a>
