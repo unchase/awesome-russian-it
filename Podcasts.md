@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">08.08.2022 20:14</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">09.08.2022 08:18</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -768,7 +768,7 @@
 |**Регулярность** |Время от времени|
 |**Длительность** |25-40 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="288705606" class="episodes" hashtag="pirates.radiot">23 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="288705606" class="release-date">12.06.2022 03:44</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="288705606" class="release-date">09.09.2017 22:29</span>|
 
 ---
 
@@ -898,7 +898,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |120-180 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="256504435" class="episodes" hashtag="radiot">22 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="256504435" class="release-date">31.07.2022 03:48</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="256504435" class="release-date">24.07.2022 02:27</span>|
 
 ---
 
@@ -911,7 +911,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |40-60 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="526797445" class="episodes" hashtag="radiomaorg">10 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="526797445" class="release-date">23.07.2022 22:12</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="526797445" class="release-date">16.07.2022 11:56</span>|
 
 ---
 
@@ -1235,7 +1235,7 @@
 |**Ведущие**      |Андрей Барышников [![GitHub](img/favicons/github.com.png)](https://github.com/BilberryMuffin)<br>Сергей Епихин<br>Антон Поздняков|
 |**Регулярность** |Еженедельно|
 |**Длительность** |70-120 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="868222886" class="episodes" hashtag="beardycast">578 (<font color="red">0</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="868222886" class="episodes" hashtag="beardycast">579 (<font color="green">+1</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="868222886" class="release-date">01.08.2022 13:41</span>|
 
 ---
@@ -1958,7 +1958,7 @@
 |**Ведущие**      |Стас Цыганов [![GitHub](img/favicons/github.com.png)](https://github.com/DevAlloy)<br>[Егор Толстой](http://etolstoy.com/) [![Medium](img/favicons/medium.com.png)](https://medium.com/@etolstoy) [![GitHub](img/favicons/github.com.png)](https://github.com/etolstoy)<br>Екатерина Петрова<br>Евгений Кателла|
 |**Регулярность** |Еженедельно|
 |**Длительность** |80-150 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1209828744" class="episodes" hashtag="podlodka">290 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1209828744" class="episodes" hashtag="podlodka">290 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1209828744" class="release-date">08.08.2022 14:35</span>|
 
 ---
@@ -2357,7 +2357,7 @@
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |30-120 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1498075914" class="episodes" hashtag="javaswag">32 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1498075914" class="release-date">05.08.2022 16:11</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1498075914" class="release-date">04.07.2022 17:22</span>|
 
 ---
 
@@ -2508,7 +2508,7 @@
 |**Ведущие**      |[Вадим Макеев](https://pepelsbey.net/) [![RSS](img/favicons/rss.png)](https://pepelsbey.net/feed/index.rss) [![GitHub](img/favicons/github.com.png)](https://github.com/pepelsbey) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/pepelsbey/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCaTfYudJUVA8cV_But8KZVQ) [![Medium](img/favicons/medium.com.png)](https://medium.com/@pepelsbey)<br>[Никита Дубко](https://mefody.github.io/) [![GitHub](img/favicons/github.com.png)](https://github.com/MeFoDy)<br>Мария Просвирнина<br>[Алексей Симоненко](http://simonenko.su) [![GitHub](img/favicons/github.com.png)](https://github.com/meritt) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/meritt/)<br>Ольга Алексашенко [![GitHub](img/favicons/github.com.png)](https://github.com/tachisis/)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |40-90 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1080500016" class="episodes" hashtag="webstandards_ru">329 (<font color="red">0</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1080500016" class="episodes" hashtag="webstandards_ru">330 (<font color="green">+1</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1080500016" class="release-date">01.08.2022 03:00</span>|
 
 ---
@@ -2872,7 +2872,7 @@
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |80-120 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="560881209" class="episodes" hashtag="kdicast">350 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="560881209" class="release-date">01.08.2022 13:35</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="560881209" class="release-date">18.02.2022 19:10</span>|
 
 ---
 
