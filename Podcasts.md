@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">06.09.2022 09:09</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">06.09.2022 12:08</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1484,7 +1484,7 @@
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |70-90 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1539756031" class="episodes" hashtag="DOU">100 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1539756031" class="release-date">05.09.2022 09:42</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1539756031" class="release-date">02.09.2022 11:22</span>|
 
 ---
 
@@ -1958,8 +1958,8 @@
 |**Ведущие**      |Стас Цыганов [![GitHub](img/favicons/github.com.png)](https://github.com/DevAlloy)<br>[Егор Толстой](http://etolstoy.com/) [![Medium](img/favicons/medium.com.png)](https://medium.com/@etolstoy) [![GitHub](img/favicons/github.com.png)](https://github.com/etolstoy)<br>Екатерина Петрова<br>Евгений Кателла|
 |**Регулярность** |Еженедельно|
 |**Длительность** |80-150 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1209828744" class="episodes" hashtag="podlodka">294 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1209828744" class="release-date">05.09.2022 18:59</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1209828744" class="episodes" hashtag="podlodka">293 (<font color="red">-1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1209828744" class="release-date">30.08.2022 11:28</span>|
 
 ---
 
