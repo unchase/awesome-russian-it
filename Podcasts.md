@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">08.09.2022 08:54</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">08.09.2022 12:12</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1519,8 +1519,8 @@
 |**Ведущие**      |Сергей Кузнецов<br>Вахтанг Махарадзе|
 |**Регулярность** |Еженедельно|
 |**Длительность** |30-40 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1436711112" class="episodes" hashtag="forgeeks">133 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1436711112" class="release-date">11.08.2022 18:50</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1436711112" class="episodes" hashtag="forgeeks">134 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1436711112" class="release-date">07.09.2022 23:40</span>|
 
 ---
 
@@ -1656,14 +1656,14 @@
 
 |Название         |[IT Бизнес Брокер: как покупать, развивать и продавать IT-бизнесы](https://itbb.ru/)|
 |:----------------|:-----------------------------------------------------------------------------------|
-|**Логотип**      |<span itunes-id="1202582439" class="itunes-img"><img height="100" width="100" src="https://is3-ssl.mzstatic.com/image/thumb/Podcasts123/v4/4a/aa/49/4aaa497b-d59c-bbbd-746c-4330e597b7cb/mza_1577397874012836099.png/600x600bb.jpg"></span>|
+|**Логотип**      |<span itunes-id="1202582439" class="itunes-img"><img height="100" width="100" src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/8e/56/be/8e56be51-d6e1-68d1-934f-53c8f79bd179/mza_2260474656744830790.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/it-бизнес-брокер-как-покупать-развивать-и-продавать/id1202582439) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/it-biznies-brokier-kak-pokupat-razvivat-i-prodavat-it-bizniesy) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/IT-Бизнес-Брокер%3A-как-покупать%2C-развивать-и-продавать-IT-бизнесы-id2897608) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/it-biznes-broker-kak-pokupat-razvivat-i-prodavat-it-biznesy) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCHK6xY4AiLDrtODorQVx5GA) • [![VK](img/favicons/vk.com.png)](https://vk.com/itbizbroker) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/itbizbroker)|
 |**Описание**     |Подкаст от руководителя проектов IT Бизнес Брокер и Telderi Нины Парамоновой о том, как покупать, развивать и продавать интернет-компании.<br>В каждом выпуске инвесторы и основатели известных IT проектов откровенно делятся историями о слияниях и поглощениях, рассказывают об успешных и неуспешных инвестициях, многомиллионных выходах и проваленных проектах.<br>Мы собираем самые заметные сделки на рынке и общаемся с теми, кто имеет реальный опыт покупки и продажи интернет-магазинов, онлайн-сервисов и мобильных приложений.<br>Мы вникаем в детали и обсуждаем зачем предприниматели продают и покупают бизнесы, где искать покупателей и инвесторов, как оценивать активы и зарабатывать на сделках больше.|
 |**Ведущие**      |Нина Парамонова|
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |30-69 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1202582439" class="episodes" hashtag="itbizbroker">69 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1202582439" class="release-date">11.05.2022 10:25</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1202582439" class="episodes" hashtag="itbizbroker">70 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1202582439" class="release-date">30.08.2022 12:06</span>|
 
 ---
 
@@ -1708,14 +1708,14 @@
 
 |Название         |[IT Бизнес Брокер](https://itbb.ru/podcast)|
 |:----------------|:------------------------------------------|
-|**Логотип**      |<span itunes-id="1202582439" class="itunes-img"><img height="100" width="100" src="https://is3-ssl.mzstatic.com/image/thumb/Podcasts123/v4/4a/aa/49/4aaa497b-d59c-bbbd-746c-4330e597b7cb/mza_1577397874012836099.png/600x600bb.jpg"></span>|
+|**Логотип**      |<span itunes-id="1202582439" class="itunes-img"><img height="100" width="100" src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/8e/56/be/8e56be51-d6e1-68d1-934f-53c8f79bd179/mza_2260474656744830790.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/mn/podcast/it-%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-%D0%B1%D1%80%D0%BE%D0%BA%D0%B5%D1%80-%D0%BA%D0%B0%D0%BA-%D0%BF%D0%BE%D0%BA%D1%83%D0%BF%D0%B0%D1%82%D1%8C-%D1%80%D0%B0%D0%B7%D0%B2%D0%B8%D0%B2%D0%B0%D1%82%D1%8C-%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B2%D0%B0%D1%82%D1%8C/id1202582439) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/1530167) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/IT-%D0%91%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-%D0%91%D1%80%D0%BE%D0%BA%D0%B5%D1%80%3A-%D0%BA%D0%B0%D0%BA-%D0%BF%D0%BE%D0%BA%D1%83%D0%BF%D0%B0%D1%82%D1%8C%2C-%D1%80%D0%B0%D0%B7%D0%B2%D0%B8%D0%B2%D0%B0%D1%82%D1%8C-%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B2%D0%B0%D1%82%D1%8C-IT-%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81%D1%8B-id1015311?country=us) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCHK6xY4AiLDrtODorQVx5GA) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcasts-137953806) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/itbizbroker) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/itbizbroker) • [![Telegram](img/favicons/t.me.png)](https://t.me/itbizbroker) • [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/itbizbroker/) • [![Email](img/favicons/email.png)](mailto:info@Itbizbroker.ru)|
 |**Описание**     |Авторская программа от управляющего партнера IT Бизнес Брокер Алексея Комарова о том, как покупать, развивать и продавать интернет-компании.<br>В каждом выпуске инвесторы и основатели известных IT проектов откровенно делятся историями о слияниях и поглощениях, рассказывают об успешных и неуспешных инвестициях, многомиллионных выходах и проваленных проектах.|
 |**Ведущие**      |[Алексей Комаров](https://komarov.bz/)|
 |**Регулярность** |Время от времени|
 |**Длительность** |30-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1202582439" class="episodes" hashtag="itbizbroker">69 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1202582439" class="release-date">11.05.2022 10:25</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1202582439" class="episodes" hashtag="itbizbroker">70 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1202582439" class="release-date">30.08.2022 12:06</span>|
 
 ---
 
@@ -1893,7 +1893,7 @@
 |**Ведущие**      |Юрий Агеев|
 |**Регулярность** |Еженедельно|
 |**Длительность** |40-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1417851966" class="episodes" hashtag="productsense">221 (<font color="red">0</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1417851966" class="episodes" hashtag="productsense">222 (<font color="green">+1</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1417851966" class="release-date">31.08.2022 23:30</span>|
 
 ---
@@ -2235,8 +2235,8 @@
 |**Ведущие**      |Тимур Сейфельмлюков<br>Дмитрий Зомбак [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/zombak) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCGygd95WaTLPcrRSB1OIB3g)<br>Максим Зарецкий<br>Иногда:<br>[Валентин Петухов (Wylsacom)](https://wylsa.com/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCt7sv-NKh44rHAEb-qCCxvA)<br>Григорий Бакунов (Bobuk) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/bobuk/) [![GitHub](img/favicons/github.com.png)](https://github.com/bobuk)|
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |120-150 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1068329384" class="episodes" hashtag="zavtracast">455 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1068329384" class="release-date">01.09.2022 18:54</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1068329384" class="episodes" hashtag="zavtracast">456 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1068329384" class="release-date">03.09.2022 00:00</span>|
 
 ### **Продуктовый дизайн** <a name="podcasts-design"></a>
 
@@ -2972,8 +2972,8 @@
 |**Ведущие**      |Олег Доброштан [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCc6DRZVioHF1m-ZWXqXNAYg)<br>Вячеслав Уточкин<br>Александр Мураш|
 |**Регулярность** |Раз в три недели (по средам)|
 |**Длительность** |40-50 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1490959979" class="episodes" hashtag="hvgamedev">44 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1490959979" class="release-date">13.07.2022 12:35</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1490959979" class="episodes" hashtag="hvgamedev">45 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1490959979" class="release-date">10.08.2022 11:53</span>|
 
 ---
 
