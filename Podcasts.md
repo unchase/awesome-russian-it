@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">02.10.2022 16:31</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">02.10.2022 20:18</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1105,7 +1105,7 @@
 |**Ведущие**      |Марина Эфендиева|
 |**Регулярность** |Раз в месяц|
 |**Длительность** |50-80 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1531388050" class="episodes" hashtag="Тут_лучше_об_IT">5 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1531388050" class="episodes" hashtag="Тут_лучше_об_IT">5 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1531388050" class="release-date">01.10.2022 23:44</span>|
 
 ---
