@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">03.10.2022 16:45</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">03.10.2022 20:31</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1484,7 +1484,7 @@
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |70-90 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1539756031" class="episodes" hashtag="DOU">100 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1539756031" class="release-date">29.09.2022 10:40</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1539756031" class="release-date">30.09.2022 09:42</span>|
 
 ---
 
@@ -1894,7 +1894,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |40-60 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1417851966" class="episodes" hashtag="productsense">225 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1417851966" class="release-date">21.09.2022 23:59</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1417851966" class="release-date">28.09.2022 23:59</span>|
 
 ---
 
