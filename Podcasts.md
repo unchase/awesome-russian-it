@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">05.10.2022 08:39</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">05.10.2022 12:13</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1470,7 +1470,7 @@
 |**Ведущие**      |Алексей Ткачук|
 |**Регулярность** |Ежедневно|
 |**Длительность** |20-25 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1494018535" class="episodes" hashtag="Dnative">534 (<font color="red">-1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1494018535" class="episodes" hashtag="Dnative">534 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1494018535" class="release-date">29.07.2022 12:06</span>|
 
 ---
