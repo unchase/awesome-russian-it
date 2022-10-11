@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">11.10.2022 08:54</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">11.10.2022 12:16</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1471,7 +1471,7 @@
 |**Регулярность** |Ежедневно|
 |**Длительность** |20-25 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1494018535" class="episodes" hashtag="Dnative">535 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1494018535" class="release-date">04.10.2022 17:19</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1494018535" class="release-date">17.09.2022 15:05</span>|
 
 ---
 
