@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">17.10.2022 12:23</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">17.10.2022 16:52</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1484,7 +1484,7 @@
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |70-90 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1539756031" class="episodes" hashtag="DOU">100 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1539756031" class="release-date">13.10.2022 10:56</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1539756031" class="release-date">14.10.2022 10:23</span>|
 
 ---
 
@@ -1763,7 +1763,7 @@
 |**Ведущие**      ||
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |50-90 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="567224504" class="episodes" hashtag="it_trend">160 (<font color="red">-1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="567224504" class="episodes" hashtag="it_trend">161 (<font color="green">+1</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="567224504" class="release-date">18.09.2022 23:30</span>|
 
 ---
@@ -2257,7 +2257,7 @@
 
 |Название         |Дизайн Такой|
 |:----------------|:-----------|
-|**Логотип**      |<span itunes-id="1445736032" class="itunes-img"><img height="100" width="100" src="https://is4-ssl.mzstatic.com/image/thumb/Podcasts125/v4/cb/ba/ea/cbbaea64-0556-635b-9841-66481d17be7f/mza_618600368882379904.jpg/600x600bb.jpg"></span>|
+|**Логотип**      |<span itunes-id="1445736032" class="itunes-img"><img height="100" width="100" src="https://is3-ssl.mzstatic.com/image/thumb/Podcasts112/v4/b6/5e/6c/b65e6c03-6456-a36d-8fc6-290f50d1c434/mza_5544524369593444079.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/design_takoy) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/%D0%B4%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD-%D1%82%D0%B0%D0%BA%D0%BE%D0%B9/id1445736032) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/dizajn-takoj/) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/2490832) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/%D0%94%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD-%D0%A2%D0%B0%D0%BA%D0%BE%D0%B9-id1642994?country=ru) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/dizayn-takoy) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcastdesigntakoy) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/designtakoy/) • [![Telegram](img/favicons/t.me.png)](https://t.me/design_takoy)|
 |**Описание**     |Подкаст о продуктовом дизайне, вебе, интерфейсах и софте. Medium пишет о дизайне, мы о нём говорим.|
 |**Ведущие**      |[Никита Лакеев](https://lakeevnikita.tilda.ws/) [![Medium](img/favicons/medium.com.png)](https://medium.com/@lakeisheee)<br>Роман Нургалиев [![Medium](img/favicons/medium.com.png)](http://medium.com/@romannurgaliev)|
