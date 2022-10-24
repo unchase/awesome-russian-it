@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">24.10.2022 09:12</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">24.10.2022 12:23</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1131,8 +1131,8 @@
 |**Ведущие**      |Николай<br>[Лев Пикалёв](http://levpikalev.com/) [![Medium](img/favicons/medium.com.png)](https://podcasts-prevail.medium.com/)<br>Анна [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/Shelsneg/)<br>Адель<br>Далер Алиёров [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/daleraliyorov/)<br>Иван Звягин [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/baragol/)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |~60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1542090813" class="episodes" hashtag="Хоба">104 (<font color="green">+1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1542090813" class="release-date">17.10.2022 01:00</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1542090813" class="episodes" hashtag="Хоба">103 (<font color="red">-1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1542090813" class="release-date">03.10.2022 01:00</span>|
 
 ---
 
@@ -2263,7 +2263,7 @@
 |**Ведущие**      |[Никита Лакеев](https://lakeevnikita.tilda.ws/) [![Medium](img/favicons/medium.com.png)](https://medium.com/@lakeisheee)<br>Роман Нургалиев [![Medium](img/favicons/medium.com.png)](http://medium.com/@romannurgaliev)|
 |**Регулярность** |Время от времени|
 |**Длительность** |40-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1445736032" class="episodes" hashtag="design_takoy">57 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1445736032" class="episodes" hashtag="design_takoy">56 (<font color="red">-1</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1445736032" class="release-date">08.06.2022 17:30</span>|
 
 ---
@@ -2493,7 +2493,7 @@
 |**Ведущие**      |Вадим Челышов [![GitHub](img/favicons/github.com.png)](https://github.com/dos65)<br>[Григорий Помадчин](http://pomadchin.com/) [![GitHub](img/favicons/github.com.png)](https://github.com/pomadchin)<br>Евгений Токарев [![GitHub](img/favicons/github.com.png)](https://github.com/strobe)<br>[Алексей Фомкин](https://fomkin.org/) [![GitHub](img/favicons/github.com.png)](https://github.com/fomkin) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/yelbota/)<br>Алексей Романчук [![GitHub](img/favicons/github.com.png)](https://github.com/13h3r)<br>Виктор Тараненко [![GitHub](img/favicons/github.com.png)](https://github.com/viktortnk) [![Medium](img/favicons/medium.com.png)](https://medium.com/@viktortnk)|
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** ||
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1156356598" class="episodes" hashtag="ScalalazPodcast">112 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1156356598" class="episodes" hashtag="ScalalazPodcast">111 (<font color="red">-1</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1156356598" class="release-date">23.02.2022 03:00</span>|
 
 #### **Веб-разработка** <a name="podcasts-development-web"></a>
@@ -2765,8 +2765,8 @@
 |**Ведущие**      |Кирилл Розов [![Medium](img/favicons/medium.com.png)](https://medium.com/@kirillr) [![GitHub](img/favicons/github.com.png)](https://github.com/kirich1409)|
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |50-80 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1492425305" class="episodes" hashtag="andro_broadcast">101 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1492425305" class="release-date">07.10.2022 09:00</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1492425305" class="episodes" hashtag="andro_broadcast">102 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1492425305" class="release-date">21.10.2022 09:00</span>|
 
 ---
 
