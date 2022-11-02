@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">02.11.2022 08:38</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">02.11.2022 12:09</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -703,7 +703,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |80-90 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1524851032" class="episodes" hashtag="final.doc">66 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1524851032" class="release-date">21.05.2022 14:12</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1524851032" class="release-date">29.09.2022 14:31</span>|
 
 ---
 
@@ -1229,7 +1229,7 @@
 
 |Название         |[#BeardyCast: гаджеты и медиакультура](https://beardycast.com/)|
 |:----------------|:--------------------------------------------------------------|
-|**Логотип**      |<span itunes-id="868222886" class="itunes-img"><img height="100" width="100" src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/59/d0/be/59d0be7e-f257-566a-8d06-273da2b4e013/mza_4233297068835083769.jpg/600x600bb.jpg"></span>|
+|**Логотип**      |<span itunes-id="868222886" class="itunes-img"><img height="100" width="100" src="https://is5-ssl.mzstatic.com/image/thumb/Podcasts112/v4/fe/b0/37/feb03755-024d-cc3a-d618-65739073dda2/mza_599421398467475674.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/beardycast) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/beardycast-%D0%B3%D0%B0%D0%B4%D0%B6%D0%B5%D1%82%D1%8B-%D0%B8-%D0%BC%D0%B5%D0%B4%D0%B8%D0%B0%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B0/id868222886) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/beardycast) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/BeardyCast%3A-%D0%B3%D0%B0%D0%B4%D0%B6%D0%B5%D1%82%D1%8B-%D0%B8-%D0%BC%D0%B5%D0%B4%D0%B8%D0%B0%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B0-id108326?country=ru) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/channel/beardycast) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UC8LC9RGDSc-brZldHFvML3A) • [![VK](img/favicons/vk.com.png)](https://vk.com/beardycast) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/beardyshow) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/beardycast/) • [![Telegram](img/favicons/t.me.png)](https://tlg.name/beardycast) • [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/beardycast/) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/6408410) • [![Medium](img/favicons/medium.com.png)](https://medium.com/@BeardyCast)|
 |**Описание**     |BeardyCast — еженедельный подкаст о технологиях, гаджетах и медиакультуре. Выпуски с названием «Спешл» отличаются от обычных: они сопровождаются своим сценарием и освещают какую-то одну тему.|
 |**Ведущие**      |Андрей Барышников [![GitHub](img/favicons/github.com.png)](https://github.com/BilberryMuffin)<br>Сергей Епихин<br>Антон Поздняков|
@@ -2463,7 +2463,7 @@
 |**Ведущие**      |Григорий Петров [![GitHub](img/favicons/github.com.png)](https://github.com/grigoryvp) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/eyeofhell/)<br>Илья Лебедев [![GitHub](img/favicons/github.com.png)](https://github.com/Melevir)<br>[Валентин Домбровский](http://dombrovsky.me/)<br>Михаил Корнеев [![GitHub](img/favicons/github.com.png)](https://github.com/korneevm) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/voldar/)<br>Злата Обуховская<br>Алексей Штырняев|
 |**Регулярность** |Еженедельно|
 |**Длительность** |30-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1429543935" class="episodes" hashtag="moscowpython">157 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1429543935" class="episodes" hashtag="moscowpython">157 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1429543935" class="release-date">11.10.2022 16:48</span>|
 
 ##### **Ruby** <a name="podcasts-development-ruby"></a>
@@ -2910,7 +2910,7 @@
 |**Ведущие**      |Алексей Давыдов<br>Евгений Кистерев<br>Алексей Тестов|
 |**Регулярность** |Еженедельно|
 |**Длительность** |60-100 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1488527416" class="episodes" hashtag="pilimtrem">101 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1488527416" class="episodes" hashtag="pilimtrem">101 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1488527416" class="release-date">24.10.2022 17:54</span>|
 
 ---
