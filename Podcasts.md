@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">08.11.2022 16:36</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">08.11.2022 20:18</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1014,7 +1014,7 @@
 |**Ведущие**      ||
 |**Регулярность** |Время от времени|
 |**Длительность** |80-90 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1466243923" class="episodes" hashtag="Сушите_вёсла">23 (<font color="red">-1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1466243923" class="episodes" hashtag="Сушите_вёсла">24 (<font color="green">+1</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1466243923" class="release-date">28.07.2022 12:03</span>|
 
 ---
@@ -1235,7 +1235,7 @@
 |**Ведущие**      |Андрей Барышников [![GitHub](img/favicons/github.com.png)](https://github.com/BilberryMuffin)<br>Сергей Епихин<br>Антон Поздняков|
 |**Регулярность** |Еженедельно|
 |**Длительность** |70-120 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="868222886" class="episodes" hashtag="beardycast">590 (<font color="red">-1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="868222886" class="episodes" hashtag="beardycast">591 (<font color="green">+1</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="868222886" class="release-date">28.10.2022 19:13</span>|
 
 ---
@@ -1484,7 +1484,7 @@
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |70-90 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1539756031" class="episodes" hashtag="DOU">100 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1539756031" class="release-date">01.11.2022 15:33</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1539756031" class="release-date">02.11.2022 20:54</span>|
 
 ---
 
@@ -1662,7 +1662,7 @@
 |**Ведущие**      |Нина Парамонова|
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |30-69 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1202582439" class="episodes" hashtag="itbizbroker">74 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1202582439" class="episodes" hashtag="itbizbroker">74 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1202582439" class="release-date">08.11.2022 10:37</span>|
 
 ---
@@ -1714,7 +1714,7 @@
 |**Ведущие**      |[Алексей Комаров](https://komarov.bz/)|
 |**Регулярность** |Время от времени|
 |**Длительность** |30-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1202582439" class="episodes" hashtag="itbizbroker">74 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1202582439" class="episodes" hashtag="itbizbroker">74 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1202582439" class="release-date">08.11.2022 10:37</span>|
 
 ---
@@ -1750,7 +1750,7 @@
 |**Ведущие**      |Александр Ляпота|
 |**Регулярность** |Еженедельно|
 |**Длительность** |30-70 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="454929808" class="episodes" hashtag="Its_A_Good_Cast">178 (<font color="red">0</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="454929808" class="episodes" hashtag="Its_A_Good_Cast">179 (<font color="green">+1</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="454929808" class="release-date">31.10.2022 11:00</span>|
 
 ---
@@ -1828,7 +1828,7 @@
 |**Ведущие**      ||
 |**Регулярность** |Еженедельно|
 |**Длительность** |50-100 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="454929808" class="episodes" hashtag="keddr">178 (<font color="red">0</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="454929808" class="episodes" hashtag="keddr">179 (<font color="green">+1</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="454929808" class="release-date">31.10.2022 11:00</span>|
 
 ---
