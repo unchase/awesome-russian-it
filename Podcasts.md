@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">14.12.2022 16:17</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">14.12.2022 20:06</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1183,7 +1183,7 @@
 |**Ведущие**      |Геннадий Захаров|
 |**Регулярность** |Время от времени|
 |**Длительность** |10-35 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1508892224" class="episodes" hashtag="Цифранутый_подкаст">12 (<font color="red">0</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1508892224" class="episodes" hashtag="Цифранутый_подкаст">11 (<font color="red">-1</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1508892224" class="release-date">29.05.2022 10:17</span>|
 
 ---
