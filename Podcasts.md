@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">16.12.2022 12:07</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">16.12.2022 16:11</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -962,7 +962,7 @@
 |**Ведущие**      |Вязанкин Михаил<br>Гончаров Левон|
 |**Регулярность** |Время от времени|
 |**Длительность** |10-70 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1446456479" class="episodes" hashtag="chpulya">57 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1446456479" class="episodes" hashtag="chpulya">57 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1446456479" class="release-date">01.12.2022 13:07</span>|
 
 ---
@@ -1235,7 +1235,7 @@
 |**Ведущие**      |Андрей Барышников [![GitHub](img/favicons/github.com.png)](https://github.com/BilberryMuffin)<br>Сергей Епихин<br>Антон Поздняков|
 |**Регулярность** |Еженедельно|
 |**Длительность** |70-120 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="868222886" class="episodes" hashtag="beardycast">597 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="868222886" class="episodes" hashtag="beardycast">597 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="868222886" class="release-date">13.12.2022 15:57</span>|
 
 ---
@@ -2127,7 +2127,7 @@
 |**Ведущие**      |[Николай Ясинский](https://www.nickyasinskiy.com/) [![Medium](img/favicons/medium.com.png)](https://medium.com/@nydevel)|
 |**Регулярность** |Время от времени|
 |**Длительность** |3-30 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1299464952" class="episodes" hashtag="shifuio">74 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1299464952" class="episodes" hashtag="shifuio">74 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1299464952" class="release-date">12.12.2022 11:32</span>|
 
 ---
@@ -2871,7 +2871,7 @@
 |**Ведущие**      |[Сергей Галёнкин](http://galyonkin.com/) [![Medium](img/favicons/medium.com.png)](http://medium.com/@galyonkin)<br>[Михаил Кузьмин](http://kuzmitch.ru/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UChwapc7GYZZ3k4zTxp6B66Q)|
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |80-120 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="560881209" class="episodes" hashtag="kdicast">365 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="560881209" class="episodes" hashtag="kdicast">365 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="560881209" class="release-date">08.12.2022 23:50</span>|
 
 ---
@@ -3097,7 +3097,7 @@
 |**Ведущие**      |Дмитрий Прусов|
 |**Регулярность** |Время от времени|
 |**Длительность** |~60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1574524435" class="episodes" hashtag="Data_Therapy">16 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1574524435" class="episodes" hashtag="Data_Therapy">16 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1574524435" class="release-date">07.12.2022 13:49</span>|
 
 ### **DevOps** <a name="podcasts-devops"></a>
