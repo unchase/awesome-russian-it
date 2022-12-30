@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">29.12.2022 20:06</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">30.12.2022 08:07</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1209,7 +1209,7 @@
 |**Ведущие**      ||
 |**Регулярность** |Ежедневно|
 |**Длительность** |~5 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="episodes" hashtag="shortcode">325 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="episodes" hashtag="shortcode">325 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="release-date">28.12.2022 03:00</span>|
 
 ---
@@ -1320,7 +1320,7 @@
 |**Ведущие**      |[Дима Маленко](http://www.dmalenko.org/) [![GitHub](img/favicons/github.com.png)](https://github.com/dmalenko)<br>Вячеслав Рудницкий|
 |**Регулярность** |Еженедельно|
 |**Длительность** |30-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1095164631" class="episodes" hashtag="biweekly">8 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1095164631" class="episodes" hashtag="biweekly">7 (<font color="red">-1</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1095164631" class="release-date">16.12.2022 10:30</span>|
 
 ---
@@ -2765,8 +2765,8 @@
 |**Ведущие**      |Кирилл Розов [![Medium](img/favicons/medium.com.png)](https://medium.com/@kirillr) [![GitHub](img/favicons/github.com.png)](https://github.com/kirich1409)|
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |50-80 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1492425305" class="episodes" hashtag="andro_broadcast">107 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1492425305" class="release-date">29.12.2022 15:07</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1492425305" class="episodes" hashtag="andro_broadcast">106 (<font color="red">-1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1492425305" class="release-date">30.11.2022 11:16</span>|
 
 ---
 
@@ -3097,8 +3097,8 @@
 |**Ведущие**      |Дмитрий Прусов|
 |**Регулярность** |Время от времени|
 |**Длительность** |~60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1574524435" class="episodes" hashtag="Data_Therapy">18 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1574524435" class="release-date">21.12.2022 13:44</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1574524435" class="episodes" hashtag="Data_Therapy">17 (<font color="red">-1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1574524435" class="release-date">14.12.2022 17:42</span>|
 
 ### **DevOps** <a name="podcasts-devops"></a>
 
