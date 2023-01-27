@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">27.01.2023 08:06</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">27.01.2023 12:07</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -63,8 +63,8 @@
 |**Ведущие**      |[Сергей Тихомиров](https://sergei.substack.com) [![RSS](img/favicons/rss.png)](https://sergei.substack.com/feed)<br>Иван Иваницкий [![Medium](img/favicons/medium.com.png)](https://medium.com/@ivanitskiy.ivan) [![GitHub](img/favicons/github.com.png)](https://github.com/Ivan-Ivanitskiy)<br>Сергей Павлин<br>Александр Селезнев|
 |**Регулярность** |Еженедельно|
 |**Длительность** |50-110 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1289965366" class="episodes" hashtag="basicblockradio">164 (<font color="red">-1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1289965366" class="release-date">30.12.2022 09:00</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1289965366" class="episodes" hashtag="basicblockradio">165 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1289965366" class="release-date">16.01.2023 17:21</span>|
 
 ---
 
@@ -1053,7 +1053,7 @@
 |**Ведущие**      |Дмитрий Здоров<br>Василий Мязин|
 |**Регулярность** |Время от времени|
 |**Длительность** |20-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1013700516" class="episodes" hashtag="Технологии_и_жизнь">101 (<font color="red">-1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1013700516" class="episodes" hashtag="Технологии_и_жизнь">102 (<font color="green">+1</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1013700516" class="release-date">02.01.2023 21:29</span>|
 
 ---
@@ -1118,8 +1118,8 @@
 |**Ведущие**      |[Лев Пикалёв](http://levpikalev.com/)|
 |**Регулярность** |Раз в две недели|
 |**Длительность** |30-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1443781654" class="episodes" hashtag="khantflou_insight">88 (<font color="red">-1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1443781654" class="release-date">21.12.2022 14:22</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1443781654" class="episodes" hashtag="khantflou_insight">89 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1443781654" class="release-date">12.01.2023 17:12</span>|
 
 ---
 
@@ -1346,7 +1346,7 @@
 |**Ведущие**      ||
 |**Регулярность** |Еженедельно|
 |**Длительность** |20-80 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1484275234" class="episodes" hashtag="matematicxyz">141 (<font color="red">-1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1484275234" class="episodes" hashtag="matematicxyz">142 (<font color="green">+1</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1484275234" class="release-date">19.01.2023 06:45</span>|
 
 ---
