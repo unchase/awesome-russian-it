@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">08.02.2023 16:16</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">08.02.2023 20:07</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -689,8 +689,8 @@
 |**Ведущие**      |Борис<br>Елизавета Швец [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/Schvepsss/)<br>Антон<br>Евгений Пешков [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/gradea/)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |~35 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1498922167" class="episodes" hashtag="Ничего_такого">22 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1498922167" class="release-date">25.01.2023 20:42</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1498922167" class="episodes" hashtag="Ничего_такого">23 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1498922167" class="release-date">01.02.2023 16:46</span>|
 
 ---
 
@@ -924,7 +924,7 @@
 |**Регулярность** |Время от времени|
 |**Длительность** |40-120 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="594292319" class="episodes" hashtag="razbor_poletov">50 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="594292319" class="release-date">10.12.2022 03:00</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="594292319" class="release-date">17.01.2023 03:00</span>|
 
 ---
 
@@ -1118,7 +1118,7 @@
 |**Ведущие**      |[Лев Пикалёв](http://levpikalev.com/)|
 |**Регулярность** |Раз в две недели|
 |**Длительность** |30-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1443781654" class="episodes" hashtag="khantflou_insight">89 (<font color="red">-1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1443781654" class="episodes" hashtag="khantflou_insight">89 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1443781654" class="release-date">12.01.2023 17:12</span>|
 
 ---
@@ -1484,7 +1484,7 @@
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |70-90 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1539756031" class="episodes" hashtag="DOU">100 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1539756031" class="release-date">03.02.2023 11:02</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1539756031" class="release-date">07.02.2023 13:03</span>|
 
 ---
 
