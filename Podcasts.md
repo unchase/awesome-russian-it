@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">18.02.2023 08:06</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">18.02.2023 12:06</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1405,8 +1405,8 @@
 |**Ведущие**      |Alex <br> Mak <br> Dina|
 |**Регулярность** |Еженедельно|
 |**Длительность** |~60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1575312052" class="episodes" hashtag="datacoffee">80 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1575312052" class="release-date">04.02.2023 11:00</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1575312052" class="episodes" hashtag="datacoffee">81 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1575312052" class="release-date">11.02.2023 11:00</span>|
 
 ---
 
@@ -1519,7 +1519,7 @@
 |**Ведущие**      |Сергей Кузнецов<br>Вахтанг Махарадзе|
 |**Регулярность** |Еженедельно|
 |**Длительность** |30-40 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1436711112" class="episodes" hashtag="forgeeks">149 (<font color="red">0</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1436711112" class="episodes" hashtag="forgeeks">148 (<font color="red">-1</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1436711112" class="release-date">11.02.2023 12:14</span>|
 
 ---
@@ -2164,7 +2164,7 @@
 |**Регулярность** |Несколько выпусков в месяц|
 |**Длительность** |40-120 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1046278525" class="episodes" hashtag="taoppodcast">200 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1046278525" class="release-date">02.02.2023 16:28</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1046278525" class="release-date">09.02.2023 13:00</span>|
 
 ---
 
@@ -2236,7 +2236,7 @@
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |120-150 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1068329384" class="episodes" hashtag="zavtracast">472 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1068329384" class="release-date">04.02.2023 18:25</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1068329384" class="release-date">16.02.2023 00:00</span>|
 
 ### **Продуктовый дизайн** <a name="podcasts-design"></a>
 
@@ -2394,7 +2394,7 @@
 |**Ведущие**      |Станислав Александров<br>Александр Кугушев [![GitHub](img/favicons/github.com.png)](https://github.com/kugushev) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/KAW/)<br>Наталья|
 |**Регулярность** |1-4 раза в месяц|
 |**Длительность** |40-120 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1448111173" class="episodes" hashtag="dotnetmore">91 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1448111173" class="episodes" hashtag="dotnetmore">90 (<font color="red">-1</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1448111173" class="release-date">04.02.2023 00:38</span>|
 
 ---
