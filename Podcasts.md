@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">16.03.2023 16:18</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">16.03.2023 20:06</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1346,7 +1346,7 @@
 |**Ведущие**      ||
 |**Регулярность** |Еженедельно|
 |**Длительность** |20-80 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1484275234" class="episodes" hashtag="matematicxyz">148 (<font color="red">-1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1484275234" class="episodes" hashtag="matematicxyz">148 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1484275234" class="release-date">02.03.2023 09:53</span>|
 
 ---
