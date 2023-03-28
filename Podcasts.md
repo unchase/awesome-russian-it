@@ -2361,6 +2361,19 @@
 
 ---
 
+|Название         |Тысяча фичей|
+|:----------------|:-------|
+|**Логотип**      |<span itunes-id="1648026802" class="itunes-img"><img height="100" width="100" src="https://is4-ssl.mzstatic.com/image/thumb/Podcasts112/v4/08/21/54/08215483-191a-e36b-5114-e57d121bdb9b/mza_2448102967691414514.png/600x600bb.jpg"></span>|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/am/podcast/%D1%82%D1%8B%D1%81%D1%8F%D1%87%D0%B0-%D1%84%D0%B8%D1%87%D0%B5%D0%B9/id1648026802) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5saWJzeW4uY29tLzQ0MDkyOC9yc3M=) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/23688989)• [![Telegram](img/favicons/t.me.png)](https://t.me/tfeat) • [![RSS](img/favicons/rss.png)](hhttps://feeds.libsyn.com/440928/rss)|
+|**Описание**     |Подкаст от инженера, который любит свое дело. Это инди-подкаст о вещах, с которыми сталкивается каждый разработчик: слепая печать, дизайн API, паттерны и многое другое.|
+|**Ведущие**      |Саша Пахомов|
+|**Регулярность** |Раз в две недели|
+|**Длительность** |30-50 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1648026802" class="episodes">13 (<font color="red">0</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1648026802" class="release-date">20.03.2023</span>|
+
+---
+
 |Название         |[Z-namespace](https://ilyakaznacheev.github.io/z-namespace/)|
 |:----------------|:-----------------------------------------------------------|
 |**Логотип**      |<span itunes-id="1501041559" class="itunes-img"><img height="100" width="100" src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/96/d8/90/96d89088-af0b-544b-fe1a-cba0b51facb1/mza_16514265941062826051.jpg/600x600bb.jpg"></span>|
