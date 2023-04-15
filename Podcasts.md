@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">15.04.2023 08:06</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">15.04.2023 12:06</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -117,8 +117,8 @@
 |**Ведущие**      |Бабайкин|
 |**Регулярность** |Еженедельно|
 |**Длительность** |20-30 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1556322514" class="episodes" hashtag="">105 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1556322514" class="release-date">31.03.2023 11:48</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1556322514" class="episodes" hashtag="">106 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1556322514" class="release-date">07.04.2023 13:02</span>|
 
 ### **ИТ-безопасность** <a name="podcasts-security"></a>
 
@@ -741,7 +741,7 @@
 |**Ведущие**      |Михаил Марченко<br>Ольга Давыдова|
 |**Регулярность** |Время от времени|
 |**Длительность** |30-50 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="472631602" class="episodes" hashtag="it.career.ua">386 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="472631602" class="episodes" hashtag="it.career.ua">386 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="472631602" class="release-date">04.04.2023 17:17</span>|
 
 ---
@@ -1209,7 +1209,7 @@
 |**Ведущие**      ||
 |**Регулярность** |Ежедневно|
 |**Длительность** |~5 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="episodes" hashtag="shortcode">367 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="episodes" hashtag="shortcode">367 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="release-date">14.04.2023 11:00</span>|
 
 ---
@@ -1578,14 +1578,14 @@
 
 |Название         |[Gurov Digital](https://gurov.digital/)|
 |:----------------|:--------------------------------------|
-|**Логотип**      |<span itunes-id="1456143785" class="itunes-img"><img height="100" width="100" src="https://is5-ssl.mzstatic.com/image/thumb/Podcasts116/v4/e4/1b/bf/e41bbf0d-e17d-f028-a1ca-318b7abbbdfd/mza_6445885783683514320.jpeg/600x600bb.jpg"></span>|
+|**Логотип**      |<span itunes-id="1456143785" class="itunes-img"><img height="100" width="100" src="https://is4-ssl.mzstatic.com/image/thumb/Podcasts116/v4/c0/1c/96/c01c96da-c75b-96c9-e747-2b21a9873e62/mza_8630399610562800323.jpeg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/gurovdigital) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/gurov-digital/id1456143785) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/?feed=aHR0cDovL2ZlZWRzLnNvdW5kY2xvdWQuY29tL3VzZXJzL3NvdW5kY2xvdWQ6dXNlcnM6MzA4MjU5NTIxL3NvdW5kcy5yc3M) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/episodes/gurov-digital/) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCwdOVy56m5uQ2TyfRz9I45Q) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcasts-37473931) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/gurovdigital/) • [![Telegram](img/favicons/t.me.png)](http://t.me/gurovdigital) • [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/gurovdigital/) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/7115659)|
 |**Описание**     |Что произошло с Instagram, Telegram, YouTube и WhatsApp за последнее время.|
 |**Ведущие**      |[Павел Гуров](https://gurov.github.io) [![GitHub](img/favicons/github.com.png)](https://github.com/gurov) [![Medium](img/favicons/medium.com.png)](https://medium.com/@gurovdigital) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/lucius/) [![RSS](img/favicons/rss.png)](https://gurov.github.io/feed.xml)|
 |**Регулярность** |Время от времени|
 |**Длительность** |20-40 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1456143785" class="episodes" hashtag="gurovdigital">11 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1456143785" class="release-date">06.03.2023 16:01</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1456143785" class="episodes" hashtag="gurovdigital">12 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1456143785" class="release-date">14.04.2023 19:51</span>|
 
 ---
 
@@ -2394,7 +2394,7 @@
 |**Ведущие**      |Станислав Александров<br>Александр Кугушев [![GitHub](img/favicons/github.com.png)](https://github.com/kugushev) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/KAW/)<br>Наталья|
 |**Регулярность** |1-4 раза в месяц|
 |**Длительность** |40-120 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1448111173" class="episodes" hashtag="dotnetmore">95 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1448111173" class="episodes" hashtag="dotnetmore">95 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1448111173" class="release-date">31.03.2023 12:26</span>|
 
 ---
