@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">18.04.2023 16:12</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">18.04.2023 20:05</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1209,8 +1209,8 @@
 |**Ведущие**      ||
 |**Регулярность** |Ежедневно|
 |**Длительность** |~5 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="episodes" hashtag="shortcode">368 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="release-date">14.04.2023 11:00</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="episodes" hashtag="shortcode">369 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="release-date">17.04.2023 11:00</span>|
 
 ---
 
@@ -2785,7 +2785,7 @@
 
 |Название         |[Droider Cast](http://droider.ru/tag/5294-8024/)|
 |:----------------|:-----------------------------------------------|
-|**Логотип**      |<span itunes-id="1057019371" class="itunes-img"><img height="100" width="100" src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts62/v4/d3/e4/15/d3e41527-aeb1-0883-0748-d8edcb4b8931/mza_7418232091108424700.jpg/600x600bb.jpg"></span>|
+|**Логотип**      |<span itunes-id="1057019371" class="itunes-img"><img height="100" width="100" src="https://is5-ssl.mzstatic.com/image/thumb/Podcasts116/v4/84/c5/71/84c571f4-0858-dbf6-eb27-52cf2dc2e12e/mza_774920446320089255.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/droider-cast/id1057019371) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/96588) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/Droider-Cast-id472035?country=ru) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/droider-casПродуктовыйt) • [![Podster](img/favicons/podster.fm.png)](https://droidercast.podster.fm/) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcasts-17733403) • [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/droiderband/) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/9048349?from=serp) • [![RSS](img/favicons/rss.png)](https://podster.fm/rss.xml?pid=41971)|
 |**Описание**     |Droider Cast — нескучный подкаст сайта Droider.ru.<br>Раз в неделю Борис Веденский, Валерий Истишев и Митя Иванов собираются, чтобы сжечь несколько ведьм, разоблачить пару заговоров, обсудить последние новости интернета, технологий, кино и видеоигр в неформальной обстановке.|
 |**Ведущие**      |Борис Веденский (cwe) [![Medium](img/favicons/medium.com.png)](https://medium.com/@vedensky) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/vedensky/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UC1a2rnuwCw6rEbAxclIHkng)<br>Валерий Истишев [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/istishev/)<br>Митя Иванов|
