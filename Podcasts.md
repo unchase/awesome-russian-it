@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">19.04.2023 16:12</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">19.04.2023 20:07</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -203,7 +203,7 @@
 
 |Название         |[АйТиБорода](https://itbeard.mave.digital/)|
 |:----------------|:------------------------------------------|
-|**Логотип**      |<span itunes-id="1449804780" class="itunes-img"><img height="100" width="100" src="https://is2-ssl.mzstatic.com/image/thumb/Podcasts126/v4/63/5c/b0/635cb0d0-a585-56ae-6088-c41e4552fccc/mza_8950708242674555179.jpg/600x600bb.jpg"></span>|
+|**Логотип**      |<span itunes-id="1449804780" class="itunes-img"><img height="100" width="100" src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/56/4a/90/564a905a-a96f-c599-65dd-6110510040f7/mza_9491239326778823161.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/itbeard) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/us/podcast/%D0%B0%D0%B9%D1%82%D0%B8%D0%B1%D0%BE%D1%80%D0%BE%D0%B4%D0%B0/id1449804780) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjQ4NzQ5MTA0OC9zb3VuZHMucnNz) • [![Podfm](img/favicons/podfm.ru.png)](https://podfm.ru/podcasts/ajtiboroda/) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/aitiboroda) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/%D0%90%D0%B9%D0%A2%D0%B8%D0%91%D0%BE%D1%80%D0%BE%D0%B4%D0%B0-id2002151?country=ru) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/aytiboroda) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCeObZv89Stb2xLtjLJ0De3Q) • [![VK](img/favicons/vk.com.png)](https://vk.com/itbeard) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/itbeard/) • [![Telegram](img/favicons/t.me.png)](http://t.me/itbeard) • [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/itbeard/) • [![Discord](img/favicons/discordapp.com.png)](https://discordapp.com/invite/tWbt4sS) • [![RSS](img/favicons/rss.png)](https://cloud.mave.digital/33318)|
 |**Описание**     |Ку! Меня зовут Лекс и я бородатый программист. С 2012 года у меня накопилось много опыта, историй и знакомств, которыми я делюсь здесь, на этом канале.<br>Но канал - это не просто хобби. Для меня это целый Проект, посвященный не столько программированию, сколько жизни айтишников изнутри. Без всякой цензуры, ярлыков и лишнего пафоса. Весь контент на канале вместе с вами формирует цельное сообщество единомышленников, способных перевернуть этот мир ко всем чертям, в добром смысле слова :)|
 |**Ведущие**      |Лекс АйТиБорода [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/lex_kar/)|
@@ -1484,7 +1484,7 @@
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |70-90 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1539756031" class="episodes" hashtag="DOU">100 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1539756031" class="release-date">14.04.2023 10:00</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1539756031" class="release-date">17.04.2023 13:48</span>|
 
 ---
 
