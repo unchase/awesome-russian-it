@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">01.05.2023 20:06</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">02.05.2023 08:07</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -741,7 +741,7 @@
 |**Ведущие**      |Михаил Марченко<br>Ольга Давыдова|
 |**Регулярность** |Время от времени|
 |**Длительность** |30-50 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="472631602" class="episodes" hashtag="it.career.ua">387 (<font color="red">-1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="472631602" class="episodes" hashtag="it.career.ua">388 (<font color="green">+1</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="472631602" class="release-date">21.04.2023 18:36</span>|
 
 ---
