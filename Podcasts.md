@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">03.05.2023 12:07</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">03.05.2023 16:09</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1209,8 +1209,8 @@
 |**Ведущие**      ||
 |**Регулярность** |Ежедневно|
 |**Длительность** |~5 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="episodes" hashtag="shortcode">376 (<font color="green">+1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="release-date">02.05.2023 11:00</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="episodes" hashtag="shortcode">374 (<font color="red">-2</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="release-date">28.04.2023 11:00</span>|
 
 ---
 
@@ -1321,7 +1321,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |30-60 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1095164631" class="episodes" hashtag="biweekly">17 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1095164631" class="release-date">02.05.2023 11:30</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1095164631" class="release-date">17.04.2023 11:30</span>|
 
 ---
 
