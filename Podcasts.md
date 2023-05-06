@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">06.05.2023 08:07</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">06.05.2023 12:05</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -516,7 +516,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |~90 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="363311940" class="episodes" hashtag="rcmp_podcast">11 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="363311940" class="release-date">06.05.2023 00:34</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="363311940" class="release-date">22.04.2023 00:45</span>|
 
 ---
 
@@ -962,7 +962,7 @@
 |**Ведущие**      |Вязанкин Михаил<br>Гончаров Левон|
 |**Регулярность** |Время от времени|
 |**Длительность** |10-70 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1446456479" class="episodes" hashtag="chpulya">64 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1446456479" class="episodes" hashtag="chpulya">63 (<font color="red">-1</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1446456479" class="release-date">20.04.2023 12:33</span>|
 
 ---
@@ -1209,7 +1209,7 @@
 |**Ведущие**      ||
 |**Регулярность** |Ежедневно|
 |**Длительность** |~5 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="episodes" hashtag="shortcode">378 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="episodes" hashtag="shortcode">378 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="release-date">04.05.2023 11:00</span>|
 
 ---
@@ -1406,7 +1406,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |~60 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1575312052" class="episodes" hashtag="datacoffee">93 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1575312052" class="release-date">29.04.2023 10:00</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1575312052" class="release-date">06.05.2023 10:00</span>|
 
 ---
 
@@ -2235,7 +2235,7 @@
 |**Ведущие**      |Тимур Сейфельмлюков<br>Дмитрий Зомбак [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/zombak) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCGygd95WaTLPcrRSB1OIB3g)<br>Максим Зарецкий<br>Иногда:<br>[Валентин Петухов (Wylsacom)](https://wylsa.com/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCt7sv-NKh44rHAEb-qCCxvA)<br>Григорий Бакунов (Bobuk) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/bobuk/) [![GitHub](img/favicons/github.com.png)](https://github.com/bobuk)|
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |120-150 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1068329384" class="episodes" hashtag="zavtracast">481 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1068329384" class="episodes" hashtag="zavtracast">481 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1068329384" class="release-date">05.05.2023 00:00</span>|
 
 ### **Продуктовый дизайн** <a name="podcasts-design"></a>
@@ -2302,7 +2302,7 @@
 |**Ведущие**      |Дмитрий Сатин|
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |60-100 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1524320760" class="episodes" hashtag="USABILITYLAB">25 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1524320760" class="episodes" hashtag="USABILITYLAB">25 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1524320760" class="release-date">05.05.2023 10:12</span>|
 
 ### **Разработка** <a name="podcasts-development"></a>
