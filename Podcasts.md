@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">13.05.2023 12:06</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">13.05.2023 20:04</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -117,8 +117,8 @@
 |**Ведущие**      |Бабайкин|
 |**Регулярность** |Еженедельно|
 |**Длительность** |20-30 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1556322514" class="episodes" hashtag="">109 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1556322514" class="release-date">28.04.2023 11:52</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1556322514" class="episodes" hashtag="">110 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1556322514" class="release-date">12.05.2023 12:21</span>|
 
 ### **ИТ-безопасность** <a name="podcasts-security"></a>
 
@@ -541,8 +541,8 @@
 |**Ведущие**      ||
 |**Регулярность** |Еженедельно|
 |**Длительность** |15-20 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1517634826" class="episodes" hashtag="Код">115 (<font color="red">-1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1517634826" class="release-date">25.04.2023 10:49</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1517634826" class="episodes" hashtag="Код">116 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1517634826" class="release-date">02.05.2023 11:00</span>|
 
 
 ---
@@ -930,7 +930,7 @@
 
 |Название         |Разговоры из-под фальшпола|
 |:----------------|:-------------------------|
-|**Логотип**      |<span itunes-id="1524056283" class="itunes-img"><img height="100" width="100" src="https://is5-ssl.mzstatic.com/image/thumb/Podcasts114/v4/a3/3c/7f/a33c7f47-ed91-d86c-b14b-65dc4ecbcb99/mza_963138230088755694.jpg/600x600bb.jpg"></span>|
+|**Логотип**      |<span itunes-id="1524056283" class="itunes-img"><img height="100" width="100" src="https://is2-ssl.mzstatic.com/image/thumb/Podcasts116/v4/3b/db/92/3bdb927d-1cee-a790-2e12-e512e7e51d1c/mza_1623923369533799059.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ua/podcast/разговоры-из-под-фальшпола/id1524056283) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8yYzUzMzJkMC9wb2RjYXN0L3Jzcw==) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/razghovory-iz-pod-falshpola) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/Разговоры-из-под-фальшпола-id3131968) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/11551041)|
 |**Описание**     |Всем привет! Вы слушаете «Разговоры из-под фальшпола» - подкаст компании DataLine об инженерной инфраструктуре и центрах обработки данных.|
 |**Ведущие**      |Кирилл Шадский|
@@ -1209,8 +1209,8 @@
 |**Ведущие**      ||
 |**Регулярность** |Ежедневно|
 |**Длительность** |~5 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="episodes" hashtag="shortcode">381 (<font color="green">+1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="release-date">11.05.2023 10:13</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="episodes" hashtag="shortcode">380 (<font color="red">-1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="release-date">08.05.2023 11:00</span>|
 
 ---
 
@@ -1405,8 +1405,8 @@
 |**Ведущие**      |Alex <br> Mak <br> Dina|
 |**Регулярность** |Еженедельно|
 |**Длительность** |~60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1575312052" class="episodes" hashtag="datacoffee">95 (<font color="green">+1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1575312052" class="release-date">13.05.2023 10:00</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1575312052" class="episodes" hashtag="datacoffee">94 (<font color="red">-1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1575312052" class="release-date">06.05.2023 10:00</span>|
 
 ---
 
