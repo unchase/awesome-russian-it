@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">28.05.2023 08:06</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">28.05.2023 12:06</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1405,7 +1405,7 @@
 |**Ведущие**      |Артём Острецов|
 |**Регулярность** |Время от времени|
 |**Длительность** |30-40 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1508419417" class="episodes" hashtag="DailyDev">1 (<font color="red">-20</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1508419417" class="episodes" hashtag="DailyDev">1 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1508419417" class="release-date">24.10.2020 18:53</span>|
 
 ---
