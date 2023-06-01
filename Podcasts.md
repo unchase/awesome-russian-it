@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">01.06.2023 16:10</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">01.06.2023 20:05</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -936,7 +936,7 @@
 |**Ведущие**      |Кирилл Шадский|
 |**Регулярность** |Еженедельно|
 |**Длительность** |~10 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1524056283" class="episodes" hashtag="DataLine">23 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1524056283" class="episodes" hashtag="DataLine">23 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1524056283" class="release-date">19.05.2023 14:57</span>|
 
 ---
@@ -1906,7 +1906,7 @@
 |**Ведущие**      |Юрий Агеев|
 |**Регулярность** |Еженедельно|
 |**Длительность** |40-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1417851966" class="episodes" hashtag="productsense">260 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1417851966" class="episodes" hashtag="productsense">260 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1417851966" class="release-date">24.05.2023 22:30</span>|
 
 ---
