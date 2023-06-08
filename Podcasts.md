@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">07.06.2023 20:05</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">08.06.2023 08:09</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -103,7 +103,7 @@
 |**Регулярность** |Каждый день|
 |**Длительность** |10-40 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1499403647" class="episodes" hashtag="Pro_Blockchain">494 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1499403647" class="release-date">29.05.2023 10:07</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1499403647" class="release-date">06.06.2023 11:28</span>|
 
 ### **Инвестирование** <a name="podcasts-invest"></a
 
@@ -489,8 +489,8 @@
 |**Ведущие**      |[Самат Галимов](https://samat.me/) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/samat/) [![Medium](img/favicons/medium.com.png)](https://medium.com/@samat)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |15-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1488945593" class="episodes" hashtag="ctodaily">194 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1488945593" class="release-date">01.06.2023 22:05</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1488945593" class="episodes" hashtag="ctodaily">195 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1488945593" class="release-date">05.06.2023 23:00</span>|
 
 ---
 
@@ -949,8 +949,8 @@
 |**Ведущие**      |[Чернобаев Николай](http://nickchernobaev.com/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UC3Xbp3NcAtiq0XHOcU3QdOA)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |60-90 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1448936184" class="episodes" hashtag="madefromzero">111 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1448936184" class="release-date">25.05.2023 15:35</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1448936184" class="episodes" hashtag="madefromzero">112 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1448936184" class="release-date">05.06.2023 20:58</span>|
 
 ---
 
@@ -1497,7 +1497,7 @@
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |70-90 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1539756031" class="episodes" hashtag="DOU">100 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1539756031" class="release-date">02.06.2023 10:12</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1539756031" class="release-date">05.06.2023 17:23</span>|
 
 ---
 
@@ -1906,8 +1906,8 @@
 |**Ведущие**      |Юрий Агеев|
 |**Регулярность** |Еженедельно|
 |**Длительность** |40-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1417851966" class="episodes" hashtag="productsense">260 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1417851966" class="release-date">24.05.2023 22:30</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1417851966" class="episodes" hashtag="productsense">261 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1417851966" class="release-date">31.05.2023 22:00</span>|
 
 ---
 
@@ -2176,8 +2176,8 @@
 |**Ведущие**      |[Антон Черноусов (golodnyj)](https://blog.golodnyj.ru/) [![GitHub](img/favicons/github.com.png)](https://github.com/golodnyj) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/golodnyj/)|
 |**Регулярность** |Несколько выпусков в месяц|
 |**Длительность** |40-120 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1046278525" class="episodes" hashtag="taoppodcast">203 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1046278525" class="release-date">14.05.2023 20:46</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1046278525" class="episodes" hashtag="taoppodcast">202 (<font color="red">-1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1046278525" class="release-date">25.04.2023 23:24</span>|
 
 ---
 
@@ -3138,8 +3138,8 @@
 |**Ведущие**      |Виктор<br>Максим|
 |**Регулярность** |Раз в две недели|
 |**Длительность** |80-120 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1502639464" class="episodes" hashtag="devopskitchentalks">50 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1502639464" class="release-date">04.05.2023 19:00</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1502639464" class="episodes" hashtag="devopskitchentalks">51 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1502639464" class="release-date">22.05.2023 21:00</span>|
 
 ---
 
