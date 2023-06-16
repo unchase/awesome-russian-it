@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">16.06.2023 08:07</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">16.06.2023 12:07</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -301,7 +301,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |~70 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1399902281" class="episodes" hashtag="toinfinity_podcast">108 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1399902281" class="release-date">04.05.2023 08:00</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1399902281" class="release-date">25.05.2023 09:30</span>|
 
 ---
 
@@ -327,7 +327,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |40-100 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="523996227" class="episodes" hashtag="tpair_podcast">10 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="523996227" class="release-date">18.05.2023 08:34</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="523996227" class="release-date">21.05.2023 06:11</span>|
 
 ---
 
@@ -464,7 +464,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |40-60 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="77546991" class="episodes" hashtag="uwp_podcast">21 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="77546991" class="release-date">31.03.2023 01:35</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="77546991" class="release-date">06.04.2023 23:24</span>|
 
 ---
 
@@ -516,7 +516,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |~90 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="363311940" class="episodes" hashtag="rcmp_podcast">11 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="363311940" class="release-date">03.06.2023 00:44</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="363311940" class="release-date">10.06.2023 00:56</span>|
 
 ---
 
@@ -556,7 +556,7 @@
 |**Регулярность** |Раз в две недели|
 |**Длительность** |~40 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1551786898" class="episodes" hashtag="kodakoda">50 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1551786898" class="release-date">24.05.2023 05:00</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1551786898" class="release-date">07.06.2023 05:00</span>|
 
 ---
 
@@ -690,7 +690,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |~35 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1498922167" class="episodes" hashtag="Ничего_такого">25 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1498922167" class="release-date">22.02.2023 13:27</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1498922167" class="release-date">16.02.2023 10:04</span>|
 
 ---
 
@@ -1223,7 +1223,7 @@
 |**Регулярность** |Ежедневно|
 |**Длительность** |~5 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="episodes" hashtag="shortcode">397 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="release-date">14.06.2023 11:00</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="release-date">15.06.2023 11:00</span>|
 
 ---
 
@@ -1907,7 +1907,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |40-60 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1417851966" class="episodes" hashtag="productsense">262 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1417851966" class="release-date">14.06.2023 22:00</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1417851966" class="release-date">08.06.2023 00:00</span>|
 
 ---
 
@@ -1959,7 +1959,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |~70 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1503693347" class="episodes" hashtag="optacast">135 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1503693347" class="release-date">28.05.2023 17:55</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1503693347" class="release-date">14.05.2023 23:11</span>|
 
 ---
 
@@ -2115,7 +2115,7 @@
 |**Регулярность** |Время от времени|
 |**Длительность** |50-80 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1320623324" class="episodes" hashtag="sebrant">74 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1320623324" class="release-date">31.03.2023 16:54</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1320623324" class="release-date">08.06.2023 15:21</span>|
 
 ---
 
@@ -2154,7 +2154,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |~60 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1524886570" class="episodes" hashtag="Sprut.AI">38 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1524886570" class="release-date">25.04.2023 13:00</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1524886570" class="release-date">30.05.2023 13:00</span>|
 
 ---
 
@@ -2249,7 +2249,7 @@
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |120-150 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1068329384" class="episodes" hashtag="zavtracast">484 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1068329384" class="release-date">01.06.2023 04:16</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1068329384" class="release-date">15.06.2023 00:00</span>|
 
 ### **Продуктовый дизайн** <a name="podcasts-design"></a>
 
@@ -2290,7 +2290,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |30-50 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1576871742" class="episodes" hashtag="Ненастоящий_продакт">16 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1576871742" class="release-date">18.05.2023 18:33</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1576871742" class="release-date">18.05.2023 18:48</span>|
 
 ---
 
@@ -2408,7 +2408,7 @@
 |**Регулярность** |1-4 раза в месяц|
 |**Длительность** |40-120 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1448111173" class="episodes" hashtag="dotnetmore">99 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1448111173" class="release-date">26.05.2023 13:32</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1448111173" class="release-date">10.06.2023 08:09</span>|
 
 ---
 
@@ -2548,7 +2548,7 @@
 |**Регулярность** |Ежемесячно|
 |**Длительность** |70-100 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1531586151" class="episodes" hashtag="UI5">7 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1531586151" class="release-date">26.04.2021 17:19</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1531586151" class="release-date">10.10.2021 22:38</span>|
 
 ---
 
@@ -2586,8 +2586,8 @@
 |**Ведущие**      |[Денис Бугарчев](https://begebot.livejournal.com/)<br>Михаил Коцийевский [![GitHub](img/favicons/github.com.png)](https://github.com/maxvektor)<br>[Пётр Ермишкин](https://quasiyoke.me) [![GitHub](img/favicons/github.com.png)](https://github.com/quasiyoke)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |45-80 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1447645563" class="episodes" hashtag="frontsexy">3 (<font color="red">-1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1447645563" class="release-date">23.01.2022 00:04</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1447645563" class="episodes" hashtag="frontsexy">4 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1447645563" class="release-date">15.06.2023 15:25</span>|
 
 ---
 
@@ -2751,7 +2751,7 @@
 |**Регулярность** |Ежемесячно|
 |**Длительность** |40-80 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1451068853" class="episodes" hashtag="flutterdevpodcast">41 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1451068853" class="release-date">05.02.2023 15:28</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1451068853" class="release-date">17.03.2023 09:21</span>|
 
 ---
 
@@ -2833,7 +2833,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |20-50 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1521240754" class="episodes" hashtag="Геймдев_без_сахара">109 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1521240754" class="release-date">04.08.2022 12:30</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1521240754" class="release-date">28.07.2022 12:30</span>|
 
 ---
 
@@ -3139,7 +3139,7 @@
 |**Регулярность** |Раз в две недели|
 |**Длительность** |80-120 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1502639464" class="episodes" hashtag="devopskitchentalks">51 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1502639464" class="release-date">07.06.2023 20:00</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1502639464" class="release-date">22.05.2023 21:00</span>|
 
 ---
 
