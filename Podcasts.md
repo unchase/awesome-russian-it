@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">09.07.2023 20:06</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">10.07.2023 08:08</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -924,7 +924,7 @@
 |**Регулярность** |Время от времени|
 |**Длительность** |40-120 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="594292319" class="episodes" hashtag="razbor_poletov">50 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="594292319" class="release-date">31.05.2023 03:00</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="594292319" class="release-date">09.07.2023 03:00</span>|
 
 ---
 
