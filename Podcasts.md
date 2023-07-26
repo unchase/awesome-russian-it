@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">26.07.2023 12:06</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">26.07.2023 16:11</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -209,8 +209,8 @@
 |**Ведущие**      |Лекс АйТиБорода [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/lex_kar/)|
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |20-120 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1449804780" class="episodes" hashtag="itbeard">191 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1449804780" class="release-date">21.07.2023 13:45</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1449804780" class="episodes" hashtag="itbeard">192 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1449804780" class="release-date">25.07.2023 15:37</span>|
 
 ---
 
@@ -300,7 +300,7 @@
 |**Ведущие**      |Сергей Козырев [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/taksebe/)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |~70 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1399902281" class="episodes" hashtag="toinfinity_podcast">109 (<font color="red">-1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1399902281" class="episodes" hashtag="toinfinity_podcast">110 (<font color="green">+1</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1399902281" class="release-date">11.07.2023 18:10</span>|
 
 ---
@@ -1053,8 +1053,8 @@
 |**Ведущие**      |Дмитрий Здоров<br>Василий Мязин|
 |**Регулярность** |Время от времени|
 |**Длительность** |20-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1013700516" class="episodes" hashtag="Технологии_и_жизнь">116 (<font color="red">-1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1013700516" class="release-date">18.07.2023 14:50</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1013700516" class="episodes" hashtag="Технологии_и_жизнь">117 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1013700516" class="release-date">25.07.2023 17:55</span>|
 
 ---
 
@@ -1222,8 +1222,8 @@
 |**Ведущие**      ||
 |**Регулярность** |Ежедневно|
 |**Длительность** |~5 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="episodes" hashtag="shortcode">409 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="release-date">05.07.2023 11:00</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="episodes" hashtag="shortcode">411 (<font color="green">+2</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="release-date">25.07.2023 12:32</span>|
 
 ---
 
@@ -1457,7 +1457,7 @@
 |**Ведущие**      |[Светлана Божко](http://sbozhko.github.io/) [![GitHub](img/favicons/github.com.png)](https://github.com/sbozhko) [![Medium](img/favicons/medium.com.png)](https://medium.com/@sbozhko)<br>[Иван Глушков](https://gliush.github.io/) [![GitHub](img/favicons/github.com.png)](https://github.com/gliush)<br>[Александр Алексеев](https://eax.me/) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/afiskon/) [![GitHub](img/favicons/github.com.png)](https://github.com/afiskon) [![RSS](img/favicons/rss.png)](https://eax.me/feed/)<br>Валерий Мелешкин [![GitHub](img/favicons/github.com.png)](https://github.com/sumerman)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |120-180 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="903660317" class="episodes" hashtag="devzen_podcast">65 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="903660317" class="episodes" hashtag="devzen_podcast">65 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="903660317" class="release-date">26.07.2023 11:21</span>|
 
 ---
@@ -2249,7 +2249,7 @@
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |120-150 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1068329384" class="episodes" hashtag="zavtracast">486 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1068329384" class="release-date">23.07.2023 00:00</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1068329384" class="release-date">25.07.2023 17:26</span>|
 
 ### **Продуктовый дизайн** <a name="podcasts-design"></a>
 
