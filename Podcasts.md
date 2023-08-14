@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">14.08.2023 08:06</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">14.08.2023 12:07</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -103,7 +103,7 @@
 |**Регулярность** |Каждый день|
 |**Длительность** |10-40 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1499403647" class="episodes" hashtag="Pro_Blockchain">495 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1499403647" class="release-date">09.08.2023 15:32</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1499403647" class="release-date">14.08.2023 10:33</span>|
 
 ### **Инвестирование** <a name="podcasts-invest"></a>
 
@@ -1144,8 +1144,8 @@
 |**Ведущие**      |Николай<br>[Лев Пикалёв](http://levpikalev.com/) [![Medium](img/favicons/medium.com.png)](https://podcasts-prevail.medium.com/)<br>Анна [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/Shelsneg/)<br>Адель<br>Далер Алиёров [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/daleraliyorov/)<br>Иван Звягин [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/baragol/)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |~60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1542090813" class="episodes" hashtag="Хоба">139 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1542090813" class="release-date">17.07.2023 01:00</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1542090813" class="episodes" hashtag="Хоба">140 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1542090813" class="release-date">14.08.2023 01:00</span>|
 
 ---
 
@@ -1333,7 +1333,7 @@
 |**Ведущие**      |[Дима Маленко](http://www.dmalenko.org/) [![GitHub](img/favicons/github.com.png)](https://github.com/dmalenko)<br>Вячеслав Рудницкий|
 |**Регулярность** |Еженедельно|
 |**Длительность** |30-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1095164631" class="episodes" hashtag="biweekly">23 (<font color="red">0</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1095164631" class="episodes" hashtag="biweekly">24 (<font color="green">+1</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1095164631" class="release-date">28.07.2023 11:30</span>|
 
 ---
