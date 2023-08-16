@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">16.08.2023 12:07</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">16.08.2023 16:09</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -541,7 +541,7 @@
 |**Ведущие**      ||
 |**Регулярность** |Еженедельно|
 |**Длительность** |15-20 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1517634826" class="episodes" hashtag="Код">124 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1517634826" class="episodes" hashtag="Код">123 (<font color="red">-1</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1517634826" class="release-date">09.08.2023 11:15</span>|
 
 
@@ -549,7 +549,7 @@
 
 |Название         |КОДА КОД‪А|
 |:----------------|:--------|
-|**Логотип**      |<span itunes-id="1551786898" class="itunes-img"><img height="100" width="100" src="https://is2-ssl.mzstatic.com/image/thumb/Podcasts126/v4/d8/cb/dd/d8cbddbc-7bf0-63e7-a06b-a89fd1268d25/mza_10961533290766028591.jpg/600x600bb.jpg"></span>|
+|**Логотип**      |<span itunes-id="1551786898" class="itunes-img"><img height="100" width="100" src="https://is4-ssl.mzstatic.com/image/thumb/Podcasts126/v4/ed/9e/b8/ed9eb88f-264f-226b-ed37-9577d7329d89/mza_3943196236527109450.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/podcast/id1551786898) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy80YWM2NzcxOC9wb2RjYXN0L3Jzcw==) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/id3789845) • [![VK](img/favicons/vk.com.png)](https://vk.com/kodakodacast) • [![Telegram](img/favicons/t.me.png)](https://t.me/kodakodacast) • [![Instagram](img/favicons/instagram.com.png)](https://instagram.com/kodakodacast) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/13732143) • [![RSS](img/favicons/rss.png)](https://anchor.fm/s/4ac67718/podcast/rss)|
 |**Описание**     |Подкаст о жизни в IT. Без обсуждения хардкорных технологий и успешного успеха в стартапах.<br>Поговорим о том, что интересует программистов и менеджеров, но сложно обсудить с коллегами и начальством.<br>Мы слушаем реальные истории айтишников и обсуждаем их. Ищем свежий взгляд на старые вопросы.|
 |**Ведущие**      |Виктор Корейша|
@@ -1222,7 +1222,7 @@
 |**Ведущие**      ||
 |**Регулярность** |Ежедневно|
 |**Длительность** |~5 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="episodes" hashtag="shortcode">424 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="episodes" hashtag="shortcode">424 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="release-date">15.08.2023 10:30</span>|
 
 ---
@@ -1457,8 +1457,8 @@
 |**Ведущие**      |[Светлана Божко](http://sbozhko.github.io/) [![GitHub](img/favicons/github.com.png)](https://github.com/sbozhko) [![Medium](img/favicons/medium.com.png)](https://medium.com/@sbozhko)<br>[Иван Глушков](https://gliush.github.io/) [![GitHub](img/favicons/github.com.png)](https://github.com/gliush)<br>[Александр Алексеев](https://eax.me/) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/afiskon/) [![GitHub](img/favicons/github.com.png)](https://github.com/afiskon) [![RSS](img/favicons/rss.png)](https://eax.me/feed/)<br>Валерий Мелешкин [![GitHub](img/favicons/github.com.png)](https://github.com/sumerman)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |120-180 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="903660317" class="episodes" hashtag="devzen_podcast">65 (<font color="red">-1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="903660317" class="release-date">26.07.2023 11:21</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="903660317" class="episodes" hashtag="devzen_podcast">66 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="903660317" class="release-date">08.08.2023 01:28</span>|
 
 ---
 
