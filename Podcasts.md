@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">07.09.2023 16:09</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">07.09.2023 20:05</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -741,7 +741,7 @@
 |**Ведущие**      |Михаил Марченко<br>Ольга Давыдова|
 |**Регулярность** |Время от времени|
 |**Длительность** |30-50 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="472631602" class="episodes" hashtag="it.career.ua">397 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="472631602" class="episodes" hashtag="it.career.ua">397 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="472631602" class="release-date">28.08.2023 06:04</span>|
 
 ---
@@ -1112,7 +1112,7 @@
 
 |Название         |Тысяча фичей|
 |:----------------|:-------|
-|**Логотип**      |<span itunes-id="1648026802" class="itunes-img"><img height="100" width="100" src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/08/21/54/08215483-191a-e36b-5114-e57d121bdb9b/mza_2448102967691414514.png/600x600bb.jpg"></span>|
+|**Логотип**      |<span itunes-id="1648026802" class="itunes-img"><img height="100" width="100" src="https://is4-ssl.mzstatic.com/image/thumb/Podcasts112/v4/08/21/54/08215483-191a-e36b-5114-e57d121bdb9b/mza_2448102967691414514.png/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/am/podcast/%D1%82%D1%8B%D1%81%D1%8F%D1%87%D0%B0-%D1%84%D0%B8%D1%87%D0%B5%D0%B9/id1648026802) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5saWJzeW4uY29tLzQ0MDkyOC9yc3M=) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/23688989)• [![Telegram](img/favicons/t.me.png)](https://t.me/tfeat) • [![RSS](img/favicons/rss.png)](hhttps://feeds.libsyn.com/440928/rss)|
 |**Описание**     |Подкаст от инженера, который любит свое дело. Это инди-подкаст о вещах, с которыми сталкивается каждый разработчик: слепая печать, дизайн API, паттерны и многое другое.|
 |**Ведущие**      |Саша Пахомов|
@@ -2017,7 +2017,7 @@
 
 |Название         |Rococast|
 |:----------------|:-------|
-|**Логотип**      |<span itunes-id="1455993703" class="itunes-img"><img height="100" width="100" src="https://is2-ssl.mzstatic.com/image/thumb/Podcasts115/v4/36/03/8a/36038a9a-fdfb-8497-d6fe-bc5c5a21e14d/mza_1559032021773499467.jpg/600x600bb.jpg"></span>|
+|**Логотип**      |<span itunes-id="1455993703" class="itunes-img"><img height="100" width="100" src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/36/03/8a/36038a9a-fdfb-8497-d6fe-bc5c5a21e14d/mza_1559032021773499467.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/rococast/id1455993703) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/rococast) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/7115653)|
 |**Описание**     |О технологиях простым языком. Мы рассказываем об IT новинках, делимся своим мнением о новых устройствах и тестируем самые последние и актуальные гаджеты.|
 |**Ведущие**      ||
@@ -2757,7 +2757,7 @@
 
 |Название         |Mobile People Talks|
 |:----------------|:------------------|
-|**Логотип**      |<span itunes-id="1457942497" class="itunes-img"><img height="100" width="100" src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts114/v4/47/29/ad/4729ad97-6f46-18ff-2626-f9b5ead5151b/mza_3591488232790716945.jpg/600x600bb.jpg"></span>|
+|**Логотип**      |<span itunes-id="1457942497" class="itunes-img"><img height="100" width="100" src="https://is3-ssl.mzstatic.com/image/thumb/Podcasts114/v4/47/29/ad/4729ad97-6f46-18ff-2626-f9b5ead5151b/mza_3591488232790716945.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![SoundCloud](img/favicons/soundcloud.com.png)](https://soundcloud.com/mobilepeopletalks) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/mobile-people-talks/id1457942497) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/mobile-people-talks) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/Mobile-People-Talks-id2088690?country=ru) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/TalksMobile)|
 |**Описание**     |Mobile People Talks — подкаст про мобильную разработку. И все остальное.|
 |**Ведущие**      |[Данис Тазетдинов](https://easyplace.wordpress.com) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/edeniska/)<br>Александр Денисов<br>Кирилл Розов [![Medium](img/favicons/medium.com.png)](https://medium.com/@kirillr) [![GitHub](img/favicons/github.com.png)](https://github.com/kirich1409)<br>Владимир Иванов [![Medium](img/favicons/medium.com.png)](https://medium.com/@dzigorium)<br>|
