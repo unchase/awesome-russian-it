@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">08.09.2023 16:09</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">08.09.2023 20:06</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -541,8 +541,8 @@
 |**Ведущие**      ||
 |**Регулярность** |Еженедельно|
 |**Длительность** |15-20 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1517634826" class="episodes" hashtag="Код">124 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1517634826" class="release-date">09.08.2023 11:15</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1517634826" class="episodes" hashtag="Код">125 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1517634826" class="release-date">16.08.2023 11:40</span>|
 
 
 ---
@@ -1053,7 +1053,7 @@
 |**Ведущие**      |Дмитрий Здоров<br>Василий Мязин|
 |**Регулярность** |Время от времени|
 |**Длительность** |20-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1013700516" class="episodes" hashtag="Технологии_и_жизнь">121 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1013700516" class="episodes" hashtag="Технологии_и_жизнь">121 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1013700516" class="release-date">08.09.2023 02:38</span>|
 
 ---
@@ -1222,7 +1222,7 @@
 |**Ведущие**      ||
 |**Регулярность** |Ежедневно|
 |**Длительность** |~5 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="episodes" hashtag="shortcode">431 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="episodes" hashtag="shortcode">431 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="release-date">08.09.2023 11:00</span>|
 
 ---
@@ -1532,7 +1532,7 @@
 |**Ведущие**      |Сергей Кузнецов<br>Вахтанг Махарадзе|
 |**Регулярность** |Еженедельно|
 |**Длительность** |30-40 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1436711112" class="episodes" hashtag="forgeeks">170 (<font color="red">-1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1436711112" class="episodes" hashtag="forgeeks">171 (<font color="green">+1</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1436711112" class="release-date">18.08.2023 01:10</span>|
 
 ---
@@ -2923,7 +2923,7 @@
 |**Ведущие**      |Алексей Давыдов<br>Евгений Кистерев<br>Алексей Тестов|
 |**Регулярность** |Еженедельно|
 |**Длительность** |60-100 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1488527416" class="episodes" hashtag="pilimtrem">121 (<font color="red">0</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1488527416" class="episodes" hashtag="pilimtrem">122 (<font color="green">+1</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1488527416" class="release-date">09.06.2023 18:36</span>|
 
 ---
