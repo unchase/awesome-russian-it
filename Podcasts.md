@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">15.09.2023 20:05</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">16.09.2023 08:07</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -117,8 +117,8 @@
 |**Ведущие**      |Бабайкин|
 |**Регулярность** |Еженедельно|
 |**Длительность** |20-30 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1556322514" class="episodes" hashtag="">77 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1556322514" class="release-date">08.09.2023 11:44</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1556322514" class="episodes" hashtag="">78 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1556322514" class="release-date">15.09.2023 12:06</span>|
 
 ### **ИТ-безопасность** <a name="podcasts-security"></a>
 
@@ -427,8 +427,8 @@
 |**Ведущие**      |Марина Эфендиева|
 |**Регулярность** |Раз в две недели|
 |**Длительность** |30-40 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1570953810" class="episodes" hashtag="Деньги_любят_техно">26 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1570953810" class="release-date">18.08.2023 19:56</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1570953810" class="episodes" hashtag="Деньги_любят_техно">27 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1570953810" class="release-date">15.09.2023 17:13</span>|
 
 ---
 
@@ -516,7 +516,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |~90 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="363311940" class="episodes" hashtag="rcmp_podcast">11 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="363311940" class="release-date">02.09.2023 00:33</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="363311940" class="release-date">16.09.2023 00:56</span>|
 
 ---
 
@@ -541,8 +541,8 @@
 |**Ведущие**      ||
 |**Регулярность** |Еженедельно|
 |**Длительность** |15-20 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1517634826" class="episodes" hashtag="Код">125 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1517634826" class="release-date">16.08.2023 11:40</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1517634826" class="episodes" hashtag="Код">126 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1517634826" class="release-date">15.09.2023 11:55</span>|
 
 
 ---
@@ -1222,8 +1222,8 @@
 |**Ведущие**      ||
 |**Регулярность** |Ежедневно|
 |**Длительность** |~5 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="episodes" hashtag="shortcode">437 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="release-date">14.09.2023 10:00</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="episodes" hashtag="shortcode">438 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="release-date">15.09.2023 10:00</span>|
 
 ---
 
@@ -1497,7 +1497,7 @@
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |70-90 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1539756031" class="episodes" hashtag="DOU">100 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1539756031" class="release-date">11.09.2023 19:11</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1539756031" class="release-date">15.09.2023 10:00</span>|
 
 ---
 
@@ -1532,8 +1532,8 @@
 |**Ведущие**      |Сергей Кузнецов<br>Вахтанг Махарадзе|
 |**Регулярность** |Еженедельно|
 |**Длительность** |30-40 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1436711112" class="episodes" hashtag="forgeeks">173 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1436711112" class="release-date">12.09.2023 23:02</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1436711112" class="episodes" hashtag="forgeeks">174 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1436711112" class="release-date">15.09.2023 20:14</span>|
 
 ---
 
@@ -1669,7 +1669,7 @@
 
 |Название         |[IT Бизнес Брокер: как покупать, развивать и продавать IT-бизнесы](https://itbb.ru/)|
 |:----------------|:-----------------------------------------------------------------------------------|
-|**Логотип**      |<span itunes-id="1202582439" class="itunes-img"><img height="100" width="100" src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/08/29/70/0829703a-6d34-4b4e-3054-d98a87dfc381/mza_12595927308776594700.jpg/600x600bb.jpg"></span>|
+|**Логотип**      |<span itunes-id="1202582439" class="itunes-img"><img height="100" width="100" src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/8b/ac/00/8bac00b7-8ca2-c59a-2e4c-a3fdac07e54d/mza_17092760584370476200.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/it-бизнес-брокер-как-покупать-развивать-и-продавать/id1202582439) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/it-biznies-brokier-kak-pokupat-razvivat-i-prodavat-it-bizniesy) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/IT-Бизнес-Брокер%3A-как-покупать%2C-развивать-и-продавать-IT-бизнесы-id2897608) • [![SoundStream](img/favicons/soundstream.media.png)](https://soundstream.media/playlist/it-biznes-broker-kak-pokupat-razvivat-i-prodavat-it-biznesy) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCHK6xY4AiLDrtODorQVx5GA) • [![VK](img/favicons/vk.com.png)](https://vk.com/itbizbroker) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/itbizbroker)|
 |**Описание**     |Подкаст от руководителя проектов IT Бизнес Брокер и Telderi Нины Парамоновой о том, как покупать, развивать и продавать интернет-компании.<br>В каждом выпуске инвесторы и основатели известных IT проектов откровенно делятся историями о слияниях и поглощениях, рассказывают об успешных и неуспешных инвестициях, многомиллионных выходах и проваленных проектах.<br>Мы собираем самые заметные сделки на рынке и общаемся с теми, кто имеет реальный опыт покупки и продажи интернет-магазинов, онлайн-сервисов и мобильных приложений.<br>Мы вникаем в детали и обсуждаем зачем предприниматели продают и покупают бизнесы, где искать покупателей и инвесторов, как оценивать активы и зарабатывать на сделках больше.|
 |**Ведущие**      |Нина Парамонова|
@@ -1721,7 +1721,7 @@
 
 |Название         |[IT Бизнес Брокер](https://itbb.ru/podcast)|
 |:----------------|:------------------------------------------|
-|**Логотип**      |<span itunes-id="1202582439" class="itunes-img"><img height="100" width="100" src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/08/29/70/0829703a-6d34-4b4e-3054-d98a87dfc381/mza_12595927308776594700.jpg/600x600bb.jpg"></span>|
+|**Логотип**      |<span itunes-id="1202582439" class="itunes-img"><img height="100" width="100" src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/8b/ac/00/8bac00b7-8ca2-c59a-2e4c-a3fdac07e54d/mza_17092760584370476200.jpg/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/mn/podcast/it-%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-%D0%B1%D1%80%D0%BE%D0%BA%D0%B5%D1%80-%D0%BA%D0%B0%D0%BA-%D0%BF%D0%BE%D0%BA%D1%83%D0%BF%D0%B0%D1%82%D1%8C-%D1%80%D0%B0%D0%B7%D0%B2%D0%B8%D0%B2%D0%B0%D1%82%D1%8C-%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B2%D0%B0%D1%82%D1%8C/id1202582439) • [![Player](img/favicons/player.fm.png)](https://player.fm/series/1530167) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/IT-%D0%91%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-%D0%91%D1%80%D0%BE%D0%BA%D0%B5%D1%80%3A-%D0%BA%D0%B0%D0%BA-%D0%BF%D0%BE%D0%BA%D1%83%D0%BF%D0%B0%D1%82%D1%8C%2C-%D1%80%D0%B0%D0%B7%D0%B2%D0%B8%D0%B2%D0%B0%D1%82%D1%8C-%D0%B8-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B2%D0%B0%D1%82%D1%8C-IT-%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81%D1%8B-id1015311?country=us) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCHK6xY4AiLDrtODorQVx5GA) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcasts-137953806) • [![Twitter](img/favicons/twitter.com.png)](https://twitter.com/itbizbroker) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/itbizbroker) • [![Telegram](img/favicons/t.me.png)](https://t.me/itbizbroker) • [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/itbizbroker/) • [![Email](img/favicons/email.png)](mailto:info@Itbizbroker.ru)|
 |**Описание**     |Авторская программа от управляющего партнера IT Бизнес Брокер Алексея Комарова о том, как покупать, развивать и продавать интернет-компании.<br>В каждом выпуске инвесторы и основатели известных IT проектов откровенно делятся историями о слияниях и поглощениях, рассказывают об успешных и неуспешных инвестициях, многомиллионных выходах и проваленных проектах.|
 |**Ведущие**      |[Алексей Комаров](https://komarov.bz/)|
@@ -2248,8 +2248,8 @@
 |**Ведущие**      |Тимур Сейфельмлюков<br>Дмитрий Зомбак [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/zombak) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCGygd95WaTLPcrRSB1OIB3g)<br>Максим Зарецкий<br>Иногда:<br>[Валентин Петухов (Wylsacom)](https://wylsa.com/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCt7sv-NKh44rHAEb-qCCxvA)<br>Григорий Бакунов (Bobuk) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/bobuk/) [![GitHub](img/favicons/github.com.png)](https://github.com/bobuk)|
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |120-150 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1068329384" class="episodes" hashtag="zavtracast">491 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1068329384" class="release-date">03.09.2023 00:00</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1068329384" class="episodes" hashtag="zavtracast">492 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1068329384" class="release-date">16.09.2023 00:00</span>|
 
 ### **Продуктовый дизайн** <a name="podcasts-design"></a>
 
@@ -2804,8 +2804,8 @@
 |**Ведущие**      |Борис Веденский (cwe) [![Medium](img/favicons/medium.com.png)](https://medium.com/@vedensky) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/vedensky/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UC1a2rnuwCw6rEbAxclIHkng)<br>Валерий Истишев [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/istishev/)<br>Митя Иванов|
 |**Регулярность** |Еженедельно|
 |**Длительность** |~20 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1057019371" class="episodes" hashtag="droidercast">150 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1057019371" class="release-date">31.08.2023 17:18</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1057019371" class="episodes" hashtag="droidercast">151 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1057019371" class="release-date">14.09.2023 16:08</span>|
 
 #### **Разработка игр** <a name="podcasts-development-gamedev"></a>
 
@@ -2923,8 +2923,8 @@
 |**Ведущие**      |Алексей Давыдов<br>Евгений Кистерев<br>Алексей Тестов|
 |**Регулярность** |Еженедельно|
 |**Длительность** |60-100 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1488527416" class="episodes" hashtag="pilimtrem">122 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1488527416" class="release-date">09.06.2023 18:36</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1488527416" class="episodes" hashtag="pilimtrem">123 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1488527416" class="release-date">08.09.2023 17:24</span>|
 
 ---
 
