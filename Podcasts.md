@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">29.10.2023 08:06</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">29.10.2023 12:06</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -333,7 +333,7 @@
 
 |Название         |[Войти в IT](https://academy.yandex.ru/)|
 |:----------------|:---------------------------------------|
-|**Логотип**      |<span itunes-id="1492086611" class="itunes-img"><img height="100" width="100" src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/28/7c/42/287c42f8-eef2-5e13-c4a6-13e31db6b6aa/mza_18230559341080667091.jpg/600x600bb.jpg"></span>|
+|**Логотип**      |<span itunes-id="1492086611" class="itunes-img"><img height="100" width="100" src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/c2/ec/c8/c2ecc881-3247-bc62-d50f-f04a56f2d9d4/mza_15508152415315461894.png/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/%D0%B2%D0%BE%D0%B9%D1%82%D0%B8-%D0%B2-it/id1492086611) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCTUyoZMfksbNIHfWJjwr5aQ) • [![VK](img/favicons/vk.com.png)](https://vk.com/podcasts-84793390) • [![Facebook](img/favicons/facebook.com.png)](https://www.facebook.com/academy.yandex) • [![Telegram](img/favicons/t.me.png)](https://t.me/YandexAcademy) • [![Instagram](img/favicons/instagram.com.png)](https://www.instagram.com/yandex.academy/)|
 |**Описание**     |Первый подкаст Академии Яндекса о молодых специалистах в IT, в котором сотрудники Яндекса с необычным бэкграундом рассказывают о том, как стали разработчиками, датасаентистами, менеджерами или дизайнерами.|
 |**Ведущие**      |Стася|
@@ -898,7 +898,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |120-180 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="256504435" class="episodes" hashtag="radiot">22 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="256504435" class="release-date">15.10.2023 01:52</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="256504435" class="release-date">22.10.2023 01:13</span>|
 
 ---
 
@@ -1418,7 +1418,7 @@
 |**Ведущие**      |Alex <br> Mak <br> Dina|
 |**Регулярность** |Еженедельно|
 |**Длительность** |~60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1575312052" class="episodes" hashtag="datacoffee">116 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1575312052" class="episodes" hashtag="datacoffee">116 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1575312052" class="release-date">28.10.2023 10:00</span>|
 
 ---
