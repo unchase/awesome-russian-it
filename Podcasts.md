@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">30.10.2023 20:06</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">31.10.2023 08:07</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -352,8 +352,8 @@
 |**Ведущие**      ||
 |**Регулярность** |Еженедельно|
 |**Длительность** |~30 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1545565949" class="episodes" hashtag="Вы_находитесь_здесь">12 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1545565949" class="release-date">17.10.2023 11:04</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1545565949" class="episodes" hashtag="Вы_находитесь_здесь">13 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1545565949" class="release-date">31.10.2023 05:00</span>|
 
 ---
 
@@ -975,8 +975,8 @@
 |**Ведущие**      |Владимир Смеркис|
 |**Регулярность** |Еженедельно|
 |**Длительность** |~30 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1095124477" class="episodes" hashtag="silikonovie">271 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1095124477" class="release-date">27.07.2022 23:22</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1095124477" class="episodes" hashtag="silikonovie">272 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1095124477" class="release-date">31.10.2023 02:25</span>|
 
 ---
 
@@ -988,7 +988,7 @@
 |**Ведущие**      |Надежда Королева|
 |**Регулярность** |Впемя от времени|
 |**Длительность** |50-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1516488697" class="episodes" hashtag="moscoding">4 (<font color="red">-9</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1516488697" class="episodes" hashtag="moscoding">4 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1516488697" class="release-date">12.05.2023 20:13</span>|
 
 ---
@@ -1458,7 +1458,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |120-180 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="903660317" class="episodes" hashtag="devzen_podcast">71 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="903660317" class="release-date">24.10.2023 00:53</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="903660317" class="release-date">31.10.2023 02:07</span>|
 
 ---
 
@@ -2062,7 +2062,7 @@
 |**Ведущие**      ||
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |~30 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1526097167" class="episodes" hashtag="RUSSKY.DIGITAL">22 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1526097167" class="episodes" hashtag="RUSSKY.DIGITAL">22 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1526097167" class="release-date">30.10.2023 08:05</span>|
 
 ---
@@ -2778,7 +2778,7 @@
 |**Ведущие**      |Кирилл Розов [![Medium](img/favicons/medium.com.png)](https://medium.com/@kirillr) [![GitHub](img/favicons/github.com.png)](https://github.com/kirich1409)|
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |50-80 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1492425305" class="episodes" hashtag="andro_broadcast">137 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1492425305" class="episodes" hashtag="andro_broadcast">137 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1492425305" class="release-date">29.10.2023 12:16</span>|
 
 ---
