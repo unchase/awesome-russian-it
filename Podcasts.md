@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">02.11.2023 20:06</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">03.11.2023 08:07</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -209,7 +209,7 @@
 |**Ведущие**      |Лекс АйТиБорода [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/lex_kar/)|
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |20-120 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1449804780" class="episodes" hashtag="itbeard">191 (<font color="red">-9</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1449804780" class="episodes" hashtag="itbeard">191 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1449804780" class="release-date">10.10.2023 17:24</span>|
 
 ---
@@ -1776,8 +1776,8 @@
 |**Ведущие**      ||
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |50-90 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="567224504" class="episodes" hashtag="it_trend">185 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="567224504" class="release-date">27.10.2023 07:00</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="567224504" class="episodes" hashtag="it_trend">186 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="567224504" class="release-date">03.11.2023 01:47</span>|
 
 ---
 
@@ -1906,7 +1906,7 @@
 |**Ведущие**      |Юрий Агеев|
 |**Регулярность** |Еженедельно|
 |**Длительность** |40-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1417851966" class="episodes" hashtag="productsense">282 (<font color="red">0</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1417851966" class="episodes" hashtag="productsense">283 (<font color="green">+1</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1417851966" class="release-date">26.10.2023 06:25</span>|
 
 ---
@@ -2088,8 +2088,8 @@
 |**Ведущие**      |Никита Щербаков|
 |**Регулярность** ||
 |**Длительность** |~45 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1552186929" class="episodes" hashtag="SbergileTalks">29 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1552186929" class="release-date">04.10.2023 14:40</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1552186929" class="episodes" hashtag="SbergileTalks">30 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1552186929" class="release-date">02.11.2023 16:16</span>|
 
 ---
 
