@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">08.11.2023 12:07</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">08.11.2023 16:09</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -541,8 +541,8 @@
 |**Ведущие**      ||
 |**Регулярность** |Еженедельно|
 |**Длительность** |15-20 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1517634826" class="episodes" hashtag="Код">130 (<font color="red">-1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1517634826" class="release-date">20.10.2023 18:00</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1517634826" class="episodes" hashtag="Код">131 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1517634826" class="release-date">07.11.2023 12:55</span>|
 
 
 ---
@@ -1222,7 +1222,7 @@
 |**Ведущие**      ||
 |**Регулярность** |Ежедневно|
 |**Длительность** |~5 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="episodes" hashtag="shortcode">463 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="episodes" hashtag="shortcode">463 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="release-date">08.11.2023 10:05</span>|
 
 ---
@@ -1333,8 +1333,8 @@
 |**Ведущие**      |[Дима Маленко](http://www.dmalenko.org/) [![GitHub](img/favicons/github.com.png)](https://github.com/dmalenko)<br>Вячеслав Рудницкий|
 |**Регулярность** |Еженедельно|
 |**Длительность** |30-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1095164631" class="episodes" hashtag="biweekly">28 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1095164631" class="release-date">15.10.2023 02:00</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1095164631" class="episodes" hashtag="biweekly">29 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1095164631" class="release-date">08.11.2023 12:30</span>|
 
 ---
 
@@ -1359,8 +1359,8 @@
 |**Ведущие**      ||
 |**Регулярность** |Еженедельно|
 |**Длительность** |20-80 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1484275234" class="episodes" hashtag="matematicxyz">169 (<font color="red">-1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1484275234" class="release-date">26.10.2023 09:30</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1484275234" class="episodes" hashtag="matematicxyz">170 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1484275234" class="release-date">07.11.2023 22:06</span>|
 
 ---
 
@@ -1457,7 +1457,7 @@
 |**Ведущие**      |[Светлана Божко](http://sbozhko.github.io/) [![GitHub](img/favicons/github.com.png)](https://github.com/sbozhko) [![Medium](img/favicons/medium.com.png)](https://medium.com/@sbozhko)<br>[Иван Глушков](https://gliush.github.io/) [![GitHub](img/favicons/github.com.png)](https://github.com/gliush)<br>[Александр Алексеев](https://eax.me/) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/afiskon/) [![GitHub](img/favicons/github.com.png)](https://github.com/afiskon) [![RSS](img/favicons/rss.png)](https://eax.me/feed/)<br>Валерий Мелешкин [![GitHub](img/favicons/github.com.png)](https://github.com/sumerman)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |120-180 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="903660317" class="episodes" hashtag="devzen_podcast">72 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="903660317" class="episodes" hashtag="devzen_podcast">72 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="903660317" class="release-date">07.11.2023 11:45</span>|
 
 ---
@@ -1497,7 +1497,7 @@
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |70-90 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1539756031" class="episodes" hashtag="DOU">100 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1539756031" class="release-date">06.11.2023 21:20</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1539756031" class="release-date">08.11.2023 12:19</span>|
 
 ---
 
