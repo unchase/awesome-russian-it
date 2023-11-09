@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">08.11.2023 20:06</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">09.11.2023 08:07</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1131,8 +1131,8 @@
 |**Ведущие**      |[Лев Пикалёв](http://levpikalev.com/)|
 |**Регулярность** |Раз в две недели|
 |**Длительность** |30-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1443781654" class="episodes" hashtag="khantflou_insight">107 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1443781654" class="release-date">27.10.2023 13:22</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1443781654" class="episodes" hashtag="khantflou_insight">108 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1443781654" class="release-date">08.11.2023 17:16</span>|
 
 ---
 
@@ -1248,7 +1248,7 @@
 |**Ведущие**      |Андрей Барышников [![GitHub](img/favicons/github.com.png)](https://github.com/BilberryMuffin)<br>Сергей Епихин<br>Антон Поздняков|
 |**Регулярность** |Еженедельно|
 |**Длительность** |70-120 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="868222886" class="episodes" hashtag="beardycast">636 (<font color="red">0</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="868222886" class="episodes" hashtag="beardycast">637 (<font color="green">+1</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="868222886" class="release-date">10.10.2023 21:30</span>|
 
 ---
@@ -1906,8 +1906,8 @@
 |**Ведущие**      |Юрий Агеев|
 |**Регулярность** |Еженедельно|
 |**Длительность** |40-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1417851966" class="episodes" hashtag="productsense">283 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1417851966" class="release-date">26.10.2023 06:25</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1417851966" class="episodes" hashtag="productsense">284 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1417851966" class="release-date">01.11.2023 23:00</span>|
 
 ---
 
@@ -2249,7 +2249,7 @@
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |120-150 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1068329384" class="episodes" hashtag="zavtracast">499 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1068329384" class="release-date">01.11.2023 00:00</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1068329384" class="release-date">03.11.2023 04:06</span>|
 
 ### **Продуктовый дизайн** <a name="podcasts-design"></a>
 
