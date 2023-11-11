@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">11.11.2023 08:06</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">11.11.2023 12:06</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -209,8 +209,8 @@
 |**Ведущие**      |Лекс АйТиБорода [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/lex_kar/)|
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |20-120 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1449804780" class="episodes" hashtag="itbeard">192 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1449804780" class="release-date">10.11.2023 14:55</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1449804780" class="episodes" hashtag="itbeard">191 (<font color="red">-1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1449804780" class="release-date">10.10.2023 17:24</span>|
 
 ---
 
@@ -1222,7 +1222,7 @@
 |**Ведущие**      ||
 |**Регулярность** |Ежедневно|
 |**Длительность** |~5 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="episodes" hashtag="shortcode">465 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="episodes" hashtag="shortcode">466 (<font color="green">+1</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="release-date">10.11.2023 12:00</span>|
 
 ---
@@ -1532,7 +1532,7 @@
 |**Ведущие**      |Сергей Кузнецов<br>Вахтанг Махарадзе|
 |**Регулярность** |Еженедельно|
 |**Длительность** |30-40 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1436711112" class="episodes" hashtag="forgeeks">179 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1436711112" class="episodes" hashtag="forgeeks">179 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1436711112" class="release-date">10.11.2023 18:34</span>|
 
 ---
@@ -2407,7 +2407,7 @@
 |**Ведущие**      |Станислав Александров<br>Александр Кугушев [![GitHub](img/favicons/github.com.png)](https://github.com/kugushev) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/KAW/)<br>Наталья|
 |**Регулярность** |1-4 раза в месяц|
 |**Длительность** |40-120 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1448111173" class="episodes" hashtag="dotnetmore">107 (<font color="red">-1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1448111173" class="episodes" hashtag="dotnetmore">108 (<font color="green">+1</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1448111173" class="release-date">20.10.2023 19:45</span>|
 
 ---
