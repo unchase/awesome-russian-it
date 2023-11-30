@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">30.11.2023 08:07</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">30.11.2023 12:07</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -555,7 +555,7 @@
 |**Ведущие**      |Виктор Корейша|
 |**Регулярность** |Раз в две недели|
 |**Длительность** |~40 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1551786898" class="episodes" hashtag="kodakoda">58 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1551786898" class="episodes" hashtag="kodakoda">58 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1551786898" class="release-date">15.11.2023 05:00</span>|
 
 ---
@@ -1222,7 +1222,7 @@
 |**Ведущие**      ||
 |**Регулярность** |Ежедневно|
 |**Длительность** |~5 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="episodes" hashtag="shortcode">469 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="episodes" hashtag="shortcode">469 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1517632257" class="release-date">29.11.2023 16:08</span>|
 
 ---
@@ -1906,7 +1906,7 @@
 |**Ведущие**      |Юрий Агеев|
 |**Регулярность** |Еженедельно|
 |**Длительность** |40-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1417851966" class="episodes" hashtag="productsense">287 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1417851966" class="episodes" hashtag="productsense">287 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1417851966" class="release-date">22.11.2023 23:55</span>|
 
 ---
@@ -1971,7 +1971,7 @@
 |**Ведущие**      |Стас Цыганов [![GitHub](img/favicons/github.com.png)](https://github.com/DevAlloy)<br>[Егор Толстой](http://etolstoy.com/) [![Medium](img/favicons/medium.com.png)](https://medium.com/@etolstoy) [![GitHub](img/favicons/github.com.png)](https://github.com/etolstoy)<br>Екатерина Петрова<br>Евгений Кателла|
 |**Регулярность** |Еженедельно|
 |**Длительность** |80-150 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1209828744" class="episodes" hashtag="podlodka">358 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1209828744" class="episodes" hashtag="podlodka">358 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1209828744" class="release-date">29.11.2023 19:09</span>|
 
 ---
@@ -2062,7 +2062,7 @@
 |**Ведущие**      ||
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |~30 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1526097167" class="episodes" hashtag="RUSSKY.DIGITAL">23 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1526097167" class="episodes" hashtag="RUSSKY.DIGITAL">23 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1526097167" class="release-date">30.11.2023 03:57</span>|
 
 ---
@@ -2088,7 +2088,7 @@
 |**Ведущие**      |Никита Щербаков|
 |**Регулярность** ||
 |**Длительность** |~45 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1552186929" class="episodes" hashtag="SbergileTalks">31 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1552186929" class="episodes" hashtag="SbergileTalks">31 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1552186929" class="release-date">29.11.2023 11:29</span>|
 
 ---
@@ -2407,7 +2407,7 @@
 |**Ведущие**      |Станислав Александров<br>Александр Кугушев [![GitHub](img/favicons/github.com.png)](https://github.com/kugushev) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/KAW/)<br>Наталья|
 |**Регулярность** |1-4 раза в месяц|
 |**Длительность** |40-120 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1448111173" class="episodes" hashtag="dotnetmore">109 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1448111173" class="episodes" hashtag="dotnetmore">109 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1448111173" class="release-date">10.11.2023 17:11</span>|
 
 ---
