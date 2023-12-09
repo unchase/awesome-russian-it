@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">08.12.2023 20:06</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">09.12.2023 08:06</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1984,7 +1984,7 @@
 |**Ведущие**      ||
 |**Регулярность** |Еженедельно|
 |**Длительность** |60-100 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1455023466" class="episodes" hashtag="proconf">135 (<font color="red">-1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1455023466" class="episodes" hashtag="proconf">135 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1455023466" class="release-date">19.10.2023 12:07</span>|
 
 ---
@@ -2407,7 +2407,7 @@
 |**Ведущие**      |Станислав Александров<br>Александр Кугушев [![GitHub](img/favicons/github.com.png)](https://github.com/kugushev) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/KAW/)<br>Наталья|
 |**Регулярность** |1-4 раза в месяц|
 |**Длительность** |40-120 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1448111173" class="episodes" hashtag="dotnetmore">109 (<font color="red">-1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1448111173" class="episodes" hashtag="dotnetmore">109 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1448111173" class="release-date">10.11.2023 17:11</span>|
 
 ---
