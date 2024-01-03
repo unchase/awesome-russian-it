@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">02.01.2024 20:06</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">03.01.2024 08:07</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1053,7 +1053,7 @@
 |**Ведущие**      |Дмитрий Здоров<br>Василий Мязин|
 |**Регулярность** |Время от времени|
 |**Длительность** |20-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1013700516" class="episodes" hashtag="Технологии_и_жизнь">127 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1013700516" class="episodes" hashtag="Технологии_и_жизнь">127 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1013700516" class="release-date">31.12.2023 12:48</span>|
 
 ---
@@ -1688,8 +1688,8 @@
 |**Ведущие**      |Надя<br>Кима|
 |**Регулярность** |Время от времени|
 |**Длительность** |20-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1495705776" class="episodes" hashtag="IT_Ba">42 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1495705776" class="release-date">31.08.2022 14:27</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1495705776" class="episodes" hashtag="IT_Ba">43 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1495705776" class="release-date">12.12.2023 20:00</span>|
 
 ---
 
@@ -1714,8 +1714,8 @@
 |**Ведущие**      |Анна|
 |**Регулярность** |Еженедельно|
 |**Длительность** |30-40 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1495705776" class="episodes" hashtag="IT_бизнес_анализ">42 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1495705776" class="release-date">31.08.2022 14:27</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1495705776" class="episodes" hashtag="IT_бизнес_анализ">43 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1495705776" class="release-date">12.12.2023 20:00</span>|
 
 ---
 
