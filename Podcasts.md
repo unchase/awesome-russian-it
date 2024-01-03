@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">03.01.2024 16:09</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">03.01.2024 20:06</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -897,8 +897,8 @@
 |**Ведущие**      |Ксения (ksenks) [![GitHub](img/favicons/github.com.png)](https://github.com/ksenks)<br>Григорий Бакунов (Bobuk) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/bobuk/) [![GitHub](img/favicons/github.com.png)](https://github.com/bobuk)<br>[Евгений Борт (umputun)](http://www.umputun.com/) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/umputun/) [![GitHub](img/favicons/github.com.png)](https://github.com/umputun) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/user/umputun) <br>[Сергей Петренко](https://blognot.co/) [![GitHub](img/favicons/github.com.png)](https://github.com/grayru) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/c/grayru) [![RSS](img/favicons/rss.png)](https://blognot.co/feed)<br>Алексей Нестеров (alek-sys) [![GitHub](img/favicons/github.com.png)](https://github.com/alek-sys)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |120-180 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="256504435" class="episodes" hashtag="radiot">21 (<font color="red">-1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="256504435" class="release-date">30.12.2023 20:50</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="256504435" class="episodes" hashtag="radiot">22 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="256504435" class="release-date">31.12.2023 01:50</span>|
 
 ---
 
@@ -1688,8 +1688,8 @@
 |**Ведущие**      |Надя<br>Кима|
 |**Регулярность** |Время от времени|
 |**Длительность** |20-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1495705776" class="episodes" hashtag="IT_Ba">42 (<font color="red">-1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1495705776" class="release-date">31.08.2022 14:27</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1495705776" class="episodes" hashtag="IT_Ba">43 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1495705776" class="release-date">12.12.2023 20:00</span>|
 
 ---
 
@@ -1714,8 +1714,8 @@
 |**Ведущие**      |Анна|
 |**Регулярность** |Еженедельно|
 |**Длительность** |30-40 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1495705776" class="episodes" hashtag="IT_бизнес_анализ">42 (<font color="red">-1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1495705776" class="release-date">31.08.2022 14:27</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1495705776" class="episodes" hashtag="IT_бизнес_анализ">43 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1495705776" class="release-date">12.12.2023 20:00</span>|
 
 ---
 
@@ -2476,8 +2476,8 @@
 |**Ведущие**      |Григорий Петров [![GitHub](img/favicons/github.com.png)](https://github.com/grigoryvp) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/eyeofhell/)<br>Илья Лебедев [![GitHub](img/favicons/github.com.png)](https://github.com/Melevir)<br>[Валентин Домбровский](http://dombrovsky.me/)<br>Михаил Корнеев [![GitHub](img/favicons/github.com.png)](https://github.com/korneevm) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/voldar/)<br>Злата Обуховская<br>Алексей Штырняев|
 |**Регулярность** |Еженедельно|
 |**Длительность** |30-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1429543935" class="episodes" hashtag="moscowpython">189 (<font color="green">+1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1429543935" class="release-date">03.01.2024 13:26</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1429543935" class="episodes" hashtag="moscowpython">188 (<font color="red">-1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1429543935" class="release-date">25.12.2023 12:42</span>|
 
 ##### **Ruby** <a name="podcasts-development-ruby"></a>
 
