@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">19.03.2024 12:07</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">19.03.2024 16:08</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1497,7 +1497,7 @@
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |70-90 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1539756031" class="episodes" hashtag="DOU">100 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1539756031" class="release-date">15.03.2024 14:18</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1539756031" class="release-date">18.03.2024 15:31</span>|
 
 ---
 
@@ -1971,8 +1971,8 @@
 |**Ведущие**      |Стас Цыганов [![GitHub](img/favicons/github.com.png)](https://github.com/DevAlloy)<br>[Егор Толстой](http://etolstoy.com/) [![Medium](img/favicons/medium.com.png)](https://medium.com/@etolstoy) [![GitHub](img/favicons/github.com.png)](https://github.com/etolstoy)<br>Екатерина Петрова<br>Евгений Кателла|
 |**Регулярность** |Еженедельно|
 |**Длительность** |80-150 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1209828744" class="episodes" hashtag="podlodka">373 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1209828744" class="release-date">11.03.2024 16:42</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1209828744" class="episodes" hashtag="podlodka">374 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1209828744" class="release-date">18.03.2024 18:26</span>|
 
 ---
 
@@ -2249,7 +2249,7 @@
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |120-150 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1068329384" class="episodes" hashtag="zavtracast">510 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1068329384" class="release-date">07.03.2024 00:00</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1068329384" class="release-date">19.03.2024 00:00</span>|
 
 ### **Продуктовый дизайн** <a name="podcasts-design"></a>
 
