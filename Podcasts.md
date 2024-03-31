@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">31.03.2024 16:07</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">31.03.2024 20:06</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -898,7 +898,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |120-180 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="256504435" class="episodes" hashtag="radiot">21 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="256504435" class="release-date">23.03.2024 20:23</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="256504435" class="release-date">30.03.2024 21:55</span>|
 
 ---
 
@@ -924,7 +924,7 @@
 |**Регулярность** |Время от времени|
 |**Длительность** |40-120 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="594292319" class="episodes" hashtag="razbor_poletov">50 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="594292319" class="release-date">28.02.2024 03:00</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="594292319" class="release-date">31.03.2024 03:00</span>|
 
 ---
 
@@ -1418,7 +1418,7 @@
 |**Ведущие**      |Alex <br> Mak <br> Dina|
 |**Регулярность** |Еженедельно|
 |**Длительность** |~60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1575312052" class="episodes" hashtag="datacoffee">128 (<font color="red">0</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1575312052" class="episodes" hashtag="datacoffee">129 (<font color="green">+1</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1575312052" class="release-date">10.03.2024 10:00</span>|
 
 ---
@@ -1893,8 +1893,8 @@
 |**Ведущие**      |Михаил|
 |**Регулярность** |Еженедельно|
 |**Длительность** |20-40 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1495052772" class="episodes" hashtag="Machine_Learning_Podcast">57 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1495052772" class="release-date">01.03.2024 10:55</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1495052772" class="episodes" hashtag="Machine_Learning_Podcast">58 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1495052772" class="release-date">31.03.2024 15:15</span>|
 
 ---
 
@@ -1958,8 +1958,8 @@
 |**Ведущие**      |Андрей Радионов|
 |**Регулярность** |Еженедельно|
 |**Длительность** |~70 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1503693347" class="episodes" hashtag="optacast">164 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1503693347" class="release-date">24.03.2024 23:55</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1503693347" class="episodes" hashtag="optacast">165 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1503693347" class="release-date">30.03.2024 23:44</span>|
 
 ---
 
@@ -2491,8 +2491,8 @@
 |**Ведущие**      |[Алексей Васильев](https://leopard.in.ua/) [![GitHub](img/favicons/github.com.png)](https://github.com/le0pard) [![RSS](img/favicons/rss.png)](https://leopard.in.ua/rss.xml)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |20-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="597248066" class="episodes" hashtag="rwpod">488 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="597248066" class="release-date">23.03.2024 03:00</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="597248066" class="episodes" hashtag="rwpod">489 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="597248066" class="release-date">30.03.2024 03:00</span>|
 
 ##### **Scala** <a name="podcasts-development-scala"></a>
 
@@ -2923,8 +2923,8 @@
 |**Ведущие**      |Алексей Давыдов<br>Евгений Кистерев<br>Алексей Тестов|
 |**Регулярность** |Еженедельно|
 |**Длительность** |60-100 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1488527416" class="episodes" hashtag="pilimtrem">139 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1488527416" class="release-date">07.03.2024 20:01</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1488527416" class="episodes" hashtag="pilimtrem">140 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1488527416" class="release-date">30.03.2024 17:11</span>|
 
 ---
 
