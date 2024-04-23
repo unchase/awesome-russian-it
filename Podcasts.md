@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">22.04.2024 20:06</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">23.04.2024 08:07</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1776,8 +1776,8 @@
 |**Ведущие**      ||
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |50-90 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="567224504" class="episodes" hashtag="it_trend">194 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="567224504" class="release-date">11.04.2024 15:03</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="567224504" class="episodes" hashtag="it_trend">195 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="567224504" class="release-date">23.04.2024 01:54</span>|
 
 ---
 
@@ -1958,7 +1958,7 @@
 |**Ведущие**      |Андрей Радионов|
 |**Регулярность** |Еженедельно|
 |**Длительность** |~70 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1503693347" class="episodes" hashtag="optacast">166 (<font color="red">0</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1503693347" class="episodes" hashtag="optacast">167 (<font color="green">+1</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1503693347" class="release-date">16.04.2024 00:14</span>|
 
 ---
@@ -1971,7 +1971,7 @@
 |**Ведущие**      |Стас Цыганов [![GitHub](img/favicons/github.com.png)](https://github.com/DevAlloy)<br>[Егор Толстой](http://etolstoy.com/) [![Medium](img/favicons/medium.com.png)](https://medium.com/@etolstoy) [![GitHub](img/favicons/github.com.png)](https://github.com/etolstoy)<br>Екатерина Петрова<br>Евгений Кателла|
 |**Регулярность** |Еженедельно|
 |**Длительность** |80-150 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1209828744" class="episodes" hashtag="podlodka">379 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1209828744" class="episodes" hashtag="podlodka">379 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1209828744" class="release-date">15.04.2024 17:52</span>|
 
 ---
@@ -2062,7 +2062,7 @@
 |**Ведущие**      ||
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |~30 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1526097167" class="episodes" hashtag="RUSSKY.DIGITAL">28 (<font color="red">0</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1526097167" class="episodes" hashtag="RUSSKY.DIGITAL">29 (<font color="green">+1</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1526097167" class="release-date">01.04.2024 09:33</span>|
 
 ---
@@ -2521,7 +2521,7 @@
 |**Ведущие**      |[Вадим Макеев](https://pepelsbey.net/) [![RSS](img/favicons/rss.png)](https://pepelsbey.net/feed/index.rss) [![GitHub](img/favicons/github.com.png)](https://github.com/pepelsbey) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/pepelsbey/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCaTfYudJUVA8cV_But8KZVQ) [![Medium](img/favicons/medium.com.png)](https://medium.com/@pepelsbey)<br>[Никита Дубко](https://mefody.github.io/) [![GitHub](img/favicons/github.com.png)](https://github.com/MeFoDy)<br>Мария Просвирнина<br>[Алексей Симоненко](http://simonenko.su) [![GitHub](img/favicons/github.com.png)](https://github.com/meritt) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/meritt/)<br>Ольга Алексашенко [![GitHub](img/favicons/github.com.png)](https://github.com/tachisis/)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |40-90 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1080500016" class="episodes" hashtag="webstandards_ru">418 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1080500016" class="episodes" hashtag="webstandards_ru">418 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1080500016" class="release-date">22.04.2024 12:00</span>|
 
 ---
@@ -2600,7 +2600,7 @@
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |80-150 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="923355344" class="episodes" hashtag="uwebdesign">245 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="923355344" class="release-date">13.04.2024 14:46</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="923355344" class="release-date">20.04.2024 18:10</span>|
 
 ---
 
