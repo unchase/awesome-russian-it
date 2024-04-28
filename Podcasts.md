@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">27.04.2024 20:05</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">28.04.2024 08:08</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -2491,7 +2491,7 @@
 |**Ведущие**      |[Алексей Васильев](https://leopard.in.ua/) [![GitHub](img/favicons/github.com.png)](https://github.com/le0pard) [![RSS](img/favicons/rss.png)](https://leopard.in.ua/rss.xml)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |20-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="597248066" class="episodes" hashtag="rwpod">492 (<font color="red">-1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="597248066" class="episodes" hashtag="rwpod">492 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="597248066" class="release-date">20.04.2024 03:00</span>|
 
 ##### **Scala** <a name="podcasts-development-scala"></a>
