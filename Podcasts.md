@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">18.05.2024 12:07</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">18.05.2024 16:08</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -614,7 +614,7 @@
 |**Ведущие**      |[Алексей Бухаров](http://www.alexeybuharov.ru/)<br>[Иван Тиуков](https://www.tiukov.com/)<br>Михаил Штейнбок|
 |**Регулярность** |Ежемесячно|
 |**Длительность** |~80 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1395500354" class="episodes" hashtag="maclikbez">51 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1395500354" class="episodes" hashtag="maclikbez">51 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1395500354" class="release-date">17.05.2024 14:36</span>|
 
 ---
