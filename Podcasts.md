@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">31.07.2024 12:10</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">31.07.2024 20:08</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -549,14 +549,14 @@
 
 |Название         |КОДА КОД‪А|
 |:----------------|:--------|
-|**Логотип**      |<span itunes-id="1551786898" class="itunes-img"><img height="100" width="100" src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/ed/9e/b8/ed9eb88f-264f-226b-ed37-9577d7329d89/mza_3943196236527109450.jpg/600x600bb.jpg"></span>|
+|**Логотип**      |<span itunes-id="1551786898" class="itunes-img"><img height="100" width="100" src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/be/79/f7/be79f7b2-ccdc-aa15-dfa9-e6bc4b35790b/mza_5849271490641699459.png/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/podcast/id1551786898) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy80YWM2NzcxOC9wb2RjYXN0L3Jzcw==) • [![Castbox](img/favicons/castbox.fm.png)](https://castbox.fm/channel/id3789845) • [![VK](img/favicons/vk.com.png)](https://vk.com/kodakodacast) • [![Telegram](img/favicons/t.me.png)](https://t.me/kodakodacast) • [![Instagram](img/favicons/instagram.com.png)](https://instagram.com/kodakodacast) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/13732143) • [![RSS](img/favicons/rss.png)](https://anchor.fm/s/4ac67718/podcast/rss)|
 |**Описание**     |Подкаст о жизни в IT. Без обсуждения хардкорных технологий и успешного успеха в стартапах.<br>Поговорим о том, что интересует программистов и менеджеров, но сложно обсудить с коллегами и начальством.<br>Мы слушаем реальные истории айтишников и обсуждаем их. Ищем свежий взгляд на старые вопросы.|
 |**Ведущие**      |Виктор Корейша|
 |**Регулярность** |Раз в две недели|
 |**Длительность** |~40 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1551786898" class="episodes" hashtag="kodakoda">67 (<font color="green">+1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1551786898" class="release-date">20.03.2024 17:01</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1551786898" class="episodes" hashtag="kodakoda">67 (<font color="red">0</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1551786898" class="release-date">31.07.2024 05:00</span>|
 
 ---
 
@@ -1053,7 +1053,7 @@
 |**Ведущие**      |Дмитрий Здоров<br>Василий Мязин|
 |**Регулярность** |Время от времени|
 |**Длительность** |20-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1013700516" class="episodes" hashtag="Технологии_и_жизнь">136 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1013700516" class="episodes" hashtag="Технологии_и_жизнь">136 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1013700516" class="release-date">31.07.2024 06:10</span>|
 
 ---
@@ -2985,7 +2985,7 @@
 |**Ведущие**      |Олег Доброштан [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCc6DRZVioHF1m-ZWXqXNAYg)<br>Вячеслав Уточкин<br>Александр Мураш|
 |**Регулярность** |Раз в три недели (по средам)|
 |**Длительность** |40-50 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1490959979" class="episodes" hashtag="hvgamedev">67 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1490959979" class="episodes" hashtag="hvgamedev">67 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1490959979" class="release-date">31.07.2024 11:10</span>|
 
 ---
