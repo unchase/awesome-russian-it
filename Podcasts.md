@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">14.08.2024 12:09</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">15.08.2024 08:10</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -489,8 +489,8 @@
 |**Ведущие**      |[Самат Галимов](https://samat.me/) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/samat/) [![Medium](img/favicons/medium.com.png)](https://medium.com/@samat)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |15-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1488945593" class="episodes" hashtag="ctodaily">228 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1488945593" class="release-date">12.08.2024 16:47</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1488945593" class="episodes" hashtag="ctodaily">229 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1488945593" class="release-date">12.08.2024 00:00</span>|
 
 ---
 
@@ -555,8 +555,8 @@
 |**Ведущие**      |Виктор Корейша|
 |**Регулярность** |Раз в две недели|
 |**Длительность** |~40 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1551786898" class="episodes" hashtag="kodakoda">67 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1551786898" class="release-date">31.07.2024 05:00</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1551786898" class="episodes" hashtag="kodakoda">68 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1551786898" class="release-date">14.08.2024 05:01</span>|
 
 ---
 
@@ -1099,7 +1099,7 @@
 
 |Название         |Тут лучше об IT|
 |:----------------|:--------------|
-|**Логотип**      |<span itunes-id="1531388050" class="itunes-img"><img height="100" width="100" src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/cf/45/a5/cf45a5bc-6347-248d-08ad-c452dcda4105/mza_11464983126836623607.jpg/600x600bb.jpg"></span>|
+|**Логотип**      |<span itunes-id="1531388050" class="itunes-img"><img height="100" width="100" src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/bb/61/72/bb61727a-e9d2-c2e5-ce72-0417732110dc/mza_5686034463985679023.png/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Anchor](img/favicons/anchor.fm.png)](https://anchor.fm/mefendieva) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/тут-лучше-об-it/id1531388050) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8zNWY2ZjEwMC9wb2RjYXN0L3Jzcw==) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCRCWa8hSJhlkmtpERwtb75A) • [![VK](img/favicons/vk.com.png)](https://vk.com/public198624840) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/12096571) • [![RSS](img/favicons/rss.png)](https://anchor.fm/s/35f6f100/podcast/rss)|
 |**Описание**     |Разговоры о жизни и технологиях с гостями из IT-сферы.|
 |**Ведущие**      |Марина Эфендиева|
@@ -1457,8 +1457,8 @@
 |**Ведущие**      |[Светлана Божко](http://sbozhko.github.io/) [![GitHub](img/favicons/github.com.png)](https://github.com/sbozhko) [![Medium](img/favicons/medium.com.png)](https://medium.com/@sbozhko)<br>[Иван Глушков](https://gliush.github.io/) [![GitHub](img/favicons/github.com.png)](https://github.com/gliush)<br>[Александр Алексеев](https://eax.me/) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/afiskon/) [![GitHub](img/favicons/github.com.png)](https://github.com/afiskon) [![RSS](img/favicons/rss.png)](https://eax.me/feed/)<br>Валерий Мелешкин [![GitHub](img/favicons/github.com.png)](https://github.com/sumerman)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |120-180 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="903660317" class="episodes" hashtag="devzen_podcast">83 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="903660317" class="release-date">16.07.2024 11:49</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="903660317" class="episodes" hashtag="devzen_podcast">84 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="903660317" class="release-date">14.08.2024 11:58</span>|
 
 ---
 
@@ -1906,8 +1906,8 @@
 |**Ведущие**      |Юрий Агеев|
 |**Регулярность** |Еженедельно|
 |**Длительность** |40-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1417851966" class="episodes" hashtag="productsense">323 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1417851966" class="release-date">08.08.2024 01:15</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1417851966" class="episodes" hashtag="productsense">324 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1417851966" class="release-date">15.08.2024 01:15</span>|
 
 ---
 
@@ -2248,8 +2248,8 @@
 |**Ведущие**      |Тимур Сейфельмлюков<br>Дмитрий Зомбак [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/zombak) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCGygd95WaTLPcrRSB1OIB3g)<br>Максим Зарецкий<br>Иногда:<br>[Валентин Петухов (Wylsacom)](https://wylsa.com/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCt7sv-NKh44rHAEb-qCCxvA)<br>Григорий Бакунов (Bobuk) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/bobuk/) [![GitHub](img/favicons/github.com.png)](https://github.com/bobuk)|
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |120-150 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1068329384" class="episodes" hashtag="zavtracast">540 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1068329384" class="release-date">08.08.2024 20:04</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1068329384" class="episodes" hashtag="zavtracast">541 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1068329384" class="release-date">14.08.2024 00:00</span>|
 
 ### **Продуктовый дизайн** <a name="podcasts-design"></a>
 
@@ -2420,8 +2420,8 @@
 |**Ведущие**      |[Анатолий Кулаков](https://github.com/DotNetRu/BrandBook/wiki/Anatoly-Kulakov) [![GitHub](img/favicons/github.com.png)](https://github.com/kulakovt) [![DotNet.ru](https://favicon.yandex.net/favicon/dotnet.ru)](https://dotnet.ru)<br>[Игорь Лабутин](https://github.com/DotNetRu/BrandBook/wiki/Igor-Labutin) [![GitHub](img/favicons/github.com.png)](https://github.com/ilabutin)|
 |**Регулярность** |2 раза в месяц|
 |**Длительность** |50-80 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1484348948" class="episodes" hashtag="radiodotnet">98 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1484348948" class="release-date">18.07.2024 01:00</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1484348948" class="episodes" hashtag="radiodotnet">99 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1484348948" class="release-date">15.08.2024 00:39</span>|
 
 ---
 
@@ -2985,7 +2985,7 @@
 |**Ведущие**      |Олег Доброштан [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCc6DRZVioHF1m-ZWXqXNAYg)<br>Вячеслав Уточкин<br>Александр Мураш|
 |**Регулярность** |Раз в три недели (по средам)|
 |**Длительность** |40-50 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1490959979" class="episodes" hashtag="hvgamedev">67 (<font color="red">0</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1490959979" class="episodes" hashtag="hvgamedev">68 (<font color="green">+1</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1490959979" class="release-date">31.07.2024 11:10</span>|
 
 ---
