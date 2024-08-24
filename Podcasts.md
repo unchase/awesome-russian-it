@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">24.08.2024 08:07</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">24.08.2024 12:07</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -541,7 +541,7 @@
 |**Ведущие**      ||
 |**Регулярность** |Еженедельно|
 |**Длительность** |15-20 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1517634826" class="episodes" hashtag="Код">160 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1517634826" class="episodes" hashtag="Код">160 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1517634826" class="release-date">23.08.2024 15:55</span>|
 
 
@@ -1418,8 +1418,8 @@
 |**Ведущие**      |Alex <br> Mak <br> Dina|
 |**Регулярность** |Еженедельно|
 |**Длительность** |~60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1575312052" class="episodes" hashtag="datacoffee">150 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1575312052" class="release-date">17.08.2024 07:00</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1575312052" class="episodes" hashtag="datacoffee">151 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1575312052" class="release-date">24.08.2024 07:00</span>|
 
 ---
 
@@ -1477,7 +1477,7 @@
 
 |Название         |[Dnative](https://dnative.ru/podcasts/)|
 |:----------------|:--------------------------------------|
-|**Логотип**      |<span itunes-id="1494018535" class="itunes-img"><img height="100" width="100" src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/6f/d2/49/6fd24974-1ae6-1049-0aa8-c6c9d916df61/mza_16014663622356307000.png/600x600bb.jpg"></span>|
+|**Логотип**      |<span itunes-id="1494018535" class="itunes-img"><img height="100" width="100" src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/8f/50/d5/8f50d5f0-0ac1-5356-223f-f4457cfd67a5/mza_10655074121692266352.png/600x600bb.jpg"></span>|
 |**Ссылки**       |[![Anchor](img/favicons/anchor.fm.png)](https://anchor.fm/rotam) • [![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/ru/podcast/rotam/id1494018535) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy8xMjUxODZjMC9wb2RjYXN0L3Jzcw==) • [![Player](img/favicons/player.fm.png)](https://ru.player.fm/series/rotam) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/playlist?list=PL4k8_JGPFEST3-_gdH4ueRmiXBXmBvpUx) • [![Яндекс Музыка](img/favicons/music.yandex.ru.png)](https://music.yandex.ru/album/9704623) • [![RSS](img/favicons/rss.png)](https://anchor.fm/s/125186c0/podcast/rss)|
 |**Описание**     |Ежедневный подкаст с новостями Digital-маркетинга и SMM.|
 |**Ведущие**      |Алексей Ткачук|
