@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">20.09.2024 16:16</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">21.09.2024 08:08</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -103,7 +103,7 @@
 |**Регулярность** |Каждый день|
 |**Длительность** |10-40 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1499403647" class="episodes" hashtag="Pro_Blockchain">497 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1499403647" class="release-date">16.09.2024 08:59</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1499403647" class="release-date">18.09.2024 12:52</span>|
 
 ### **Инвестирование** <a name="podcasts-invest"></a>
 
@@ -117,7 +117,7 @@
 |**Ведущие**      |Бабайкин|
 |**Регулярность** |Еженедельно|
 |**Длительность** |20-30 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1556322514" class="episodes" hashtag="">124 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1556322514" class="episodes" hashtag="">124 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1556322514" class="release-date">20.09.2024 12:28</span>|
 
 ### **ИТ-безопасность** <a name="podcasts-security"></a>
@@ -502,7 +502,7 @@
 |**Ведущие**      |Илья Верязов|
 |**Регулярность** |Время от времени|
 |**Длительность** |25-45 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1120110650" class="episodes" hashtag="Ивент_Кухня">96 (<font color="red">-1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1120110650" class="episodes" hashtag="Ивент_Кухня">97 (<font color="green">+1</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1120110650" class="release-date">24.07.2024 07:17</span>|
 
 ---
@@ -516,7 +516,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |~90 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="363311940" class="episodes" hashtag="rcmp_podcast">11 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="363311940" class="release-date">07.09.2024 00:32</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="363311940" class="release-date">12.09.2024 23:31</span>|
 
 ---
 
@@ -1248,8 +1248,8 @@
 |**Ведущие**      |Андрей Барышников [![GitHub](img/favicons/github.com.png)](https://github.com/BilberryMuffin)<br>Сергей Епихин<br>Антон Поздняков|
 |**Регулярность** |Еженедельно|
 |**Длительность** |70-120 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="868222886" class="episodes" hashtag="beardycast">629 (<font color="red">-1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="868222886" class="release-date">13.09.2024 12:28</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="868222886" class="episodes" hashtag="beardycast">630 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="868222886" class="release-date">20.09.2024 11:20</span>|
 
 ---
 
@@ -1418,8 +1418,8 @@
 |**Ведущие**      |Alex <br> Mak <br> Dina|
 |**Регулярность** |Еженедельно|
 |**Длительность** |~60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1575312052" class="episodes" hashtag="datacoffee">154 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1575312052" class="release-date">18.09.2024 22:36</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1575312052" class="episodes" hashtag="datacoffee">155 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1575312052" class="release-date">21.09.2024 07:00</span>|
 
 ---
 
@@ -1958,8 +1958,8 @@
 |**Ведущие**      |Андрей Радионов|
 |**Регулярность** |Еженедельно|
 |**Длительность** |~70 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1503693347" class="episodes" hashtag="optacast">180 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1503693347" class="release-date">10.09.2024 00:36</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1503693347" class="episodes" hashtag="optacast">181 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1503693347" class="release-date">21.09.2024 00:00</span>|
 
 ---
 
