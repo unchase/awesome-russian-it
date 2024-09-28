@@ -3142,7 +3142,18 @@
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1502639464" class="release-date">02.08.2024 09:20</span>|
 
 ---
+|Название         |[AWS на русском](https://awsnarusskom.podbean.com//)|
+|:----------------|:--------------------------------------------------------------|
+|**Логотип**      |<span itunes-id="1600771698" class="itunes-img"><img height="100" width="100" src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/38/1e/3d/381e3d00-7a8e-af10-4d30-724ee8da83ef/mza_13439459635909084318.jpg/268x0w.jpg"></span>|
+|**Ссылки**       |[![Apple Podcasts](img/favicons/podcasts.apple.com.png)](https://podcasts.apple.com/by/podcast/aws-%D0%BD%D0%B0-%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC/id1600771698) • [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/@aws-na-russkom) • [![Google Podcasts](img/favicons/podcasts.google.com.png)](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy83OTVhNzY3NC9wb2RjYXN0L3Jzcw) • [![RSS](img/favicons/rss.png)](https://feed.podbean.com/awsnarusskom/feed.xml)|
+|**Описание**     |Подкаст ”AWS на русском” - Говорим про использование облачных технологий, построение serverless приложений, развертывание kubernetes и внедрение ML/AI и не только. Лучшие практики и свежие новости из мира AWS в формате интервью на русском языке. Смотрите и слушайте #awsнарусском|
+|**Ведущие**      |[Viktor Vedmich](https://www.linkedin.com/in/vedmich/?originalSubdomain=de)|
+|**Регулярность** |Раз в две недели|
+|**Длительность** |60-80 минут|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1600771698" class="episodes" hashtag="aws-на-русском">46 (<font color="red">0</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1600771698" class="release-date">20.04.2024 16:17</span>|
 
+---
 > Автор: [Николай Чеботов (**Unchase**)](https://github.com/unchase) [![Medium](img/favicons/medium.com.png)](http://medium.com/@unchase) [![dev.to](img/favicons/dev.to.png)](http://dev.to/unchase) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/unchase/)
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Лицензия Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Это произведение доступно по <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">лицензии Creative Commons «Attribution» («Атрибуция») 4.0 Всемирная</a>.
