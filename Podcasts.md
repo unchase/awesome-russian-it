@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">04.10.2024 08:09</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">04.10.2024 12:09</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -103,7 +103,7 @@
 |**Регулярность** |Каждый день|
 |**Длительность** |10-40 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1499403647" class="episodes" hashtag="Pro_Blockchain">497 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1499403647" class="release-date">27.09.2024 11:07</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1499403647" class="release-date">04.10.2024 10:59</span>|
 
 ### **Инвестирование** <a name="podcasts-invest"></a>
 
@@ -962,8 +962,8 @@
 |**Ведущие**      |Вязанкин Михаил<br>Гончаров Левон|
 |**Регулярность** |Время от времени|
 |**Длительность** |10-70 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1446456479" class="episodes" hashtag="chpulya">79 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1446456479" class="release-date">28.03.2024 10:58</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1446456479" class="episodes" hashtag="chpulya">80 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1446456479" class="release-date">03.10.2024 12:32</span>|
 
 ---
 
@@ -1359,8 +1359,8 @@
 |**Ведущие**      ||
 |**Регулярность** |Еженедельно|
 |**Длительность** |20-80 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1484275234" class="episodes" hashtag="matematicxyz">195 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1484275234" class="release-date">30.05.2024 09:19</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1484275234" class="episodes" hashtag="matematicxyz">200 (<font color="green">+5</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1484275234" class="release-date">03.10.2024 09:20</span>|
 
 ---
 
@@ -2884,8 +2884,8 @@
 |**Ведущие**      |[Сергей Галёнкин](http://galyonkin.com/) [![Medium](img/favicons/medium.com.png)](http://medium.com/@galyonkin)<br>[Михаил Кузьмин](http://kuzmitch.ru/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UChwapc7GYZZ3k4zTxp6B66Q)|
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |80-120 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="560881209" class="episodes" hashtag="kdicast">409 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="560881209" class="release-date">12.09.2024 23:16</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="560881209" class="episodes" hashtag="kdicast">410 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="560881209" class="release-date">03.10.2024 22:42</span>|
 
 ---
 
