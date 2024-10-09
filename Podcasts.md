@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">08.10.2024 12:10</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">09.10.2024 08:11</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -1333,7 +1333,7 @@
 |**Ведущие**      |[Дима Маленко](http://www.dmalenko.org/) [![GitHub](img/favicons/github.com.png)](https://github.com/dmalenko)<br>Вячеслав Рудницкий|
 |**Регулярность** |Еженедельно|
 |**Длительность** |30-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1095164631" class="episodes" hashtag="biweekly">46 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1095164631" class="episodes" hashtag="biweekly">46 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1095164631" class="release-date">07.10.2024 11:30</span>|
 
 ---
@@ -1457,8 +1457,8 @@
 |**Ведущие**      |[Светлана Божко](http://sbozhko.github.io/) [![GitHub](img/favicons/github.com.png)](https://github.com/sbozhko) [![Medium](img/favicons/medium.com.png)](https://medium.com/@sbozhko)<br>[Иван Глушков](https://gliush.github.io/) [![GitHub](img/favicons/github.com.png)](https://github.com/gliush)<br>[Александр Алексеев](https://eax.me/) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/afiskon/) [![GitHub](img/favicons/github.com.png)](https://github.com/afiskon) [![RSS](img/favicons/rss.png)](https://eax.me/feed/)<br>Валерий Мелешкин [![GitHub](img/favicons/github.com.png)](https://github.com/sumerman)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |120-180 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="903660317" class="episodes" hashtag="devzen_podcast">86 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="903660317" class="release-date">24.09.2024 02:07</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="903660317" class="episodes" hashtag="devzen_podcast">87 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="903660317" class="release-date">08.10.2024 20:15</span>|
 
 ---
 
@@ -1776,7 +1776,7 @@
 |**Ведущие**      ||
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |50-90 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="567224504" class="episodes" hashtag="it_trend">205 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="567224504" class="episodes" hashtag="it_trend">205 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="567224504" class="release-date">06.10.2024 21:58</span>|
 
 ---
@@ -1893,7 +1893,7 @@
 |**Ведущие**      |Михаил|
 |**Регулярность** |Еженедельно|
 |**Длительность** |20-40 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1495052772" class="episodes" hashtag="Machine_Learning_Podcast">63 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1495052772" class="episodes" hashtag="Machine_Learning_Podcast">63 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1495052772" class="release-date">07.10.2024 15:18</span>|
 
 ---
@@ -1958,7 +1958,7 @@
 |**Ведущие**      |Андрей Радионов|
 |**Регулярность** |Еженедельно|
 |**Длительность** |~70 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1503693347" class="episodes" hashtag="optacast">183 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1503693347" class="episodes" hashtag="optacast">183 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1503693347" class="release-date">08.10.2024 11:34</span>|
 
 ---
@@ -1971,7 +1971,7 @@
 |**Ведущие**      |Стас Цыганов [![GitHub](img/favicons/github.com.png)](https://github.com/DevAlloy)<br>[Егор Толстой](http://etolstoy.com/) [![Medium](img/favicons/medium.com.png)](https://medium.com/@etolstoy) [![GitHub](img/favicons/github.com.png)](https://github.com/etolstoy)<br>Екатерина Петрова<br>Евгений Кателла|
 |**Регулярность** |Еженедельно|
 |**Длительность** |80-150 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1209828744" class="episodes" hashtag="podlodka">403 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1209828744" class="episodes" hashtag="podlodka">403 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1209828744" class="release-date">30.09.2024 19:56</span>|
 
 ---
@@ -1984,7 +1984,7 @@
 |**Ведущие**      ||
 |**Регулярность** |Еженедельно|
 |**Длительность** |60-100 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1455023466" class="episodes" hashtag="proconf">148 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1455023466" class="episodes" hashtag="proconf">148 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1455023466" class="release-date">07.10.2024 13:07</span>|
 
 ---
@@ -2369,7 +2369,7 @@
 |**Ведущие**      |Дмитрий Балыхин|
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |30-120 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1498075914" class="episodes" hashtag="javaswag">70 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1498075914" class="episodes" hashtag="javaswag">70 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1498075914" class="release-date">04.10.2024 13:11</span>|
 
 ---
@@ -2420,7 +2420,7 @@
 |**Ведущие**      |[Анатолий Кулаков](https://github.com/DotNetRu/BrandBook/wiki/Anatoly-Kulakov) [![GitHub](img/favicons/github.com.png)](https://github.com/kulakovt) [![DotNet.ru](https://favicon.yandex.net/favicon/dotnet.ru)](https://dotnet.ru)<br>[Игорь Лабутин](https://github.com/DotNetRu/BrandBook/wiki/Igor-Labutin) [![GitHub](img/favicons/github.com.png)](https://github.com/ilabutin)|
 |**Регулярность** |2 раза в месяц|
 |**Длительность** |50-80 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1484348948" class="episodes" hashtag="radiodotnet">102 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1484348948" class="episodes" hashtag="radiodotnet">102 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1484348948" class="release-date">07.10.2024 01:00</span>|
 
 ---
@@ -2476,7 +2476,7 @@
 |**Ведущие**      |Григорий Петров [![GitHub](img/favicons/github.com.png)](https://github.com/grigoryvp) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/eyeofhell/)<br>Илья Лебедев [![GitHub](img/favicons/github.com.png)](https://github.com/Melevir)<br>[Валентин Домбровский](http://dombrovsky.me/)<br>Михаил Корнеев [![GitHub](img/favicons/github.com.png)](https://github.com/korneevm) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/voldar/)<br>Злата Обуховская<br>Алексей Штырняев|
 |**Регулярность** |Еженедельно|
 |**Длительность** |30-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1429543935" class="episodes" hashtag="moscowpython">205 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1429543935" class="episodes" hashtag="moscowpython">205 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1429543935" class="release-date">14.09.2024 15:23</span>|
 
 ##### **Ruby** <a name="podcasts-development-ruby"></a>
@@ -2521,7 +2521,7 @@
 |**Ведущие**      |[Вадим Макеев](https://pepelsbey.net/) [![RSS](img/favicons/rss.png)](https://pepelsbey.net/feed/index.rss) [![GitHub](img/favicons/github.com.png)](https://github.com/pepelsbey) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/pepelsbey/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UCaTfYudJUVA8cV_But8KZVQ) [![Medium](img/favicons/medium.com.png)](https://medium.com/@pepelsbey)<br>[Никита Дубко](https://mefody.github.io/) [![GitHub](img/favicons/github.com.png)](https://github.com/MeFoDy)<br>Мария Просвирнина<br>[Алексей Симоненко](http://simonenko.su) [![GitHub](img/favicons/github.com.png)](https://github.com/meritt) [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/meritt/)<br>Ольга Алексашенко [![GitHub](img/favicons/github.com.png)](https://github.com/tachisis/)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |40-90 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1080500016" class="episodes" hashtag="webstandards_ru">442 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1080500016" class="episodes" hashtag="webstandards_ru">442 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1080500016" class="release-date">30.09.2024 12:00</span>|
 
 ---
