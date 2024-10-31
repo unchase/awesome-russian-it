@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">31.10.2024 12:10</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">31.10.2024 16:18</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -209,8 +209,8 @@
 |**Ведущие**      |Лекс АйТиБорода [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/lex_kar/)|
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |20-120 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1449804780" class="episodes" hashtag="itbeard">213 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1449804780" class="release-date">22.09.2024 13:23</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1449804780" class="episodes" hashtag="itbeard">214 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1449804780" class="release-date">31.10.2024 15:19</span>|
 
 ---
 
@@ -962,8 +962,8 @@
 |**Ведущие**      |Вязанкин Михаил<br>Гончаров Левон|
 |**Регулярность** |Время от времени|
 |**Длительность** |10-70 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1446456479" class="episodes" hashtag="chpulya">82 (<font color="green">+1</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1446456479" class="release-date">31.10.2024 11:37</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1446456479" class="episodes" hashtag="chpulya">81 (<font color="red">-1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1446456479" class="release-date">03.10.2024 12:32</span>|
 
 ---
 
@@ -2249,7 +2249,7 @@
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |120-150 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1068329384" class="episodes" hashtag="zavtracast">547 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1068329384" class="release-date">29.10.2024 00:00</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1068329384" class="release-date">20.10.2024 19:26</span>|
 
 ### **Продуктовый дизайн** <a name="podcasts-design"></a>
 
@@ -2369,8 +2369,8 @@
 |**Ведущие**      |Дмитрий Балыхин|
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |30-120 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1498075914" class="episodes" hashtag="javaswag">70 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1498075914" class="release-date">17.10.2024 10:11</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1498075914" class="episodes" hashtag="javaswag">71 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1498075914" class="release-date">24.10.2024 10:11</span>|
 
 ---
 
@@ -3110,8 +3110,8 @@
 |**Ведущие**      |Дмитрий Прусов|
 |**Регулярность** |Время от времени|
 |**Длительность** |~60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1574524435" class="episodes" hashtag="Data_Therapy">24 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1574524435" class="release-date">16.10.2024 14:27</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1574524435" class="episodes" hashtag="Data_Therapy">25 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1574524435" class="release-date">30.10.2024 15:34</span>|
 
 ### **DevOps** <a name="podcasts-devops"></a>
 
