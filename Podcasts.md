@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">18.11.2024 08:10</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">18.11.2024 12:11</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -209,7 +209,7 @@
 |**Ведущие**      |Лекс АйТиБорода [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/lex_kar/)|
 |**Регулярность** |Несколько раз в месяц|
 |**Длительность** |20-120 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1449804780" class="episodes" hashtag="itbeard">216 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1449804780" class="episodes" hashtag="itbeard">216 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1449804780" class="release-date">17.11.2024 16:48</span>|
 
 ---
@@ -1053,8 +1053,8 @@
 |**Ведущие**      |Дмитрий Здоров<br>Василий Мязин|
 |**Регулярность** |Время от времени|
 |**Длительность** |20-60 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1013700516" class="episodes" hashtag="Технологии_и_жизнь">140 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1013700516" class="release-date">26.10.2024 02:16</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1013700516" class="episodes" hashtag="Технологии_и_жизнь">141 (<font color="green">+1</font>)</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1013700516" class="release-date">18.11.2024 05:59</span>|
 
 ---
 
@@ -2625,7 +2625,7 @@
 |**Ведущие**      |Андрей Смирнов [![Habr](img/favicons/habr.com.png)](https://habr.com/ru/users/sandark7/)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |40-70 минут|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1233996390" class="release-date">05.11.2024 15:24</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1233996390" class="release-date">18.11.2024 10:07</span>|
 
 ---
 
