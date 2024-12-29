@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">28.12.2024 20:07</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">29.12.2024 08:09</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -516,7 +516,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |~90 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="363311940" class="episodes" hashtag="rcmp_podcast">11 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="363311940" class="release-date">07.12.2024 01:48</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="363311940" class="release-date">14.12.2024 01:37</span>|
 
 ---
 
@@ -898,7 +898,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |120-180 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="256504435" class="episodes" hashtag="radiot">21 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="256504435" class="release-date">14.12.2024 21:01</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="256504435" class="release-date">21.12.2024 20:16</span>|
 
 ---
 
