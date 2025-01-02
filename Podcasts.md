@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">02.01.2025 08:09</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">02.01.2025 12:09</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -949,7 +949,7 @@
 |**Ведущие**      |[Чернобаев Николай](http://nickchernobaev.com/) [![YouTube](img/favicons/youtube.com.png)](https://www.youtube.com/channel/UC3Xbp3NcAtiq0XHOcU3QdOA)|
 |**Регулярность** |Еженедельно|
 |**Длительность** |60-90 минут|
-|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1448936184" class="episodes" hashtag="madefromzero">150 (<font color="green">+1</font>)</span>|
+|**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1448936184" class="episodes" hashtag="madefromzero">150 (<font color="red">0</font>)</span>|
 |**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1448936184" class="release-date">31.12.2024 03:00</span>|
 
 ---
