@@ -30,7 +30,7 @@
 
 ---
 
-## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">03.01.2025 20:08</span>)
+## <a name="podcasts"></a>**Подкасты** (обновлено: <span class="last-update">04.01.2025 08:08</span>)
 
 <sup>[Содержание](#содержание)</sup>
 
@@ -64,7 +64,7 @@
 |**Регулярность** |Еженедельно|
 |**Длительность** |50-110 минут|
 |**Количество эпизодов<br>(Apple Podcasts)**|<span itunes-id="1289965366" class="episodes" hashtag="basicblockradio">197 (<font color="red">0</font>)</span>|
-|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1289965366" class="release-date">19.12.2024 16:32</span>|
+|**Релиз последнего эпизода<br>(Apple Podcasts)**|<span itunes-id="1289965366" class="release-date">29.12.2024 22:27</span>|
 
 ---
 
